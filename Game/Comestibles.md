@@ -6,7 +6,7 @@ Whenever your character ingests any kind of commestible solution they should inc
 
 ### Acquiring Commestibles
 * Purchased: #TODOBUYING
-* Found through play: [Looting](Equipment.md#Looting)
-* Crafted: [Designing-Comestibles](Designing-Comestibles.md)
-* Examples can be found in the [Example-Commestibles](Example-Commestibles.md)
+* Found through play: [Looting](Equipment#Looting)
+* Crafted: [Designing-Comestibles](Designing-Comestibles)
+* Examples can be found in the [Example-Commestibles](Example-Commestibles)
 

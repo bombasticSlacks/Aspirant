@@ -10,10 +10,10 @@ Written By: [Dillon Matchett](https://github.com/bombasticSlacks) Licensed Under
 
 ## Rendering Locally
 * Should be renderable with anything that supports markdown.
-* Optimized for [Obsidian,](https://obsidian.md/) a note-taking tool using .md files.
+* Optimized for [Obsidian,](https://obsidian.md/) a note-taking tool using Markdown files.
 
 ## Additional Content
-* If you create content for Aspirant, make an [issue](https://github.com/bombasticSlacks/Aspirant/issues) letting me know where it can be found, and I will include a link here (if this file gets too large it will be migrated to a separate .md file).
+* If you create content for Aspirant, make an [issue](https://github.com/bombasticSlacks/Aspirant/issues) letting me know where it can be found, and I will include a link here (if this file gets too large it will be migrated to a separate file).
 * Though it is only a request, try to keep any content for Aspirant accessible with open technology, I have chosen markdown for its ease of reading, sharing, and rendering.
 
 ## Automation

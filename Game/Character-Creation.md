@@ -1,4 +1,4 @@
 ## Character-Creation
 #TODO
 
-[Cultural-Mutations](Cultural-Mutations.md)
+[Cultural-Mutations](Cultural-Mutations)

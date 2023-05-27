@@ -1,7 +1,7 @@
 ## Character-Development
-As you adventure, your character will become stronger. This can happen in a number of ways. When completing quests, you will gain XP. XP in this game stands for “Experience Potential”. During downtime, you can convert XP into character development, whether it be increased skills or new training. Remeber as you gain XP your [heroism](Stats.md#Heroism) also increases.
+As you adventure, your character will become stronger. This can happen in a number of ways. When completing quests, you will gain XP. XP in this game stands for “Experience Potential”. During downtime, you can convert XP into character development, whether it be increased skills or new training. Remeber as you gain XP your [heroism](Stats#Heroism) also increases.
 
-When you rest, based on the length of the rest, you will have time which could be spent training. Spending XP to train is either a [downtime activity](Telling-The-Story.md#Downtime%20Activities) or [evening activity](Telling-The-Story.md#Evening%20Activities).
+When you rest, based on the length of the rest, you will have time which could be spent training. Spending XP to train is either a [downtime activity](Telling-The-Story#Downtime%20Activities) or [evening activity](Telling-The-Story#Evening%20Activities).
 
 ### Costs
 Different trainings cost a different amount of XP as follows:
@@ -35,7 +35,7 @@ Transhumanist processes come in a few variations. 
 Characters in Aspirant may suffer from debilitating injury. To combat this, prosthetics may be installed. Simple prosthetics do not count as transhumanist effects.
 
 #### Toxicity
-Each transhumanist affect your character has reduces your [max toxicity](Stats.md#Max%20Toxicity) by 1. 
+Each transhumanist affect your character has reduces your [max toxicity](Stats#Max%20Toxicity) by 1. 
 
 #### Acquiring Transhumanist Effects
 * Purchased: [Buying](#Buying)
