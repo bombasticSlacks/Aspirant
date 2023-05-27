@@ -1,3 +1,4 @@
+## Telling-The-Story
 Gameplay in Aspirant is generally split into a few different types of gameplay: Combat, Narrative Time, Travelling, Resting.
 
 ### Combat
@@ -36,13 +37,13 @@ Resting is fast forwarded downtime your characters will sometimes have. This ten
 - Any number of the characters in the party may socialize. Any time you aid a character you socialized with, they get a +2 instead of a +1. Socializing while in a city costs 1 silver per person.
 - Meditate, and refresh the uses of all your abilities.
 
-### Working a job
+### Working a Job
 Jobs are ways to spend days and supplement your income. They come in 3 variants.
 
-#### Day Work 
+#### Day Work
 Your character works the day at an up front rate. This work is typically for a company or group that exists in the town and needs labourers. Almost all locations should provide a basic labourer position at 1 silver per day.
 
-#### Skilled Work 
+#### Skilled Work
 Your character has a specific skill or talent that they are trained to leverage. Usually, how this works is your character will be compensated a variable amount based on how successful you are at a skill test.
 
 #### Production Work

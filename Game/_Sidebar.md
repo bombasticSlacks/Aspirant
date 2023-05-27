@@ -1,3 +1,7 @@
+---
+disabled rules: [file-name-heading]
+---
+## Table Of Contents
 * [Lore](Lore.md)
 * [How-To-Play](How-To-Play.md)
 * [Character-Creation](Character-Creation.md)

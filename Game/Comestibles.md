@@ -1,3 +1,4 @@
+## Comestibles
 Commestible [[Equipment]] consists of anything that the character will exhaust with use.
 
 ### Toxicity

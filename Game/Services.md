@@ -1,3 +1,4 @@
+## Services
 Aspirant is a world of tradespeople, experts with something to offer a prospective adventurer. 
 
 ### Buying [Weapons](Weapons.md)
@@ -5,4 +6,4 @@ Weapons generally cost materials + 5 per trait (powerful counts as 2) in silver.
 
 ### Buying [Armour](Armour.md)
 
-### Buying [Comestibles](Comestibles.md) 
+### Buying [Comestibles](Comestibles.md)

@@ -1,6 +1,7 @@
+## Gear
 Generalist [[Equipment]] characters in the world of Aspirant need to perform activities and skill tests or otherwise help their characters. 
 
-### Handling equipment
+### Handling Equipment
 Unless specified, gear should be handled narratively. Reliable gear that isn’t otherwise damaged or displaced can be reused, temporary things like torches usually can’t.
 
 ### Examples

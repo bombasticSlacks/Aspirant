@@ -1,3 +1,4 @@
+## Mounts
 A mount is critical [[Equipment]] for an adventurer. Moving with just the storage on your back would waste precious time and space. Generally, mounts consist of different breeds of horses, however more exotic mounts with special abilities aren’t unheard of.
 
 Mounts provide a few core benefits
