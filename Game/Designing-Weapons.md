@@ -1,4 +1,4 @@
-## Designing-Weapons
+## Designing [Weapons](Weapons)
 Through play and when creating a character, you may be asked to select a weapon. You can use one of the sample weapons further in this chapter or design your own. Perhaps your village has a unique weapon, or a blacksmith has an idea for a unique weapon. 
 
 To build a weapon:

@@ -1,6 +1,3 @@
----
-disabled rules: [file-name-heading]
----
 ## Table Of Contents
 * [Lore](Lore)
 * [How-To-Play](How-To-Play)
@@ -9,3 +6,4 @@ disabled rules: [file-name-heading]
 * [Equipment](Equipment)
 * [Character-Development](Character-Development)
 * [Tables](Tables)
+* [Running The Game](Running-The-Game)

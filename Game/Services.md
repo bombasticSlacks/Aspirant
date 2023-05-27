@@ -2,8 +2,74 @@
 Aspirant is a world of tradespeople, experts with something to offer a prospective adventurer. 
 
 ### Buying [Weapons](Weapons)
-Weapons generally cost materials + 5 per trait (powerful counts as 2) in silver. Master worked weapons will cost an additional 10 silver on top of this. Example weapons are provided in the [glossary](https://docs.google.com/document/d/1Pjotbn26OeQPVqfVwTOxSper5irKWGEU5Zs8rtsO9zI/edit#heading=h.7drl3agje2d7).
+Weapons generally cost materials + 5 per trait (powerful counts as 2 traits) in silver. Master worked weapons will cost an additional 10 silver on top of this. Example weapons are provided in the [glossary](https://docs.google.com/document/d/1Pjotbn26OeQPVqfVwTOxSper5irKWGEU5Zs8rtsO9zI/edit#heading=h.7drl3agje2d7).
 
 ### Buying [Armour](Armour)
+Buying armour costs the basic materials, plus five silver for the labour. Example armour is provided in the [glossary](https://docs.google.com/document/d/1Pjotbn26OeQPVqfVwTOxSper5irKWGEU5Zs8rtsO9zI/edit#heading=h.vrsw7gds3n0).
 
 ### Buying [Comestibles](Comestibles)
+
+### Buying [Gear](Gear)
+
+### Buying [Storage](Storage)
+
+### Buying [Mounts](Mounts)
+
+### Buying [Resources](Resources)
+
+#### Reagent Pricing
+
+| Reagent              | Cost (S) | Size |
+| -------------------- | -------- | ---- |
+| Crop                 | 1/2      | 1/5  |
+| Wild Flora           | 1        | 1/5  |
+| Rare Flora           | 2        | 1/5  |
+| Prey Bit             | 1        | 1    |
+| Predator Bit         | 2        | 1    |
+| Apex Predator Bit    | 4        | 1    |
+| Magical Creature Bit | 8        | 2    |
+| Imported             | x2       | -    |
+
+### Costs Of Services
+
+|Service|Cost|
+|---|---|
+|A guide through a known trail|2|
+|A guide through a not well-known trail|5|
+|Cosmetic Surgery|14|
+|Creating A Weapon|5*traits + 2*weapon size material (+10 if master worked)|
+|Creating Armour|5 + 2 * size of materials (+10 if master worked)|
+|Creating Something Complex|10 + materials|
+|Creating Something Simple|3 + materials|
+|Day of lodgings|1|
+|Day of travel food|1|
+|First Aid|2|
+|Getting expertise or knowledge|4|
+|Hiring a mercenary for a day|2|
+|Mixing alchemical compounds|4 + reagents|
+|Performing a complex ritual|12 + reagents|
+|Performing a simple ritual|5 + reagents|
+|Surgery|8|
+|Teaching a basic training|5|
+|Teaching a skill|5*Rank|
+|Teaching an advanced training|12|
+
+### Costs Of Materials
+
+|Name|Max Weapon Quality|Ratio|
+|---|---|---|
+|Cheap Wine|-|⅛|
+|Cotton|Basic|⅛|
+|Expensive Wine|-|½|
+|Gold|Exotic|4|
+|Hard Wood|Martial|¼|
+|Leather|Martial|¼|
+|Machinery|Exotic|3/2|
+|Oil|-|¼|
+|Scrap Metal|Basic|¼|
+|Simple Metals|Martial|½|
+|Spirits|-|1|
+|Steel|Exotic|1|
+|Treated Wood|Exotic|½|
+|Water|-|1/16|
+|Wood|Basic|1/16|

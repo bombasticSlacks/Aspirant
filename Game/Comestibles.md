@@ -1,12 +1,12 @@
 ## Comestibles
-Commestible [[Equipment]] consists of anything that the character will exhaust with use.
+Comestible [[Equipment]] consists of anything that the character will exhaust with use.
 
 ### Toxicity
-Whenever your character ingests any kind of commestible solution they should increase their toxicity by 1. This can cause injury from overdosing from all the chaos in your body.
+Whenever your character ingests any kind of comestible solution, they should increase their toxicity by 1. This can cause injury from overdosing from all the chaos in your body.
 
-### Acquiring Commestibles
-* Purchased: #TODOBUYING
-* Found through play: [Looting](Equipment#Looting)
-* Crafted: [Designing-Comestibles](Designing-Comestibles)
-* Examples can be found in the [Example-Commestibles](Example-Commestibles)
+### Acquiring Comestibles
+* [Purchased](Services#Buying%20[Comestibles](Comestibles))
+* [Found through play](Equipment#Looting)
+* [Crafted](Designing-Comestibles)
+* [Examples](Example-Comestibles)
 

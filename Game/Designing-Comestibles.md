@@ -1,4 +1,4 @@
-## Designing-Comestibles
+## Designing [Comestibles](Comestibles)
 ### Alchemy
 Alchemy, otherwise known as pharmacy, is the act of preparing plants, animal bits, and other sources of compounds for consumption. These alchemical mixtures will usually have positive effects, but poisons can potentially be crafted.
 
