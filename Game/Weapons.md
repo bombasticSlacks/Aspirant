@@ -48,9 +48,9 @@ Abilities or unique effects a weapon might possess. This list is non-exhaustive 
 A list of example traits is provided in the [glossary](https://docs.google.com/document/d/1Pjotbn26OeQPVqfVwTOxSper5irKWGEU5Zs8rtsO9zI/edit#heading=h.d4inktlof09f).
 
 ### Acquiring Weapons
-* [Purchased](Services.md#Buying%20[Weapons](Weapons))
-* [Found through play](Equipment.md#Looting)
-* [Crafted](Designing-Weapons.md)
+* [Purchased](Services#Buying%20[Weapons](Weapons))
+* [Found through play](Equipment#Looting)
+* [Crafted](Designing-Weapons)
 * Examples can be found in the #TODOINDEX 
 
 ### Buying

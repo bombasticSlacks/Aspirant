@@ -18,7 +18,7 @@ affects different locations separately and is the maximum bonus you can have on 
 | Legs     | Acrobatics, Subterfuge                                               |
 
 #### Weakness and Resistance
-Changes how certain [types of damage](Combat.md#Types%20of%20Damage) effect you. See [dealing damage](Combat.md#Dealing%20Damage) for details.
+Changes how certain [types of damage](Combat#Types%20of%20Damage) effect you. See [dealing damage](Combat#Dealing%20Damage) for details.
 
 #### Structure
 Contributes to your overall armours integrity. Allowing it to take more hits before becoming non-functional.
@@ -40,8 +40,8 @@ Your overall suit of armour will have an armour integrity, which is how well it 
 
 ### Acquiring Armour
 * Purchased: [[#Buying]]
-* Found through play: [Looting](Equipment.md#Looting)
-* Crafted: [Designing-Armour](Designing-Armour.md)
+* Found through play: [Looting](Equipment#Looting)
+* Crafted: [Designing-Armour](Designing-Armour)
 * Examples can be found in the #TODOINDEX
 
 ### Buying

@@ -26,9 +26,9 @@ Other looted items may be in ill repair. These items will suffer a -1 on skill t
 Aside from gear, your characters may need to call on the services of other experts. The [glossary](https://docs.google.com/document/d/1Pjotbn26OeQPVqfVwTOxSper5irKWGEU5Zs8rtsO9zI/edit#heading=h.ovbrzmse4gxa) contains examples of services and their costs for the players to use.
 
 ### Types Of Equipment
-* [Gear](Gear.md)
-* [Storage](Storage.md)
-* [Weapons](Weapons.md)
-* [Comestibles](Comestibles.md)
-* [Mounts](Mounts.md)
-* [Resources](Resources.md)
+* [Gear](Gear)
+* [Storage](Storage)
+* [Weapons](Weapons)
+* [Comestibles](Comestibles)
+* [Mounts](Mounts)
+* [Resources](Resources)
