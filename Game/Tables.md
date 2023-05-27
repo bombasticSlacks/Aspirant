@@ -1,2 +1,2 @@
-## [[Example Commestibles]]
+## [[Example-Commestibles]]
 

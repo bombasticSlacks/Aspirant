@@ -40,7 +40,7 @@ Your overall suit of armour will have an armour integrity, which is how well it 
 ### Acquiring Armour
 * Purchased: [[#Buying]]
 * Found through play: [Looting](Equipment.md#Looting)
-* Crafted: [Designing Armour](Designing%20Armour.md)
+* Crafted: [Designing-Armour](Designing-Armour.md)
 * Examples can be found in the #TODOINDEX
 
 ### Buying

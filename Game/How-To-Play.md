@@ -9,8 +9,8 @@ NOTE, The rules provided within this section are not supposed to be exhaustive. 
 
 ## [[Stats]]
 ## [[Skills]]
-## [[Telling The Story]]
+## [[Telling-The-Story]]
 ## [[Combat]]
 ## [[Injury]]  
-## [[Treating Injury]]
+## [[Treating-Injury]]
 ## [[Magic]]
