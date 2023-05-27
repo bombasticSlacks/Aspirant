@@ -1,7 +1,7 @@
 name: Publish wiki
 on:
   push:
-    branches: [main]
+    branches: [fix-workflow]
     paths:
       - Game/**
       - .github/workflows/publish-wiki.yml
