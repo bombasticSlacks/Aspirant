@@ -42,4 +42,4 @@ Your overall suit of armour will have an armour integrity, which is how well it 
 * [Purchased](Services#Buying%20[Armour](Armour))
 * [Found through play](Equipment#Looting)
 * [Crafted](Designing-Armour)
-* Examples can be found in the #TODOINDEX 
+* [Example Armour](Example-Armour)

@@ -1,4 +1,11 @@
 ## Tables
-### [[Example-Comestibles]]
-### [Example-Transhumanist-Effects](Example-Transhumanist-Effects)
-
+### [Example Comestibles](Example-Comestibles)
+### [Example Transhumanist Effects](Example-Transhumanist-Effects)
+### [Example Gear](Example-Gear)
+### [Example Storage](Example-Storage)
+### [Example Weapons](Example-Weapons)
+### [Example Armour](Example-Armour)
+### [Weapon Traits](Weapon-Traits)
+### [Training List](Training-List)
+### [Magic Discipline Details](Magic-Discipline-Details)
+### [Example Spells](Example-Spells)

@@ -1,5 +1,5 @@
 ## Storage
-Your character in general will have 16 size worth of storage on their character. That’s 6 in a bag, 4 on a belt and 6 in your horse's saddlebags. In Aspirant, we aren’t concerned with the weight of items, size is a fair enough abstraction and any incredibly heavy items can be handled narratively. Storage specifics are also not relevant. If your characters divide a pot of 3 size of oil 3 ways, it is assumed you had containers on hand to store it. Similarly, if you pick up a new weapon and want to put it on your belt, it is assumed you can adjust your belt loops to support it.
+Your character in general will have 16 size worth of storage on their character which is how you hold [Equipment](Equipment). That’s 6 in a bag, 4 on a belt and 6 in your horse's saddlebags. In Aspirant, we aren’t concerned with the weight of items, size is a fair enough abstraction and any incredibly heavy items can be handled narratively. Storage specifics are also not relevant. If your characters divide a pot of 3 size of oil 3 ways, it is assumed you had containers on hand to store it. Similarly, if you pick up a new weapon and want to put it on your belt, it is assumed you can adjust your belt loops to support it.
 
 Examples are provided in the [glossary](https://docs.google.com/document/d/1Pjotbn26OeQPVqfVwTOxSper5irKWGEU5Zs8rtsO9zI/edit#heading=h.u6i3v65vc124).
 
@@ -19,5 +19,5 @@ Any bag can have its storage customized for a specific thing. This activity take
 ### Aquiring Storage
 * [Purchased](Services#Buying%20[Storage](Storage))
 * [Found through play](Equipment#Looting)
-* [Crafted](Designing-Storage.md)
-* Examples can be found in the #TODOINDEX 
+* [Crafted](Designing-Storage)
+* [Example Storage](Example-Storage)

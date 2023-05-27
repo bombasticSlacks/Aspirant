@@ -43,13 +43,11 @@ Size 5 - Giant Weapons
 Weapons can usually have any of the physical damage types Pierce, Rend, Impact. This will affect what injuries it will cause and what armour will defend against it. Fabrics tend to be strong against Impact, plates against Rend, and weaves against Pierce. 
 
 ### Traits
-Abilities or unique effects a weapon might possess. This list is non-exhaustive if you have an idea in mind as a player or game master trying to work something out that the players and game master are happy with.  Traits have an associated cost, which is the number of trait points it counts as.
-
-A list of example traits is provided in the [glossary](https://docs.google.com/document/d/1Pjotbn26OeQPVqfVwTOxSper5irKWGEU5Zs8rtsO9zI/edit#heading=h.d4inktlof09f).
+Abilities or unique effects a weapon might possess. If you have an idea in mind as a player or game master, try to come up with a unique trait to properly represent a weapon.  Traits can either count as 1 or 2 traits towards a weapon's total, depending on how powerful the trait is. A non-exhaustive list is provided [here](Weapon-Traits). 
 
 ### Acquiring Weapons
 * [Purchased](Services#Buying%20[Weapons](Weapons))
 * [Found through play](Equipment#Looting)
 * [Crafted](Designing-Weapons)
-* Examples can be found in the #TODOINDEX 
+* [Example Weapons](Example-Weapons)
 
