@@ -1,6 +1,6 @@
 As you adventure, your character will become stronger. This can happen in a number of ways. When completing quests, you will gain XP. XP in this game stands for “Experience Potential”. During downtime, you can convert XP into character development, whether it be increased skills or new training. Remeber as you gain XP your [heroism](Stats.md#Heroism) also increases.
 
-When you rest, based on the length of the rest, you will have time which could be spent training. Spending XP to train is either a [downtime activity](Telling%20The%20Story.md#Downtime%20Activities) or [evening activity](Telling%20The%20Story.md#Evening%20Activities).
+When you rest, based on the length of the rest, you will have time which could be spent training. Spending XP to train is either a [downtime activity](Telling-The-Story.md#Downtime%20Activities) or [evening activity](Telling-The-Story.md#Evening%20Activities).
 
 ## Costs
 Different trainings cost a different amount of XP as follows:
@@ -39,7 +39,7 @@ Each transhumanist affect your character has reduces your [max toxicity](Stats.m
 ### Acquiring Transhumanist Effects
 * Purchased: [Buying](#Buying)
 * Found through play: [[Equipment#Looting]]
-* Crafted: [[Designing Weapons]]
+* Crafted: [[Designing-Weapons]]
 * Examples can be found in the #TODOINDEX 
 
 ### Cost

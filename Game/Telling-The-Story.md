@@ -17,7 +17,7 @@ Travelling in Aspirant can take long amounts of time. Travelling at its simplest
 During travel, characters may encounter other travellers, enemies or a point of interest. These will be handled by the GM and should lend to the danger and intrigue of the surrounding world. Generally, the world is sparse and most characters should only have 1 travel encounter per day. If your players were attacked by wolves a number of times travelling through a forest instead, that should be handled as one extended narrative / combat scene where they realize they’ve entered dangerous territory and need to navigate out of it.
 
 ### Resting
-Resting is fast forwarded downtime your characters will sometimes have. This tends to happen when you arrive in a safe area. Each day in a safe area, your character may perform 1 [[Telling The Story#Downtime Activities|downtime activity]], followed by one [[Telling The Story#Evening Activities|evening activity]]. Unless you are receiving charity, your food, and housing costs 1 silver per day. If you cannot afford this, you do not get to do activities.
+Resting is fast forwarded downtime your characters will sometimes have. This tends to happen when you arrive in a safe area. Each day in a safe area, your character may perform 1 [[Telling-The-Story#Downtime Activities|downtime activity]], followed by one [[Telling-The-Story#Evening Activities|evening activity]]. Unless you are receiving charity, your food, and housing costs 1 silver per day. If you cannot afford this, you do not get to do activities.
 
 #### Downtime Activities
 - Proper injury recovery.

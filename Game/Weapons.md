@@ -49,7 +49,7 @@ A list of example traits is provided in the [glossary](https://docs.google.com/d
 ### Acquiring Weapons
 * [Purchased](Services.md#Buying%20[Weapons](Weapons))
 * [Found through play](Equipment.md#Looting)
-* [Crafted](Designing%20Weapons.md)
+* [Crafted](Designing-Weapons.md)
 * Examples can be found in the #TODOINDEX 
 
 ### Buying
