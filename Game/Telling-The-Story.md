@@ -1,4 +1,4 @@
-## Telling-The-Story
+## Telling The Story
 Gameplay in Aspirant is generally split into a few different types of gameplay: Combat, Narrative Time, Travelling, Resting.
 
 ### Combat

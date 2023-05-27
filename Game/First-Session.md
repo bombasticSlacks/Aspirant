@@ -1,2 +1,2 @@
-## First-Session
+## First Session
 #TODO

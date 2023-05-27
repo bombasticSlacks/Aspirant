@@ -1,3 +1,4 @@
 ## Tables
-### [[Example-Commestibles]]
+### [[Example-Comestibles]]
+### [Example-Transhumanist-Effects](Example-Transhumanist-Effects)
 

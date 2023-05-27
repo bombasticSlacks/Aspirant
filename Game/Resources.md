@@ -9,3 +9,8 @@ A character who does a lot of ritual magic, or crafting, might get exhausted try
 
 ### Specificity
 Unless the task you need a reagent for is exceptionally powerful, you should try to avoid specificity. Mutating a character to have cat-like eyes might require specifically eyes from a were-cat, but a potion of night sight should require the eyes of any nighttime predator.
+
+### Acquiring Resources
+* [Purchased](Services#Buying%20[Resources](Resources))
+* [Found through play](Equipment#Looting)
+* Examples can be found in the #TODOINDEX 

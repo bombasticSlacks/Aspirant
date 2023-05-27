@@ -39,10 +39,7 @@ Your overall suit of armour will have an armour integrity, which is how well it 
 > A character with 2 pieces of leather (2 structure each) and 3 pieces of plate mail (6 each) has 24 total structure, looking at the ten's digit (2), that's an overall armour integrity of 4.
 
 ### Acquiring Armour
-* Purchased: [[#Buying]]
-* Found through play: [Looting](Equipment#Looting)
-* Crafted: [Designing-Armour](Designing-Armour)
-* Examples can be found in the #TODOINDEX
-
-### Buying
-Buying armour costs the basic materials, plus five silver for the labour. Example armour is provided in the [glossary](https://docs.google.com/document/d/1Pjotbn26OeQPVqfVwTOxSper5irKWGEU5Zs8rtsO9zI/edit#heading=h.vrsw7gds3n0).
+* [Purchased](Services#Buying%20[Armour](Armour))
+* [Found through play](Equipment#Looting)
+* [Crafted](Designing-Armour)
+* Examples can be found in the #TODOINDEX 

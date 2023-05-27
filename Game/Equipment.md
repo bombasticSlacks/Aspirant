@@ -18,9 +18,11 @@ Unless you have a buyer/contract lined up, typically items you sell are just wor
 ### Looting
 Generally, looted items can be used by players, however in some cases they may be worn or potentially need adjustment.
 
+#### Looted Armour
 In almost all cases, looted armour will not fit you. Ill-fitting armour reduces max skill by 2 and requires an armourer to adjust it.
 
-Other looted items may be in ill repair. These items will suffer a -1 on skill tests or other maluses until a craftsman takes a look at them. This shouldn’t be guaranteed, and should really only take place with equipment in terrible areas or handled by characters that wouldn’t know how to take care of it.
+#### Damaged Items
+Other looted items may be in ill repair. These items will suffer a -1 on skill tests or other maluses until a craftsman takes a look at them. This shouldn’t be guaranteed, and should really only take place with equipment in terrible areas or handled by characters that wouldn’t know how to take care of it. A damaged item usually needs a *single day* of a craftsman's [services](Services).
 
 ### Services
 Aside from gear, your characters may need to call on the services of other experts. The [glossary](https://docs.google.com/document/d/1Pjotbn26OeQPVqfVwTOxSper5irKWGEU5Zs8rtsO9zI/edit#heading=h.ovbrzmse4gxa) contains examples of services and their costs for the players to use.
@@ -29,6 +31,7 @@ Aside from gear, your characters may need to call on the services of other exper
 * [Gear](Gear)
 * [Storage](Storage)
 * [Weapons](Weapons)
+* [Armour](Armour)
 * [Comestibles](Comestibles)
 * [Mounts](Mounts)
 * [Resources](Resources)

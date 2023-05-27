@@ -53,6 +53,3 @@ A list of example traits is provided in the [glossary](https://docs.google.com/d
 * [Crafted](Designing-Weapons)
 * Examples can be found in the #TODOINDEX 
 
-### Buying
-Weapons generally cost materials + 5 per trait (powerful counts as 2) in silver. Master worked weapons will cost an additional 10 silver on top of this. Example weapons are provided in the [glossary](https://docs.google.com/document/d/1Pjotbn26OeQPVqfVwTOxSper5irKWGEU5Zs8rtsO9zI/edit#heading=h.7drl3agje2d7).
-

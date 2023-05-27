@@ -1,4 +1,4 @@
-## Example-Transhumanist-Effects
+## Example Transhumanist Effects
 ### Basics
 
 ### Advanced
