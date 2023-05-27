@@ -1,3 +1,4 @@
+## Combat
 ### Combat Turns
 Combat in Aspirant is more structured than standard narrative time, since it is also more high stakes. Combat is broken up into combat turns. During each 5 second combat turn, you get a personal turn to take an action.
 
@@ -19,7 +20,7 @@ Free actions such as imbibing medicine, declaring combat stances, talking, etc. 
 
 Control Allies or other characters. If you have allies or other characters they will usually act on your turn and during your turn you can choose in what order you all act. However, after starting a character's turn you must finish it before moving on to another character.
 
-### Drawing equipment and weapons
+### Drawing Equipment and Weapons
 Your character typically has 3 types of storage: belt, bag, saddlebags.
 - Belted items can be drawn/stowed for free, but will put any actions at a -1.
 - Bag items can be drawn/stowed as an action.
@@ -83,7 +84,7 @@ These are attacks or abilities that any trained fighter can use. This isn’t an
 * Parry: which is a melee skill test at (-2) where if you succeed, then if an enemy attacks you in melee and succeeds, you ignore the attack. If they fail their skill test to attack, you deal damage to them.
 * Shove: with at least one free hand, you can attempt to move someone. Make a melee attack, and you can move them up to your strength in meters. If they hit something, they become knocked down.
 
-### Reacting to attacks
+### Reacting to Attacks
 During each full turn of combat, each character gets a single reaction, which they can use when something else happens during combat. Your reaction refreshes on your turn. In general, these are used to avoid incoming attacks. The generally available reactions are:
 * Block: which is a melee skill test at (-2) where if you succeed, you ignore damage and other effects from a melee attack. The attack still counts as hitting you (this can be relevant for certain effects).
 * Dodge: which is an acrobatics skill test at (-2) where if you succeed then an enemy attack doesn’t hit you. You cannot dodge while prone.
@@ -167,7 +168,7 @@ You do not gain the benefits of cover if you are in melee.
 
 If you are protected by cover, any attack against you must first penetrate the cover to be able to harm you (this stacks with your armour). Most pieces of cover only have 1 armour integrity and will be unable to protect you after the first shot.
 
-### Being on fire
+### Being on Fire
 If you are caught on fire you are in immediate risk of severe complications. On each of your turns, unless you are in the middle of “stop drop and roll”, you must make a fear test (resolve + heroism bonuses) to not panic. You receive a +4 to this test if you are going to “stop drop and roll” during your turn. If you fail this test you flail around wildly, if you pass you take your combat turn normally.
 
 If you “stop drop and roll” make a Fitness, or Science test at a -3 if you succeed you are no longer on fire. For each consecutive turn you stop, drop and roll this test is at a +1. It is important to note some forms of militarized fire are sticky and impossible to put out by using “stop drop and roll”.

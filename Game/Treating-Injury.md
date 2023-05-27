@@ -1,3 +1,4 @@
+## Treating-Injury
 ### Managing Injuries
 Aside from the trauma of being injured in the field there are also other immediate risks to a person who has been injured and they will need treatment to stay healthy or remain alive (depending on severity).
 

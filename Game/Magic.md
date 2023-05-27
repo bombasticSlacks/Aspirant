@@ -1,3 +1,4 @@
+## Magic
 Characters with the skills of channel or ritual and some training in magical disciplines can perform powerful feats of magic.
 
 ### Restrictions
@@ -15,7 +16,7 @@ These disciplines are all considered under the channelling skill and can be used
 #### Abjuration
 The act of manipulating magic itself and protecting against things. A character could use abjuration magic to create a protective barrier, disrupt a spell or curse, stop a troll's regeneration.
 
-#### Evocation 
+#### Evocation
 The act of manipulating energy. A character could use evocation to start a fire, freeze an object, shoot energy from their hands.
 
 #### Illusion

@@ -1,2 +1,3 @@
-## [[Example-Commestibles]]
+## Tables
+### [[Example-Commestibles]]
 

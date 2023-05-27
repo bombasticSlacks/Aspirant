@@ -1,3 +1,4 @@
+## Resources
 Characters will need to buy a reagent needed for a ritual, alchemical compound, mutagenic process or for some other crafting process. Reagents should be priced based on proximity to a source rather than just a flat rate. So, jungle flowers are easy to get in the jungle, not so in the desert.
 
 ### Bits

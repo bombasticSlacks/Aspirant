@@ -1,3 +1,4 @@
+## Stats
 Regular stats are Strength, Agility, Intelligence, Fellowship and Resolve.
 
 Stats range in value from 1-5.
