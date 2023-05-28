@@ -26,7 +26,7 @@ When multiple characters are all attempting to perform the same task together, i
 Dodging, dancing, contortion, dexterous movement.
 
 ### Channel (RES)
-Invoking the power of magical items, channelling abjuration, evocation, illusion, or transmutation magic.
+Invoking the power of magical items, [channelling](Magic#Channelling) [abjuration](Magic#Abjuration), [evocation](Magic#Evocation), [illusion](Magic#Illusion), or [transmutation](Magic#Transmutation) [magic](Magic).
 
 ### Converse (FEL)
 Talking to people, intimidating them, trying to get a good deal or bargain.
@@ -59,7 +59,7 @@ Noticing things about your surroundings, inferring someone's mood, telling if so
 Pretending to be someone you are not, lying, disguise/clowning, performing a skill such as an instrument. 
 
 ### Ritual (RES)
-Understanding ancient powers, interacting with large magical devices, performing rituals of conjuration, divination, enchanting, and necromancy 
+Understanding ancient powers, interacting with large magical devices, performing [rituals](Magic#Ritual) of [conjuration](Magic#Conjuration), [divination](Magic#Divination), [enchanting](Magic#Enchanting), and [necromancy](Magic#Necromancy) [magic](Magic). 
 
 ### Science (INT)
 Mathematics, logic, chemistry, biology, physics and other complex problems.
