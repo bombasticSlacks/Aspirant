@@ -21,6 +21,12 @@ Generally, looted items can be used by players, however in some cases they may b
 #### Looted Armour
 In almost all cases, looted armour will not fit you. Ill-fitting armour reduces max skill by 2 and requires an armourer to adjust it.
 
+#### Looting Creatures
+In most cases a dead creature will have 
+* Enough meat to save the party from paying to live that night, after that it is assumed the meat spoils. 
+* One [bit](Resources.md#Bits)
+* 1-4 size of monster skin / hide / chitten / etc.
+
 #### Damaged Items
 Other looted items may be in ill repair. These items will suffer a -1 on skill tests or other maluses until a craftsman takes a look at them. This shouldn’t be guaranteed, and should really only take place with equipment in terrible areas or handled by characters that wouldn’t know how to take care of it. A damaged item usually needs a *single day* of a craftsman's [services](Services).
 

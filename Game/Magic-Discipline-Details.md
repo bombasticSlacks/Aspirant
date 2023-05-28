@@ -19,7 +19,7 @@
 |Expert Evocation|Change the temperature of a creature abruptly, change the weather and environment.|
 |Expert Illusion|Produce something that isn’t there, but is only perceived by some. Create smart illusions that can respond to the world.|
 |Expert Necromancy|You can create undead of your own, and transplant souls between vessels.|
-|Expert Transmutation|Change a tool, weapon, or armour into something more useful. Alter yourself in meaningful ways, including transforming into animals. Alter others in simple ways.|
+|Expert Transmutation|Change a tool, weapon, or armour into something more useful. Alter the world around you. Alter yourself in meaningful ways, including transforming into animals. Alter others in simple ways.|
 |Master Abjuration|Disrupt a spell of a master level or a permanent curse/enchantment, reverse the abilities or powers of a character/creature making it a weakness, create more general wards of protection. Create a complex / powerful rule that manipulates reality near you.|
 |Master Conjuration|Summon a magical creature that obeys, conjure an exact item of need (the owner may be angry about this), teleport yourself and others.|
 |Master Divination|Effect what has already happened, get accurate information about the state of something.|

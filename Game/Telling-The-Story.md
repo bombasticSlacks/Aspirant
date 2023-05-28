@@ -36,6 +36,7 @@ Resting is fast forwarded downtime your characters will sometimes have. This ten
 - Do half the work required for a type of Production Work. If this is the second half of the job, roll the required skill tests and check the outcome of the job.
 - Any number of the characters in the party may socialize. Any time you aid a character you socialized with, they get a +2 instead of a +1. Socializing while in a city costs 1 silver per person.
 - Meditate, and refresh the uses of all your abilities.
+- Dedicate yourself to the night watch, you receive a +3 on any perception tests against ambush and are fully equipped if ambushed. 
 
 ### Working a Job
 Jobs are ways to spend days and supplement your income. They come in 3 variants.
@@ -73,4 +74,4 @@ GM: “Great, spend 2 influence each, now tell me more about this swordsman. Wha
 Remember, as a GM this system is designed to get your players involved in building the world. Costs aren’t provided here since different GMs will ask their players more or less for help building the world, but some opportunity to shape it should be provided.
 
 ### Creating New Content
-If a player has an idea for something their character wants to do that should require training but isn’t covered in the book then if reasonable you should let them perform it! Usually since it is without training there will be a large associated negative but at that point work on making a training of an appropriate tier and let them immediately put, if available, 1XP towards it. They don’t need an expert or manual to start the training, their character invented it!
+If a player has an idea for something their character wants to do that should require training but isn’t covered in the book, then if reasonable you should let them perform it! Usually, since it is without training, there will be a large associated negative, but at that point work on making a training of an appropriate tier and let them immediately put, if available, 1XP towards it. They don’t need an expert or manual to start the training, their character invented it!
