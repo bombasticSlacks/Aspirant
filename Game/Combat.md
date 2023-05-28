@@ -21,10 +21,7 @@ Free actions such as imbibing medicine, declaring combat stances, talking, etc. 
 Control Allies or other characters. If you have allies or other characters they will usually act on your turn and during your turn you can choose in what order you all act. However, after starting a character's turn you must finish it before moving on to another character.
 
 ### Drawing Equipment and Weapons
-Your character typically has 3 types of storage: belt, bag, saddlebags.
-- Belted items can be drawn/stowed for free, but will put any actions at a -1.
-- Bag items can be drawn/stowed as an action.
-- Saddlebag items will be with your horse. If you are with your horse, it will take an action.  
+Your character typically has 3 types of storage: [belt](Storage#Belt), [Backpack](Storage#Backpack), [Saddlebag](Storage#Saddlebag). These all have different costs for drawing.
 
 ### Movement
 In general, your movement is as simple as going up to your AGI * 4 meters in any direction. 

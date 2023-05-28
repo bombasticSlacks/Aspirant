@@ -23,7 +23,7 @@ Resting is fast forwarded downtime your characters will sometimes have. This ten
 #### Downtime Activities
 - Proper injury recovery.
 - Spending 1XP on character progression, where someone else needs to train you (covered in Character Development).
-- Performing an activity or job to make money. Usually requires some training. Basic labour work pays 1 silver per day.
+- Performing an activity or job to make currency. Usually requires some training. Basic labour work pays 1 silver per day.
 - Searching for a specific item to buy.
 - Involved research.
 - Hiring a specific expert to aid on a job.

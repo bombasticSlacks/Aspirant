@@ -13,7 +13,7 @@ Martial weapons are properly built tools of war. They require some training to u
 
 *All martial weapons have a +1 damage bonus and 1 traits.*
 
-### Exotic Weapons
+### Exotic
 Exotic weapons have additional complexity over basic martial weapons. Their mechanisms are more complex or their chance of self injury is higher. They require additional training on top of the training required for martial weapons to be used successfully.
 
 *All exotic weapons have a +1 damage bonus and 2 traits.*

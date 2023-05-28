@@ -15,10 +15,13 @@ Your characters are heroes. The following is true of them:
 - Characters never roll to test if they survive injuries. The impact of any injury is immediate and obvious, heroes don’t get infections.
 - Heroes can’t instantly die from an attack. Any attack that would kill a hero outright, including critical head injuries, failed torso critical injuries and lethal injuries of any kind, instead immediately leave the character unconscious and bleeding to death with similar lethality to any critical injury.
 
-### [[Stats]]
-### [[Skills]]
-### [[Telling-The-Story]]
-### [[Combat]]
-### [[Injury]]
-### [[Treating-Injury]]
-### [[Magic]]
+### Where To Start?
+Before going on to [Character-Creation](Character-Creation) you may want to look at:
+ * [Stats](Stats)
+ * [Skills](Skills)
+
+### Playing The Game
+To play the game you should refer to:
+* [Telling-The-Story](Telling-The-Story)
+* [Combat](Combat)
+* [Injury](Injury)
