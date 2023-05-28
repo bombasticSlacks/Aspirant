@@ -138,7 +138,7 @@ There are 3 types of training, [Combat Trainings](#Combat%20Trainings), [Magic T
 |Inspiring Strike|Basic|After attacking or performing a manoeuvre on an enemy in melee, all your allies receive a +1 to all attack rolls until your next turn.|
 |Grand Leadership|Advanced|As an action, you can perform a speech in combat. All your followers roll all combat skill tests, substituting your FEL + Converse for their normal roll until your next action.|
 |Conscription|Basic|At the beginning of combat, you may opt to make neutral characters within FEL x 10m followers. They may become angry if put in suicidal situations.|
-|Sanctuary|Basic|During rest, if you are somewhere that shares your faith or believes in your cause, you do not need to spend money per day to live.|
+|Sanctuary|Basic|During rest, if you are somewhere that shares your faith or believes in your cause, you do not need to spend currency per day to live.|
 |Unending Fury|Advanced|NPC allies never collapse from injuries. Players get a +2 to heroism.|
 |Inspiring Shout|Advanced|Once per meditation, you may as a free action cause one of your allies to regain consciousness. This ally retains all injuries and effects, but if it is during combat, does not need to roll to remain conscious until injured again.|
 |Heretic|Basic|Once per meditation, you may designate a target as a heretic/enemy of the cause. They receive a -1 to all skill tests that they make. Any skill tests allies make against that character receive a +1.|
@@ -266,7 +266,7 @@ There are 3 types of training, [Combat Trainings](#Combat%20Trainings), [Magic T
 |Haggling|Basic|You may use converse to attempt to get better deals when trading.|
 |Hard Sell|Advanced|A merchant will never refuse to buy items from you, even if they have no interest in them.|
 |Hoarder|Basic|Your backpack can hold an additional 6 size worth of items.|
-|I Packed It|Advanced|Once per downtime, you can declare after the fact that you purchased an item while you were last resting in a settlement. The item would have to have been available, and you need to spend the equivalent money it would have cost.|
+|I Packed It|Advanced|Once per downtime, you can declare after the fact that you purchased an item while you were last resting in a settlement. The item would have to have been available, and you need to spend the equivalent currency it would have cost.|
 |Name Your Price|Basic|You can attempt to buy any item, even a person's personal equipment.|
 |Promissory Note|Basic|You can go into debt an amount of silver equal to 10 x FEL by writing promissory notes to merchants.|
 |Your Money Is Good Here|Basic|You always receive full value when exchanging currency.|
@@ -439,7 +439,7 @@ There are 3 types of training, [Combat Trainings](#Combat%20Trainings), [Magic T
 |Martial Forging|Introductory|As production work, you can create martial weapons.|
 |Naturalist|Basic|You don’t need a forge or other advanced equipment to craft weapons and other items.|
 |Recycler|Basic|When crafting a weapon, instead of providing materials, you may provide another weapon of equivalent size and materials to transform into the new weapon.|
-|Simple Repairs|Basic|As production work, you can repair a damaged item or up to 5 rounds of ammunition. This requires no additional materials or money.|
+|Simple Repairs|Basic|As production work, you can repair a damaged item or up to 5 rounds of ammunition. This requires no additional materials or currency.|
 |Weapon Master Working|Advanced|The weapons you craft are master worked quality.|
 |Armour Master Working|Advanced|The armour you craft is master worked quality.|
 |Ablative Armour|Basic|After downtime, your armour has 2 additional max integrity that isn’t otherwise repairable.|
