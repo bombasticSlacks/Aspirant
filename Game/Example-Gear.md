@@ -1,4 +1,4 @@
-## Example Gear
+## Example [Gear](Gear)
 Cost is the charge to order a craftsman to make the item, buying it potentially would be up to 40% cheaper. Gear is sold at 50%.
 
 |Name|Size|Cost|Description|
