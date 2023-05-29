@@ -156,7 +156,9 @@ Creating a trap is a crafting test. You may add 2 payloads or triggers to a sing
 * Explosive: Everyone who is in the trap suffers an exothermic damage attack with a damage bonus of 8
 
 #### Trauma Kit
-A collection of simple medicines, bandages, synthetic skin, coagulating powder, splints, and other things required to keep people alive after a severe or critical injury and treat the issues. You need a trauma kit to attempt to perform [stabilization](Injury#Stabilization), or [first aid](Injury#First%20Aid).
+A collection of simple medicines, bandages, synthetic skin, coagulating powder, splints, and other things required to keep people alive after a severe or critical injury and treat the issues. A trauma kit provides you with a +1 to [stabilization](Injury#Stabilization) and [Surgery](Injury#Surgery). 
+
+A trained medical professional with a trauma kit can perform first aid to alleviate the immediate effects of injuries. This is a [medicine](Skills#Medicine%20(INT)) skill test at an additional negative equal to the character's injury penalty. If you succeed, reduce their injury penalty by 1 If you fail a first aid test the person still counts as [stabalized](Injury#Stabilization).
 
 A trauma kit has 5 uses, and replenishing a use costs 1 silver.
 
