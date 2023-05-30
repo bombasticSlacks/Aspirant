@@ -15,6 +15,7 @@ Before going on to [Character-Creation](Character-Creation) you may want to look
 
 ### Playing The Game
 To play the game you should refer to:
-* [Telling-The-Story](Telling-The-Story)
+* [First Session](First-Session)
+* [Telling The Story](Telling-The-Story)
 * [Combat](Combat)
 * [Injury](Injury)

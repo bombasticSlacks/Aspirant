@@ -6,18 +6,33 @@ When you rest, based on the length of the rest, you will have time which could b
 ### Costs
 Different trainings cost a different amount of XP as follows:
 
-|Advancement   | Cost  |
-|---|---|
-|Level 1 Skill|2 XP|
-|Level 2 Skill|2 XP|
-|Level 3 Skill|4 XP|
-|Basic Training|2 XP|
-|Advanced Training|4 XP|
+| Advancement       | Cost |
+| ----------------- | ---- |
+| Level 1 Skill     | 2 XP |
+| Level 2 Skill     | 2 XP |
+| Level 3 Skill     | 4 XP |
+| Basic Training    | 2 XP |
+| Advanced Training | 4 XP |
+| Master Training   | 6 XP | 
 
 ### Restrictions
 A character can’t learn from nothing. When your character desires to learn / improve a skill or gain training, they need to either learn from someone who already has that qualification or have a well-written manual providing details on their person. 
 
 You only need guidance to start training. If you begin training with someone but then part ways, you can on your own time finish the training. 
+
+#### Types Of Training
+There are 24 traditional trainers in Aspirant. These are spread evenly over three disciplines, with 8 subdisciplines each:
+#TODOLINK 
+* [Combat-Training](Combat-Training)
+	* [Keeper](Keeper)
+	* [Flurry](Flurry)
+	* [Bastion](Bastion)
+	* [Duelist](Duelist)
+	* [Marksman](Marksman)
+	* [Pugilist](Pugilist)
+	* [Berserker](Berserker)
+	* [Commander](Commander)
+* 
 
 ### Transhumanism
 Aside from development of skills and training, a character may also as a game progresses gain abilities from elsewhere. These can take the form of enchantments/blessings, alchemical mutations, and powerful prosthetics.

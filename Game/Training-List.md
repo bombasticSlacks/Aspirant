@@ -205,7 +205,7 @@ Lash Out - You can throw your smaller weapon as a free action.
 | Holy Spirit        | Advanced     |
 
 
-### Magic Training
+## Magic Training
 
 | Name                      | Type     | Description                                                                                                                                                                                                                                                                                                                                                                                 |
 | ------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -220,14 +220,13 @@ Lash Out - You can throw your smaller weapon as a free action.
 | Overcharge                | Advanced | You can pull a dangerous amount of magical energy into yourself. You may suffer a severe head injury to substitute a 10 on any channel skill test dice roll.                                                                                                                                                                                                                                |
 | Powerful Mind             | Advanced | You can focus on two spells simultaneously.                                                                                                                                                                                                                                                                                                                                                 |
 | Ritualist                 | Basic    | Your character has a basic understanding of ritual magic. <br><br>When wielding a spell book, your character can aid in rituals of magic and operate magical structures and places of power using the ritual skill. Your knowledge also extends to ritual magic. With further training, you could do specific magical acts of conjuration, divination, enchanting, or necromancy. |
-| Sealed Magic              | Basic    | You can perform a ritual and then store the effect inside a fetish or piece of jewellery to be activated at a later time.                                                                                                                                                                                                                                                                   |
 | Silent Channelling        | Basic    | You do not need to speak to channel magic.                                                                                                                                                                                                                                                                                                                                                  |
 | Spell Sword               | Basic    | You may use any martial or greater melee weapon as a focus for channelling magic.                                                                                                                                                                                                                                                                                                           |
 | Still Channelling         | Basic    | You do not need to move your hands to channel magic.                                                                                                                                                                                                                                                                                                                                        |
 | Vibe Casting              | Basic    | When channelling magical energy and channel spells, you may count your RES as the same value as your FEL.                                                                                                                                                                                                                                                                                   |
 
 
-#### Abjurer
+### Abjurer
 
 |Name|Type|Description|
 |---|---|---|
@@ -238,7 +237,7 @@ Lash Out - You can throw your smaller weapon as a free action.
 |Magical Dulling|Basic|All magical abilities used near you, excluding your own, are at a -1.|
 |Master Abjuration|Advanced|If your character has Expert Abjuration training, your character can perform abjuration spells up to spell level 7.|
 
-#### Conjurer
+### Conjurer
 
 |Name|Type|Description|
 |---|---|---|
@@ -248,7 +247,7 @@ Lash Out - You can throw your smaller weapon as a free action.
 |Master Conjuration|Advanced|If your character has Expert Conjuration training, your character can perform master Conjuration spells.|
 |Lead To Gold|Advanced|As production work, you can transform matter into gold. Perform a fixed difficulty ritual test with a difficulty of your choice, if successful, you receive gold nuggets worth 3 times the difficulty in silver.|
 
-#### Diviner
+### Diviner
 
 |Name|Type|Description|
 |---|---|---|
@@ -260,7 +259,7 @@ Lash Out - You can throw your smaller weapon as a free action.
 |Oracle|Advanced|During each meditation roll 2d6. At any point before the next meditation, you may choose to have any skill test use that roll result.|
 |True Sight|Basic|You can perceive things supernaturally within RES x 10m.|
 
-#### Enchanter
+### Enchanter
 
 |Name|Type|Description|
 |---|---|---|
@@ -271,7 +270,7 @@ Lash Out - You can throw your smaller weapon as a free action.
 |Invigorated Enchantment|Advanced|You can enchant items twice.|
 |Master Enchanting|Advanced|If your character has Expert Enchanting training, your character can perform master Enchanting spells.|
 
-#### Evoker
+### Evoker
 
 |Name|Type|Description|
 |---|---|---|
@@ -281,7 +280,7 @@ Lash Out - You can throw your smaller weapon as a free action.
 |Magical Artillery|Basic|Anyone targeted by an evocation magic attack you perform is at a -1 to all actions until your next turn.|
 |Master Evocation|Advanced|If your character has Expert Evocation training, your character can perform master Evocation spells.|
 
-#### Illusionist
+### Illusionist
 
 |Name|Type|Description|
 |---|---|---|
@@ -291,7 +290,7 @@ Lash Out - You can throw your smaller weapon as a free action.
 |Shadow Illusionist|Basic|As long as you have a focus, you can perform channel tests when you would perform a subterfuge skill test.|
 |True Illusion|Advanced|You can perform direct evocation attacks using your illusion skill. The target must believe the attack is real.|
 
-#### Necromancer
+### Necromancer
 
 |Name|Type|Description|
 |---|---|---|
@@ -301,7 +300,7 @@ Lash Out - You can throw your smaller weapon as a free action.
 |Holy Magic|Basic|Your necromancy can appear heavenly/holy; this means it will not appear as perverse or evil to onlookers.|
 |Master Necromancy|Advanced|If your character has Expert Necromancy training, your character can perform master Necromancy spells.|
 
-#### Transmuter
+### Transmuter
 
 |Name|Type|Description|
 |---|---|---|
@@ -312,7 +311,7 @@ Lash Out - You can throw your smaller weapon as a free action.
 |Master Transmutation|Advanced|If your character has Expert Transmutation training, your character can perform master Transmutation spells.|
 |Wild Casting|Basic|You can cast spells normally while transformed into a non-humanoid creature.<br><br>You can also speak normally.|
 
-### Trades Training
+## Trades Training
 
 |Name|Type|Description|
 |---|---|---|
@@ -335,7 +334,7 @@ Lash Out - You can throw your smaller weapon as a free action.
 |Suburbanite|Basic|You receive a +1 to all skill tests related to surviving and navigating urban areas.|
 |What I Meant Was|Basic|Once per meditation during narrative time, after speaking to someone and hearing how they react, you may say “what I meant to say was…” and the original reaction will be forgotten with the conversation continuing as if it didn’t happen.|
 
-#### Performer
+### Performer
 
 | Name                   | Type         | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ---------------------- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -359,7 +358,7 @@ Lash Out - You can throw your smaller weapon as a free action.
 | White Lie              | Basic        | You don’t need to roll performance to lie about small, insignificant things.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Writer Of History      | Basic        | When an ally would be assigned a nickname, or a legend would be written, you can influence how it is recorded.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
-#### Chronicler
+### Chronicler
 
 | Name                | Type     | Description                                                                                                                                                                                                            |
 | ------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -381,7 +380,7 @@ Lash Out - You can throw your smaller weapon as a free action.
 | Travelled Roads     | Basic    | When travelling somewhere you have a map of, you cannot be ambushed at night.                                                                                                                                          |
 |Visual Calculus|Basic|You can visualize what nearby characters are doing even if you can’t directly see them. This also means you can attack them through cover and other similar situations.|
 
-#### Doctor
+### Doctor
 
 |Name|Type|Description|
 |---|---|---|
@@ -398,7 +397,7 @@ Lash Out - You can throw your smaller weapon as a free action.
 |Sword surgeon|Basic|When making skill tests with a rending weapon, you may substitute your medicine skill for melee skill.|
 |Trauma Doc|Basic|If you successfully perform first aid on someone, they no longer have any ongoing negatives from injuries. You can also make a medical test to treat ongoing negatives that were caused by someone else's medical work.|
 
-#### Hunter
+### Hunter
 
 | Name               | Type     | Description                                                                                                                                                                                                                                                                                                                                               |
 | ------------------ | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -423,7 +422,7 @@ Lash Out - You can throw your smaller weapon as a free action.
 | Travel the Shadows | Basic    | When travelling you can attempt a subterfuge skill test for the whole party to avoid any incoming encounter.  This skill test has a penalty equal to the enemies perception skill.                                                                                                                                                                        |
 | Zoologist          | Advanced | You get a +2 on all interactions with animals. You can converse comfortably with non-intelligent animals as though you were speaking the same language.                                                                                                                                                                                                   |
 
-#### Labourer
+### Labourer
 
 |Name|Type|Description|
 |---|---|---|
@@ -436,7 +435,7 @@ Lash Out - You can throw your smaller weapon as a free action.
 |Shake it off|Advanced|Whenever a negative effect happens to you, roll 1d6 on a roll of 4-6 you ignore the effect.|
 |The Muscle|Basic|You may perform converse skill tests to interact with people using STR.|
 
-#### Shadow
+### Shadow
 
 | Name                 | Type     | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | -------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -461,7 +460,7 @@ Lash Out - You can throw your smaller weapon as a free action.
 | Tour Guide           | Basic    | When rolling subterfuge to hide, move silently etc. you can include a small group of people at no negative.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Vanish               | Advanced | If within 3m of a piece of cover you can once per meditation lose all attention in the combat and act as though no one were aware of you until you draw attention to yourself. This can also be used out of combat for a similar effect, however out of combat it isn’t limited and requires a skill test.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
-#### Scientist
+### Scientist
 
 |Name|Type|Description|
 |---|---|---|
@@ -482,7 +481,7 @@ Lash Out - You can throw your smaller weapon as a free action.
 |Mutagenics|Basic|As production work, you can manipulate and prepare mutagenic compounds for installation. These still require surgery to be given to a person.|
 |Vitruvian|Advanced|Your body is perfect and loses all scarring. Immune to poison, mutations you take don’t have any obvious signs. Going above your Max Toxicity temporarily doesn’t cause injury (though you still can’t take more modifications than that).|
 
-#### Craftsman
+### Craftsman
 
 |Name|Type|Description|
 |---|---|---|
