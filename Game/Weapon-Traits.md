@@ -64,8 +64,6 @@ A weapon with the reach trait can be used to perform melee attacks up to 2m away
 #### Shield
 This weapon can no longer be used for attacks. Instead, it provides a +2 to defensive skill tests using it.
 
-With #TODOLINK proper training, it also provides the arm holding it, head, and torso with additional armour from ranged attacks. A standard shield has no weaknesses or resistances, and its armour integrity is 4. 
-
 #### Sling
 This weapon aids with throwing things long distances. A size 1 or 2 sling doubles your thrown range, size 3 or 4 triples it, and a size 5 sling quadruples your thrown range. If you load and launch a sling in the same turn, your skill test to attack is at a -1.
 
