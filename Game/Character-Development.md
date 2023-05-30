@@ -32,7 +32,15 @@ There are 24 traditional trainers in Aspirant. These are spread evenly over thre
 	* [Pugilist](Pugilist)
 	* [Berserker](Berserker)
 	* [Commander](Commander)
-* 
+* [Magic-Training](Magic-Training)
+	* [Abjurer](Abjurer)
+	* [Conjurer](Conjurer)
+	* [Diviner](Diviner)
+	* [Enchanter](Enchanter)
+	* [Evoker](Evoker)
+	* [Illusionist](Illusionist)
+	* [Necromancer](Necromancer)
+	* [Transmuter](Transmuter)
 
 ### Transhumanism
 Aside from development of skills and training, a character may also as a game progresses gain abilities from elsewhere. These can take the form of enchantments/blessings, alchemical mutations, and powerful prosthetics.

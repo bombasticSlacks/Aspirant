@@ -207,109 +207,109 @@ Lash Out - You can throw your smaller weapon as a free action.
 
 ## Magic Training
 
-| Name                      | Type     | Description                                                                                                                                                                                                                                                                                                                                                                                 |
-| ------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Blood Rituals             | Basic    | You may attempt a ritual without 1 of the requirements and replace it with an amount of blood.                                                                                                                                                                                                                                                                                              |
-| Channeller                | Basic    | Your character has a basic understanding of channelled magic. <br><br>When wielding a focus, your character can perform simple cantrips of magic and operate magical items using the channel skill. Your knowledge also extends to channelled magic. With further training, you could do specific magical acts of abjuration, evocation, illusion, or transmutation.              |
-| Distant Channelling       | Basic    | You gain access to the Far magical trait for spell attacks. Your narrative psychic abilities have double the range before they suffer negatives.                                                                                                                                                                                                                                            |
-| Focus Trap                | Basic    | You can set psychic abilities to trigger in response to something (a person walking through a door, saying a word etc.) if you are knocked unconscious or distracted, your traps fail. This gives you access to the Trap magical trait for spell attacks.                                                                                                                                   |
-| Human Spellbook           | Basic    | You are an expert in a specific ritual of your choice, which you can perform at will. If this ritual is simple enough, you may also not need the reagents.                                                                                                                                                                                                                                  |
-| Intellectual Methods      | Basic    | When performing rituals and ritual spells, you may substitute your INT for RES.                                                                                                                                                                                                                                                                                                             |
-| Multidisciplinary Casting | Advanced | You can cast any channelling spells at the level of your highest trained discipline of Abjurer, Evoker, Illusionist, Transmuter.                                                                                                                                                                                                                                                            |
-| Multidisciplinary Rituals | Advanced | You can perform any ritual spells at the level of your highest trained discipline of Conjurer, Diviner, Enchanter, Necromancer.                                                                                                                                                                                                                                                             |
-| Overcharge                | Advanced | You can pull a dangerous amount of magical energy into yourself. You may suffer a severe head injury to substitute a 10 on any channel skill test dice roll.                                                                                                                                                                                                                                |
-| Powerful Mind             | Advanced | You can focus on two spells simultaneously.                                                                                                                                                                                                                                                                                                                                                 |
-| Ritualist                 | Basic    | Your character has a basic understanding of ritual magic. <br><br>When wielding a spell book, your character can aid in rituals of magic and operate magical structures and places of power using the ritual skill. Your knowledge also extends to ritual magic. With further training, you could do specific magical acts of conjuration, divination, enchanting, or necromancy. |
-| Silent Channelling        | Basic    | You do not need to speak to channel magic.                                                                                                                                                                                                                                                                                                                                                  |
-| Spell Sword               | Basic    | You may use any martial or greater melee weapon as a focus for channelling magic.                                                                                                                                                                                                                                                                                                           |
-| Still Channelling         | Basic    | You do not need to move your hands to channel magic.                                                                                                                                                                                                                                                                                                                                        |
-| Vibe Casting              | Basic    | When channelling magical energy and channel spells, you may count your RES as the same value as your FEL.                                                                                                                                                                                                                                                                                   |
+| Name                      | Type     |
+| ------------------------- | -------- |
+| Blood Rituals             | Basic    |
+| Channeller                | Basic    |
+| Distant Channelling       | Basic    |
+| Focus Trap                | Basic    |
+| Human Spellbook           | Basic    |
+| Intellectual Methods      | Basic    |
+| Multidisciplinary Casting | Advanced |
+| Multidisciplinary Rituals | Advanced |
+| Overcharge                | Advanced |
+| Powerful Mind             | Advanced |
+| Ritualist                 | Basic    |
+| Silent Channelling        | Basic    |
+| Spell Sword               | Basic    |
+| Still Channelling         | Basic    |
+| Vibe Casting              | Basic    |
 
 
 ### Abjurer
 
-|Name|Type|Description|
-|---|---|---|
-|Amateur Abjuration|Introductory|Your character can perform amateur abjuration spells.|
-|Counter Spell|Basic|As a reaction, you may attempt to disrupt another spell in combat using an abjuration channel test at a -2.|
-|Expert Abjuration|Basic|If your character has Amateur Abjuration training, your character can perform expert abjuration spells.|
-|Magic Perception|Basic|You can detect magic passively using perception.|
-|Magical Dulling|Basic|All magical abilities used near you, excluding your own, are at a -1.|
-|Master Abjuration|Advanced|If your character has Expert Abjuration training, your character can perform abjuration spells up to spell level 7.|
+| Name               | Type         |
+| ------------------ | ------------ |
+| Amateur Abjuration | Introductory |
+| Counter Spell      | Basic        |
+| Expert Abjuration  | Basic        |
+| Magic Perception   | Basic        |
+| Magical Dulling    | Basic        |
+| Master Abjuration  | Advanced     |
 
 ### Conjurer
 
-|Name|Type|Description|
-|---|---|---|
-|Amateur Conjuration|Introductory|Your character can perform amateur Conjuration spells.|
-|Bound Summon|Basic|You can maintain one summoned creature long term without requiring skill tests or active focus.|
-|Expert Conjuration|Basic|If your character has Amateur Conjuration training, your character can perform expert Conjuration spells.|
-|Master Conjuration|Advanced|If your character has Expert Conjuration training, your character can perform master Conjuration spells.|
-|Lead To Gold|Advanced|As production work, you can transform matter into gold. Perform a fixed difficulty ritual test with a difficulty of your choice, if successful, you receive gold nuggets worth 3 times the difficulty in silver.|
+| Name                | Type         |
+| ------------------- | ------------ |
+| Amateur Conjuration | Introductory |
+| Bound Summon        | Basic        |
+| Expert Conjuration  | Basic        |
+| Master Conjuration  | Advanced     |
+| Lead To Gold        | Advanced     |
 
 ### Diviner
 
-|Name|Type|Description|
-|---|---|---|
-|Amateur Divination|Introductory|Your character can perform amateur Divination spells.|
-|Danger Sense|Basic|+2 to initiative tests, you cannot be surprised.|
-|Expert Divination|Basic|If your character has Amateur Divination training, your character can perform expert Divination spells.|
-|Foresight|Basic|As a reaction, you may dodge using a divination skill test.|
-|Master Divination|Advanced|If your character has Expert Divination training, your character can perform master Divination spells.|
-|Oracle|Advanced|During each meditation roll 2d6. At any point before the next meditation, you may choose to have any skill test use that roll result.|
-|True Sight|Basic|You can perceive things supernaturally within RES x 10m.|
+| Name               | Type         |
+| ------------------ | ------------ |
+| Amateur Divination | Introductory |
+| Danger Sense       | Basic        |
+| Expert Divination  | Basic        |
+| Foresight          | Basic        |
+| Master Divination  | Advanced     |
+| Oracle             | Advanced     |
+| True Sight         | Basic        |
 
 ### Enchanter
 
-|Name|Type|Description|
-|---|---|---|
-|Amateur Enchanting|Introductory|Your character can perform amateur Enchanting spells.|
-|Bewitched|Basic|You can enchant people.|
-|Expert Enchanting|Basic|If your character has Amateur Enchanting training, your character can perform expert Enchanting spells.|
-|Hallowed Ground|Basic|You can enchant places.|
-|Invigorated Enchantment|Advanced|You can enchant items twice.|
-|Master Enchanting|Advanced|If your character has Expert Enchanting training, your character can perform master Enchanting spells.|
+| Name                    | Type         |
+| ----------------------- | ------------ |
+| Amateur Enchanting      | Introductory |
+| Bewitched               | Basic        |
+| Expert Enchanting       | Basic        |
+| Hallowed Ground         | Basic        |
+| Invigorated Enchantment | Advanced     |
+| Master Enchanting       | Advanced     |
 
 ### Evoker
 
-|Name|Type|Description|
-|---|---|---|
-|Amateur Evocation|Introductory|Your character can perform amateur Evocation spells.|
-|Elemental Strike|Basic|You may have weapons you attack with count as having the exothermic or endothermic damage types.|
-|Expert Evocation|Basic|If your character has Amateur Evocation training, your character can perform expert Evocation spells.|
-|Magical Artillery|Basic|Anyone targeted by an evocation magic attack you perform is at a -1 to all actions until your next turn.|
-|Master Evocation|Advanced|If your character has Expert Evocation training, your character can perform master Evocation spells.|
+| Name              | Type         |
+| ----------------- | ------------ |
+| Amateur Evocation | Introductory |
+| Elemental Strike  | Advanced     |
+| Expert Evocation  | Basic        |
+| Magical Artillery | Basic        |
+| Master Evocation  | Advanced     |
 
 ### Illusionist
 
-|Name|Type|Description|
-|---|---|---|
-|Amateur Illusion|Introductory|Your character can perform amateur Illusion spells.|
-|Expert Illusion|Basic|If your character has Amateur Illusion training, your character can perform expert Illusion spells.|
-|Master Illusion|Advanced|If your character has Expert Illusion training, your character can perform master Illusion spells.|
-|Shadow Illusionist|Basic|As long as you have a focus, you can perform channel tests when you would perform a subterfuge skill test.|
-|True Illusion|Advanced|You can perform direct evocation attacks using your illusion skill. The target must believe the attack is real.|
+| Name               | Type         |
+| ------------------ | ------------ |
+| Amateur Illusion   | Introductory |
+| Expert Illusion    | Basic        |
+| Master Illusion    | Advanced     |
+| Shadow Illusionist | Basic        |
+| True Illusion      | Advanced     |
 
 ### Necromancer
 
-|Name|Type|Description|
-|---|---|---|
-|Amateur Necromancy|Introductory|Your character can perform amateur Necromancy spells.|
-|Dead Tongues|Basic|You can speak to spirits and undead.|
-|Expert Necromancy|Basic|If your character has Amateur Necromancy training, your character can perform expert Necromancy spells.|
-|Holy Magic|Basic|Your necromancy can appear heavenly/holy; this means it will not appear as perverse or evil to onlookers.|
-|Master Necromancy|Advanced|If your character has Expert Necromancy training, your character can perform master Necromancy spells.|
+| Name               | Type         |
+| ------------------ | ------------ |
+| Amateur Necromancy | Introductory |
+| Dead Tongues       | Basic        |
+| Expert Necromancy  | Basic        |
+| Holy Magic         | Basic        |
+| Master Necromancy  | Advanced     |
 
 ### Transmuter
 
-|Name|Type|Description|
-|---|---|---|
-|Amateur Transmutation|Introductory|Your character can perform amateur Transmutation spells.|
-|Expert Transmutation|Basic|If your character has Amateur Transmutation training, your character can perform expert Transmutation spells.|
-|Kinetic Monk|Advanced|If your character has Black Belt training, while using a focus you can Kinetic Strike, Kinetic Shove, and Wire Fight<br><br>Kinetic Strike - You can use unarmed melee attacks at a range equal to 2 times your RES. Reactions to these attacks are at an additional -2. You add RES to the attack's damage bonus instead of STR.<br><br>Kinetic Shove - You can shove a person at a range equal to 2 times your RES. Reactions to this attack are at an additional -2.<br><br>Wire Fight - You can use RES instead of agility to calculate movement distance.|
-|Mage Hand|Basic|You can levitate things up to your RES in size and RES x 2 meters away as naturally as picking them up normally.|
-|Master Transmutation|Advanced|If your character has Expert Transmutation training, your character can perform master Transmutation spells.|
-|Wild Casting|Basic|You can cast spells normally while transformed into a non-humanoid creature.<br><br>You can also speak normally.|
+| Name                  | Type         |
+| --------------------- | ------------ |
+| Amateur Transmutation | Introductory |
+| Expert Transmutation  | Basic        |
+| Kinetic Monk          | Advanced     |
+| Mage Hand             | Basic        |
+| Master Transmutation  | Advanced     |
+| Wild Casting          | Basic        |
 
 ## Trades Training
 
