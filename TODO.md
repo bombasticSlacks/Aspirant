@@ -57,3 +57,6 @@ Section on evading attacks.
 One resource per meditation.
 
 Get rid of Labourer move to Hospitality
+
+Section on evading attacks.
+
