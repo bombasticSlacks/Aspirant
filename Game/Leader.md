@@ -1,4 +1,4 @@
-## Commander
+## Leader
 One of the 8 [Trades-Training](Trades-Training) disciplines.
 #TODOcopy 
 
