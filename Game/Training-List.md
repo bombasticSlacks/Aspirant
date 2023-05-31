@@ -1,5 +1,7 @@
 There are 3 types of training, [Combat Trainings](#Combat%20Trainings), [Magic Training](#Magic%20Training), [Trades Training](#Trades%20Training). Each has a number of trainings that any proficient trainer could teach you, then a number of sub specializations. 
 
+*THIS FILE IS CURRENTLY WIP*
+
 ## Combat Trainings
 
 ### General Combat Trainings
