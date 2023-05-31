@@ -4,7 +4,7 @@
 | --------------- | ---------------- | -------------- | -------------------------------------------- |
 | Minimal Injury  | If Fail Strength | No             | No                                           |
 | Severe Injury   | If Fail Strength | Yes            | No                                           |
-| Critical Injury | Yes              | Yes            | Guaranteed In Head, Chance In Body (Resolve) |
+| Critical Injury | Yes              | Yes            | Guaranteed In Head, Chance In Body (Heroism) |
 | Lethal Injury   | Death            | Yes            | Always                                       |
 
 Humans don’t have hit points. A character's armour takes the role of their safety net to injury, once it is gone when attacked and harmed you suffer injuries. Whenever something is injured the injury can be of the magnitude of: None (N), Mimal Injury (M), Severe Injury (S), Critical Injury (C), Lethal Injury (L).
@@ -31,6 +31,9 @@ Immediate effects are what happens to you immediately as you are harmed by an en
 | Chest     | -2 to all actions next turn                                      |
 | Head      | Stunned for 1 turn                                               |
 
+### Heroes
+Your characters are heroes. Heroes can’t instantly die from an attack. Any attack that would kill a hero outright, including critical head injuries, failed torso critical injuries and lethal injuries of any kind, instead immediately leave the character unconscious and bleeding to death with similar lethality to any critical injury.
+
 ### Bleeding and Burning
 In general, rending and piercing weapons that cause severe and critical injuries will cause bleeding as will critical impact injuries. Exothermic injuries will catch you on fire.
 
@@ -47,7 +50,7 @@ After someone is Wounded, whether they pass out or stay conscious they will suff
 ### Managing Injuries
 Aside from the trauma of being injured in the field there are also other immediate risks to a person who has been injured and they will need treatment to stay healthy or remain alive (depending on severity).
 
-When determining difficulty and negatives for any injuries you just count the injury that would give you the largest negative/penalty. Multiple injuries don’t provide cumulative negatives.
+When determining difficulty of [medicine](Skills#Medicine) skill tests and negatives for any injuries you just count the injury that would give you the largest negative/penalty. Multiple injuries don’t provide cumulative negatives.
 
 #### Stabilization
 Even if you aren’t trained in medicine as long as you have access to a trauma kit or first aid kit you may attempt to stabilize someone's injuries. This is a very basic test which means they are no longer bleeding, their burns have been covered, etc. This is a medicine test with a modifier of (0) and passing/failing this test will influence whether a person survives their injuries when they finish a mission. Whether or not you succeed on your stabilization test a person will no longer be bleeding to death. A stabilization test must take place within 10 minutes of receiving the injuries for a person to receive the bonuses of stabilization on later medical tests.

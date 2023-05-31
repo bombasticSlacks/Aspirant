@@ -1,6 +1,9 @@
 ## Resources
 ## Ammunition
-#TODO
+#TODOcopy 
+
+### Salvaging
+When you use ammunition and don't succeed at the skill test there is a 50% chance that the ammunition is salvagable. This can be calculated by rolling a d6, on a 1-3 the ammo is destroyed, on a 4-6 the ammo is lootable.
 
 ## Reagents
 Characters will need to buy a reagent needed for a ritual, alchemical compound, mutagenic process or for some other crafting process. Reagents should be priced based on proximity to a source rather than just a flat rate. So, jungle flowers are easy to get in the jungle, not so in the desert.

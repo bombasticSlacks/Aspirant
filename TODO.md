@@ -53,3 +53,10 @@ Magic, maybe add some tags to trainings?
 Maybe move to 3 tiers of trainings (Master).
 
 Section on evading attacks.
+
+One resource per meditation.
+
+Get rid of Labourer move to Hospitality
+
+Section on evading attacks.
+
