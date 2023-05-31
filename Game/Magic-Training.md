@@ -55,6 +55,7 @@ You do not need to move your hands to channel magic.
 #### Vibe Casting
 When channelling magical energy and channel spells, you may count your RES as the same value as your FEL.
 
+---
 ### Advanced
 
 #### Multidisciplinary Casting

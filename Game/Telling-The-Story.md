@@ -17,39 +17,45 @@ Travelling in Aspirant can take long amounts of time. Travelling at its simplest
 
 During travel, characters may encounter other travellers, enemies or a point of interest. These will be handled by the GM and should lend to the danger and intrigue of the surrounding world. Generally, the world is sparse and most characters should only have 1 travel encounter per day. If your players were attacked by wolves a number of times travelling through a forest instead, that should be handled as one extended narrative / combat scene where they realize they’ve entered dangerous territory and need to navigate out of it.
 
+---
+
 ### Evening Activities
-* #### Good Nights Rest
+#### Good Nights Rest
 +1 to a single skill test the next day, declared before rolling.
-* #### Unsupervised Training
-Spending 1XP on character progression where you don’t need someone to train you (either from a book or a training you have already started).  
-* #### Half Work
+#### Half Work
 Do half the work required for a type of Production Work. If this is the second half of the job, roll the required skill tests and check the outcome of the job.
- * #### Socialize
-Any number of the characters in the party may socialize. Any time you aid a character you socialized with, they get a +2 instead of a +1. Socializing while in a city costs 1 silver per person.
-* #### Meditate
+#### Meditate
 Meditate, and refresh the uses of all your abilities.
-* #### On Watch
+#### On Watch
 Dedicate yourself to the night watch, you receive a +3 on any perception tests against ambush and are fully equipped if ambushed. 
+#### Socialize
+Any number of the characters in the party may socialize. Any time you aid a character you socialized with, they get a +2 instead of a +1. Socializing while in a city costs 1 silver per person.
+#### Unsupervised Training
+Spending 1XP on character progression where you don’t need someone to train you (either from a book or a training you have already started).  
+
+---
 
 ### Resting
 Resting is fast forwarded downtime your characters will sometimes have. This tends to happen when you arrive in a safe area. Each day in a safe area, your character may perform 1 [[Telling-The-Story#Downtime Activities|downtime activity]], followed by one [[Telling-The-Story#Evening Activities|evening activity]]. Unless you are receiving charity, your food, and housing costs 1 silver per day. If you cannot afford this, you do not get to do activities.
 
-#### Downtime Activities
-* ##### Injury Recovery
-* ##### Supervised Training
-Spending 1XP on character progression, where someone else needs to train you (covered in Character Development).
-* ##### Work
-Performing an activity or job to make currency. Usually requires some training. Basic labour work pays 1 silver per day.
-* ##### Source
-Searching for a specific item to buy.
-* ##### Research
-Involved research.
-* ##### Interview
-Hiring a specific expert to aid on a job.
-* ##### Surgery
-Undergoing Surgery.
-* ##### Evening Activity
+### Downtime Activities
+#### Evening Activity
 Perform an evening activity
+#### Injury Recovery
+#### Interview
+Hiring a specific expert to aid on a job.
+#### Research
+Involved research.
+#### Source
+Searching for a specific item to buy.
+#### Supervised Training
+Spending 1XP on character progression, where someone else needs to train you (covered in Character Development).
+#### Surgery
+Undergoing Surgery.
+#### Work
+Performing an activity or job to make currency. Usually requires some training. Basic labour work pays 1 silver per day.
+
+---
 
 ### Working a Job
 Jobs are ways to spend days and supplement your income. They come in 3 variants.

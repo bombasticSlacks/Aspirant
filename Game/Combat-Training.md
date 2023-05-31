@@ -41,6 +41,8 @@ You receive a +1 to all skill tests involving weapons.
 #### Martial Training
 You can use any martial weapons without penalty. 
 
+---
+
 ### Advanced Training
 #### Bashing
 You can opt to make the damage type of any rending or piercing weapon impact instead as part of an attack.

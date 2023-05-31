@@ -37,6 +37,7 @@ During rest, if you are somewhere that shares your faith or believes in your cau
 #### With Me
 You can control followers in combat. You can control a number of followers equal to your FEL - 2 (minimum of 0).
 
+---
 ### Advanced
 
 #### Grand Leadership

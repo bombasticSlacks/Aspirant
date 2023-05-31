@@ -18,6 +18,8 @@ Animals that you own / have controll of may be fit with saddlebags.
 #### Proper Packing
 Your saddlebags can hold an additional 6 size of items.
 
+---
+
 ### Advanced
 
 #### Battle Mount

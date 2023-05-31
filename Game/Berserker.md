@@ -31,6 +31,7 @@ When making an All Out Attack you get a +3 to damage for the turn.
 #### Thunderous Charge
 Your charge attacks have the [Penetrating](Weapon-Traits#Penetrating) trait.
 
+---
 ### Advanced
 
 #### Adrenaline Response

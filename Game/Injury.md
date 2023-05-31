@@ -50,7 +50,7 @@ After someone is Wounded, whether they pass out or stay conscious they will suff
 ### Managing Injuries
 Aside from the trauma of being injured in the field there are also other immediate risks to a person who has been injured and they will need treatment to stay healthy or remain alive (depending on severity).
 
-When determining difficulty of [medicine](Skills#Medicine%20(INT)) skill tests and negatives for any injuries you just count the injury that would give you the largest negative/penalty. Multiple injuries don’t provide cumulative negatives.
+When determining difficulty of [medicine](Skills#Medicine) skill tests and negatives for any injuries you just count the injury that would give you the largest negative/penalty. Multiple injuries don’t provide cumulative negatives.
 
 #### Stabilization
 Even if you aren’t trained in medicine as long as you have access to a trauma kit or first aid kit you may attempt to stabilize someone's injuries. This is a very basic test which means they are no longer bleeding, their burns have been covered, etc. This is a medicine test with a modifier of (0) and passing/failing this test will influence whether a person survives their injuries when they finish a mission. Whether or not you succeed on your stabilization test a person will no longer be bleeding to death. A stabilization test must take place within 10 minutes of receiving the injuries for a person to receive the bonuses of stabilization on later medical tests.

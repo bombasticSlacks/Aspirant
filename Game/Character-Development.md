@@ -22,7 +22,6 @@ You only need guidance to start training. If you begin training with someone but
 
 #### Types Of Training
 There are 24 traditional trainers in Aspirant. These are spread evenly over three disciplines, with 8 subdisciplines each:
-#TODOLINK 
 * [Combat-Training](Combat-Training)
 	* [Keeper](Keeper)
 	* [Flurry](Flurry)
@@ -41,6 +40,15 @@ There are 24 traditional trainers in Aspirant. These are spread evenly over thre
 	* [Illusionist](Illusionist)
 	* [Necromancer](Necromancer)
 	* [Transmuter](Transmuter)
+* [Trades-Training](Trades-Training)
+	* [Performer](Performer)
+	* [Chronicler](Chronicler)
+	* [Doctor](Doctor)
+	* [Hunter](Hunter)
+	* [Labourer](Labourer)
+	* [Shadow](Shadow)
+	* [Scientist](Scientist)
+	* [Craftsman](Craftsman)
 
 ### Transhumanism
 Aside from development of skills and training, a character may also as a game progresses gain abilities from elsewhere. These can take the form of enchantments/blessings, alchemical mutations, and powerful prosthetics.

@@ -20,6 +20,7 @@ Your opponents do not get to add their skill when rolling to escape a grapple.
 #### Living Weapon
 Your character always counts as armed and can, as long as they are conscious, always attack as though your hands were unbound.
 
+---
 ### Advanced
 
 #### Crane Style

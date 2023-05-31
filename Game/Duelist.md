@@ -25,6 +25,8 @@ You receive a +1 to all combat tests when in melee with only 1 other character.
 
 Enemies don’t receive benefits for outnumbering you.|
 
+
+---
 ### Advanced
 
 #### Fencer

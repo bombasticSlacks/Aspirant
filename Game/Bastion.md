@@ -36,6 +36,8 @@ You get an additional 4 size worth of belt space.
 #### Terminator
 You cannot be forced to move or knocked over while wearing all metal armour.
 
+---
+
 ### Advanced
 #### Grand Defender
 When wielding a shield, if you successfully mitigate an enemy melee attack, as part of the reaction, you may perform a shove manoeuvre. If there are any other relevant manoeuvres you think you could do, you may substitute one for the shove.

@@ -19,6 +19,8 @@ On your turn, you may make an attack at -2 additional difficulty, and then perfo
 #### Quick Draw
 AGI times per meditation, you can make an attack with a size 1 weapon as a free action.
 
+---
+
 ### Advanced
 
 #### Ambidextrous

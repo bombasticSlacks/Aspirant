@@ -19,6 +19,7 @@ After performing a ranged attack or manoeuvre targeting an enemy, they need to m
 #### Quarterback
 You can throw weapons and objects designed to be thrown twice the normal range. You can throw any object not designed to be thrown your normal thrown range.
 
+---
 ### Advanced
 
 #### Double Tap

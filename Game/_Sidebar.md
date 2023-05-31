@@ -11,5 +11,8 @@
 * [Magic](Magic)
 * [Equipment](Equipment)
 * [Character Development](Character-Development)
+	* [Combat-Training](Combat-Training)
+	* [Magic-Training](Magic-Training)
+	* [Trades-Training](Trades-Training)
 * [Tables](Tables)
 * [Running The Game](Running-The-Game)

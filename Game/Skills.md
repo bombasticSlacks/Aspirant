@@ -22,47 +22,48 @@ A standard skill test, however since the skill test is directed at a certain thi
 #### Aid and Hindrance
 When multiple characters are all attempting to perform the same task together, instead of each rolling separately, the most skilled of the group rolls and receives a +1 for each person who is skilled and aiding them. Similarly, they receive a -1 for each person who isn’t trained and is part of the activity. So, if two trained doctors attempt first aid, the better makes a skill test with an additional +1. If 5 characters are attempting to sneak past a guard and 2 are trained and 3 are not, then the roll is at an additional -2 (+1, -3).
 
-### Acrobatics (AGI)
-Dodging, dancing, contortion, dexterous movement.
-
-### Channel (RES)
-Invoking the power of magical items, [channelling](Magic#Channelling) [abjuration](Magic#Abjuration), [evocation](Magic#Evocation), [illusion](Magic#Illusion), or [transmutation](Magic#Transmutation) [magic](Magic).
-
-### Converse (FEL)
-Talking to people, intimidating them, trying to get a good deal or bargain.
-
-### Crafting (INT)
-Crafting items (armour, weapons, bags), manipulating, maintaining and modifying items.
-
-### Fitness (STR)
+### Strength Skills
+#### Fitness
 Dealing with the stress/exhaustion of travel and marching, strength-based acts of movement/traversal, feats of physical power.
-
-### Husbandry (FEL)
-Calming an animal, determining an animal's disposition/what it desires, controlling a mount, controlling a pet. 
-
-### Knowledge (INT)
-General knowledge about the world. Certain training will allow you to use this for very specific knowledge.
-
-### Marksmanship (AGI)
-Attacking with weapons at range.
-
-### Medicine (INT)
-Performing care on the injured, creating medicine and potions.
-
-### Melee (STR)
+#### Melee
 Attacking with weapons in melee, defending with weapons in melee.
 
-### Perception (INT)
+---
+
+### Agility Skills
+#### Acrobatics
+Dodging, dancing, contortion, dexterous movement.
+### Marksmanship
+Attacking with weapons at range.
+### Subterfuge
+Hiding, moving quietly, sleight of hand, theft.
+
+---
+
+### Intelligence Skills
+#### Crafting
+Crafting items (armour, weapons, bags), manipulating, maintaining and modifying items.
+#### Knowledge
+General knowledge about the world. Certain training will allow you to use this for very specific knowledge.
+#### Medicine
+Performing care on the injured, creating medicine and potions.
+#### Perception
 Noticing things about your surroundings, inferring someone's mood, telling if someone is lying.
-
-### Performance (FEL)
-Pretending to be someone you are not, lying, disguise/clowning, performing a skill such as an instrument. 
-
-### Ritual (RES)
-Understanding ancient powers, interacting with large magical devices, performing [rituals](Magic#Ritual) of [conjuration](Magic#Conjuration), [divination](Magic#Divination), [enchanting](Magic#Enchanting), and [necromancy](Magic#Necromancy) [magic](Magic). 
-
-### Science (INT)
+#### Science
 Mathematics, logic, chemistry, biology, physics and other complex problems.
 
-### Subterfuge (AGI)
-Hiding, moving quietly, sleight of hand, theft.
+---
+
+### Resolve Skills
+#### Channel
+Invoking the power of magical items, [channelling](Magic#Channelling) [abjuration](Magic#Abjuration), [evocation](Magic#Evocation), [illusion](Magic#Illusion), or [transmutation](Magic#Transmutation) [magic](Magic).
+#### Ritual
+Understanding ancient powers, interacting with large magical devices, performing [rituals](Magic#Ritual) of [conjuration](Magic#Conjuration), [divination](Magic#Divination), [enchanting](Magic#Enchanting), and [necromancy](Magic#Necromancy) [magic](Magic). 
+
+### Fellowship Skills
+#### Converse
+Talking to people, intimidating them, trying to get a good deal or bargain.
+#### Husbandry
+Calming an animal, determining an animal's disposition/what it desires, controlling a mount, controlling a pet. 
+#### Performance
+Pretending to be someone you are not, lying, disguise/clowning, performing a skill such as an instrument. 
