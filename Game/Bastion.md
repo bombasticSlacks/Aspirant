@@ -3,16 +3,8 @@ One of the 8 [combat training](Combat-Training) disciplines.
 #TODOcopy
 
 ### Basic
-#### Armed To The Teeth
-#TODOmigrate 
-You can carry twice the consumables or ammo in the same amount of size on your belt. So, as an example, if 10 arrows are 2 size, you may carry 20 arrows as 2 size.
-
 #### Cross Arm Block
 You may spend a reaction to force an incoming attack to hit you in one of your arms. You do not get to further defend against the attack.
-
-#### Head Down
-#TODOmigrate 
-If you move during your turn, enemies suffer a -2 to hit you with ranged attacks until your next turn.
 
 #### Perfect Fit
 Suits of armour you wear have 1 additional integrity.
@@ -29,10 +21,6 @@ While using a weapon with the [Shield](Weapon-Traits#Shield) trait, it also prov
 #### Steel Wall
 While using a weapon with the [Shield](Weapon-Traits#Shield) trait, if you successfully mitigate an enemy attack, that enemy cannot perform attacks against you until your next turn.
 
-#### Strapped
-#TODOmigrate 
-You get an additional 4 size worth of belt space.
-
 #### Terminator
 You cannot be forced to move or knocked over while wearing all metal armour.
 
@@ -41,10 +29,6 @@ You cannot be forced to move or knocked over while wearing all metal armour.
 ### Advanced
 #### Grand Defender
 When wielding a shield, if you successfully mitigate an enemy melee attack, as part of the reaction, you may perform a shove manoeuvre. If there are any other relevant manoeuvres you think you could do, you may substitute one for the shove.
-
-#### Heavy Hitter
-#TODOmigrate 
-While wearing all metal armour, you can parry and block using your arms and all of your attacks may knock back enemies STR meters.
 
 #### Iron Curtain
 If you have not made a melee attack in a round and are wielding a shield, you may parry as a free action as your turn ends.
@@ -63,4 +47,10 @@ Fight Defensively - You may declare you are fighting in a defensive stance as a 
 
 Shield Bash - You may block an enemy attack at a -2. If you succeed, they are knocked down.
 
-Strike True - If an enemy is prone, and you make a melee attack against them, you receive a +4 to hit, and you add 3 to your damage roll.|
+Strike True - If an enemy is prone, and you make a melee attack against them, you receive a +4 to hit, and you add 3 to your damage roll.
+
+---
+
+### Master
+#### Master Block
+You get an additional reaction which you can use to block attacks.

@@ -4,6 +4,11 @@ One of the 8 [Combat Training](Combat-Training) disciplines.
 
 ### Basic
 
+#### Obfuscate
+#TODOMeditation 
+Once per meditation, you can make any character/settlement re-roll a skill test related to discovering the party or their involvement in something.
+
+
 #### Blank Slate
 When caught doing something illegal, as long as you are not captured, it won’t be tied back to you (though may otherwise raise suspicion).
 
@@ -15,10 +20,6 @@ If you have an available reaction, you can always attempt to avoid an incoming a
 
 #### Fast Hands
 You may attempt to disarm someone with a subterfuge skill test.
-
-#### Forgery
-#TODOmigrate Should just be a kit IMO.
-You can roll subterfuge + INT to forge documents and signatures.
 
 #### Juke
 As a free action once per round, you can exchange places with another character in melee. You receive a +1 to rolls against this person during this combat round. After you enter a melee, you can reposition all the characters in it as long as they all remain in melee range (2m).

@@ -63,9 +63,14 @@ These are common bonuses and negatives you can receive on your attacks which wil
 
 ### Combat Modifiers
 These are modifiers you can apply to attacks and manoeuvres which will put you at a negative to the skill test but will make the attack or manoeuvre do additional things. Several other powerful modifiers can be learned by taking specific martial arts or combat training. 
-* Called shot: your attack has a guaranteed hit location. -2 for arm or leg shots, -1 for chest shots, -3 for headshots.
-* Difficult hit: you make your attacks harder to predict and therefore harder to avoid. You can give yourself a -1, -3 or -5 to your skill test to give your opponent a similar negative to any reactions.
-* Reposition: before making a melee attack or manoeuvre, you can move to a different side of your opponent. Puts the attack/manoeuvre at a -1.
+#### Called Shot
+Your attack has a guaranteed hit location. -2 for arm or leg shots, -1 for chest shots, -3 for headshots.
+#### Difficult Hit
+You make your attacks harder to predict and therefore harder to avoid. You can give yourself a -1, -3 or -5 to your skill test to give your opponent a similar negative to any reactions.
+#### Reposition
+before making a melee attack or manoeuvre, you can move to a different side of your opponent. Puts the attack/manoeuvre at a -1.
+
+---
 
 ### Special Manoeuvres
 These are attacks or abilities that any trained fighter can use. This isn’t an exhaustive list of everything you can do in combat but includes some of the manoeuvres that tend to come up a lot. Any manoeuvre which affects an enemy combatant is considered an attack (such as for determining if you are in melee). A number of other powerful manoeuvres can be learned by taking specific martial arts or combat training. When reasonable modifiers and bonuses are applied to these regularly.

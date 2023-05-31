@@ -19,6 +19,9 @@ After performing a ranged attack or manoeuvre targeting an enemy, they need to m
 #### Quarterback
 You can throw weapons and objects designed to be thrown twice the normal range. You can throw any object not designed to be thrown your normal thrown range.
 
+#### Armed To The Teeth
+You can carry twice the consumables or ammo in the same amount of size on your belt. So, as an example, if 10 arrows are 2 size, you may carry 20 arrows as 2 size.
+
 ---
 ### Advanced
 

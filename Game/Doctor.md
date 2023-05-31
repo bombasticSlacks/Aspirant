@@ -35,10 +35,6 @@ When making skill tests with a rending weapon, you may substitute your medicine 
 ---
 ### Advanced
 
-#### Amputation
-#TODOmigrate 
-No negative to called shots with melee weapons.
-
 #### Trauma Doc
 #TODOcopy 
 If you successfully perform first aid on someone, they no longer have any ongoing negatives from injuries. You can also make a medical test to treat ongoing negatives that were caused by someone else's medical work.

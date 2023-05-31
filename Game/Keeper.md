@@ -27,3 +27,9 @@ When in melee on a horse, you may as a free action have the horse attack with ei
 
 #### Horse Control
 When you or your horse are attacked while mounted, you may choose which of you any attack targets. You may also perform reactions to protect your horse against attacks.
+
+---
+
+### Master
+#### Zoologist
+You get a +2 on all interactions with animals. You can converse comfortably with non-intelligent animals as though you were speaking the same language.
