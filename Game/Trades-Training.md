@@ -8,7 +8,7 @@ Trades are furth seperated into 8 specialized schools:
 * [Doctor](Doctor)
 * [Hunter](Hunter)
 * [Labourer](Labourer)
-* [Shadow](Shadow)
+* [Commander](Commander)
 * [Scientist](Scientist)
 * [Craftsman](Craftsman)
 

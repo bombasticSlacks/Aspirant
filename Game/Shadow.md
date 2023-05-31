@@ -1,5 +1,5 @@
 ## Shadow
-One of the 8 [Trades Training](Trades-Training) disciplines.
+One of the 8 [Combat Training](Combat-Training) disciplines.
 #TODOcopy 
 
 ### Basic

@@ -11,7 +11,7 @@ Combat is furth seperated into 8 specialized schools:
 * [Marksman](Marksman)
 * [Pugilist](Pugilist)
 * [Berserker](Berserker)
-* [Commander](Commander)
+* [Shadow](Shadow)
 
 Any specialist in one of the above schools can also teach any of the following trainings:
 
