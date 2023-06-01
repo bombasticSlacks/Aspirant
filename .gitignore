@@ -2,6 +2,4 @@
 .obsidian/hotkeys.json
 .obsidian/appearance.json
 .obsidian/graph.json
-.obsidian/plugins/obsidian-languagetool-plugin
-.obsidian/plugins/**/main.js
-.obsidian/plugins/**/styles.css
+.obsidian/plugins
