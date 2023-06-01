@@ -4,24 +4,24 @@
 | --------------------------------------------------- | ---- |
 | [Balanced](#Balanced)                               | 1    |
 | [Black Powder](#Black%20Powder)                     | 1    |
-| [Bow](#Bow)                                         | 2    |
 | [Crossbow](#Crossbow)                               | 1    |
 | [Deadly Draw](#Deadly%20Draw)                       | 1    |
 | [Fast Reloading](#Fast%20Reloading)                 | 1    |
-| [Folding](#Folding)                                 | 2    |
 | [Hand and a Half](#Hand%20and%20a%20Half)           | 1    |
 | [Inscribed](#Inscribed)                             | 1    |
 | [Lethal](#Lethal)                                   | 1    |
 | [Momentum](#Momentum)                               | 1    |
 | [Multiple Damage Types](#Multiple%20Damage%20Types) | 1    |
 | [Multiple Shots](#Multiple%20Shots)                 | 1    |
-| [Overweight](#Overweight)                           | 2    |
-| [Penetrating](#Penetrating)                         | 2    |
-| [Perfect](#Perfect)                                 | 2    |
 | [Reach](#Reach)                                     | 1    |
 | [Shield](#Shield)                                   | 1    |
 | [Sling](#Sling)                                     | 1    |
 | [Throwable](#Throwable)                             | 1    |
+| [Bow](#Bow)                                         | 2    |
+| [Folding](#Folding)                                 | 2    |
+| [Overweight](#Overweight)                           | 2    |
+| [Penetrating](#Penetrating)                         | 2    |
+| [Perfect](#Perfect)                                 | 2    |
 
 ### 1 Cost Traits
 
