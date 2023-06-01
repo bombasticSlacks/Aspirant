@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "spellcheck": false,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "spellcheckDictionary": [
+    "Duelist"
+  ]
+}

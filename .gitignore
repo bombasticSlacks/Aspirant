@@ -1,1 +1,8 @@
-.obsidian
+.obsidian/workspace.json
+.obsidian/hotkeys.json
+.obsidian/appearance.json
+.obsidian/graph.json
+.obsidian/plugins/obsidian-languagetool-plugin
+.obsidian/plugins/**/main.js
+.obsidian/plugins/**/manifest.json
+.obsidian/plugins/**/styles.css
