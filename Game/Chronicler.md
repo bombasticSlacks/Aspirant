@@ -12,8 +12,7 @@ You automatically succeed on anything you do on a roll of double 1’s.
 After the [Evening Activity](Telling-The-Story#Evening%20Activities) [Socialize](Telling-The-Story#Socialize), you can attempt Medicine, Science, Crafting, Performance skill tests with the same skill level as the person with the highest skill rank in your party who also socialized. 
 
 #### Intellectual Leap
-#TODOMeditation
-When you use knowledge to gain information, you can infer another useful fact about the thing. Ask another question and the GM should answer honestly.
+When you use knowledge to gain information, you can spend 1 [Power](Stats#Power) to infer another useful fact about the thing. Ask another question and the GM should answer honestly.
 
 #### Internal Monologue
 You receive hints and tips from the GM in the form of an internal monologue.
@@ -45,7 +44,7 @@ You may keep someone's attention and interest, even in a topic you know nothing 
 ---
 ### Advanced
 #### Cram Session
-During meditation, you can select any one of your skills that isn’t already at 3 ranks to count as being one rank higher until the next meditation.
+During [Meditate](Telling-The-Story#Meditate), you can select any one of your skills that isn’t already at 3 ranks to count as being one rank higher until the next meditation.
 
 #### Contacts
 As a downtime action, you can spend a day setting up contacts in any location. This contact network can be queried for information and will send relevant info your way.

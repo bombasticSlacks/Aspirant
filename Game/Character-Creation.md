@@ -159,6 +159,4 @@ You also begin with a:
 * A wild horse
 * 1 additional leather armour piece of the players choice
 
-
-#TODO
 ## [Cultural Mutations](Cultural-Mutations)

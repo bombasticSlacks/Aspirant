@@ -54,10 +54,10 @@ You may, as an action in combat, perform on your instrument to provide bonuses t
 During the evening activity socialize, you can select a training that another member of your party has, which you count as having until your next downtime.
 
 #### What I Meant Was
-Once per meditation during narrative time, after speaking to someone and hearing how they react, you may say “what I meant to say was…” and the original reaction will be forgotten with the conversation continuing as if it didn’t happen.
+Spend 2 [Power](Stats#Power) during narrative time, after speaking to someone and hearing how they react, you may say “what I meant to say was…” and the original reaction will be forgotten with the conversation continuing as if it didn’t happen.
 
 ---
 ### Master
 
 #### Perform As The Legends
-Up to your FEL times per meditation, you may instead of a normal skill test that you could otherwise perform substitute a performance skill test.
+Spend 1 [Power](Stats#Power), instead of a normal skill test that you could otherwise perform, substitute a performance skill test.

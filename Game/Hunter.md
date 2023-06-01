@@ -6,13 +6,8 @@ One of the 8 [Trades Training](Trades-Training) disciplines.
 #### Explorer
 You ignore terrain effects and obstacles in combat.
 
-#### Always Ready
-#TODORedundant 
-You receive +2 to initiative tests.
-
 #### Check Again
-#TODOMeditation 
-Once per meditation, you can ask the GM if there is anything you missed in a room or area.
+Spend a [Power](Stats#Power), you can ask the GM if there is anything you missed in a room or area.
 
 #### Collector
 You can comfortably ride with an additional person or thing restrained on your horse.
