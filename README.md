@@ -19,3 +19,10 @@ Written By: [Dillon Matchett](https://github.com/bombasticSlacks) Licensed Under
 ## Automation
 Any PRs to the game folder will automatically populate to the [Wiki,](https://github.com/bombasticSlacks/Aspirant/wiki/How-To-Play) no additional work needs to be done.
 
+## Configuring Obsidian
+To work on Aspirant I use https://github.com/tgrosinger/advanced-tables-obsidian, https://github.com/platers/obsidian-linter, and https://github.com/Vinzent03/obsidian-sort-and-permute-lines
+
+### Adding Linter Config
+
+To add the linter config to your system you can take the data file in the .obsidian/linter-config folder and put it in
+.obsidian/plugins/obsidian-linter overwrite what is already there.
