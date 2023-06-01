@@ -71,7 +71,7 @@ Sheath Block - You can parry and block while your weapon is sheathed.
 Reenter Stance – At the end of any attack or manoeuvre, other than quick draw, you may end it by sheathing your Iaido weapon.
 
 #### Master Of Arms
-INT times per meditation, you can declare a weapon you are using has an additional trait worth up to 2 trait points. It has that trait for the rest of an encounter. If this is used additional times in a single encounter only the most recently declared Master Of Arms trait counts. 
+You can declare a weapon you are using has an additional trait worth up to 2 trait points. It has that trait for the rest of an encounter. Using this ability costs [Power](Stats#Power) equal to the trait value. If this is used additional times in a single encounter only the most recently declared Master Of Arms trait counts. 
 
 #### Constant Movement
 You can perform reactions during your own turn.

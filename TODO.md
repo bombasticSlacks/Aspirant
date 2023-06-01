@@ -42,15 +42,9 @@ Training for guarding at night
 
 Talents by basic, then advanced but alphabetized.
 
-Missplaced trainings : Whirlwind, lead to gold, mage hand(?)
-
-Additional metamagic level (?)
-
 Labourer stuff in generalist (?)
 
-Magic, maybe add some tags to trainings? 
-
-Maybe move to 3 tiers of trainings (Master).
+More Master Training.
 
 Section on evading attacks.
 

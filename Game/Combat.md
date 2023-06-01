@@ -88,11 +88,23 @@ These are attacks or abilities that any trained fighter can use. This isn’t an
 
 ### Reacting to Attacks
 During each full turn of combat, each character gets a single reaction, which they can use when something else happens during combat. Your reaction refreshes on your turn. In general, these are used to avoid incoming attacks. The generally available reactions are:
-* Block: which is a melee skill test at (-2) where if you succeed, you ignore damage and other effects from a melee attack. The attack still counts as hitting you (this can be relevant for certain effects).
-* Dodge: which is an acrobatics skill test at (-2) where if you succeed then an enemy attack doesn’t hit you. You cannot dodge while prone.
-* Move to Cover: which is an acrobatics skill test (0) where if you succeed then you may move to a piece of cover within agility meters before an enemy ranged attack is calculated. You cannot Move to Cover while prone.
-* Attack of opportunity: a melee skill test at (-2) which you may perform if someone moves while in melee with you. If successful, you can resolve an attack against them, which they cannot dodge.
-* All Out Attack: declare that you forgo your reaction for the turn to get a +2 on an action on your turn.
+
+#### Block
+A melee skill test at (-2) where if you succeed, you ignore damage and other effects from a melee attack. The attack still counts as hitting you (this can be relevant for certain effects).
+
+#### Dodge
+An acrobatics skill test at (-2) where if you succeed then an enemy attack doesn’t hit you. You cannot dodge while prone.
+
+#### Move to Cover
+An acrobatics skill test (0) where if you succeed then you may move to a piece of cover within agility meters before an enemy ranged attack is calculated. You cannot Move to Cover while prone.
+
+#### Attack of Opportunity
+A melee skill test at (-2) which you may perform if someone moves while in melee with you. If successful, you can resolve an attack against them, which they cannot dodge.
+
+#### All Out Attack
+Declare that you forgo your reaction for the turn to get a +2 on an action on your turn.
+
+---
 
 ### Hit Locations
 Hit locations are usually simplified to head, body, dominant arm, nondominant arm, legs.

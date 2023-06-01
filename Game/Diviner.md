@@ -9,15 +9,13 @@ Your character can perform [rituals](Skills#Ritual) to:
 Detect the unseen, gather information about things you could not otherwise know.
 
 #### Danger Sense
-#TODORedundant 
 +2 to initiative tests, you cannot be surprised.
 
 #### Foresight
-#TODOLINK 
-As a reaction, you may dodge using a divination skill test.
+As a [reaction](Combat#Reacting%20to%20Attacks), you may [Dodge](Combat#Dodge) using a divination skill test.
 
 #### True Sight
-You can perceive things supernaturally within RES x 10m.
+You can perceive things supernaturally within [Resolve](Stats#Resolve) x 10m.
 
 ---
 ### Advanced
@@ -27,7 +25,7 @@ If your character has [Amateur Divination](#Amateur%20Divination) training, your
 See into the future what may happen, see into the past what has happened.
 
 #### Oracle
-During each meditation roll 2d6. At any point before the next meditation, you may choose to have any skill test use that roll result.
+During [Meditate](Telling-The-Story#Meditate) roll 2d6. At any point before the next meditation, you may choose to have any skill test use that roll result.
 
 ### Master
 

@@ -16,9 +16,6 @@ Other Dual Wielding training can be used with any size weapon.
 #### Multitasking
 On your turn, you may make an attack at -2 additional difficulty, and then perform a non-attack action or movement.
 
-#### Quick Draw
-AGI times per meditation, you can make an attack with a size 1 weapon as a free action.
-
 #### Head Down
 If you move during your turn, enemies suffer a -2 to hit you with ranged attacks until your next turn.
 
@@ -39,6 +36,9 @@ Lash Out - You can throw your smaller weapon as a free action.
 
 #### Hyper Block
 You can block and parry ranged projectiles. 
+
+#### Quick Draw
+If you spend 2 [Power](Stats#Power), you can make an attack with a size 1 weapon as a free action.
 
 ---
 ### Master

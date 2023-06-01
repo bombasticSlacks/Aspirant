@@ -5,8 +5,7 @@ One of the 8 [Combat Training](Combat-Training) disciplines.
 ### Basic
 
 #### Obfuscate
-#TODOMeditation 
-Once per meditation, you can make any character/settlement re-roll a skill test related to discovering the party or their involvement in something.
+Spend 2 [Power](Stats#Power), you can make any character/settlement re-roll a skill test related to discovering the party or their involvement in something.
 
 
 #### Blank Slate
@@ -68,7 +67,7 @@ You can manoeuvre perfectly well in the dark or when your vision is otherwise im
 When rolling subterfuge to hide, move silently etc. you can include a small group of people at no negative. They don't need to make their own subterfuge skill test. 
 
 #### Vanish
-If within 3m of a piece of cover you can once per meditation lose all attention in the combat and act as though no one were aware of you until you draw attention to yourself. This can also be used out of combat for a similar effect, however out of combat it isn’t limited and requires a skill test.
+If within 3m of a piece of cover you can spend 3 [Power](Stats#Power) to lose all attention in the combat and act as though no one were aware of you until you draw attention to yourself. This can also be used out of combat for a similar effect, however out of combat it isn’t limited and requires a skill test.
 
 ---
 ### Master

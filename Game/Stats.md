@@ -48,14 +48,16 @@ An abstraction of your characters potential to learn and gain new abilities. [[C
 #### Spent XP
 Aspirants will not immediately spend experience as they gain it, expertise comes from the knowledge of others so your spent XP should be tracked seperately from your total.
 
+#### Power
+A stat tracking how many times you character can perform certain powerful abilities. Some [Training](Character-Development#Training) will require you to expend this resource. It can be regained using the [Meditate](Telling-The-Story#Meditate) [Evening Activity](Telling-The-Story#Evening%20Activities).
+
+Power is equal to 2 + 1 per [Training](Character-Development#Training) that requires power.
+
 #### Move Speed
 How far your character can move in 1 turn of combat. AGI * 2 meters.
 
 #### Initiative
 Your AGI + INT. Used to determine turn order in combat.
-
-#### Passive Perception
-Your Perception skill bonus.
 
 #### Threat
 The size of your largest weapon. Used to determine who unintelligent monsters target at random.

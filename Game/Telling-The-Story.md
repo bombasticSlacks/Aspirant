@@ -25,7 +25,7 @@ During travel, characters may encounter other travellers, enemies or a point of 
 #### Half Work
 Do half the work required for a type of Production Work. If this is the second half of the job, roll the required skill tests and check the outcome of the job.
 #### Meditate
-Meditate, and refresh the uses of all your abilities.
+Refresh your [Power](Stats#Power) to maximum.
 #### On Watch
 Dedicate yourself to the night watch, you receive a +3 on any perception tests against ambush and are fully equipped if ambushed. 
 #### Socialize
