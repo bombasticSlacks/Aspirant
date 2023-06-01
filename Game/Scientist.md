@@ -3,6 +3,13 @@ One of the 8 [Trades Training](Trades-Training) disciplines.
 #TODOcopy 
 
 ### Basic
+#### Macguffin
+You know just the thing to solve this problem. It might take time to find or build, but once per session you know just the thing to resolve an issue and the answer will be relatively on hand.
+
+#### Apophenia
+#TODOMeditation 
+Once per meditation, you can declare your far-fetched theory about what is really going on. Rolls you make which help confirm or refute your theory receive +1.
+
 #### Artificer
 #TODOcopy 
 As [Production Work](Telling-The-Story#Production%20Work), you can create [Prosthetics](Character-Development#Prosthetics) that characters can use with ease.
@@ -21,31 +28,17 @@ You can make ranged attack skill tests using the [Science](Skills#Science) skill
 #### Scientific Activation
 You can attempt to activate magical items using the [Science](Skills#Science) skill.
 
-#### Specialized Tools
-#TODOmigrate 
-As an [Evening Activity](Telling-The-Story#Evening%20Activities), you can select a specific [Toolkit](Gear#Toolkits) to pre-prepare. When using that tool kit the next day, you get a +2 to all skill tests.
-
-#### Trapper
-#TODOmigrate should be just equipment.
-You can create traps and set traps using the crafting skill.
-
 #### Alchemy
 As production work you can craft an alchemical potion, medicine or other mixture.
-
-#### Herbology
-#TODOmigrate 
-Your knowledge extends to regional and magical flora.
 
 #### Gatherer
 As production work, you can harvest local flora. Perform a [Variable Difficulty](Skills#Variable%20Difficulty) [Science](Skills#Science) skill test to look for local wild or rare flora. The test for rare flora is at a -2. If you succeed, you receive 1 [Reagents](Resources#Reagents) plus 1 additional per step of success.
 
+#### Visual Calculus
+You can visualize what nearby characters are doing even if you can’t directly see them. This also means you can attack them through cover and other similar situations.
+
 ---
 ### Advanced
-
-#### Jury Rigging
-#TODOmigrate 
-#TODOcopy 
-You can create single-use tools using exceptionally basic materials, simpler than would otherwise be allowed.
 
 #### Multitasker
 Once per downtime, you can opt to take a second combat action after your first or expedite / multitask two narrative actions.

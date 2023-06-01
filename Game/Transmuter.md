@@ -11,10 +11,6 @@ Change a comestible into something more useful. Alter yourself in simple ways.
 #### Wire Fight
 You Can Use RES instead of Agility to Calculate Movement distance.
 
-#### Mage Hand
-#TODOmigrate 
-You can levitate things up to your RES in size and RES x 2 meters away as naturally as picking them up normally.
-
 #### Wild Casting
 You can cast spells normally while transformed into a non-humanoid creature.
 

@@ -30,7 +30,7 @@ There are 24 traditional trainers in Aspirant. These are spread evenly over thre
 	* [Marksman](Marksman)
 	* [Pugilist](Pugilist)
 	* [Berserker](Berserker)
-	* [Commander](Commander)
+	* [Leader](Leader)
 * [Magic-Training](Magic-Training)
 	* [Abjurer](Abjurer)
 	* [Conjurer](Conjurer)

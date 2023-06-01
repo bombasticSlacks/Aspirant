@@ -14,16 +14,19 @@ You receive a +1 to melee skill tests to block and when you perform a parry mano
 Enemies receive a -1 to reactions against you.
 
 #### Fight Smart
-#TODOmigrate 
 You may substitute your STR with INT for combat skill tests where relevant.
 
 #### Flowing Defence
-You receive a +1 to reactions per attack you’ve already mitigated this turn.|
+You receive a +1 to reactions per attack you’ve already mitigated this turn.
 
 #### Sole Combatant
 You receive a +1 to all combat tests when in melee with only 1 other character.
 
-Enemies don’t receive benefits for outnumbering you.|
+Enemies don’t receive benefits for outnumbering you.
+
+#### Planted
+
+If you haven’t moved this turn or last turn, you get a +2 to combat skill tests and get +2 to damage bonus.
 
 
 ---
@@ -37,12 +40,18 @@ Circle Parry – A Special Manoeuvre that behaves like parrying with the additio
 
 Riposte – A modifier for when blocking. When blocking an opponent, you can take a -2 to your block. If you succeed, you can immediately make an attack or manoeuvre against that opponent.
 
-Lunge – When you move into melee and attack in a turn, you add +1 to your damage roll.|
+Lunge – When you move into melee and attack in a turn, you add +1 to your damage roll.
 
-#### Helmsman
-#TODOmigrate 
-You can opt to direct any head attacks to your body.|
+#### Protect the Head
+You can opt to direct any head attacks to your body.
 
-#### Whirlwind
-#TODOmigrate 
-As a special manoeuvre, you can Whirlwind Attack. This manoeuvre means you can make an individual melee attack against a number of enemies that you moved within 2m of this turn, up to your AGI in total enemies. Each successful attack is at a negative to damage equal to the number of people being attacked but otherwise, is treated as a regular melee attack.|
+---
+
+### Master
+#### Strike True
+No negative to [Called Shot](Combat#Called%20Shot) with melee weapons.
+
+#### Dance Of Death
+While armed with a weapon of size 2 or less, you can Dance Of Death.
+
+Dance Of Death - On your turn, as a free action, you may declare you are using dance of death and every opponent in melee with you must make an acrobatics test. If they succeed, whenever you move any distance they must choose to either move with you or take an immediate severe injury to the legs. If they fail their acrobatics test, they have to suffer a severe injury to the legs. Dance of death lasts until your next turn. Characters affected by dance of death that fail their acrobatics test cannot perform attacks of opportunity.

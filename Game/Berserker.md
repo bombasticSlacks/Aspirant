@@ -18,10 +18,6 @@ Your opponents have a 50% chance of hitting one of the other people in a melee c
 #### Monstrous Leap
 You calculate your movement distance based on strength instead of agility if you end your movement with a melee attack. 
 
-#### Planted
-#TODOmigrate 
-If you haven’t moved this turn or last turn, you get a +2 to combat skill tests and get +2 to damage bonus.
-
 #### Powerful Strike
 You may opt to take a negative on an attack to get an equivalent bonus to damage up to +5.
 

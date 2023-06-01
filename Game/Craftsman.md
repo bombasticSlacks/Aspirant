@@ -42,6 +42,9 @@ As an [Evening Activity](Telling-The-Story#Evening%20Activities) you may repair 
 #### Weak Spot
 You know the Armour Integrity, weakness, and resistance of any character's armour that you can see.
 
+#### Specialized Tools
+As an [Evening Activity](Telling-The-Story#Evening%20Activities), you can select a specific [Toolkit](Gear#Toolkits) to pre-prepare. When using that tool kit the next day, you get a +2 to all skill tests.
+
 ---
 ### Advanced
 #### Custom Job
@@ -52,6 +55,10 @@ Up to two of your weapons of size 3 or less are integrated into your armour / cl
 
 #### Monster Hunter
 When using the Tailor or Metalsmith training, you can work with exotic materials from monsters.
+
+#### Jury Rigging
+#TODOcopy 
+You can create single-use tools using exceptionally basic materials, simpler than would otherwise be allowed.
 
 ---
 ### Master

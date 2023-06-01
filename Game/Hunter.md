@@ -3,6 +3,9 @@ One of the 8 [Trades Training](Trades-Training) disciplines.
 #TODOcopy 
 
 ### Basic
+#### Explorer
+You ignore terrain effects and obstacles in combat.
+
 #### Always Ready
 #TODORedundant 
 You receive +2 to initiative tests.
@@ -16,10 +19,6 @@ You can comfortably ride with an additional person or thing restrained on your h
 
 #### Home In Nature
 You receive a +1 to all skill tests related to surviving and navigating natural environments.
-
-#### Know The Enemy
-#TODOmigrate 
-Your knowledge extends to animals and monsters.
 
 #### Kryptonite
 If you succeed on a knowledge skill test to know about an enemy animal or monster, you can choose to know about their movements or their weaknesses. Everyone in the party gets either a +1 to hit, +1 to evade or +1 to damage rolls when facing the monster.
@@ -37,10 +36,6 @@ After injuring someone, you may always opt for them to go unconscious instead of
 After inflicting an injury in melee, you can spend your reaction to intimidate an enemy with a converse skill test with difficulty equal to their RES. If you succeed, they surrender; otherwise, they take a -2 to all actions until your next turn.
 
 Some enemies are not intelligent enough or just refuse to surrender under any circumstances.
-
-#### Terrifying
-#TODOmigrate 
-You get a +2 to all social tests to intimidate and scare people. You receive a -1 on all other social skill tests.
 
 #### Travel the Shadows
 #TODORedundant 
@@ -61,16 +56,11 @@ If you have someone detained for any meaningful amount of time, they can hide no
 #TODOmaster 
 Your minor injuries cause opponents to become injured.
 
-#### Shoot First
-#TODOmigrate ?
+#### Ambusher
 If you are shadowing or otherwise not the centre of attention as a combat starts, you get an additional free turn before initiative starts.
 
 #### Live off the Land
 You don’t need to pay for food when traveling for you or any animals you own.
-
-#### Zoologist
-#TODOmigrate 
-You get a +2 on all interactions with animals. You can converse comfortably with non-intelligent animals as though you were speaking the same language.
 
 ---
 ### Master

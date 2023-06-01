@@ -13,10 +13,6 @@ As skilled work, you can busk. Make a variable difficulty performance skill test
 #### Come In Peace
 Allies and yourself gain a +1 to social skill tests when interacting with residents of an area.
 
-#### Constant Movement
-#TODOmigrate 
-You can perform reactions during your own turn.
-
 #### Contortionist
 You can fit into impractically small spaces comfortably.
 
@@ -38,17 +34,11 @@ You don’t need to roll performance to lie about small, insignificant things.
 #### Writer Of History
 When an ally would be assigned a nickname, or a legend would be written, you can influence how it is recorded.
 
+#### Second Identity
+You have a second identity which you can assume at any time. While pretending to be this person, you don’t need to make fib tests about their life.
+
 ---
 ### Advanced
-#### Battle Step
-#TODOmigrate 
-Each round of combat, you receive 1 additional reaction that can only be used to dodge.
-
-#### Dance Of Death
-#TODOmigrate 
-While armed with a weapon of size 2 or less or unarmed, you can Dance Of Death.
-
-Dance Of Death - On your turn, as a free action, you may declare you are using dance of death and every opponent in melee with you must make an acrobatics test. If they succeed, whenever you move any distance they must choose to either move with you or take an immediate severe injury to the legs. If they fail their acrobatics test, they have to suffer a severe injury to the legs. Dance of death lasts until your next turn. Characters affected by dance of death that fail their acrobatics test cannot perform attacks of opportunity.
 
 #### Editorializing
 Once per downtime, if they are willing, you may give any character a single re-roll for any dice roll.
@@ -62,6 +52,9 @@ You may, as an action in combat, perform on your instrument to provide bonuses t
 
 #### Understudy
 During the evening activity socialize, you can select a training that another member of your party has, which you count as having until your next downtime.
+
+#### What I Meant Was
+Once per meditation during narrative time, after speaking to someone and hearing how they react, you may say “what I meant to say was…” and the original reaction will be forgotten with the conversation continuing as if it didn’t happen.
 
 ---
 ### Master

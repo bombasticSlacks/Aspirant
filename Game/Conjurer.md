@@ -11,6 +11,9 @@ Teleport a nearby item to yourself, summon a familiar that obeys, conjure simple
 #### Bound Summon
 You can maintain one summoned creature long term without requiring skill tests or active focus.
 
+#### Mage Hand
+You can levitate things up to your RES in size and RES x 2 meters away as naturally as picking them up normally.
+
 ---
 ### Advanced
 #### Expert Conjuration

@@ -1,5 +1,5 @@
-## Commander
-One of the 8 [combat training](Combat-Training) disciplines.
+## Leader
+One of the 8 [Trades-Training](Trades-Training) disciplines.
 #TODOcopy 
 
 ### Basic

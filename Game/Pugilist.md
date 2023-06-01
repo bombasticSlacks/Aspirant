@@ -8,7 +8,6 @@ One of the 8 [combat training](Combat-Training) disciplines.
 You can attack unarmed as though you had a melee weapons with a damage bonus of 2 + STR.
 
 #### Fleet Footed
-#TODOmigrate 
 Overwatch attacks always miss you. You can move out of melee without triggering attacks of opportunity.
 
 #### Flesh Prison
@@ -19,6 +18,9 @@ Your opponents do not get to add their skill when rolling to escape a grapple.
 
 #### Living Weapon
 Your character always counts as armed and can, as long as they are conscious, always attack as though your hands were unbound.
+
+#### Heavy Hitter
+While wearing metal arm armour, you can parry and block using your arms and all of your attacks may knock back enemies STR meters.
 
 ---
 ### Advanced

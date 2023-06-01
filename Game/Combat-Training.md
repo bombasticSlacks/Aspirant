@@ -11,7 +11,7 @@ Combat is furth seperated into 8 specialized schools:
 * [Marksman](Marksman)
 * [Pugilist](Pugilist)
 * [Berserker](Berserker)
-* [Commander](Commander)
+* [Shadow](Shadow)
 
 Any specialist in one of the above schools can also teach any of the following trainings:
 
@@ -41,6 +41,9 @@ You receive a +1 to all skill tests involving weapons.
 #### Martial Training
 You can use any martial weapons without penalty. 
 
+#### Strapped
+You get an additional 4 size worth of belt space.
+
 ---
 
 ### Advanced Training
@@ -57,10 +60,6 @@ Hold – A special manoeuvre similar to parry, however if an enemy moves and the
 
 Strike True - If an enemy is prone, and you make a melee attack against them, you receive a +4 to hit, and you add 3 to your damage roll.
 
-#### Hyper Block
-#TODOmigrate
-You can block and parry ranged projectiles. 
-
 #### Iaido
 #TODOoverloaded
 When using a one handed weapon with a sheath, you can Quick Draw, Sheath Block, and Reenter Stance.
@@ -71,9 +70,8 @@ Sheath Block - You can parry and block while your weapon is sheathed.
 
 Reenter Stance – At the end of any attack or manoeuvre, other than quick draw, you may end it by sheathing your Iaido weapon.
 
-#### Master Block
-#TODOmigrate
-You get an additional reaction which you can use to block attacks.
-
 #### Master Of Arms
 INT times per meditation, you can declare a weapon you are using has an additional trait worth up to 2 trait points. It has that trait for the rest of an encounter. If this is used additional times in a single encounter only the most recently declared Master Of Arms trait counts. 
+
+#### Constant Movement
+You can perform reactions during your own turn.
