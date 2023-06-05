@@ -4,7 +4,7 @@ One of the 8 [Magic-Training](Magic-Training) disciplines.
 
 ### Basic
 #### Amateur Necromancy
-Your character can perform [rituals](Skills#Ritual) to:
+Your character can perform [Ritual](Ritual) to:
 
 You can command and manipulate unintelligent spirits and undead.
 
@@ -18,7 +18,7 @@ Your necromancy can appear heavenly/holy; this means it will not appear as perve
 ### Advanced
 
 #### Expert Necromancy
-If your character has [Amateur Necromancy](#Amateur%20Necromancy) training, your character can [rituals](Skills#Ritual) to:
+If your character has [Amateur Necromancy](#Amateur%20Necromancy) training, your character can [Ritual](Ritual) to:
 
 You can create undead of your own, and transplant souls between vessels.
 
@@ -26,6 +26,6 @@ You can create undead of your own, and transplant souls between vessels.
 ### Master
 
 #### Master Necromancy
-If your character has [Expert Necromancy](#Expert%20Necromancy) training, your character can [rituals](Skills#Ritual) to:
+If your character has [Expert Necromancy](#Expert%20Necromancy) training, your character can [Ritual](Ritual) to:
 
 You can manipulate life itself and control intelligent undead.

@@ -12,10 +12,10 @@ affects different locations separately and is the maximum bonus you can have on 
 
 | Location | Skills effected                                |
 | -------- | ---------------------------------------------- |
-| Head     | Perception Tests, Performance, and Converse    |
-| Arms     | Melee, ranged, channel, and ritual skill tests |
+| Head     | [Perception](Perception), [Perform](Perform.md), and [Converse](Converse)    |
+| Arms     | [Melee](Melee), [Marksmanship](Marksmanship), [Channel](Channel), and [Ritual](Ritual) |
 | Torso    | *No Penalties*                                 |
-| Legs     | Acrobatics, Subterfuge                                               |
+| Legs     | [Acrobatics](Acrobatics), [Subterfuge](Subterfuge)                                               |
 
 #### Weakness and Resistance
 Changes how certain [types of damage](Combat#Types%20of%20Damage) effect you. See [dealing damage](Combat#Dealing%20Damage) for details.

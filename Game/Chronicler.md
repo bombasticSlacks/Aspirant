@@ -9,10 +9,10 @@ One of the 8 [Trades Training](Trades-Training) disciplines.
 You automatically succeed on anything you do on a roll of double 1’s.
 
 #### Fast Learner
-After the [Evening Activity](Telling-The-Story#Evening%20Activities) [Socialize](Telling-The-Story#Socialize), you can attempt Medicine, Science, Crafting, Performance skill tests with the same skill level as the person with the highest skill rank in your party who also socialized. 
+After the [Evening Activity](Telling-The-Story#Evening%20Activities) [Socialize](Telling-The-Story#Socialize), you can attempt [Medicine](Medicine), [Science](Science), [Crafting](Crafting), [Perform](Perform) skill tests with the same skill level as the person with the highest skill rank in your party who also socialized. 
 
 #### Intellectual Leap
-When you use knowledge to gain information, you can spend 1 [Power](Stats#Power) to infer another useful fact about the thing. Ask another question and the GM should answer honestly.
+When you use to gain information, you can spend 1 [Power](Stats#Power) to infer another useful fact about the thing. Ask another question and the GM should answer honestly.
 
 #### Internal Monologue
 You receive hints and tips from the GM in the form of an internal monologue.
@@ -21,22 +21,25 @@ You receive hints and tips from the GM in the form of an internal monologue.
 Your character memorizes any document you get to see.                   
 
 #### Knowledgeable Geographer
-Your [Knowledge](Skills#Knowledge) extends to geography.
+Your [Knowledge](Knowledge) extends to geography.
 
 #### Knowledgeable Historian
-Your [Knowledge](Skills#Knowledge) extends to history.
+Your [Knowledge](Knowledge) extends to history.
 
 #### Knowledgeable Interpreter
-Your [Knowledge](Skills#Knowledge) extends to religious groups, otherworldly entities and superstitions.
+Your [Knowledge](Knowledge) extends to religious groups, otherworldly entities and superstitions.
 
 #### Knowledgeable Crypto-Zoologist
-Your [Knowledge](Skills#Knowledge) extends to animals and monsters.
+Your [Knowledge](Knowledge) extends to animals and monsters.
 
 #### Knowledgeable Herbologist
-Your [Knowledge](Skills#Knowledge) extends to regional and magical flora.
+Your [Knowledge](Knowledge) extends to regional and magical flora.
 
 #### Knowledgeable Laws and Customs
-Your [Knowledge](Skills#Knowledge) extends to the nuanced laws and customs of areas.
+Your [Knowledge](Knowledge) extends to the nuanced laws and customs of areas.
+
+#### Knowledgeable Tactician
+Your [Knowledge](Knowledge) extends to historical and strategic military knowledge.
 
 #### Babble
 You may keep someone's attention and interest, even in a topic you know nothing about by using the perform skill.

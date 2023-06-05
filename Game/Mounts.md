@@ -6,7 +6,7 @@ Mounts provide a few core benefits
 - Additional storage
 - Potential combat use   
 
-Mounts of all kinds have 3 primary stats. When you need to make a skill test on behalf of your mount, you will generally roll Relevant Stat + Husbandry
+Mounts of all kinds have 3 primary stats. When you need to make a skill test on behalf of your mount, you will generally roll Relevant Stat + [Husbandry](Husbandry)
 
 ### Mobility
 How well your mount moves. Any time your mount needs to avoid something, jump, rush to a location, this is the relevant attribute.

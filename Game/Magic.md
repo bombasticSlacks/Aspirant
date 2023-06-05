@@ -1,5 +1,5 @@
 ## Magic
-Characters with the skills of channel or ritual and some training in magical disciplines can perform powerful feats of magic.
+Characters with the skills of [Channel](Channel) or ritual and some training in magical disciplines can perform powerful feats of magic.
 
 ### Restrictions
 Unlike with most skills, magic is a complex field. There is a limit on what difficulty spell you can attempt to cast based on discipline and training. So, a character with channeller training and basic Abjuration can at most attempt amateur abjuration spells, anything above that would be impossible. A magic skill when under pressure has a related skill test penalty. When under pressure, amateur spells have a 0, expert spells have a -1, master level spells have a -2.
@@ -11,7 +11,7 @@ There are 8 generally used magical disciplines (however, there are plenty of oth
 In general, narrative magic abilities have a range of 10m. If you use a magic power outside that range, similar negatives to those imposed on ranged attacks apply.
 
 ### Channelling
-These disciplines are all considered under the channelling skill and can be used immediately by pulling energy or manipulating magic in the world around you. Generally, to do any channelled magic, you will need a focus and crystallized magic with the magical capacity to help you cast the spell.
+These disciplines are all considered under the [Channel](Channel) skill and can be used immediately by pulling energy or manipulating magic in the world around you. Generally, to do any channelled magic, you will need a focus and crystallized magic with the magical capacity to help you cast the spell.
 
 #### Abjuration
 The act of manipulating magic itself and protecting against things. A character could use abjuration magic to create a protective barrier, disrupt a spell or curse, stop a troll's regeneration.
@@ -29,7 +29,7 @@ The act of manipulating matter. A character could use transmutation to alter the
 Crystallized magic is an infused or naturally magically resonant material that allows a channeller to transform pure magic into effects on the material world. Crystallized magic is necessary to perform any meaningful magical effect, it can be purchased like any other [equipment](https://docs.google.com/document/d/1Pjotbn26OeQPVqfVwTOxSper5irKWGEU5Zs8rtsO9zI/edit#heading=h.d44f0cukbvb). When casting a spell, you need to expend a unit of crystallized magic per level of the spell, so amateur spells require 1 unit, expert 2, and master 3. If you do not succeed, there is a 50% chance that the crystallized magic is not expended. 
 
 #### Focus
-Some channelled abilities will require you to remain focused on them. A character can focus on 1 channelled spell at a time and while focusing any additional channels performed are at a -2. Generally, after an hour of channelling a spell, a character needs to make an athletics test or become exhausted and be forced to end the channel. This test repeats every hour.
+Some channelled abilities will require you to remain focused on them. A character can focus on 1 channelled spell at a time and while focusing any additional channels performed are at a -2. Generally, after an hour of channelling a spell, a character needs to make an athletics test or become exhausted and be forced to end the [Channel](Channel). This test repeats every hour.
 
 ### Ritual
 These disciplines are all considered under the Ritual skill and are related to lengthier magic processes but also more powerful. A ritual will usually require time, reagents, and some form of ritual.
