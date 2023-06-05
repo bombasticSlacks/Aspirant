@@ -8,7 +8,7 @@ To build a weapon:
 - Select a number of traits for the weapon equal to the amount available based on category
 
 ### Material
-Generally, weapons material isn’t particularly important. Cheap materials will not be usable for martial weapons, simple but quality materials will not be usable for exotic/master worked weapons. The [glossary](https://docs.google.com/document/d/1Pjotbn26OeQPVqfVwTOxSper5irKWGEU5Zs8rtsO9zI/edit#heading=h.k7cy3k408aao) has details on the crafting capacity and cost of different materials.
+Generally, weapons material isn’t particularly important. Cheap materials will not be usable for martial weapons, simple but quality materials will not be usable for exotic/master worked weapons. [Costs Of Materials](Services#Costs%20Of%20Materials) has details on the crafting capacity and cost of different materials.
 
 One benefit to exotic materials, however, is their potential for harming monsters. A sword made of silver might be known to harm werewolves, a spear made from elven wood is effective against wraiths, etc. In some exceptional cases, a material may provide a trait for free, increase damage bonus, or provide some skill bonus. 
 
