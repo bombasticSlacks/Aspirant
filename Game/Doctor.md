@@ -4,7 +4,7 @@ One of the 8 [Trades Training](Trades-Training) disciplines.
 
 ### Basic
 #### Autodoc
-You can perform invasive surgery on yourself and ignore your own injuries when using the medicine skill on yourself.
+You can perform invasive surgery on yourself and ignore your own injuries when performing [Medicine](Medicine) skill tests on yourself.
 
 #### Bedside Manner
 You receive a +2 on all social interactions with people you have treated since last downtime, and a +1 on all medical tests with people that like you.
@@ -19,8 +19,7 @@ You can always tell how injured a person is (and where). It takes much less time
 You have twice as long to perform medical skill tests on characters before it becomes impossible.
 
 #### Shaman
-#TODOcopy 
-You can perform medicine tests without relevant tools at a -1. For any specific medical tests, you count as having the tools, surgery, for example.
+You count as having a [Trauma Kit](Example-Gear#Trauma%20Kit) and [Field Surgery Kit](Example-Gear#Field%20Surgery%20Kit) even if not carrying them. However any related medical skill tests are performed at a -2.
 
 #### Speculative Medicine
 At the beginning of any combat encounter, you can name a character who you think will be injured during the encounter. Any medical tests you make on that person during and after this combat gets a +3. The person you select also gets +1 to [Heroism](Stats#Heroism) for the duration of the encounter.
@@ -30,7 +29,7 @@ At the beginning of any combat encounter, you can name a character who you think
 You can perform surgery on people.
 
 #### Sword Surgeon
-When making skill tests with a rending weapon, you may substitute your medicine skill for melee skill.
+When making skill tests with a rending weapon, you may substitute your [Medicine](Medicine) skill for melee skill.
 
 ---
 ### Advanced

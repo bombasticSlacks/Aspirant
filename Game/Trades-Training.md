@@ -16,10 +16,10 @@ Any specialist in one of the above schools can also teach any of the following t
 
 ### Basic Training
 #### Find A Buyer
-As a downtime activity, you can spend a day finding someone interested in purchasing an item for full price (materials + labour). This is a skill test based on the settlement's Wealth + your Converse, and a difficulty based on the rarity of the item.
+As a downtime activity, you can spend a day finding someone interested in purchasing an item for full price (materials + labour). This is a skill test based on the settlement's Wealth + your [Converse](Converse), and a difficulty based on the rarity of the item.
 
 #### Haggling
-You may use converse to attempt to get better deals when commisioning items. This is an opposed converse test against the craftsman. For every step of success you recieve 1 silver off the asking price.
+You may use converse to attempt to get better deals when commisioning items. This is an opposed [Converse](Converse) test against the craftsman. For every step of success you recieve 1 silver off the asking price.
 
 #### Clever Packer
 Your backpack can hold an additional 6 size worth of items.
@@ -35,9 +35,6 @@ You always receive full value when exchanging currency.
 
 #### Decadent
 You never suffer penalties due to intoxication or exotic comestibles.
-
-#### Military Expert
-Your knowledge covers historical and strategic military knowledge.
 
 #### Non-Target
 As long as you have a [Threat](Stats#Threat) value of 1 or less, enemies don’t consider you a threat/combatant until you attack.

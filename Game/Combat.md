@@ -2,8 +2,8 @@
 ### Combat Turns
 Combat in Aspirant is more structured than standard narrative time, since it is also more high stakes. Combat is broken up into combat turns. During each 5 second combat turn, you get a personal turn to take an action.
 
-### Initiative
-Initiative is your INT+ AGI + 1d6. Your initiative value determines what order people will act in when combat happens. So even though all characters are acting simultaneously in combat, as an abstraction, people still go in a specific order.
+### Initiative Value
+Initiative value is your [Initiative](Stats#Initiative)+ 1d6. Your initiative value determines what order people will act in when combat happens. So even though all characters are acting simultaneously in combat, as an abstraction, people still go in a specific order.
 
 ### Your Turn
 On Your turn in combat, you can do basically anything that can feasibly be done in 5 seconds. You are encouraged to get creative and talk to the GM; however, several common manoeuvres are listed in this chapter for you to use as examples. The simple way to think about it though is on your turn, you can either:
@@ -24,11 +24,13 @@ Control Allies or other characters. If you have allies or other characters they 
 Your character typically has 3 types of storage: [belt](Storage#Belt), [Backpack](Storage#Backpack), [Saddlebag](Storage#Saddlebag). These all have different costs for drawing.
 
 ### Movement
-In general, your movement is as simple as going up to your AGI * 4 meters in any direction. 
+In general, your movement is as simple as going up to your [Move Speed](Stats#Move%20Speed) in any direction. 
 
+#### Standing Up
 If you are prone, it takes the entirety of your available movement to stand up. 
 
-If there are obstacles in the way of a movement, you can roll Acrobatics or Fitness to attempt to ignore them. Otherwise, you must spend a full turn of movement getting over the obstacles.
+#### Avoiding Obstacles
+If there are obstacles in the way of a movement, you can test [Acrobatics](Acrobatics) or [Fitness](Fitness) to attempt to ignore them. Otherwise, you must spend a full turn of movement getting over the obstacles.
 
 ### Attacking
 Usually, in combat, you will be trying to harm your opponents with the goal of killing or disabling them. Attacks will typically be thrown attacks (STR + Marksmanship), ranged attacks (AGI + Marksmanship), melee attacks (STR + Melee), or magic attacks (Res + Evoke).
@@ -36,10 +38,7 @@ Usually, in combat, you will be trying to harm your opponents with the goal of k
 ### Attack Range
 When you attack something, your range is how far you can engage them from. With melee weapons, you need to be within 2m. With Range, Thrown, and Magic you have a range, but it is possible to attack outside of it. When you do, you suffer a -1 penalty to the skill test per total range they are away from you. Magic attacks have a range of 10m, Thrown have a range of 3 times your STR, Ranged attacks will be defined in the weapons traits.
 
-### Ammunition
-Some weapons will require ammunition, specified in their traits. When you miss or fail to penetrate with a weapon using ammunition, roll a d6. On a 1-3 the ammunition is no longer usable, but on a 4-6 it can be salvaged and used again. 
-
-#### Attack Chart
+#### Attacking
 - Declare what weapon you are using
 - Make sure you are within range (or figure out what your total penalty will be) 
 - Determine any bonuses or negatives you have on the attack.
@@ -73,18 +72,27 @@ before making a melee attack or manoeuvre, you can move to a different side of y
 ---
 
 ### Special Manoeuvres
-These are attacks or abilities that any trained fighter can use. This isn’t an exhaustive list of everything you can do in combat but includes some of the manoeuvres that tend to come up a lot. Any manoeuvre which affects an enemy combatant is considered an attack (such as for determining if you are in melee). A number of other powerful manoeuvres can be learned by taking specific martial arts or combat training. When reasonable modifiers and bonuses are applied to these regularly.
-* Back out: You make an acrobatics skill test to step out of melee with an opponent. If you succeed, you can move agility * 2 meters and then perform an action at a -2 (as normal). If you fail, you provoke an attack of opportunity and then may do that anyway.
-* Cautious Step: You move out of melee with an enemy without provoking an attack of opportunity. You can move up to your agility * 2 meters, but no other actions.
-* Disarm: with at least one free hand or a melee weapon, you can attempt to disarm someone. Make a melee attack at -1 and if successful, your opponent drops their weapon (or it is now in your hands).
-* Grapple: make an attack with the intent of getting control of your opponent. If you successfully hit, your opponent is in a grapple. They have to spend their turn succeeding an STR + Fitness or AGI + Acrobatics test with a negative equal to your melee skill, or remain grappled. On your turn, you may:
-	* Make a Strength + Fitness test to inflict a severe injury to them, ignoring armour.
-	* Pin then completely skipping your turn and their next turn
-	* Make an attack with a size 1 weapon with a -2 to hit that can’t be evaded
-	* Make an STR + Fitness test to throw them strength + d3 meters in a direction of your choice|
-* Overwatch: declare a 45-degree cone in front of you. If anyone moves into that area, you make a ranged attack on them, and they take a -2 on their action. Your attack is at -2.
-* Parry: which is a melee skill test at (-2) where if you succeed, then if an enemy attacks you in melee and succeeds, you ignore the attack. If they fail their skill test to attack, you deal damage to them.
-* Shove: with at least one free hand, you can attempt to move someone. Make a melee attack, and you can move them up to your strength in meters. If they hit something, they become knocked down.
+These are attacks or abilities that any trained fighter can use. This isn’t an exhaustive list of everything you can do in combat but includes some of the manoeuvres that tend to come up a lot. Any manoeuvre which affects an enemy combatant is considered an attack (such as for determining if you are in melee). A number of other powerful manoeuvres can be learned by taking specific martial arts or combat training. When reasonable [Combat Modifiers](#Combat%20Modifiers) and [Combat Bonuses and Negatives](#Combat%20Bonuses%20and%20Negatives) are applied to these regularly.
+#### Back out
+You make an [Acrobatics](Acrobatics) skill test to step out of melee with an opponent. If you succeed, you can move agility * 2 meters and then perform an action at a -2 (as normal). If you fail, you provoke an attack of opportunity and then may do that anyway.
+#### Cautious Step
+You move out of melee with an enemy without provoking an attack of opportunity. You can move up to your agility * 2 meters, but no other actions.
+#### Disarm
+With at least one free hand or a melee weapon, you can attempt to disarm someone. Make a melee attack at -1 and if successful, your opponent drops their weapon (or it is now in your hands).
+#### Grapple
+Make an attack with the intent of getting control of your opponent. If you successfully hit, your opponent is in a grapple. They have to spend their turn succeeding an [Strength](Stats#Strength) + [Fitness](Fitness) or [Agility](Stats#Agility) + [Acrobatics](Acrobatics) test with a negative equal to your [Melee](Melee) skill, or remain grappled. On your turn, you may:
+* Make a Strength + Fitness test to inflict a severe injury to them, ignoring armour.
+* Pin then completely skipping your turn and their next turn
+* Make an attack with a size 1 weapon with a -2 to hit that can’t be evaded
+* Make an STR + Fitness test to throw them strength + d3 meters in a direction of your choice|
+#### Overwatch
+Declare a 45-degree cone in front of you. If anyone moves into that area, you make a ranged attack on them, and they take a -2 on their action. Your attack is at -2.
+#### Parry
+Which is a melee skill test at (-2) where if you succeed, then if an enemy attacks you in melee and succeeds, you ignore the attack. If they fail their skill test to attack, you deal damage to them.
+#### Shove
+With at least one free hand, you can attempt to move someone. Make a melee attack, and you can move them up to your strength in meters. If they hit something, they become knocked down.
+
+---
 
 ### Reacting to Attacks
 During each full turn of combat, each character gets a single reaction, which they can use when something else happens during combat. Your reaction refreshes on your turn. In general, these are used to avoid incoming attacks. The generally available reactions are:
@@ -93,10 +101,10 @@ During each full turn of combat, each character gets a single reaction, which th
 A melee skill test at (-2) where if you succeed, you ignore damage and other effects from a melee attack. The attack still counts as hitting you (this can be relevant for certain effects).
 
 #### Dodge
-An acrobatics skill test at (-2) where if you succeed then an enemy attack doesn’t hit you. You cannot dodge while prone.
+An [Acrobatics](Acrobatics) skill test at (-2) where if you succeed then an enemy attack doesn’t hit you. You cannot dodge while prone.
 
 #### Move to Cover
-An acrobatics skill test (0) where if you succeed then you may move to a piece of cover within agility meters before an enemy ranged attack is calculated. You cannot Move to Cover while prone.
+An [Acrobatics](Acrobatics) skill test (0) where if you succeed then you may move to a piece of cover within agility meters before an enemy ranged attack is calculated. You cannot Move to Cover while prone.
 
 #### Attack of Opportunity
 A melee skill test at (-2) which you may perform if someone moves while in melee with you. If successful, you can resolve an attack against them, which they cannot dodge.
@@ -181,10 +189,3 @@ If you are shooting from behind cover unless you have some special abilities you
 You do not gain the benefits of cover if you are in melee.
 
 If you are protected by cover, any attack against you must first penetrate the cover to be able to harm you (this stacks with your armour). Most pieces of cover only have 1 armour integrity and will be unable to protect you after the first shot.
-
-### Being on Fire
-If you are caught on fire you are in immediate risk of severe complications. On each of your turns, unless you are in the middle of “stop drop and roll”, you must make a fear test (resolve + heroism bonuses) to not panic. You receive a +4 to this test if you are going to “stop drop and roll” during your turn. If you fail this test you flail around wildly, if you pass you take your combat turn normally.
-
-If you “stop drop and roll” make a Fitness, or Science test at a -3 if you succeed you are no longer on fire. For each consecutive turn you stop, drop and roll this test is at a +1. It is important to note some forms of militarized fire are sticky and impossible to put out by using “stop drop and roll”.
-
-After 2 turns (10 seconds) of being on fire you take an immediate severe injury to the body part that’s on fire and another fire starts on an adjacent body part. After 4 turns (20 seconds) you take a critical injury to the original body part that’s on fire and the fire spreads to your entire body. After 6 turns (30 seconds) on fire you take a critical injury to the chest on each of your turns until either dead or no longer on fire.

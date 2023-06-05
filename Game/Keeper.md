@@ -32,4 +32,4 @@ When you or your horse are attacked while mounted, you may choose which of you a
 
 ### Master
 #### Zoologist
-You get a +2 on all interactions with animals. You can converse comfortably with non-intelligent animals as though you were speaking the same language.
+You get a +2 on all interactions with animals. You can communicate comfortably with non-intelligent animals as though you were speaking the same language.

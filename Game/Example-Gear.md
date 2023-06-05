@@ -68,7 +68,7 @@ A musical tool of complex design. Complex instruments are expensive and produce 
 > Examples would include: Bagpipes, Dulcimer, Lute, Viol.
 
 #### Crystallized Magic
-Infused or naturally resonant magical material which can be used to perform channelling magical spells.
+Infused or naturally resonant magical material which can be used to [Channel](Channel) magical spells.
 
 #### Fine Clothes
 An impressive set of clothing befitting a merchant or tradesman.
@@ -77,7 +77,7 @@ An impressive set of clothing befitting a merchant or tradesman.
 A small, hard container that can hold a liquid for drinking. Holds up to a half litre of liquid.
 
 #### Focus
-A wand, pendant or other item that allows you to channel magic.
+A wand, pendant or other item that allows you to [Channel](Channel) magic.
 
 #### Ladder 5 Meters
 A wooden ladder useful for climbing to reach things or to bridge gaps.
@@ -150,7 +150,7 @@ A comfort kit has 3 uses, cost 1 silver to replenish.
 #### Trap Kit
 A collection of materials, triggers, sensors and payloads that can be used to create and customize traps on the go. A trap kit can store up to 3 payloads and triggers, and a new kit starts with that. Usually, you will want to set a trap to trigger a payload, but if you have access to a chemical, grenade, explosive, weapon or other tool you want to trigger, you may use that instead. 
 
-Creating a trap is a [Crafting](Skills#Crafting) test. You may add 2 payloads or triggers to a single trap but the crafting test is at a -3, a standard trap affects at most a 3x3 meter square however you can triple the size by doubling the number of payloads used (and giving the test an additional -2). Your GM may also assign a greater negative for more complex/exotic traps or triggers. Once you have decided on when you want your trap to trigger, you choose an effect for the payload:
+Creating a trap is a [Crafting](Crafting) test. You may add 2 payloads or triggers to a single trap but the [Crafting](Crafting) test is at a -3, a standard trap affects at most a 3x3 meter square however you can triple the size by doubling the number of payloads used (and giving the test an additional -2). Your GM may also assign a greater negative for more complex/exotic traps or triggers. Once you have decided on when you want your trap to trigger, you choose an effect for the payload:
 
 * Concussive: Everyone makes a resolve test or is stunned. Even if they succeed, they are at a -2 until their action on the following turn.
 * Shrapnel: Everyone who is in the trap suffers a penetrative Rending damage attack with a damage bonus of 4
@@ -159,14 +159,14 @@ Creating a trap is a [Crafting](Skills#Crafting) test. You may add 2 payloads or
 #### Trauma Kit
 A collection of simple medicines, bandages, synthetic skin, coagulating powder, splints, and other things required to keep people alive after a severe or critical injury and treat the issues. A trauma kit provides you with a +1 to [stabilization](Injury#Stabilization) and [Surgery](Injury#Surgery). 
 
-A trained medical professional with a trauma kit can perform first aid to alleviate the immediate effects of injuries. This is a [medicine](Skills#Medicine%20(INT)) skill test at an additional negative equal to the character's injury penalty. If you succeed, reduce their injury penalty by 1 If you fail a first aid test the person still counts as [stabalized](Injury#Stabilization).
+A trained medical professional with a trauma kit can perform first aid to alleviate the immediate effects of injuries. This is a [Medicine](Medicine) skill test at an additional negative equal to the character's injury penalty. If you succeed, reduce their injury penalty by 1 If you fail a first aid test the person still counts as [stabalized](Injury#Stabilization).
 
 A trauma kit has 5 uses, and replenishing a use costs 1 silver.
 
 #### Forgery Kit
 A collection of stamps, plates, glossy paper and inks required to forge official documents.
 
-Creating a forgery is a [Subterfuge](Skills#Subterfuge) [Fixed Difficulty](Skills#Fixed%20Difficulty) skill test with a difficulty assigned based on the complexity of the forgery. The cost in silver for the forgery is equal to 2 * the difficulty modifier. 
+Creating a forgery is a [Subterfuge](Subterfuge) [Fixed Difficulty](Skills#Fixed%20Difficulty) skill test with a difficulty assigned based on the complexity of the forgery. The cost in silver for the forgery is equal to 2 * the difficulty modifier. 
 
 > so a -4 difficulty test would result in a forgery costing 8 silver.
 

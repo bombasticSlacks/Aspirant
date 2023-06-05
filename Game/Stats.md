@@ -13,23 +13,23 @@ Measures physical power.
 - Melee Weapon Damage
 - Ability to resist immediate injuries, poison and disease
 - Maximum Toxicity
-- Fitness and Melee skill tests
+- [Fitness](Fitness) and [Melee](Melee) [Skills](Skills)
 
 ### Agility
 Measures speed and dexterity
 - How far you can move in combat
 - Initiative
-- Acrobatics, Marksmanship and Subterfuge skill tests
+- [Acrobatics](Acrobatics), [Marksmanship](Marksmanship) and [Subterfuge](Subterfuge) [Skills](Skills)
 
 ### Intelligence
 Measures mental acuity and knowledge
 - Initiative
-- Medicine, Science, Crafting, Perception and Knowledge skill tests
+- [Medicine](Medicine), [Science](Science), [Crafting](Crafting), [Perception](Perception) and [Knowledge](Knowledge) [Skills](Skills)
 
 ### Fellowship
 Measures charm and how well-spoken you are
 - The number of characters you can control in combat (with training)
-- Converse, Husbandry and Performance skill tests
+- [Converse](Converse), [Husbandry](Husbandry) and [Perform](Perform) [Skills](Skills)
 
 ### Resolve
 Measures your resilience and willpower
@@ -37,7 +37,7 @@ Measures your resilience and willpower
 - Ability to resist mind-altering effects
 - Maximum Toxicity
 - Damage with psychic and magical abilities
-- Channel and Ritual skill tests
+- [Channel](Channel) and [Ritual](Ritual) [Skills](Skills)
 
 ### Additional Attributes
 On top of the above stats, your character also has a few additional values:
@@ -54,7 +54,7 @@ A stat tracking how many times you character can perform certain powerful abilit
 Power is equal to 2 + 1 per [Training](Character-Development#Training) that requires power.
 
 #### Move Speed
-How far your character can move in 1 turn of combat. AGI * 2 meters.
+How far your character can move in 1 turn of combat. [Agility](#Agility) * 4 meters.
 
 #### Initiative
 Your AGI + INT. Used to determine turn order in combat.

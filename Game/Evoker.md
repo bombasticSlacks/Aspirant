@@ -4,7 +4,7 @@ One of the 8 [Magic-Training](Magic-Training) disciplines.
 
 ### Basic
 #### Amateur Evocation
-Your character can [channel](Skills#Channel) to:
+Your character can [Channel](Channel) to:
 
 Attack with combat magic #TODOLINK , change the temperature of an item abruptly.
 
@@ -15,7 +15,7 @@ Anyone targeted by an evocation magic attack you perform is at a -1 to all actio
 ### Advanced
 
 #### Expert Evocation
-If your character has [Amateur Evocation](#Amateur%20Evocation) training, your character can [channel](Skills#Channel) to:
+If your character has [Amateur Evocation](#Amateur%20Evocation) training, your character can [Channel](Channel) to:
 
 Change the temperature of a creature abruptly, change the weather and environment.
 
@@ -25,6 +25,6 @@ You may have weapons you attack with count as having the exothermic or endotherm
 ### Master
 
 #### Master Evocation
-If your character has [Expert Evocation](#Expert%20Evocation) training, your character can [channel](Skills#Channel) to:
+If your character has [Expert Evocation](#Expert%20Evocation) training, your character can [Channel](Channel) to:
 
 Change the environment and weather in unnatural and unbelievable ways.

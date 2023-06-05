@@ -16,25 +16,25 @@ You can comfortably ride with an additional person or thing restrained on your h
 You receive a +1 to all skill tests related to surviving and navigating natural environments.
 
 #### Kryptonite
-If you succeed on a knowledge skill test to know about an enemy animal or monster, you can choose to know about their movements or their weaknesses. Everyone in the party gets either a +1 to hit, +1 to evade or +1 to damage rolls when facing the monster.
+If you succeed on a [Knowledge](Knowledge) skill test to know about an enemy animal or monster, you can choose to know about their movements or their weaknesses. Everyone in the party gets either a +1 to hit, +1 to evade or +1 to damage rolls when facing the monster.
 
 #### Leave No Trace
 You and those travelling with you cannot be tracked.
 
 #### Pin And Restrain
-While you are successfully grappling someone on your turn, you may as an action attempt to more permanently restrain them with [Manacles](Example-Gear#Manacles) or an equivalent item. This is a [Fitness](Skills#Fitness) [Opposed Difficulty](Skills#Opposed%20Difficulty) test opposed by the opponents [Melee](Skills#Melee).
+While you are successfully grappling someone on your turn, you may as an action attempt to more permanently restrain them with [Manacles](Example-Gear#Manacles) or an equivalent item. This is a [Fitness](Fitness) [Opposed Difficulty](Skills#Opposed%20Difficulty) test opposed by the opponents [Melee](Melee).
 
 #### Take Them Alive
 After injuring someone, you may always opt for them to go unconscious instead of dying.
 
 #### Terrify
-After inflicting an injury in melee, you can spend your reaction to intimidate an enemy with a converse skill test with difficulty equal to their RES. If you succeed, they surrender; otherwise, they take a -2 to all actions until your next turn.
+After inflicting an injury in melee, you can spend your reaction to intimidate an enemy with a [Converse](Converse) skill test with difficulty equal to their [Resolve](Stats#Resolve). If you succeed, they surrender; otherwise, they take a -2 to all actions until your next turn.
 
 Some enemies are not intelligent enough or just refuse to surrender under any circumstances.
 
 #### Travel the Shadows
 #TODORedundant 
-When travelling you can attempt a subterfuge skill test for the whole party to avoid any incoming encounter. This skill test has a penalty equal to the enemies perception skill.
+When travelling you can attempt a [Subterfuge](Subterfuge) skill test for the whole party to avoid any incoming encounter. This skill test has a penalty equal to the enemies [Perception](Perception) skill.
 
 ---
 ### Advanced

@@ -4,7 +4,7 @@ One of the 8 [Magic Training](Magic-Training) disciplines.
 
 ### Basic
 #### Amateur Transmutation
-Your character can [channel](Skills#Channel) to:
+Your character can [Channel](Channel) to:
 
 Change a comestible into something more useful. Alter yourself in simple ways.
 
@@ -20,7 +20,7 @@ You can also speak normally.
 ### Advanced
 
 #### Expert Transmutation
-If your character has [Amateur Transmutation](#Amateur%20Transmutation) training, your character can [channel](Skills#Channel) to:
+If your character has [Amateur Transmutation](#Amateur%20Transmutation) training, your character can [Channel](Channel) to:
 
 Change a tool, weapon, or armour into something more useful. Alter the world around you. Alter yourself in meaningful ways, including transforming into animals. Alter others in simple ways.
 
@@ -35,6 +35,6 @@ Kinetic Shove - You Can Shove a Person at a Range Equal to 2 times Your RES. Rea
 ### Master
 
 #### Master Transmutation
-If your character has [Expert Transmutation](#Expert%20Transmutation) training, your character can [channel](Skills#Channel) to:
+If your character has [Expert Transmutation](#Expert%20Transmutation) training, your character can [Channel](Channel) to:
 
 Change yourself into incredible forms, including magical creatures. Alter others in meaningful ways. Transform an item into something completely unrelated.

@@ -20,7 +20,7 @@ Your character may add their fitness skill to rolls for immediate effects of inj
 Whenever a negative effect happens to you, roll 1d6 on a roll of 4-6 you ignore the effect.
 
 #### The Muscle
-You may perform converse skill tests to interact with people using STR.
+You may perform [Converse](Converse) skill tests to interact with people using STR.
 
 ---
 ### Advanced

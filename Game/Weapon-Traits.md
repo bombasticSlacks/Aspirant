@@ -44,7 +44,7 @@ If your weapon requires ammo, it can be reloaded in half the time. Reloads that 
 This weapon counts as 1 size larger if wielded in two hands.
 
 #### Inscribed
-This weapon counts as a Focus for channelling magic.    
+This weapon counts as a Focus for [Channel](Channel) skill tests.    
 
 #### Lethal
 This weapon deals 1 additional damage.
@@ -74,7 +74,7 @@ This weapon is balanced for throwing, you receive no penalties to throwing it.
 ### 2 Cost Traits
 
 #### Bow
-This weapon fires fletched arrows. It no longer can be used as a melee weapon and is instead a ranged weapon with a range equal to 10m x size. You can add STR to damage up to a maximum of the size of the weapon. Readying an arrow and firing a bow in the same turn gives a -1 to the marksmanship test.
+This weapon fires fletched arrows. It no longer can be used as a melee weapon and is instead a ranged weapon with a range equal to 10m x size. You can add STR to damage up to a maximum of the size of the weapon. Readying an arrow and firing a bow in the same turn gives a -1 to the [Marksmanship](Marksmanship) test.
 
 #### Folding
 This weapon counts as two separate sizes. When stored, it is considered the smaller size. As an action, you may change which size it counts as, or at the end of any attack action you can change the size. 

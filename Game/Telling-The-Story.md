@@ -27,7 +27,7 @@ Do half the work required for a type of Production Work. If this is the second h
 #### Meditate
 Refresh your [Power](Stats#Power) to maximum.
 #### On Watch
-Dedicate yourself to the night watch, you receive a +3 on any perception tests against ambush and are fully equipped if ambushed. 
+Dedicate yourself to the night watch, you receive a +3 on any [Perception](Perception) tests against ambush and are fully equipped if ambushed. 
 #### Socialize
 Any number of the characters in the party may socialize. Any time you aid a character you socialized with, they get a +2 instead of a +1. Socializing while in a city costs 1 silver per person.
 #### Unsupervised Training

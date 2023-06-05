@@ -17,7 +17,7 @@ Any specialist in one of the above schools can also teach any of the following t
 
 ### Basic Training
 #### Crossbow Expert
-You can reload a crossbow and fire it in the same turn at a -1 to the marksmanship skill test.  
+You can reload a crossbow and fire it in the same turn at a -1 to the [Marksmanship](Marksmanship) skill test.  
 
 #### Exotic Expert
 #TODOLINK

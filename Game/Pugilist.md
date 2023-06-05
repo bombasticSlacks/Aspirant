@@ -44,7 +44,7 @@ Dragons Rush - After making an unarmed attack or manoeuvre if you haven’t alre
 #### Drunk Boxing
 While Drunk, you can Drunk Box.
 
-Drunk Box – A special manoeuvre where you make a fellowship + acrobatics test at -2. If you succeed, then if an enemy attacks you in melee and succeeds, you ignore the attack. If they fail the attack, you make an attack that is a guaranteed hit against your opponent.
+Drunk Box – A special manoeuvre where you make a [Fellowship](Stats#Fellowship) + [Acrobatics](Acrobatics) test at -2. If you succeed, then if an enemy attacks you in melee and succeeds, you ignore the attack. If they fail the attack, you make an attack that is a guaranteed hit against your opponent.
 
 #### Judo
 #TODOoverloaded 
