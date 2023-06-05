@@ -26,7 +26,7 @@ The act of manipulating perception. A character could use illusion to hide thems
 The act of manipulating matter. A character could use transmutation to alter their form, make a weapon out of junk, create wine from water.
 
 #### Crystallized Magic
-Crystallized magic is an infused or naturally magically resonant material that allows a channeller to transform pure magic into effects on the material world. Crystallized magic is necessary to perform any meaningful magical effect, it can be purchased like any other [equipment](https://docs.google.com/document/d/1Pjotbn26OeQPVqfVwTOxSper5irKWGEU5Zs8rtsO9zI/edit#heading=h.d44f0cukbvb). When casting a spell, you need to expend a unit of crystallized magic per level of the spell, so amateur spells require 1 unit, expert 2, and master 3. If you do not succeed, there is a 50% chance that the crystallized magic is not expended. 
+Crystallized magic is an infused or naturally magically resonant material that allows a channeller to transform pure magic into effects on the material world. Crystallized magic is necessary to perform any meaningful magical effect, it can be purchased like any other equipment. When casting a spell, you need to expend a unit of crystallized magic per level of the spell, so amateur spells require 1 unit, expert 2, and master 3. If you do not succeed, there is a 50% chance that the crystallized magic is not expended. 
 
 #### Focus
 Some channelled abilities will require you to remain focused on them. A character can focus on 1 channelled spell at a time and while focusing any additional channels performed are at a -2. Generally, after an hour of channelling a spell, a character needs to make an athletics test or become exhausted and be forced to end the channel. This test repeats every hour.
@@ -53,7 +53,7 @@ The process of affecting people and things. A character could use enchanting to 
 The process of controlling life itself. A character could use necromancy to resurrect the dead, commune with spirits, control the undead, manipulate age and life force.
 
 ### Spells
-Magic in Aspirant should be open, free flowing, inspired, and created on the spot with the GM assigning a difficulty and requirements to any ritual or spell that a character wants to perform at the moment. However, to help to guide players and GM’s a set of guidelines is provided in the [glossary](https://docs.google.com/document/d/1Pjotbn26OeQPVqfVwTOxSper5irKWGEU5Zs8rtsO9zI/edit#heading=h.ihuiugf3g3tn).
+Magic in Aspirant should be open, free flowing, inspired, and created on the spot with the GM assigning a difficulty and requirements to any ritual or spell that a character wants to perform at the moment. However, to help to guide players and GM’s a set of guidelines is provided in the relevant training.
 
 ### Combat
 The 4 channelling disciplines can directly be used in combat. Illusion and Abjuration in more narrative ways, but transmutation and evocation have more direct rules available.
