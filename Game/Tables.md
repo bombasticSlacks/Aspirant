@@ -6,5 +6,4 @@
 ### [Example Weapons](Example-Weapons)
 ### [Example Armour](Example-Armour)
 ### [Weapon Traits](Weapon-Traits)
-### [Training List](Training-List)
 ### [Example Spells](Example-Spells)
