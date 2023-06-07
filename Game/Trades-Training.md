@@ -16,7 +16,7 @@ Any specialist in one of the above schools can also teach any of the following t
 
 ### Basic Training
 #### Find A Buyer
-As a downtime activity, you can spend a day finding someone interested in purchasing an item for full price (materials + labour). This is a skill test based on the settlement's Wealth + your [Converse](Converse), and a difficulty based on the rarity of the item.
+As a [Downtime Activities](Telling-The-Story#Downtime%20Activities), you can spend a day finding someone interested in purchasing an item for full price (materials + labour). This is a skill test based on the settlement's Wealth + your [Converse](Converse), and a difficulty based on the rarity of the item.
 
 #### Haggling
 You may use converse to attempt to get better deals when commisioning items. This is an opposed [Converse](Converse) test against the craftsman. For every step of success you recieve 1 silver off the asking price.
@@ -36,9 +36,6 @@ You always receive full value when exchanging currency.
 #### Decadent
 You never suffer penalties due to intoxication or exotic comestibles.
 
-#### Non-Target
-As long as you have a [Threat](Stats#Threat) value of 1 or less, enemies don’t consider you a threat/combatant until you attack.
-
 #### Suburbanite
 You receive a +1 to all skill tests related to surviving and navigating urban areas.
 
@@ -50,3 +47,6 @@ A merchant will never refuse to buy items from you, even if they have no interes
 
 #### I Packed It
 Once per downtime, you can declare after the fact that you purchased an item while you were last resting in a settlement. The item would have to have been available, and you need to spend the equivalent currency it would have cost.
+
+#### Non-Target
+As long as you have a [Threat](Stats#Threat) value of 1 or less, enemies don’t consider you a threat/combatant until you attack.

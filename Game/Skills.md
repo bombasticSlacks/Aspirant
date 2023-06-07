@@ -27,7 +27,7 @@ When multiple characters are all attempting to perform the same task together, i
 > So, if two trained doctors attempt first aid, the better makes a skill test with an additional +1. If 5 characters are attempting to sneak past a guard and 2 are trained and 3 are not, then the roll is at an additional -2 (+1, -3).
 
 #### Untrained
-Generally you cannot perform a skill without [Training](Character-Development#Training), however in some cases a skill test will be forced or simple enough the character could feasibly attempt it anyway. This means that even though you are untrained you or the game state is forcing your character to try anyways. Examples would be trying to spot enemies with [Perception](Perception), or jumping across a ledge with [Fitness](Fitness). 
+Generally you cannot perform a skill without [Training](Character-Development#Training), however in some cases a skill test will be forced or simple enough the character could feasibly attempt it anyway. This means that even though you are untrained you or the game state is forcing your character to try anyways. Examples would be trying to spot enemies with [Perception](Perception), or jumping across a ledge with [Fitness](Fitness). Any untrained skill test is at an additional -2.
 
 ### Strength Skills
 * [Fitness](Fitness)
@@ -52,4 +52,4 @@ Generally you cannot perform a skill without [Training](Character-Development#Tr
 ### Fellowship Skills
 * [Converse](Converse)
 * [Husbandry](Husbandry)
-* [Perform](Perform.md)
+* [Perform](Perform)
