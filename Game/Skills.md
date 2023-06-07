@@ -42,7 +42,7 @@ Generally you cannot perform a skill without [Training](Character-Development#Tr
 * [Crafting](Crafting)
 * [Knowledge](Knowledge)
 * [Medicine](Medicine)
-* [Perception](Perception)]
+* [Perception](Perception)
 * [Science](Science)
 
 ### Resolve Skills
