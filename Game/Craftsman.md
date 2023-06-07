@@ -25,7 +25,7 @@ You don’t need a forge or other advanced equipment to craft weapons and other 
 When crafting a weapon, instead of providing materials, you may provide another weapon of equivalent size and materials to transform into the new weapon.
 
 #### Simple Repairs
-As [Production Work](Telling-The-Story#Production%20Work), you can repair a damaged item or up to 5 rounds of ammunition. This requires no additional materials or currency.
+As [Production Work](Telling-The-Story#Production%20Work), you can repair a damaged item or up to 5 rounds of ammunition. This requires a [Weapons Tool Set](Example-Gear#Weapons%20Tool%20Set), but no additional materials or currency.
 
 #### Ablative Armour
 After downtime, your armour has 2 additional max integrity that isn’t otherwise repairable.
@@ -34,16 +34,16 @@ After downtime, your armour has 2 additional max integrity that isn’t otherwis
 When crafting armour, you require one less size worth of materials.
 
 #### Armorsmith
-As [Production Work](Telling-The-Story#Production%20Work), you can create or modify [Armour](Armour) and clothing.
+As [Production Work](Telling-The-Story#Production%20Work), you can create or modify [Armour](Armour) and clothing using an [Armourers Tool Set](Example-Gear#Armourers%20Tool%20Set).
 
 #### Routine Maintenance
-As an [Evening Activity](Telling-The-Story#Evening%20Activities) you may repair 2 points of armour integrity to each allies armour.
+As an [Evening Activity](Telling-The-Story#Evening%20Activity) you may repair 2 points of armour integrity to each allies armour.
 
 #### Weak Spot
 You know the Armour Integrity, weakness, and resistance of any character's armour that you can see.
 
 #### Specialized Tools
-As an [Evening Activity](Telling-The-Story#Evening%20Activities), you can select a specific [Toolkit](Gear#Toolkits) to pre-prepare. When using that tool kit the next day, you get a +2 to all skill tests.
+As an [Evening Activity](Telling-The-Story#Evening%20Activity), you can select a specific [Toolkit](Gear#Toolkits) to pre-prepare. When using that tool kit the next day, you get a +2 to all skill tests.
 
 ---
 ### Advanced
@@ -64,6 +64,6 @@ You can create single-use tools using exceptionally basic materials, simpler tha
 ### Master
 
 #### Masters Touch
-Items you create are master worked, quality.
+[Equipment](Equipment) you create in a [Workshop](Example-Infrastructure#Workshop) are master worked quality.
 
 

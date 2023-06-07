@@ -11,7 +11,7 @@ Spend a [Power](Stats#Power), you can declare your far-fetched theory about what
 
 #### Artificer
 #TODOcopy 
-As [Production Work](Telling-The-Story#Production%20Work), you can create [Prosthetics](Character-Development#Prosthetics) that characters can use with ease.
+As [Production Work](Telling-The-Story#Production%20Work), using a [Tinkerers Tool Set](Example-Gear#Tinkerers%20Tool%20Set) you can create [Prosthetics](Character-Development#Prosthetics) that characters can use with ease.
 
 
 #### Kill Switch
@@ -19,7 +19,7 @@ You can disable automata and machines that you are in melee with using a [Scienc
 
 #### Mechanic
 #TODOcopy 
-As [Production Work](Telling-The-Story#Production%20Work), you can create or fix machines.
+As [Production Work](Telling-The-Story#Production%20Work), using a [Tinkerers Tool Set](Example-Gear#Tinkerers%20Tool%20Set) you can create or fix machines.
 
 #### Parabolic Targeting
 You can make ranged attack skill tests using the [Science](Science) skill.
@@ -28,10 +28,10 @@ You can make ranged attack skill tests using the [Science](Science) skill.
 You can attempt to activate magical items using the [Science](Science) skill.
 
 #### Alchemy
-As production work you can craft an alchemical potion, medicine or other mixture.
+As [Production Work](Telling-The-Story#Production%20Work), using an [Alchemists Tool Set](Example-Gear#Alchemists%20Tool%20Set) you can craft an alchemical potion, medicine or other mixture.
 
 #### Gatherer
-As production work, you can harvest local flora. Perform a [Variable Difficulty](Skills#Variable%20Difficulty) [Science](Science) skill test to look for local wild or rare flora. The test for rare flora is at a -2. If you succeed, you receive 1 [Reagents](Resources#Reagents) plus 1 additional per step of success.
+As [Skilled Work](Telling-The-Story#Skilled%20Work), you can harvest local flora. Perform a [Variable Difficulty](Skills#Variable%20Difficulty) [Science](Science) skill test to look for local wild or rare flora. The test for rare flora is at a -2. If you succeed, you receive 1 [Reagents](Resources#Reagents) plus 1 additional per step of success.
 
 #### Visual Calculus
 You can visualize what nearby characters are doing even if you can’t directly see them. This also means you can attack them through cover and other similar situations.
@@ -54,7 +54,7 @@ Whenever you administer an alchemical solution with a duration, if the duration 
 
 #### Mutagenics
 #TODOcopy
-As [Production Work](Telling-The-Story#Production%20Work), you can manipulate and prepare mutagenic compounds for installation.
+As [Production Work](Telling-The-Story#Production%20Work), using an [Alchemists Tool Set](Example-Gear#Alchemists%20Tool%20Set) you can manipulate and prepare mutagenic compounds for installation.
 
 ---
 ### Master

@@ -44,7 +44,7 @@ You have a second identity which you can assume at any time. While pretending to
 Once per downtime, if they are willing, you may give any character a single re-roll for any dice roll.
 
 #### Joyful Traveller
-It does not cost money for you and your allies to perform the [Socialize](Telling-The-Story#Socialize) [Evening Activity](Telling-The-Story#Evening%20Activities).
+It does not cost money for you and your allies to perform the [Socialize](Telling-The-Story#Socialize) [Evening Activity](Telling-The-Story#Evening%20Activity).
 
 #### Performance Of Glory
 #TODOcopy 

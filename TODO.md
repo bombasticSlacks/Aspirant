@@ -10,11 +10,7 @@ Destructive euphoria
 
 Damage brings you back (phylactery style)
 
-Travel by coach or cart, Training for cart / coach driving
-
 Ioun stones
-
-Cooking
 
 Bows Fixes (talked with Zach)
 
@@ -24,11 +20,14 @@ Kits for adventuring, spelunking, survival
 
 Long term care and surgery rules get moved out to the training itself (potentially simplified).
 
-Training for guarding at night
-
-Labourer stuff in generalist (?)
-
 More Master Training.
 
-Get rid of Labourer move to Hospitality
+Rewrite Aescetic
+
+Determine what activities require a workshop
+
+Mention needing a tool set in production work
+
+
+
 

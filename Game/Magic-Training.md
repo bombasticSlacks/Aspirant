@@ -9,8 +9,8 @@ Magic is furth seperated into 8 specialized schools:
 * [Enchanter](Enchanter)
 * [Evoker](Evoker)
 * [Illusionist](Illusionist)
-* [Vitomancer](Vitomancer)
 * [Transmuter](Transmuter)
+* [Vitomancer](Vitomancer)
 
 Any specialist in one of the above schools can also teach any of the following trainings:
 
