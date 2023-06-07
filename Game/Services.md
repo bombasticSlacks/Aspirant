@@ -48,9 +48,10 @@ Buying armour costs the basic materials, plus five silver for the labour. Exampl
 | Hiring a mercenary for a day                                              | $2$                                                 |
 | Master Worked Service                                                     | $base + 10$                                         |
 | Mixing alchemical compounds                                               | $4 + reagents$                                      |
-| Moving a piece of [Infrastructure](Assets#Infrastructure) to another city | $2 \times Days\ Of\ Travel \times Space$                         |
+| Moving a piece of [Infrastructure](Assets#Infrastructure) to another city | $2 \times Days\ Of\ Travel \times Space$            |
 | Performing a complex ritual                                               | $12 + reagents$                                     |
 | Performing a simple ritual                                                | $5 + reagents$                                      |
+| Standard days work for a Tradesman                                      | $5$                                                 |
 | Surgery                                                                   | $8$                                                 |
 | Teaching a basic training                                                 | $5$                                                 |
 | Teaching a master training                                                | $30$                                                |
@@ -65,7 +66,7 @@ Buying armour costs the basic materials, plus five silver for the labour. Exampl
 | Cotton         | Basic              | $1 \over 8$  |
 | Expensive Wine | -                  | $1 \over 2$  |
 | Gold           | Exotic             | $4$          |
-| Hard Wood      | Martial            | $1 \over 4$  |
+| Hard Wood      | Basic              | $1 \over 4$  |
 | Leather        | Martial            | $1 \over 4$  |
 | Machinery      | Exotic             | $3 \over 2$  |
 | Oil            | -                  | $1 \over 4$  |
@@ -73,6 +74,6 @@ Buying armour costs the basic materials, plus five silver for the labour. Exampl
 | Simple Metals  | Martial            | $1 \over 2$  |
 | Spirits        | -                  | $1$          |
 | Steel          | Exotic             | $1$          |
-| Treated Wood   | Exotic             | $1 \over 2$  |
+| Treated Wood   | Martial            | $1 \over 2$  |
 | Water          | -                  | $1 \over 16$ |
-| Wood           | Basic              | $1 \over 16$ |
+| Wood           | -                  | $1 \over 16$ |

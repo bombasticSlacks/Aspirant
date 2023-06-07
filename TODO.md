@@ -12,21 +12,15 @@ Damage brings you back (phylactery style)
 
 Ioun stones
 
-Bows Fixes (talked with Zach)
-
 Move armour to a trait's system.
 
 Kits for adventuring, spelunking, survival
-
-Long term care and surgery rules get moved out to the training itself (potentially simplified).
 
 More Master Training.
 
 Rewrite Aescetic
 
 Determine what activities require a workshop
-
-Mention needing a tool set in production work
 
 
 

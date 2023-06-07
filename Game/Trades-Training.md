@@ -50,5 +50,7 @@ A merchant will never refuse to buy items from you, even if they have no interes
 #### I Packed It
 Once per downtime, you can declare after the fact that you purchased an item while you were last resting in a settlement. The item would have to have been available, and you need to spend the equivalent currency it would have cost.
 
+You also count as having an [Explorers Kit](Example-Gear#Explorers%20Kit), you can use it for [Power](Stats#Power) instead of silver.
+
 #### Non-Target
 As long as you have a [Threat](Stats#Threat) value of 1 or less, enemies don’t consider you a threat/combatant until you attack.
