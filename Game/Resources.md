@@ -18,5 +18,5 @@ A character who does a lot of ritual magic, [Crafting](Crafting), or [Science](S
 Unless the task you need a reagent for is exceptionally powerful, you should try to avoid specificity. Mutating a character to have cat-like eyes might require specifically eyes from a were-cat, but a potion of night sight should require the eyes of any nighttime predator.
 
 ### Acquiring Resources
-* [Purchased](Services#Buying%20[Resources](Resources))
+* [Reagent Pricing](Services#Reagent%20Pricing)
 * [Found through play](Equipment#Looting)

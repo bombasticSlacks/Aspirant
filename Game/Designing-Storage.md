@@ -13,7 +13,7 @@ Every type of storage can have up to 4 additional size.
 | 1                          | 5    |
 | 2                          | 10   |
 | 3                          | 20   |
-| 4                          | 30     |
+| 4                          | 30   |
 
 > So, a Belt with 6 storage would cost 10 silver for the base plus 10 silver for the additional 2 size of storage.
 

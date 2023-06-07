@@ -10,6 +10,5 @@ Toolkits are a type of gear that abstracts a collection of tools necessary for a
 In some cases Toolkits will have charges, these unless otherwise specified can be refreshed in any civilized settlement of size 2 or greater for the listed cost.
 
 ### Acquiring Gear
-* [Purchased](Services#Buying%20[Gear](Gear))
+* [Purchased](Example-Gear)
 * [Found through play](Equipment#Looting)
-* [Example Gear](Example-Gear)

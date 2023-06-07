@@ -1,5 +1,5 @@
 ## Example [Gear](Gear)
-Cost is the charge to order a craftsman to make the item, buying/selling it potentially would be up to 50% cheaper.
+Cost is the expected cost, buying/selling it potentially would be up to 50% cheaper depending on if the other party wants it, and knows it's value.
 
 | Name                                              | Size | Cost |
 | ------------------------------------------------- | ---- | ---- |

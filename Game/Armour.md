@@ -12,7 +12,7 @@ affects different locations separately and is the maximum bonus you can have on 
 
 | Location | Skills effected                                |
 | -------- | ---------------------------------------------- |
-| Head     | [Perception](Perception), [Perform](Perform.md), and [Converse](Converse)    |
+| Head     | [Perception](Perception), [Perform](Perform), and [Converse](Converse)    |
 | Arms     | [Melee](Melee), [Marksmanship](Marksmanship), [Channel](Channel), and [Ritual](Ritual) |
 | Torso    | *No Penalties*                                 |
 | Legs     | [Acrobatics](Acrobatics), [Subterfuge](Subterfuge)                                               |
@@ -39,7 +39,7 @@ Your overall suit of armour will have an armour integrity, which is how well it 
 > A character with 2 pieces of leather (2 structure each) and 3 pieces of plate mail (6 each) has 24 total structure, looking at the ten's digit (2), that's an overall armour integrity of 4.
 
 ### Acquiring Armour
-* [Purchased](Services#Buying%20[Armour](Armour))
+* [Purchased](Example-Armour)
 * [Found through play](Equipment#Looting)
 * [Crafted](Designing-Armour)
-* [Example Armour](Example-Armour)
+* Commisioned [Costs Of Services](Services#Costs%20Of%20Services)
