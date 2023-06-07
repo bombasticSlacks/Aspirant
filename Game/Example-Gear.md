@@ -1,5 +1,6 @@
 ## Example [Gear](Gear)
-Cost is the expected cost, buying/selling it potentially would be up to 50% cheaper depending on if the other party wants it, and knows it's value.
+* This is a non-exhaustive list of the sort of gear your characters may need. If something isn't on this list work with your GM to come up with values for it.
+* Cost is the expected cost, buying/selling it potentially would be up to 50% cheaper depending on if the other party wants it, and knows it's value.
 
 | Name                                              | Size | Cost |
 | ------------------------------------------------- | ---- | ---- |

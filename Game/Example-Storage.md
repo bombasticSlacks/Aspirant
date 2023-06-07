@@ -1,7 +1,9 @@
 ## Example [[Storage]]
-Cost is the full charge if this item was ordered by the player, buy is the minimum cost if it was sold in a shop.
+* Non-exhaustive list of storage a character could use. You can instead design your own [Designing-Storage](Designing-Storage). 
+* Cost is the full charge to commision, including labour.
+* Sell is the cost for just the materials, so what it's worth if it was sold in a shop.
 
-|Name|Type|Cost|Buy|Description|
+|Name|Type|Cost|Sell|Description|
 |---|---|---|---|---|
 |Adventure Bag|[Backpack](Storage#Backpack)|20|15|A practical and large bag, allowing the storage of 8 size of items.|
 |Alchemist Bag|[Backpack](Storage#Backpack)|45|15|A large backpack with a structured frame allowing you to separate and store different creature bits. Carries 3 size and up to 10 size worth of monster [bits](Resources#Bits).|

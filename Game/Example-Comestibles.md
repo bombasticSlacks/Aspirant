@@ -1,4 +1,6 @@
 ## Example [Comestibles](Comestibles)
+* This is a non-exhaustive list of the sort of comestibles you can create. You can also design your own [Designing-Comestibles](Designing-Comestibles).
+* Prices are not included they will very based on where you source the materials.
 
 ### Alchemy
 

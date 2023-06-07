@@ -1,5 +1,6 @@
 ## Example [Infrastructure](Assets#Infrastructure)
-Different examples of infrastructure your party may use. Prices will vary based on what is selected, but a base cost is included.
+* Non-exhaustive list of infrastructure your party may use. 
+* Prices will vary based on what is selected, but a base cost is included.
 
 | Name                  | Required Space | Net Return | Base Cost |
 | --------------------- | -------------- | ---------- | --------- |
