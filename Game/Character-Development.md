@@ -1,7 +1,7 @@
 ## Character Development
 As you adventure, your character will become stronger. This can happen in a number of ways. When completing quests, you will gain XP. XP in this game stands for “Experience Potential”. During downtime, you can convert XP into character development, whether it be increased skills or new training. Remember as you gain XP your [heroism](Stats#Heroism) also increases.
 
-When you rest, based on the length of the rest, you will have time which could be spent training. Spending XP to train is either a [downtime activity](Telling-The-Story#Downtime%20Activities) or [evening activity](Telling-The-Story#Evening%20Activities).
+When you rest, based on the length of the rest, you will have time which could be spent training. Spending XP to train is either a [downtime activity](Telling-The-Story#Downtime%20Activity) or [evening activity](Telling-The-Story#Evening%20Activity).
 
 ### Costs
 Different trainings cost a different amount of XP as follows:
@@ -41,14 +41,14 @@ Master level trainers should be rare and not readily available. A master should 
 #### Types Of Training
 There are 24 traditional trainers in Aspirant. These are spread evenly over three disciplines, with 8 sub-disciplines each:
 * [Combat-Training](Combat-Training)
-	* [Keeper](Keeper)
-	* [Flurry](Flurry)
 	* [Bastion](Bastion)
+	* [Berserker](Berserker)
 	* [Duelist](Duelist)
+	* [Flurry](Flurry)
+	* [Keeper](Keeper)
 	* [Marksman](Marksman)
 	* [Pugilist](Pugilist)
-	* [Berserker](Berserker)
-	* [Leader](Leader)
+	* [Shadow](Shadow)
 * [Magic-Training](Magic-Training)
 	* [Abjurer](Abjurer)
 	* [Conjurer](Conjurer)
@@ -56,17 +56,17 @@ There are 24 traditional trainers in Aspirant. These are spread evenly over thre
 	* [Enchanter](Enchanter)
 	* [Evoker](Evoker)
 	* [Illusionist](Illusionist)
-	* [Vitomancer](Vitomancer)
 	* [Transmuter](Transmuter)
+	* [Vitomancer](Vitomancer)
 * [Trades-Training](Trades-Training)
-	* [Performer](Performer)
 	* [Chronicler](Chronicler)
+	* [Craftsman](Craftsman)
 	* [Doctor](Doctor)
 	* [Hunter](Hunter)
-	* [Labourer](Labourer)
-	* [Shadow](Shadow)
+	* [Leader](Leader)
+	* [Performer](Performer)
 	* [Scientist](Scientist)
-	* [Craftsman](Craftsman)
+	* [Worker](Worker)
 
 ### Transhumanism
 Aside from development of skills and training, a character may also as a game progresses gain abilities from elsewhere. These can take the form of enchantments/blessings, alchemical mutations, and powerful prosthetics.

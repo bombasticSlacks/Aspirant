@@ -12,14 +12,14 @@ Travelling in Aspirant can take long amounts of time. Travelling at its simplest
 - characters will need to feed themselves (rations tend to cost 1 silver/day)
 - horses will in most situations be able to feed themselves but otherwise also need 1 silver worth of food per day
 - A full day of travel is considered 8 hours of continual travel, this gives the horses and characters ample time to rest
-- Characters at the end of the day of travel all get to perform an [[#Evening Activities|evening activity]].
+- Characters at the end of the day of travel all get to perform an [[#Evening Activity|evening activity]].
 - Characters can travel 12 hours (1.5 days) if they push themselves. When you do this, you don’t get an evening activity.
 
 During travel, characters may encounter other travellers, enemies or a point of interest. These will be handled by the GM and should lend to the danger and intrigue of the surrounding world. Generally, the world is sparse and most characters should only have 1 travel encounter per day. If your players were attacked by wolves a number of times travelling through a forest instead, that should be handled as one extended narrative / combat scene where they realize they’ve entered dangerous territory and need to navigate out of it.
 
 ---
 
-### Evening Activities
+### Evening Activity
 These are actions that a character could do to wind down in the evening before bed. All characters have access to a number of these, others can be gained with [Training](Character-Development#Training).
 #### Good Nights Rest
 +1 to a single skill test the next day, declared before rolling.
@@ -28,7 +28,7 @@ Do half the work required for a type of Production Work. If this is the second h
 #### Meditate
 Refresh your [Power](Stats#Power) to maximum.
 #### On Watch
-Dedicate yourself to the night watch, you receive a +3 on any [Perception](Perception) tests against ambush and are fully equipped if ambushed. 
+Dedicate yourself to the night watch, you receive a +3 on any [Perception](Perception) tests against ambush and are not surprised if ambushed. 
 #### Socialize
 Any number of the characters in the party may socialize. Any time you aid a character you socialized with, they get a +2 instead of a +1. Socializing while in a city costs 1 silver per person.
 #### Unsupervised Training
@@ -37,12 +37,12 @@ Spending 1XP on character progression where you don’t need someone to train yo
 ---
 
 ### Resting
-Resting is fast forwarded downtime your characters will sometimes have. This tends to happen when you arrive in a safe area. Each day in a safe area, your character may perform 1 [Downtime Activities](#Downtime%20Activities), followed by one [Evening Activities](#Evening%20Activities). Unless you are receiving charity, your food, and housing costs 1 silver per day. If you cannot afford this, you do not get to do activities.
+Resting is fast forwarded downtime your characters will sometimes have. This tends to happen when you arrive in a safe area. Each day in a safe area, your character may perform 1 [Downtime Activities](#Downtime%20Activity), followed by one [Evening Activities](#Evening%20Activity). Unless you are receiving charity, your food, and housing costs 1 silver per day. If you cannot afford this, you do not get to do activities.
 
-### Downtime Activities
+### Downtime Activity
 These are actions a character could spend a day doing. All characters have access to a number of these, others can be gained with [Training](Character-Development#Training).
-#### Evening Activity
-Perform an evening activity
+#### Perform Evening Activity
+Perform an [Evening Activity](#Evening%20Activity)
 #### Injury Recovery
 #### Interview
 Hiring a specific expert to aid on a job.

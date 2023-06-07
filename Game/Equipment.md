@@ -27,6 +27,9 @@ In most cases a dead creature will have
 * One [bit](Resources#Bits)
 * 1-4 size of monster skin / hide / chitten / etc.
 
+#### Quest Rewards
+Your characters will be rewarded for their actions.
+
 #### Damaged Items
 Other looted items may be in ill repair. These items will suffer a -1 on skill tests or other maluses until a craftsman takes a look at them. This shouldn’t be guaranteed, and should really only take place with equipment in terrible areas or handled by characters that wouldn’t know how to take care of it. A damaged item usually needs a *single day* of a craftsman's [services](Services).
 
@@ -34,10 +37,11 @@ Other looted items may be in ill repair. These items will suffer a -1 on skill t
 Aside from gear, your characters may need to call on the services of other experts. The [Costs Of Services](Services#Costs%20Of%20Services) contains examples of services and their costs for the players to use.
 
 ### Types Of Equipment
-* [Gear](Gear)
-* [Storage](Storage)
-* [Weapons](Weapons)
 * [Armour](Armour)
+* [Assets](Assets)
 * [Comestibles](Comestibles)
+* [Gear](Gear)
 * [Mounts](Mounts)
 * [Resources](Resources)
+* [Storage](Storage)
+* [Weapons](Weapons)

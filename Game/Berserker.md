@@ -29,7 +29,6 @@ Your charge attacks have the [Penetrating](Weapon-Traits#Penetrating) trait.
 
 ---
 ### Advanced
-
 #### Adrenaline Response
 After taking an injury that would wound you, you immediately get to take a combat turn (in addition to your regular turn). After this free combat turn, you then roll resolve to resist long-term effects or avoid death as regular. 
 
@@ -38,3 +37,9 @@ If you have [Cleave](#Cleave) training, when making a charge you may target anyo
 
 #### Vivisector
 When attacking with a melee weapon, if you injure an arm or leg, the person also takes an equivalent injury to the chest.
+
+---
+
+### Master
+#### People’s Champion
+Once per downtime, may ignore any injury as though it didn’t occur.

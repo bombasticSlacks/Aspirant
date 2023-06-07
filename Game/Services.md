@@ -32,29 +32,30 @@ Buying armour costs the basic materials, plus five silver for the labour. Exampl
 
 ### Costs Of Services
 
-| Service                                | Cost                                                |
-| -------------------------------------- | --------------------------------------------------- |
-| A guide through a known trail          | $2$                                                 |
-| A guide through a not well-known trail | $5$                                                 |
-| Cosmetic Surgery                       | $14$                                                |
-| Creating A Weapon                      | $5 \times traits + 2 \times weapon\ size\ material$ |
-| Creating Armour                        | $5 + 2 \times size of materials$                    |
-| Creating Something Complex             | $10 + materials$                                    |
-| Creating Something Simple              | $3 + materials$                                     |
-| Day of lodgings                        | $1$                                                 |
-| Day of travel food                     | $1$                                                 |
-| First Aid                              | $2$                                                 |
-| Getting expertise or knowledge         | $4$                                                 |
-| Hiring a mercenary for a day           | $2$                                                 |
-| Mixing alchemical compounds            | $4 + reagents$                                      |
-| Performing a complex ritual            | $12 + reagents$                                     |
-| Performing a simple ritual             | $5 + reagents$                                      |
-| Surgery                                | $8$                                                 |
-| Teaching a basic training              | $5$                                                 |
-| Teaching a skill                       | $5 \times Rank$                                     |
-| Teaching an advanced training          | $12$                                                |
-| Teaching a master training             | $30$                                                |
-| Master Worked Service                  | $base + 10$                                         |
+| Service                                                                   | Cost                                                |
+| ------------------------------------------------------------------------- | --------------------------------------------------- |
+| A guide through a known trail                                             | $2$                                                 |
+| A guide through a not well-known trail                                    | $5$                                                 |
+| Cosmetic Surgery                                                          | $14$                                                |
+| Creating A Weapon                                                         | $5 \times traits + 2 \times weapon\ size\ material$ |
+| Creating Armour                                                           | $5 + 2 \times size of materials$                    |
+| Creating Something Complex                                                | $10 + materials$                                    |
+| Creating Something Simple                                                 | $3 + materials$                                     |
+| Day of lodgings                                                           | $1$                                                 |
+| Day of travel food                                                        | $1$                                                 |
+| First Aid                                                                 | $2$                                                 |
+| Getting expertise or knowledge                                            | $4$                                                 |
+| Hiring a mercenary for a day                                              | $2$                                                 |
+| Master Worked Service                                                     | $base + 10$                                         |
+| Mixing alchemical compounds                                               | $4 + reagents$                                      |
+| Moving a piece of [Infrastructure](Assets#Infrastructure) to another city | $2 \times Days\ Of\ Travel \times Space$                         |
+| Performing a complex ritual                                               | $12 + reagents$                                     |
+| Performing a simple ritual                                                | $5 + reagents$                                      |
+| Surgery                                                                   | $8$                                                 |
+| Teaching a basic training                                                 | $5$                                                 |
+| Teaching a master training                                                | $30$                                                |
+| Teaching a skill                                                          | $5 \times Rank$                                     |
+| Teaching an advanced training                                             | $12$                                                |
 
 ### Costs Of Materials
 

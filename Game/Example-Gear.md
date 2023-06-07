@@ -105,11 +105,6 @@ A collection of prepared pages and translations needed to properly perform ritua
 #### Tinderbox
 Materials used to start a fire. Takes 1 minute to start a fire, or an action to light something that is doused in fuel.
 
-#### Tool Set
-A collection of tools related to a specific profession or action. Without a Tool Set, things would be impossible. When you buy a Tool Set, it is for a specific activity and has all the things required to do that activity.
-
-> Some example tool sets would be: Alchemists, Carpenters, Tailors, Painters, Smiths, Tinkers, Carvers, Thieves.
-
 #### Water Skin
 A soft bodied container that can hold up to 1 litre of liquid.
 
@@ -171,4 +166,17 @@ Creating a forgery is a [Subterfuge](Subterfuge) [Fixed Difficulty](Skills#Fixed
 > so a -4 difficulty test would result in a forgery costing 8 silver.
 
 A forgery kit holds 15 silver worth of supplies.
+
+#### Tool Set
+A collection of tools related to a specific profession or action. Without a Tool Set, things would be impossible. When you buy a Tool Set, it is for a specific activity and has all the things required to do that activity. Some trainings will require a tool set, but otherwise these will help to narratively justify actions.
+
+#TODOcopy 
+##### Alchemists Tool Set
+##### Carpenters Tool Set
+##### Armourers Tool Set
+##### Painters Tool Set
+##### Weapons Tool Set
+##### Tinkerers Tool Set
+##### Carvers Tool Set
+##### Thieves Tool Set
 

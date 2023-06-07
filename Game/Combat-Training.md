@@ -4,13 +4,13 @@ Combat is a notable part of any adventurers life.
 
 ### Specialized Schools
 Combat is furth seperated into 8 specialized schools:
-* [Keeper](Keeper)
-* [Flurry](Flurry)
 * [Bastion](Bastion)
+* [Berserker](Berserker)
 * [Duelist](Duelist)
+* [Flurry](Flurry)
+* [Keeper](Keeper)
 * [Marksman](Marksman)
 * [Pugilist](Pugilist)
-* [Berserker](Berserker)
 * [Shadow](Shadow)
 
 Any specialist in one of the above schools can also teach any of the following trainings:
@@ -44,6 +44,9 @@ You can use any martial weapons without penalty.
 #### Strapped
 You get an additional 4 size worth of belt space.
 
+#### Resilient
+Your character may add their fitness skill to rolls for immediate effects of injuries, resist death from critical injuries to the chest, and to not collapse from being wounded.
+
 ---
 
 ### Advanced Training
@@ -75,3 +78,6 @@ You can declare a weapon you are using has an additional trait worth up to 2 tra
 
 #### Constant Movement
 You can perform reactions during your own turn.
+
+#### Shake it off
+Whenever a negative effect happens to you, roll 1d6 on a roll of 4-6 you ignore the effect.

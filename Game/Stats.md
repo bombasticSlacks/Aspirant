@@ -50,7 +50,7 @@ An abstraction of your characters potential to learn and gain new abilities. [[C
 Aspirants will not immediately spend experience as they gain it, expertise comes from the knowledge of others so your spent XP should be tracked seperately from your total.
 
 #### Power
-A stat tracking how many times you character can perform certain powerful abilities. Some [Training](Character-Development#Training) will require you to expend this resource. It can be regained using the [Meditate](Telling-The-Story#Meditate) [Evening Activity](Telling-The-Story#Evening%20Activities).
+A stat tracking how many times you character can perform certain powerful abilities. Some [Training](Character-Development#Training) will require you to expend this resource. It can be regained using the [Meditate](Telling-The-Story#Meditate) [Evening Activity](Telling-The-Story#Evening%20Activity).
 
 Power is equal to 2 + 1 per [Training](Character-Development#Training) that requires power.
 
