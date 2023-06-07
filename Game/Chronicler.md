@@ -51,6 +51,9 @@ During [Meditate](Telling-The-Story#Meditate), you can select any one of your sk
 #### Contacts
 As a downtime action, you can spend a day setting up contacts in any location. This contact network can be queried for information and will send relevant info your way.
 
+#### Kryptonite
+If you succeed on a [Knowledge](Knowledge) skill test to know about an enemy animal or monster, you can choose to know about their movements or their weaknesses. Everyone in the party gets either a +1 to hit, +1 to evade or +1 to damage rolls when facing the monster.
+
 ---
 ### Master
 

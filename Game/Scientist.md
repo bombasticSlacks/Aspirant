@@ -13,7 +13,6 @@ Spend a [Power](Stats#Power), you can declare your far-fetched theory about what
 #TODOcopy 
 As [Production Work](Telling-The-Story#Production%20Work), using a [Tinkerers Tool Set](Example-Gear#Tinkerers%20Tool%20Set) you can create [Prosthetics](Character-Development#Prosthetics) that characters can use with ease.
 
-
 #### Kill Switch
 You can disable automata and machines that you are in melee with using a [Science](Science) skill test.
 
@@ -28,6 +27,7 @@ You can make ranged attack skill tests using the [Science](Science) skill.
 You can attempt to activate magical items using the [Science](Science) skill.
 
 #### Alchemy
+#TODOcopy 
 As [Production Work](Telling-The-Story#Production%20Work), using an [Alchemists Tool Set](Example-Gear#Alchemists%20Tool%20Set) you can craft an alchemical potion, medicine or other mixture.
 
 #### Gatherer
@@ -38,9 +38,6 @@ You can visualize what nearby characters are doing even if you can’t directly 
 
 ---
 ### Advanced
-
-#### Multitasker
-Once per downtime, you can opt to take a second combat action after your first or expedite / multitask two narrative actions.
 
 #### Alchemical Traps
 If your character has a [Trap Kit](Example-Gear#Trap%20Kit), your payloads can be much more exotic, but the skill test becomes [Science](Science), and they take longer to prepare. They can include things like:
@@ -58,6 +55,9 @@ As [Production Work](Telling-The-Story#Production%20Work), using an [Alchemists 
 
 ---
 ### Master
+
+#### Multitasker
+Once per downtime, you can opt to take a second combat action after your first or expedite / multitask two narrative actions.
 
 #### Vitruvian
 Your body is perfect and loses all scarring. Immune to poison, mutations you take don’t have any obvious signs. Going above your Max Toxicity temporarily doesn’t cause injury (though you still can’t take more modifications than that).

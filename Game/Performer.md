@@ -3,12 +3,11 @@ One of the 8 [Trades Training](Trades-Training) disciplines.
 #TODOcopy 
 
 ### Basic
-
 #### Battle Music
-If you have an instrument on you, every ally gets a +1 to initiative.
+If you have an [Simple Instrument](Example-Gear#Simple%20Instrument), or [Complex Instrument](Example-Gear#Complex%20Instrument) on you, every ally gets a +1 to initiative.
 
 #### Busking
-As skilled work, you can busk. Make a variable difficulty [Perform](Perform) skill test, you receive 2 silver per step of success.
+As [Skilled Work](Telling-The-Story#Skilled%20Work), you can busk. Make a variable difficulty [Perform](Perform) skill test, you receive 2 silver per step of success.
 
 #### Come In Peace
 Allies and yourself gain a +1 to social skill tests when interacting with residents of an area.
@@ -51,7 +50,7 @@ It does not cost money for you and your allies to perform the [Socialize](Tellin
 You may, as an action in combat, perform on your instrument to provide bonuses to allies. The difficulty of this test will vary based on the bonus you want to provide.
 
 #### Understudy
-During the evening activity socialize, you can select a training that another member of your party has, which you count as having until your next downtime.
+During [Socialize](Telling-The-Story#Socialize), you can select a training that another member of your party has, which you count as having until your next [Resting](Telling-The-Story#Resting), or [Socialize](Telling-The-Story#Socialize).
 
 #### What I Meant Was
 Spend 2 [Power](Stats#Power) during narrative time, after speaking to someone and hearing how they react, you may say “what I meant to say was…” and the original reaction will be forgotten with the conversation continuing as if it didn’t happen.

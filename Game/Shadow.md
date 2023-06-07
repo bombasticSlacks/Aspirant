@@ -54,7 +54,7 @@ Weapons of size 1 you wield count as having the penetrative trait.
 You can manoeuvre perfectly well in the dark or when your vision is otherwise impaired.
 
 #### Tour Guide
-When rolling [Subterfuge](Subterfuge) to hide, move silently etc. you can include a small group of people at no negative. They don't need to make their own [Subterfuge](Subterfuge) skill test. 
+When rolling [Subterfuge](Subterfuge) to hide, move silently etc. you can include a small group of people at no negative. They don't contribute [Hindrance](Skills#Aid%20and%20Hindrance). 
 
 #### Vanish
 If within 3m of a piece of cover you can spend 3 [Power](Stats#Power) to lose all attention in the combat and act as though no one were aware of you until you draw attention to yourself. This can also be used out of combat for a similar effect, however out of combat it isn’t limited and requires a skill test.
