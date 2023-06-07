@@ -30,7 +30,7 @@ Refresh your [Power](Stats#Power) to maximum.
 #### On Watch
 Dedicate yourself to the night watch, you receive a +3 on any [Perception](Perception) tests against ambush and are not surprised if ambushed. 
 #### Socialize
-Any number of the characters in the party may socialize. Any time you aid a character you socialized with, they get a +2 instead of a +1. Socializing while in a city costs 1 silver per person.
+Any number of the characters in the party may socialize. Any time you aid a character you socialized with, they get a +2 instead of a +1. Socializing while in a city costs 1 silver per person. Socializing while [Travelling](#Travelling), requires an activity such as a [Games Kit](Example-Gear#Games%20Kit).
 #### Unsupervised Training
 Spending 1XP on character progression where you don’t need someone to train you (either from a book or a training you have already started).  
 

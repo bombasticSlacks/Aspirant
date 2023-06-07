@@ -22,8 +22,6 @@ Rewrite Aescetic
 
 Determine what activities require a workshop
 
-Mention needing a tool set in production work
-
 
 
 
