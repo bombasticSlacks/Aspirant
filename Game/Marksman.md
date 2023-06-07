@@ -8,7 +8,7 @@ One of the 8 [combat training](Combat-Training) disciplines.
 When you miss with ammunition, it is always [salvageable](Resources#Salvaging).
 
 #### Improvised Munitions
-As an [evening activities](Telling-The-Story#Evening%20Activity), you can scavenge 2d6 ammunition for a ranged weapon. This ammo makes the weapon deal 2 less damage, and may potentially remove traits, though that is at the discretion of the GM. 
+As an [evening activities](Telling-The-Story#Evening%20Activity), you can scavenge 1d6 ammunition for a ranged weapon. This ammo makes the weapon deal 2 less damage, and may potentially remove traits, though that is at the discretion of the GM. 
 
 #### Olympian
 You can throw an item at the end of a charge, receiving the bonuses. 

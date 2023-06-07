@@ -47,7 +47,7 @@ If you are caught on fire you are in immediate risk of severe complications. On 
 After 2 turns (10 seconds) of being on fire you take an immediate severe injury to the body part that’s on fire and another fire starts on an adjacent body part. After 4 turns (20 seconds) you take a critical injury to the original body part that’s on fire and the fire spreads to your entire body. After 6 turns (30 seconds) on fire you take a critical injury to the chest on each of your turns until either dead or no longer on fire.
 
 #### Stop Drop And Roll
-Make a [Fitness](Fitness), or [Science](Science) test at a -3 if you succeed you are no longer on fire. For each consecutive turn you stop, drop and roll this test is at a +1. It is important to note some forms of militarized fire are sticky and impossible to put out without help or tools.
+Make a [Fitness](Fitness), [Acrobatics](Acrobatics), or [Science](Science) test at a -3 if you succeed you are no longer on fire. For each consecutive turn you stop, drop and roll this test is at a +1. It is important to note some forms of militarized fire are sticky and impossible to put out without help or tools.
 
 ### Being Wounded
 If your character is injured, they only have so long before they pass out/collapse. In general on each combat turn you are wounded after you have performed your action you make a resolve + heroism test to see if you can continue to fight at a reasonable level (the use of medication and stabilization can cause you to ignore this). If you fail this test you fall unconscious. For every severe injury after the first add a -1 to the test for every critical injury add -2 to the test.
@@ -62,9 +62,3 @@ When determining difficulty of [Medicine](Medicine) skill tests and negatives fo
 
 #### Stabilization
 Even if you aren’t trained in [Medicine](Medicine) and don't have the proper tools you may still attempt to stabilize someone's injuries. This is a very basic test which means they are no longer bleeding, their burns have been covered, etc. This is a [Medicine](Medicine) test with a modifier of 0. No matter the result of the skill test the person is no longer at risk of immediately dying, but they get an additional -1 to their [injury penalty](#Lingering%20Pain). 
-
-#### Surgery
-If you have time you may also perform surgery on someone who has suffered lasting injuries to treat them. Surgery at a minimum requires a flat surface and surgical tools. However you receive a +2 for having surgical tools, a +2 for a sterile environment, a +1 for monitoring equipment and a +1 for taking double the time. If you have access to any replacement body parts they can be reapplied as part of surgery. Surgery takes 20 minutes per injury the person has sustained with chest injuries taking 2 times as long and head injuries taking 3 times as long. The total time in surgery is equal to the sum of all injuries. Surgery is in general a medical test at a -3 with an additional negative equal to the character's injury penalty. A successful surgery removes the negative a person is suffering however they will be at a -1 for an hour as they get out of their daze (this counts as administering medicine). If you fail a surgery test the person does not get better and counts as having a “failed surgery” when determining if they survive their injuries long term.
-
-#### Long Term Care
-If a person sleeps after becoming wounded or otherwise has a large amount of down time it is expected that a medical professional should take care of them. This is a [Medicine](Medicine) test which receives a +2 if you have access to a full medical facility. If you succeed on this test the person's injury negatives are reduced by 1 until the next evening.

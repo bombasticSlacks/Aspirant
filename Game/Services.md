@@ -48,9 +48,10 @@ Buying armour costs the basic materials, plus five silver for the labour. Exampl
 | Hiring a mercenary for a day                                              | $2$                                                 |
 | Master Worked Service                                                     | $base + 10$                                         |
 | Mixing alchemical compounds                                               | $4 + reagents$                                      |
-| Moving a piece of [Infrastructure](Assets#Infrastructure) to another city | $2 \times Days\ Of\ Travel \times Space$                         |
+| Moving a piece of [Infrastructure](Assets#Infrastructure) to another city | $2 \times Days\ Of\ Travel \times Space$            |
 | Performing a complex ritual                                               | $12 + reagents$                                     |
 | Performing a simple ritual                                                | $5 + reagents$                                      |
+| Standard days work for a Tradesman                                      | $5$                                                 |
 | Surgery                                                                   | $8$                                                 |
 | Teaching a basic training                                                 | $5$                                                 |
 | Teaching a master training                                                | $30$                                                |

@@ -14,7 +14,6 @@ Cost is the charge to order a craftsman to make the item, buying/selling it pote
 | [Comfort Kit](#Comfort%20Kit)                     | 2    | 15   |
 | [Complex Instrument](#Complex%20Instrument)       | 3    | 30   |
 | [Crystallized Magic](#Crystallized%20Magic)       | 1/5  | 1    |
-| [Field Surgery Kit](#Field%20Surgery%20Kit)       | 2    | 20   |
 | [Fine Clothes](#Fine%20Clothes)                   | 1    | 10   |
 | [Flask](#Flask)                                   | 1    | 4    |
 | [Focus](#Focus)                                   | 2    | 35   |
@@ -118,9 +117,6 @@ A collection of the necessary tools to sleep outside. 
 * Hammock, bedroll or sleeping bag
 * A small heat safe container
 
-#### Field Surgery Kit
-A basic collection of tools and implements needed to perform surgery.
-
 #### Forensic Kit
 A collection of tools required to store and catalogue evidence from crime scenes.
 
@@ -172,11 +168,22 @@ A collection of tools related to a specific profession or action. Without a Tool
 
 #TODOcopy 
 ##### Alchemists Tool Set
+
 ##### Carpenters Tool Set
+
 ##### Armourers Tool Set
+
 ##### Painters Tool Set
+
 ##### Weapons Tool Set
+
 ##### Tinkerers Tool Set
+
 ##### Carvers Tool Set
+
 ##### Thieves Tool Set
 
+##### Surgeons Tool Set
+A basic collection of tools and implements needed to perform surgery.
+
+---
