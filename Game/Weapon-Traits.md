@@ -44,7 +44,7 @@ This weapon is penetrative for your first attack in any combat.
 If your weapon requires ammo, it can be reloaded in half the time. Reloads that normally take an action are instead free and any skill tests performed that turn are at a -2.
 
 #### Hand and a Half
-This weapon counts as 1 size larger if wielded in two hands.
+This weapon counts as 1 size larger if wielded in two hands. The weapon recieves one additional trait that only counts when used in two hands.
 
 #### Inscribed
 This weapon counts as a Focus for [Channel](Channel) skill tests.    
@@ -76,7 +76,7 @@ This weapon is balanced for throwing, you receive no penalties to throwing it.
 ### 2 Cost Traits
 
 #### Folding
-This weapon counts as two separate sizes. When stored, it is considered the smaller size. As an action, you may change which size it counts as, or at the end of any attack action you can change the size. 
+This weapon counts as two separate sizes. When stored, it is considered the smaller size. As an action, you may change which size it counts as, or at the end of any attack action you can change the size. Aside from Folding the weapon can count as having seperate traits in each form.
 
 #### Overweight
 This weapon has -1 to skill tests made with it and does +3 damage. 
