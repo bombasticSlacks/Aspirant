@@ -46,7 +46,7 @@ Once per downtime, you can opt to take a second combat action after your first o
 If your character has a [Trap Kit](Example-Gear#Trap%20Kit), your payloads can be much more exotic, but the skill test becomes [Science](Science), and they take longer to prepare. They can include things like:
 Gravity destabilize: Everything in the trap area loses gravity for 1d3 rounds. Or gravity shifts in a direction for the same duration.
 Stasis discharge: Everything in the area is stunned for a turn.
-Magnesium Bomb: Everything in the area suffers an exothermic attack that causes a critical injury to a location and is on fire.
+Magnesium Bomb: Everything in the area suffers an [Hot](Combat#Hot) attack that causes a critical injury to a location and is on fire.
 Corrosive Gas: Everything in the area loses all resistance for its armour
 
 #### Exact Dosage

@@ -56,7 +56,7 @@ These are common bonuses and negatives you can receive on your attacks which wil
 * Outnumbered: If your opponent is outnumbered in melee, you receive a +1 to melee attacks and manoeuvres against them
 * Severely Outnumbered: If your opponents are outnumbered in melee by more than 2 to 1 you receive a +2 to melee attacks and manoeuvres against them. (ex: 3 to 1, 5 to 2 etc.)
 * Unaware: When making an attack or manoeuvre, if your opponent is unaware of your presence, you get a +4 to the skill test.
-* On The Move: If you have moved this turn, you take a -2 to your ranged attacks and manoeuvres.
+* On The Move: If you have moved this turn, you take a -2 to attacks and manoeuvres.
 * Unweighted for Throwing: If you attempt to throw a weapon that doesn’t have the thrown tag you receive a -3 on the skill test. Basic weapons only have a -1 penalty.
 * On Your Back: When attempting a melee test, if you are prone you receive a -2.
 
@@ -147,29 +147,38 @@ When you or something else is attempting to injure someone you will in most case
 
 This number is usually compared to the universal damage chart to determine the injury caused:
 
-|       |          |
-| ----- | -------- |
 | Roll  | Injury   |
+| ----- | -------- |
 | 1-5   | Minimal  |
 | 6-10  | Severe   |
 | 11-15 | Critical |
 | 16+   | Lethal   |
-```
-So, for example, a long sword (3 size martial weapon) wielded by a character with 3 STR would have a damage bonus of 7 (1 martial + 3 size + 3 STR). That means on a 1-3 it causes a severe injury, on a 4-6 it causes a critical injury. 
-```
+
+> So, for example, a long sword (3 size martial weapon) wielded by a character with 3 STR would have a damage bonus of 7 (1 martial + 3 size + 3 STR). That means on a 1-3 it causes a severe injury, on a 4-6 it causes a critical injury. 
+
 
 ### Types of Damage
 Generally, there are two large categories of damage – Physical and Otherworldly, each of these then further has three categories of damage.
 
-Physical injuries can consist of -
-- Rending – tearing and cutting flesh
-- Piercing – stabbing and piercing flesh
-- Impact – slamming into and breaking flesh 
+Physical injuries can consist of:
+#### Rending
+tearing and cutting flesh.
+#### Piercing
+Stabbing and piercing flesh.
+#### Impact
+Slamming into and breaking flesh .
 
-Otherworldly injuries can consist of -
-- Biological – poison, acid, and rot ravage the body
-- Exothermic – heat, power, holy energy ravage the body 
-- Endothermic – ice, cold, vampiric energy ravage the body
+---
+
+Otherworldly injuries can consist of:
+#### Life
+Poison, acid, and rot ravage the body destroying life itself.
+#### Hot
+Heat, power, holy energy ravage the body 
+#### Cold
+Ice, chill, vampiric energy ravage the body
+
+---
 
 ### Area Of Effect
 In general, most things will only target a single person however if something (such as a spell) refers to a square or cone of damage. A 9m square means a square with a side length of 9m. You would choose where you want it and if you miss your attack it scatters in a random direction equal to the number you failed by in meters. Determine what direction it scatters at random.

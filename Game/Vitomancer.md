@@ -1,4 +1,4 @@
-## Necromancer
+## Vitomancer
 One of the 8 [Magic-Training](Magic-Training) disciplines.
 #TODOcopy 
 
@@ -10,9 +10,6 @@ You can command and manipulate unintelligent spirits and undead.
 
 #### Dead Tongues
 You can speak to spirits and undead even if you wouldn't otherwise share a language.
-
-#### Holy Magic
-Your necromancy can appear heavenly/holy; this means it will not appear as perverse or evil to onlookers.
 
 ---
 ### Advanced
