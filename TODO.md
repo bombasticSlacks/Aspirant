@@ -14,13 +14,9 @@ Ioun stones
 
 Move armour to a trait's system.
 
-Kits for adventuring, spelunking, survival
-
 More Master Training.
 
 Rewrite Aescetic
-
-Determine what activities require a workshop
 
 
 
