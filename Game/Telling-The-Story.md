@@ -20,6 +20,7 @@ During travel, characters may encounter other travellers, enemies or a point of 
 ---
 
 ### Evening Activities
+These are actions that a character could do to wind down in the evening before bed. All characters have access to a number of these, others can be gained with [Training](Character-Development#Training).
 #### Good Nights Rest
 +1 to a single skill test the next day, declared before rolling.
 #### Half Work
@@ -36,9 +37,10 @@ Spending 1XP on character progression where you don’t need someone to train yo
 ---
 
 ### Resting
-Resting is fast forwarded downtime your characters will sometimes have. This tends to happen when you arrive in a safe area. Each day in a safe area, your character may perform 1 [[Telling-The-Story#Downtime Activities|downtime activity]], followed by one [[Telling-The-Story#Evening Activities|evening activity]]. Unless you are receiving charity, your food, and housing costs 1 silver per day. If you cannot afford this, you do not get to do activities.
+Resting is fast forwarded downtime your characters will sometimes have. This tends to happen when you arrive in a safe area. Each day in a safe area, your character may perform 1 [Downtime Activities](#Downtime%20Activities), followed by one [Evening Activities](#Evening%20Activities). Unless you are receiving charity, your food, and housing costs 1 silver per day. If you cannot afford this, you do not get to do activities.
 
 ### Downtime Activities
+These are actions a character could spend a day doing. All characters have access to a number of these, others can be gained with [Training](Character-Development#Training).
 #### Evening Activity
 Perform an evening activity
 #### Injury Recovery
