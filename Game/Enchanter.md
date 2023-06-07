@@ -1,10 +1,11 @@
 ## Enchanter
 One of the 8 [Magic-Training](Magic-Training) disciplines.
-#TODOcopy 
+
+The process of affecting people and things. A character could use enchanting to charm a person into trusting them, curse a place to slowly rot, imbue a sword with magical power.
 
 ### Basic
 #### Amateur Enchanting
-Your character can perform [Ritual](Ritual) to:
+If your character has [Attuned](Magic-Training#Attuned), your character can perform [Ritual](Ritual) to:
 
 Imbue magic into items of a temporary nature (comestibles, munitions), or single use magic into a permanent item.
 

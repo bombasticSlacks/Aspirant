@@ -19,6 +19,9 @@ On your turn, you may make an attack at -2 additional difficulty, and then perfo
 #### Head Down
 If you move during your turn, enemies suffer a -2 to hit you with ranged attacks until your next turn.
 
+#### Lash Out
+After attacking, you may throw a weapon of a smaller size as a seperate attack.
+
 ---
 
 ### Advanced
@@ -26,13 +29,8 @@ If you move during your turn, enemies suffer a -2 to hit you with ranged attacks
 #### Ambidextrous
 When holding two weapons/items of size 2 or less during combat, you can take a single action with each weapon, though each suffers a -1.
 
-#### Niten Ichi-Ryu
-#TODOoverloaded 
-When using two weapons and one is larger than the other, you may Strike Together, and Lash Out
-
-Strike Together - A special manoeuvre where, if you haven’t moved this turn, you may make a basic attack with each of your weapons. Your opponent may only react to one of these attacks. 
-
-Lash Out - You can throw your smaller weapon as a free action.
+#### Strike Together
+ If you haven’t moved this turn or last, if you attack with both your weapons, your target may only react to one of these attacks. 
 
 #### Hyper Block
 You can block and parry ranged projectiles. 

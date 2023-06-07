@@ -62,7 +62,7 @@ A folded up cloth stretcher used for transporting individuals who have suffered 
 A useful item to carry when dealing with trauma scenarios. A thick quilted reinforced blanket which can be used as protection from the elements, to put out fires or to reassure and comfort a trauma victim. Weighted for maximum reassurance.
 
 #### Crystallized Magic
-Infused or naturally resonant magical material which can be used to [Channel](Channel) magical spells.
+Crystallized magic is an infused or naturally magically resonant material that allows a channeller to transform pure magic into effects on the material world. Crystallized magic is necessary to [Channel](Channel) any meaningful magical effect, it can be purchased like any other equipment. When casting a spell, you need to expend a unit of crystallized magic per level of the spell, so amateur spells require 1 unit, expert 2, and master 3. If you do not succeed, there is a 50% chance that the crystallized magic is not expended. 
 
 #### Fine Clothes
 An impressive set of clothing befitting a merchant or tradesman.

@@ -1,12 +1,13 @@
 ## Evoker
 One of the 8 [Magic-Training](Magic-Training) disciplines.
-#TODOcopy 
+
+The act of manipulating energy. A character could use evocation to start a fire, freeze an object, shoot energy from their hands.
 
 ### Basic
 #### Amateur Evocation
-Your character can [Channel](Channel) to:
+If your character has [Attuned](Magic-Training#Attuned), your character can [Channel](Channel) to:
 
-Attack with combat magic #TODOLINK , change the temperature of an item abruptly.
+Attack with [Combat](Channel#Combat) magic, change the temperature of an item abruptly.
 
 #### Magical Artillery
 Anyone targeted by an evocation magic attack you perform is at a -1 to all actions until your next turn.

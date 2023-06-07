@@ -1,5 +1,7 @@
 ## Magic-Training
-#TODOcopy 
+One of the three greater [Training](Character-Development#Types%20Of%20Training) disciplines.
+
+Characters with the skills of [Channel](Channel) or [Ritual](Ritual) and some training in magical disciplines can perform powerful feats of magic.
 
 ### Specialized Schools
 Magic is furth seperated into 8 specialized schools:
@@ -19,11 +21,10 @@ Any specialist in one of the above schools can also teach any of the following t
 #### Blood Rituals
 You may attempt a ritual without 1 of the requirements and replace it with an amount of blood.
 
-#### Channeller
-#TODORedundant 
-Your character has a basic understanding of channelled magic. 
+#### Attuned
+Your character has a basic understanding of magic. 
 
-When wielding a focus, your character can perform simple cantrips of magic and operate magical items using the channel skill. Your [Knowledge](Knowledge) also extends to channelled magic. With further training, you could do specific magical acts of abjuration, evocation, illusion, or transmutation.
+When wielding a focus, your character can perform simple cantrips of magic and operate magical items using the [Channel](Channel) skill. When wielding a spell book, your character can aid in rituals of magic and operate magical structures and places of power using the [Ritual](Ritual) skill. Your [Knowledge](Knowledge) extends to magic. With further training, you could learn to do greater acts of magic.
 
 #### Distant Channelling
 You gain access to the Far magical trait for spell attacks. Your narrative magic abilities have double the range before they suffer negatives.
@@ -36,12 +37,6 @@ You are an expert in a specific ritual of your choice, which you can perform at 
 
 #### Intellectual Methods
 When performing rituals and ritual spells, you may substitute your INT for RES.
-
-#### Ritualist
-#TODORedundant 
-Your character has a basic understanding of ritual magic. 
-
-When wielding a spell book, your character can aid in rituals of magic and operate magical structures and places of power using the ritual skill. Your [Knowledge](Knowledge) also extends to ritual magic. With further training, you could do specific magical acts of conjuration, divination, enchanting, or necromancy. 
 
 #### Silent Channelling
 You do not need to speak to [Channel](Channel) magic.
@@ -58,18 +53,8 @@ When performing [Channel](Channel) skill tests, you may count your RES as the sa
 ---
 ### Advanced
 
-#### Multidisciplinary Casting
-#TODOmaster 
-#TODOLINK 
-You can cast any channelling discipline you have at least beginner training in at the level of your highest trained discipline of Abjurer, Evoker, Illusionist, Transmuter.
-
-#### Multidisciplinary Rituals
-#TODOmaster 
-#TODOLINK 
-You can perform any ritual of a discipline you have at least beginner training at the level of your highest trained discipline of Conjurer, Diviner, Enchanter, Necromancer.
-
 #### Overcharge
 You can pull a dangerous amount of magical energy into yourself. You may suffer a severe head injury to substitute a 10 on any [Channel](Channel) skill test dice roll.
 
 #### Powerful Mind
-You can focus on two spells simultaneously.
+You can [Maintaining Focus](Channel#Maintaining%20Focus) on two spells simultaneously.

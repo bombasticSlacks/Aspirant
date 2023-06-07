@@ -1,10 +1,11 @@
 ## Vitomancer
 One of the 8 [Magic-Training](Magic-Training) disciplines.
-#TODOcopy 
+
+The process of controlling life itself. A character could use vitomancy to resurrect the dead, commune with spirits, control the undead, manipulate age and life force.
 
 ### Basic
 #### Amateur Necromancy
-Your character can perform [Ritual](Ritual) to:
+If your character has [Attuned](Magic-Training#Attuned), your character can perform [Ritual](Ritual) to:
 
 You can command and manipulate unintelligent spirits and undead.
 

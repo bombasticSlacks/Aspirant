@@ -24,6 +24,12 @@ While using a weapon with the [Shield](Weapon-Traits#Shield) trait, if you succe
 #### Terminator
 You cannot be forced to move or knocked over while wearing all metal armour.
 
+#### Shield Bash
+You may [Block](Combat#Block) an enemy attack at an additional -2. If you succeed, they are knocked down.
+
+#### Fight Defensively
+You may declare you are fighting in a defensive stance as a free action at the beginning of your turn. While fighting defensively You receive a +2 to block skill tests, a -2 to attack skill tests.
+
 ---
 
 ### Advanced
@@ -38,16 +44,6 @@ After suffering an injury, test STR with a -1 difficulty for a severe injury, -2
 
 #### Second Skin
 You ignore max skill for any armour you use.
-
-#### Sword and Board
-#TODOoverloaded 
-When fighting with a shield you can Fight Defensively, Shield Bash, and Strike True
-
-Fight Defensively - You may declare you are fighting in a defensive stance as a free action at the beginning of your turn. While fighting defensively You receive a +2 to block skill tests, a -2 to attack skill tests, and enemies in melee with you are at a -2 to attack you until your next turn.
-
-Shield Bash - You may block an enemy attack at a -2. If you succeed, they are knocked down.
-
-Strike True - If an enemy is prone, and you make a melee attack against them, you receive a +4 to hit, and you add 3 to your damage roll.
 
 ---
 

@@ -1,10 +1,11 @@
 ## Abjurer
 One of the 8 [Magic-Training](Magic-Training) disciplines.
-#TODOcopy 
+
+The act of manipulating magic itself and protecting against things. A character could use abjuration magic to create a protective barrier, disrupt a spell or curse, stop a troll's regeneration.
 
 ### Basic
 #### Amateur Abjuration
-Your character can [Channel](Channel) to:
+If your character has [Attuned](Magic-Training#Attuned), your character can [Channel](Channel) to:
 
 Disrupt a spell of an amateur level, weaken the abilities or powers of a character/creature, create a shield against a specific element around yourself.
 

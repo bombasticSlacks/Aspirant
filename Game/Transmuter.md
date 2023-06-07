@@ -1,10 +1,11 @@
 ## Transmuter
 One of the 8 [Magic Training](Magic-Training) disciplines.
-#TODOcopy 
+
+The act of manipulating matter. A character could use transmutation to alter their form, make a weapon out of junk, create wine from water.
 
 ### Basic
 #### Amateur Transmutation
-Your character can [Channel](Channel) to:
+If your character has [Attuned](Magic-Training#Attuned), your character can [Channel](Channel) to:
 
 Change a comestible into something more useful. Alter yourself in simple ways.
 
