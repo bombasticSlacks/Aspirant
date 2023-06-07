@@ -5,7 +5,6 @@ One of the 8 [Trades Training](Trades-Training) disciplines.
 ### Basic
 
 #### Brilliant Bastard
-#TODORedundant 
 You automatically succeed on anything you do on a roll of double 1’s.
 
 #### Fast Learner

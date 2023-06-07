@@ -1,5 +1,7 @@
 ## Combat Training
-Combat is a notable part of any adventurers life.
+One of the three greater [Training](Character-Development#Types%20Of%20Training) disciplines.
+
+Combat is a notable part of any adventurers life. 
 #TODOcopy
 
 ### Specialized Schools
@@ -21,7 +23,7 @@ You can reload a crossbow and fire it in the same turn at a -1 to the [Marksmans
 
 #### Exotic Expert
 #TODOLINK
-If you have Martial Training, you can use any exotic weapon without penalty.   
+If you have [Martial Training](#Martial%20Training), you can use any [Exotic](Weapons#Exotic) weapon without penalty.   
 
 #### Giants Hands
 You can comfortably wield weapons one size larger in one hand or two.
@@ -47,31 +49,20 @@ You get an additional 4 size worth of belt space.
 #### Resilient
 Your character may add their fitness skill to rolls for immediate effects of injuries, resist death from critical injuries to the chest, and to not collapse from being wounded.
 
+#### Bury Them
+If an enemy is prone, and you make a melee attack against them, you receive a +4 to hit, and you add 3 to your damage roll.
+
 ---
 
 ### Advanced Training
 #### Bashing
 You can opt to make the damage type of any [Rending](Combat#Rending) or [Piercing](Combat#Piercing) weapon cause [Impact](Combat#Impact) injuries instead.
 
-#### Fior Di Battaglia
-#TODOoverloaded
-When using a weapon of size 4 or greater you may Sweep, Hold, Strike True
+#### Sweep
+As a [Special Manoeuvre](Combat#Special%20Manoeuvres), you may make a [Melee](Melee) skill test. If successful, all enemies in melee with you and within 3m of you need to dodge or be knocked prone.
 
-Sweep – As a special manoeuvre, you may make a melee skill test. If successful, all enemies in melee with you and within 3m of you need to dodge or be knocked prone.
-
-Hold – A special manoeuvre similar to parry, however if an enemy moves and then attacks you they receive a -2 on their attack.
-
-Strike True - If an enemy is prone, and you make a melee attack against them, you receive a +4 to hit, and you add 3 to your damage roll.
-
-#### Iaido
-#TODOoverloaded
-When using a one handed weapon with a sheath, you can Quick Draw, Sheath Block, and Reenter Stance.
-
-Quick Draw – If your weapon is sheathed, you can make an attack with +2 bonus to hit. When rolling damage, roll an extra d6 and take the highest roll.
-
-Sheath Block - You can parry and block while your weapon is sheathed.
-
-Reenter Stance – At the end of any attack or manoeuvre, other than quick draw, you may end it by sheathing your Iaido weapon.
+#### Quick Draw
+If your weapon is sheathed, you can make an attack with +2 bonus to hit. When rolling damage, roll an extra d6 and take the highest roll.
 
 #### Master Of Arms
 You can declare a weapon you are using has an additional trait worth up to 2 trait points. It has that trait for the rest of an encounter. Using this ability costs [Power](Stats#Power) equal to the trait value. If this is used additional times in a single encounter only the most recently declared Master Of Arms trait counts. 

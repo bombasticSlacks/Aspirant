@@ -8,7 +8,6 @@
 * [Telling-The-Story](Telling-The-Story)
 * [Combat](Combat)
 * [Injury](Injury)
-* [Magic](Magic)
 * [Equipment](Equipment)
 * [Services](Services)
 * [Character Development](Character-Development)

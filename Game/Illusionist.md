@@ -1,10 +1,11 @@
 ## Illusionist
 One of the 8 [Magic-Training](Magic-Training) disciplines.
-#TODOcopy 
+
+The act of manipulating perception. A character could use illusion to hide themselves, make otherworldly noise, summon a phantasm.
 
 ### Basic
 #### Amateur Illusion
-Your character can [Channel](Channel) to:
+If your character has [Attuned](Magic-Training#Attuned), your character can [Channel](Channel) to:
 
 Produce something that isn’t there: noise, visuals, smell.
 

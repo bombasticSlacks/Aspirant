@@ -1,10 +1,11 @@
 ## Diviner
 One of the 8 [Magic-Training](Magic-Training) disciplines.
-#TODOcopy 
+
+The process of revealing information. A character could use divination to attempt to see the future, perceive over a long distance, detect magic or other forces.
 
 ### Basic
 #### Amateur Divination
-Your character can perform [Ritual](Ritual) to:
+If your character has [Attuned](Magic-Training#Attuned), your character can perform [Ritual](Ritual) to:
 
 Detect the unseen, gather information about things you could not otherwise know.
 

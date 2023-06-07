@@ -1,5 +1,5 @@
 ## Trades Training
-One of the [Training](Character-Development#Training) disciplines.
+One of the 3 greater [Training](Character-Development#Training) disciplines.
 #TODOcopy 
 
 ### Specialized Schools

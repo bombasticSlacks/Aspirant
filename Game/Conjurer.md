@@ -1,10 +1,11 @@
 ## Conjurer
 One of the 8 [Magic-Training](Magic-Training) disciplines.
-#TODOcopy 
+
+The process of creating matter. A character could use conjuration to summon a familiar, a monster, or food. They could also teleport large distances.
 
 ### Basic
 #### Amateur Conjuration
-Your character can perform [Ritual](Ritual) to:
+If your character has [Attuned](Magic-Training#Attuned), your character can perform [Ritual](Ritual) to:
 
 Teleport a nearby item to yourself, summon a familiar that obeys, conjure simple items that won't be missed (from wherever you take them).
 

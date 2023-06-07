@@ -26,31 +26,22 @@ You can carry twice the consumables or ammo in the same amount of size on your b
 ### Advanced
 
 #### Double Tap
-You can Double Tap as a special manoeuvre.
-
-When you Double Tap, make two ranged attacks on the same person at a -2 to each. The enemy can as a single reaction attempt to avoid both attacks. 
+As a [Special Manoeuvre](Combat#Special%20Manoeuvres), make two ranged attacks on the same person at a -2 to each. The enemy can as a single reaction attempt to avoid both attacks. 
 
 #### Eradicate
-You gain access to the eradicate special manoeuvre An eradicate manoeuvre is a ranged attack that costs 3 ammo is at a -2 for the skill test, can’t be combined with any other special manoeuvres, you can’t apply the called shot combat modifier to it, and you always count as rolling a 6 on the damage for this attack. 
-
-#### Marksman
-No negative on called shots with ranged or thrown weapons if you do nothing else during your turn.
+As a [Special Manoeuvre](Combat#Special%20Manoeuvres) you can make a ranged attack that costs 3 ammo is at a -2 for the skill test, can’t be combined with any other special manoeuvres, you can’t apply the called shot combat modifier to it, and you always count as rolling a 6 on the damage for this attack. 
 
 #### Point Man
 While using a ranged weapon, you get a +1 to overwatch skill tests, no negative to delaying your action and can continue to overwatch after firing.
 
-#### Rapid Training
-#TODOoverloaded 
-When using a ranged weapon that can fire multiple times, you can Tight Spread and Hail Fire 
+#### Disarming Shot
+A ranged [Special Manoeuvre](Combat#Special%20Manoeuvres) that otherwise is the same as the regular [Disarm](Combat#Disarm) manoeuvre. 
 
-Tight Spread - A ranged attack expending 2 ammo and dealing +1 damage.
+---
 
-Hail Fire - A ranged attack, expending 4 ammo, and getting a guaranteed hit with no chance to evade. Hail Fire can’t be used with called shots.
+### Master
+#### Marksman
+No negative on [Called Shot](Combat#Called%20Shot) with ranged or thrown weapons if you do nothing else during your turn.
 
-#### Desperado
-#TODOoverloaded
-When using a weapon with the Black Powder trait you can parry and block melee attacks, on the first turn of combat receive a +2 to initiative and can disarming shot and fan fire. 
-
-Disarming Shot: a ranged special manoeuvre that otherwise is the same as the regular disarm manoeuvre. 
-
-Fan Fire: A special manoeuvre where you may make a ranged attack on any number of targets within a 45 degree cone and up to 2 comfortable range increments. For each target beyond the first each attack is at a -2 to hit.
+#### Fan Fire
+A special manoeuvre where you may make a ranged attack on any number of targets within a 45 degree cone and up to 2 comfortable range increments. For each target beyond the first each attack is at a -2 to hit. If your weapon needs reloading between shots add the penalty for reloading in the turn.

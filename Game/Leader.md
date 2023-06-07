@@ -3,13 +3,6 @@ One of the 8 [Trades-Training](Trades-Training) disciplines.
 #TODOcopy 
 
 ### Basic
-
-#### Blessed
-#TODORedundant 
-You no longer automatically fail skill tests on a roll of 2. 
-
-When performing a re-roll for any reason, you may add 2 to the result.
-
 #### Conscription
 At the beginning of combat, you may opt to make neutral characters within FEL x 10m followers. They may become angry if put in suicidal situations.
 

@@ -25,22 +25,16 @@ You receive a +1 to all combat tests when in melee with only 1 other character.
 Enemies don’t receive benefits for outnumbering you.
 
 #### Planted
-
 If you haven’t moved this turn or last turn, you get a +2 to combat skill tests and get +2 to damage bonus.
 
+#### Lunge
+When you move into melee and attack in a turn, you add +1 to your damage roll.
 
 ---
 ### Advanced
 
-#### Fencer
-#TODOoverloaded 
-When using a 1 handed [Piercing](Combat#Piercing) weapon with the balanced trait, you can circle parry, riposte and lunge.
-
-Circle Parry – A Special Manoeuvre that behaves like parrying with the addition that your opponent receives a -2 to attack you. If your opponent fails to hit you, they drop their weapon.
-
-Riposte – A modifier for when blocking. When blocking an opponent, you can take a -2 to your block. If you succeed, you can immediately make an attack or manoeuvre against that opponent.
-
-Lunge – When you move into melee and attack in a turn, you add +1 to your damage roll.
+#### Circle Parry
+A [Special Manoeuvre](Combat#Special%20Manoeuvres) that behaves like [Parry](Combat#Parry) with the addition that your opponent receives a -2 to attack you. If your opponent fails to hit you, they drop their weapon.
 
 #### Protect the Head
 You can opt to direct any head attacks to your body.
@@ -48,6 +42,10 @@ You can opt to direct any head attacks to your body.
 ---
 
 ### Master
+
+#### Riposte
+A [Combat Modifier](Combat#Combat%20Modifiers) for when [Block](Combat#Block). When blocking an opponent, you can take a -1 to your block. If you succeed, you can immediately make an attack or [Special Manoeuvre](Combat#Special%20Manoeuvres) against that opponent.
+
 #### Strike True
 No negative to [Called Shot](Combat#Called%20Shot) with melee weapons.
 
