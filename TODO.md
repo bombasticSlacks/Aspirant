@@ -14,10 +14,6 @@ Ioun stones
 
 Move armour to a trait's system.
 
-More Master Training.
-
-Rewrite Aescetic
-
 
 
 

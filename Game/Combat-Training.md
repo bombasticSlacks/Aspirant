@@ -22,7 +22,6 @@ Any specialist in one of the above schools can also teach any of the following t
 You can reload a crossbow and fire it in the same turn at a -1 to the [Marksmanship](Marksmanship) skill test.  
 
 #### Exotic Expert
-#TODOLINK
 If you have [Martial Training](#Martial%20Training), you can use any [Exotic](Weapons#Exotic) weapon without penalty.   
 
 #### Giants Hands
