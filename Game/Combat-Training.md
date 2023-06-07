@@ -48,7 +48,7 @@ You get an additional 4 size worth of belt space.
 
 ### Advanced Training
 #### Bashing
-You can opt to make the damage type of any rending or piercing weapon impact instead as part of an attack.
+You can opt to make the damage type of any [Rending](Combat#Rending) or [Piercing](Combat#Piercing) weapon cause [Impact](Combat#Impact) injuries instead.
 
 #### Fior Di Battaglia
 #TODOoverloaded

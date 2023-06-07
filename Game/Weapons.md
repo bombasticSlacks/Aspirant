@@ -40,7 +40,7 @@ Size 5 - Giant Weapons
 > So, for example, a long sword is a size 3 weapon. This means it is two-handed, gets +3 damage bonus.
 
 ### Damage Type
-Weapons can usually have any of the physical damage types Pierce, Rend, Impact. This will affect what injuries it will cause and what armour will defend against it. Fabrics tend to be strong against Impact, plates against Rend, and weaves against Pierce. 
+Weapons can usually have any of the physical damage types [Piercing](Combat#Piercing), [Rending](Combat#Rending), [Impact](Combat#Impact). This will affect what injuries it will cause and what armour will defend against it. Fabrics tend to be strong against [Impact](Combat#Impact), plates against [Rending](Combat#Rending), and weaves against [Piercing](Combat#Piercing). 
 
 ### [Weapon-Traits](Weapon-Traits)
 Abilities or unique effects a weapon might possess. If you have an idea in mind as a player or game master, try to come up with a unique trait to properly represent a weapon.  Traits can either count as 1 or 2 traits towards a weapon's total, depending on how powerful the trait is. A non-exhaustive list is provided [here](Weapon-Traits). 

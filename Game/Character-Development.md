@@ -56,7 +56,7 @@ There are 24 traditional trainers in Aspirant. These are spread evenly over thre
 	* [Enchanter](Enchanter)
 	* [Evoker](Evoker)
 	* [Illusionist](Illusionist)
-	* [Necromancer](Necromancer)
+	* [Vitomancer](Vitomancer)
 	* [Transmuter](Transmuter)
 * [Trades-Training](Trades-Training)
 	* [Performer](Performer)

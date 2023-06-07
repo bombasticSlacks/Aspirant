@@ -153,8 +153,8 @@ A collection of materials, triggers, sensors and payloads that can be used to cr
 Creating a trap is a [Crafting](Crafting) test. You may add 2 payloads or triggers to a single trap but the [Crafting](Crafting) test is at a -3, a standard trap affects at most a 3x3 meter square however you can triple the size by doubling the number of payloads used (and giving the test an additional -2). Your GM may also assign a greater negative for more complex/exotic traps or triggers. Once you have decided on when you want your trap to trigger, you choose an effect for the payload:
 
 * Concussive: Everyone makes a resolve test or is stunned. Even if they succeed, they are at a -2 until their action on the following turn.
-* Shrapnel: Everyone who is in the trap suffers a penetrative Rending damage attack with a damage bonus of 4
-* Explosive: Everyone who is in the trap suffers an exothermic damage attack with a damage bonus of 8
+* Shrapnel: Everyone who is in the trap suffers a penetrative [Rending](Combat#Rending) damage attack with a damage bonus of 4
+* Explosive: Everyone who is in the trap suffers an [Hot](Combat#Hot) damage attack with a damage bonus of 8
 
 #### Trauma Kit
 A collection of simple medicines, bandages, synthetic skin, coagulating powder, splints, and other things required to keep people alive after a severe or critical injury and treat the issues. A trauma kit provides you with a +1 to [stabilization](Injury#Stabilization) and [Surgery](Injury#Surgery). 

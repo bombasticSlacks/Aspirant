@@ -34,7 +34,7 @@ If you haven’t moved this turn or last turn, you get a +2 to combat skill test
 
 #### Fencer
 #TODOoverloaded 
-When using a 1 handed piercing weapon with the balanced trait, you can circle parry, riposte and lunge.
+When using a 1 handed [Piercing](Combat#Piercing) weapon with the balanced trait, you can circle parry, riposte and lunge.
 
 Circle Parry – A Special Manoeuvre that behaves like parrying with the addition that your opponent receives a -2 to attack you. If your opponent fails to hit you, they drop their weapon.
 

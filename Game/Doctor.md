@@ -29,7 +29,7 @@ At the beginning of any combat encounter, you can name a character who you think
 You can perform surgery on people.
 
 #### Sword Surgeon
-When making skill tests with a rending weapon, you may substitute your [Medicine](Medicine) skill for melee skill.
+When making skill tests with a [Rending](Combat#Rending) weapon, you may substitute your [Medicine](Medicine) skill for melee skill.
 
 ---
 ### Advanced

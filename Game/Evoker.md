@@ -20,7 +20,7 @@ If your character has [Amateur Evocation](#Amateur%20Evocation) training, your c
 Change the temperature of a creature abruptly, change the weather and environment.
 
 #### Elemental Strike
-You may have weapons you attack with count as having the exothermic or endothermic damage types.
+You may have weapons you attack with count as having the [Hot](Combat#Hot) or [Cold](Combat#Cold) damage types.
 
 ### Master
 

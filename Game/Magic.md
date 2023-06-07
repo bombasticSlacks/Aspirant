@@ -70,7 +70,7 @@ Additionally, for a skill test penalty you may add the: Area, Cone, Penetrating,
 ```
 Evocation - Fire Strike
 6 m range 
-Exothermic attack 
+Hot attack 
 4 Damage Bonus
 With the Burning, and Resolve magic traits
 Additionally, for a skill test penalty you may add the: Area, Cone, Concussive, Shredding, Painless, Explosion, Surprising, Lethal, All Out magic traits

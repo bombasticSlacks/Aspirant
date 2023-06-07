@@ -3,11 +3,11 @@ The minimum cost armour would be sold for is 5 less than the cost to order it. H
 |Name|Material|Max Skill|Integrity|Weakness|Resistance|Cost|
 |---|---|---|---|---|---|---|
 |Clothing|Varies|-|0|All|-|varies|
-|Leather|Leather|7|2|Biological|-|10|
-|Studded Leather|Leather, Simple Metal|6|4|Biological|-|20|
-|Scale Mail|Simple Metal, Simple Metal|5|6|Pierce|-||
-|Splint Mail|Leather, Steel|5|4|Biological|Rending|30|
-|Quilted Cotton|Cotton, Cotton|6|2|Exothermic|Endothermic, Impact|10|
-|Chain|Simple Metal|6|4|Pierce|-|15|
-|Hammered Steel|Steel|5|2|Endothermic|-|25|
-|Plate Mail|Steel, Steel|4|6|-|Rending, Pierce|45|
+|Leather|Leather|7|2|[Life](Combat#Life)|-|10|
+|Studded Leather|Leather, Simple Metal|6|4|[Life](Combat#Life)|-|20|
+|Scale Mail|Simple Metal, Simple Metal|5|6|[Piercing](Combat#Piercing)|-||
+|Splint Mail|Leather, Steel|5|4|[Life](Combat#Life)|[Rending](Combat#Rending)|30|
+|Quilted Cotton|Cotton, Cotton|6|2|[Hot](Combat#Hot)| [Cold](Combat#Cold), [Impact](Combat#Impact)|10|
+|Chain|Simple Metal|6|4|[Piercing](Combat#Piercing)|-|15|
+|Hammered Steel|Steel|5|2|[Cold](Combat#Cold)|-|25|
+|Plate Mail|Steel, Steel|4|6|-|[Rending](Combat#Rending), [Piercing](Combat#Piercing)|45|

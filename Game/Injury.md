@@ -35,7 +35,7 @@ Immediate effects are what happens to you immediately as you are harmed by an en
 Your characters are heroes. Heroes can’t instantly die from an attack. Any attack that would kill a hero outright, including critical head injuries, failed torso critical injuries and lethal injuries of any kind, instead immediately leave the character unconscious and bleeding to death with similar lethality to any critical injury.
 
 ### Bleeding and Burning
-In general, rending and piercing weapons that cause severe and critical injuries will cause bleeding as will critical impact injuries. Exothermic injuries will catch you on fire.
+In general, [Rending](Combat#Rending) and [Piercing](Combat#Piercing) severe and critical injuries will cause bleeding as will critical [Impact](Combat#Impact) injuries. [Hot](Combat#Hot) injuries will catch you on fire.
 
 A person will die of blood loss if they don’t receive first aid or stabilization within 10 minutes of blood loss from a severe injury and will die within 3 minutes of blood loss from a critical injury if they don’t receive first aid or stabilization.
 

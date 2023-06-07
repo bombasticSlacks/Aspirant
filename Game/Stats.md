@@ -1,7 +1,8 @@
 ## Stats
-Regular stats are Strength, Agility, Intelligence, Fellowship and Resolve.
+Values your character should track related to the game.
 
-Stats range in value from 1-5.
+### Attributes
+Attributes range in value from 1-5 and measure your capability to do almost anything.
 - 1 is below human
 - 2 is human average
 - 3 is remarkable
