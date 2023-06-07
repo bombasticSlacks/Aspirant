@@ -10,6 +10,7 @@
 * [Injury](Injury)
 * [Magic](Magic)
 * [Equipment](Equipment)
+* [Services](Services)
 * [Character Development](Character-Development)
 	* [Combat-Training](Combat-Training)
 	* [Magic-Training](Magic-Training)
