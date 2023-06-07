@@ -19,59 +19,59 @@ Buying armour costs the basic materials, plus five silver for the labour. Exampl
 
 #### Reagent Pricing
 
-| Reagent              | Cost (S) | Size |
-| -------------------- | -------- | ---- |
-| Crop                 | 1/2      | 1/5  |
-| Wild Flora           | 1        | 1/5  |
-| Rare Flora           | 2        | 1/5  |
-| Prey Bit             | 1        | 1    |
-| Predator Bit         | 2        | 1    |
-| Apex Predator Bit    | 4        | 1    |
-| Magical Creature Bit | 8        | 2    |
-| Imported             | x2       | -    |
+| Reagent              | Cost (S)    | Size        |
+| -------------------- | ----------- | ----------- |
+| Crop                 | $1 \over 2$ | $1 \over 5$ |
+| Wild Flora           | $1$         | $1 \over 5$ |
+| Rare Flora           | $2$         | $1 \over 5$ |
+| Prey Bit             | $1$         | $1$         |
+| Predator Bit         | $2$         | $1$         |
+| Apex Predator Bit    | $4$         | $1$         |
+| Magical Creature Bit | $8$         | $2$         |
+| Imported             | $\times 2$  | -           |
 
 ### Costs Of Services
 
-| Service                                | Cost                                                                  |
-| -------------------------------------- | --------------------------------------------------------------------- |
-| A guide through a known trail          | $$ 2     $$                                                           |
-| A guide through a not well-known trail | $$ 5     $$                                                           |
-| Cosmetic Surgery                       | $$ 14   $$                                                            |
-| Creating A Weapon                      | $$ 5*traits + 2*weapon\ size\ material $$ |
-| Creating Armour                        | $$ 5 + 2 * size of materials $$                     |
-| Creating Something Complex             | $$10 + materials $$                                                       |
-| Creating Something Simple              | $$ 3 + materials $$                                                        |
-| Day of lodgings                        | $$1   $$                                                                  |
-| Day of travel food                     | $$1   $$                                                                  |
-| First Aid                              | $$2     $$                                                                |
-| Getting expertise or knowledge         | $$4    $$                                                                 |
-| Hiring a mercenary for a day           | $$2    $$                                                                 |
-| Mixing alchemical compounds            | $$4 + reagents   $$                                                       |
-| Performing a complex ritual            | $$12 + reagents  $$                                                       |
-| Performing a simple ritual             | $$5 + reagents   $$                                                       |
-| Surgery                                | $$8   $$                                                                  |
-| Teaching a basic training              | $$5   $$                                                                  |
-| Teaching a skill                       | $$ 5 * Rank $$                                                        |
-| Teaching an advanced training          | $$12     $$                                                               |
-| Teaching a master training             | $$30     $$                                                               |
-| Master Worked Service                  | $$ base + 10 $$                                                                      |
+| Service                                | Cost                                                |
+| -------------------------------------- | --------------------------------------------------- |
+| A guide through a known trail          | $2$                                                 |
+| A guide through a not well-known trail | $5$                                                 |
+| Cosmetic Surgery                       | $14$                                                |
+| Creating A Weapon                      | $5 \times traits + 2 \times weapon\ size\ material$ |
+| Creating Armour                        | $5 + 2 \times size of materials$                    |
+| Creating Something Complex             | $10 + materials$                                    |
+| Creating Something Simple              | $3 + materials$                                     |
+| Day of lodgings                        | $1$                                                 |
+| Day of travel food                     | $1$                                                 |
+| First Aid                              | $2$                                                 |
+| Getting expertise or knowledge         | $4$                                                 |
+| Hiring a mercenary for a day           | $2$                                                 |
+| Mixing alchemical compounds            | $4 + reagents$                                      |
+| Performing a complex ritual            | $12 + reagents$                                     |
+| Performing a simple ritual             | $5 + reagents$                                      |
+| Surgery                                | $8$                                                 |
+| Teaching a basic training              | $5$                                                 |
+| Teaching a skill                       | $5 \times Rank$                                     |
+| Teaching an advanced training          | $12$                                                |
+| Teaching a master training             | $30$                                                |
+| Master Worked Service                  | $base + 10$                                         |
 
 ### Costs Of Materials
 
-| Name           | Max Weapon Quality | Ratio |
-| -------------- | ------------------ | ----- |
-| Cheap Wine     | -                  | $$ 1 \over 8 $$      |
-| Cotton         | Basic              | $$ 1 \over 8 $$     |
-| Expensive Wine | -                  | $$ 1 \over 2 $$     |
-| Gold           | Exotic             | $$4$$     |
-| Hard Wood      | Martial            | $$ 1 \over 4 $$     |
-| Leather        | Martial            | $$ 1 \over 4 $$     |
-| Machinery      | Exotic             | $$3 \over 2$$   |
-| Oil            | -                  | $$ 1 \over 4 $$     |
-| Scrap Metal    | Basic              | $$ 1 \over 4 $$     |
-| Simple Metals  | Martial            | $$ 1 \over 2 $$     |
-| Spirits        | -                  | $$1$$     |
-| Steel          | Exotic             | $$1$$     |
-| Treated Wood   | Exotic             | $$ 1 \over 2 $$     |
-| Water          | -                  | $$ 1 \over 16 $$  |
-| Wood           | Basic              | $$ 1 \over 16 $$  |
+| Name           | Max Weapon Quality | Ratio        |
+| -------------- | ------------------ | ------------ |
+| Cheap Wine     | -                  | $1 \over 8$  |
+| Cotton         | Basic              | $1 \over 8$  |
+| Expensive Wine | -                  | $1 \over 2$  |
+| Gold           | Exotic             | $4$          |
+| Hard Wood      | Martial            | $1 \over 4$  |
+| Leather        | Martial            | $1 \over 4$  |
+| Machinery      | Exotic             | $3 \over 2$  |
+| Oil            | -                  | $1 \over 4$  |
+| Scrap Metal    | Basic              | $1 \over 4$  |
+| Simple Metals  | Martial            | $1 \over 2$  |
+| Spirits        | -                  | $1$          |
+| Steel          | Exotic             | $1$          |
+| Treated Wood   | Exotic             | $1 \over 2$  |
+| Water          | -                  | $1 \over 16$ |
+| Wood           | Basic              | $1 \over 16$ |
