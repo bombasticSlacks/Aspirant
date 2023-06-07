@@ -44,7 +44,7 @@ This weapon is penetrative for your first attack in any combat.
 If your weapon requires ammo, it can be reloaded in half the time. Reloads that normally take an action are instead free and any skill tests performed that turn are at a -2.
 
 #### Hand and a Half
-This weapon counts as 1 size larger if wielded in two hands. The weapon recieves one additional trait that only counts when used in two hands.
+If this weapon is otherwise usable in one hand, the weapon counts as 1 size larger while wielded in two hands. The weapon recieves one additional trait that only applies when used in two hands.
 
 #### Inscribed
 This weapon counts as a Focus for [Channel](Channel) skill tests.    
