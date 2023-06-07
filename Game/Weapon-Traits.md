@@ -1,4 +1,4 @@
-## Weapon Traits
+## [Weapon](Weapons) Traits
 
 | Name                                                | Cost |
 | --------------------------------------------------- | ---- |
@@ -31,8 +31,11 @@
 #### Black Powder
 Your weapon fires balls of lead propelled by incendiary powder. It no longer can be used as a melee weapon and is instead a ranged weapon with a range equal to 10m x size. You don’t add your STR to damage, but get an inherent +6 damage bonus. Reloading a black powder weapon takes 1 minute. 
 
+#### Bow
+This weapon fires fletched arrows. It no longer can be used as a melee weapon and is instead a ranged weapon with a range equal to 10m x size. You can add STR to damage up to a maximum of the size of the weapon. Readying an arrow and firing a bow in the same turn gives a -1 to the [Marksmanship](Marksmanship) test.
+
 #### Crossbow
-Your weapon fires bolts of metal. It no longer can be used as a melee weapon and is instead a ranged weapon with a range equal to 10m x size. You don’t add your STR to damage, but get an inherent +3 damage bonus. After firing a crossbow, it takes a combat turn to reload.
+Your weapon fires bolts of metal. It no longer can be used as a melee weapon and is instead a ranged weapon with a range equal to 10m x size. You don’t add your STR to damage, but get an inherent +1 damage bonus, and double the normal size bonus. After firing a crossbow, it takes a combat turn to reload.
 
 #### Deadly Draw
 This weapon is penetrative for your first attack in any combat.
@@ -70,11 +73,7 @@ This weapon aids with throwing things long distances. A size 1 or 2 sling double
 #### Throwable
 This weapon is balanced for throwing, you receive no penalties to throwing it.  
 
-
 ### 2 Cost Traits
-
-#### Bow
-This weapon fires fletched arrows. It no longer can be used as a melee weapon and is instead a ranged weapon with a range equal to 10m x size. You can add STR to damage up to a maximum of the size of the weapon. Readying an arrow and firing a bow in the same turn gives a -1 to the [Marksmanship](Marksmanship) test.
 
 #### Folding
 This weapon counts as two separate sizes. When stored, it is considered the smaller size. As an action, you may change which size it counts as, or at the end of any attack action you can change the size. 
