@@ -6,8 +6,9 @@ The process of creating matter. A character could use conjuration to summon a fa
 ### Basic
 #### Amateur Conjuration
 If your character has [Attuned](Magic-Training#Attuned), your character can perform [Ritual](Ritual) to:
-
-Teleport a nearby item to yourself, summon a familiar that obeys, conjure simple items that won't be missed (from wherever you take them).
+* Teleport a nearby item to yourself.
+* Summon a familiar that obeys
+* Conjure simple items that won't be missed (from wherever you take them).
 
 #### Bound Summon
 You can maintain one summoned creature long term without requiring skill tests or active focus.
@@ -19,8 +20,9 @@ You can levitate things up to your RES in size and RES x 2 meters away as natura
 ### Advanced
 #### Expert Conjuration
 If your character has [Amateur Conjuration](#Amateur%20Conjuration) training, your character can perform [Ritual](Ritual) to:
-
-Summon an animal companion that obeys, conjure more complex items that will be missed, teleport an exact item to yourself.
+* Summon an animal companion that obeys.
+* Conjure more complex items that will be missed.
+* Teleport an exact item to yourself.
 
 #### Lead To Gold
 As production work, you can transform matter into gold. Perform a fixed difficulty ritual test with a difficulty of your choice, if successful, you receive gold nuggets worth 3 times the difficulty in silver. This requires an [Alchemists Tool Set](Example-Gear#Alchemists%20Tool%20Set).
@@ -29,5 +31,6 @@ As production work, you can transform matter into gold. Perform a fixed difficul
 
 #### Master Conjuration
 If your character has [Expert Conjuration](#Expert%20Conjuration) training, your character can perform [Ritual](Ritual) to:
-
-Summon a magical creature that obeys, conjure an exact item of need (the owner may be angry about this), teleport yourself and others.
+* Summon a magical creature that obeys.
+* Conjure an exact item of need (the owner may be angry about this).
+* Teleport yourself and others.

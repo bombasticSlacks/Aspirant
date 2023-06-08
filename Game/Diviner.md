@@ -6,8 +6,8 @@ The process of revealing information. A character could use divination to attemp
 ### Basic
 #### Amateur Divination
 If your character has [Attuned](Magic-Training#Attuned), your character can perform [Ritual](Ritual) to:
-
-Detect the unseen, gather information about things you could not otherwise know.
+* Detect the unseen.
+* Gather information about things you could not otherwise know.
 
 #### Danger Sense
 +2 to initiative tests, you cannot be surprised.
@@ -22,8 +22,8 @@ You can perceive things supernaturally within [Resolve](Stats#Resolve) x 10m.
 ### Advanced
 #### Expert Divination
 If your character has [Amateur Divination](#Amateur%20Divination) training, your character can perform [Ritual](Ritual) to:
-
-See into the future what may happen, see into the past what has happened.
+* See into the future what may happen.
+* See into the past what has happened.
 
 #### Oracle
 During [Meditate](Telling-The-Story#Meditate) roll 2d6. At any point before the next meditation, you may choose to have any skill test use that roll result.
@@ -32,5 +32,5 @@ During [Meditate](Telling-The-Story#Meditate) roll 2d6. At any point before the 
 
 #### Master Divination
 If your character has [Expert Divination](#Expert%20Divination) training, your character can perform [Ritual](Ritual) to:
-
-Effect what has already happened, get accurate information about the state of something.
+* Effect what has already happened.
+* Get accurate information about the state of something.
