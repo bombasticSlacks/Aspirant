@@ -41,7 +41,7 @@ If you spend 2 [Power](Stats#Power), you can make an attack with a size 1 weapon
 ---
 ### Master
 #### Whirlwind
-As a special manoeuvre, you can Whirlwind Attack. This manoeuvre means you can make an individual melee attack against a number of enemies that you moved within 2m of this turn, up to your AGI in total enemies. Each successful attack is at a negative to damage equal to the number of people being attacked but otherwise, is treated as a regular melee attack.
+As a special manoeuvre, you can Whirlwind Attack. This manoeuvre means you can make an individual melee attack against a number of enemies that you moved within 2m of this turn, up to your AGI in total enemies. Each [Injuring Attack](Combat#Injuring%20Attack) is at a negative to damage equal to the number of people being attacked but otherwise, is treated as a regular melee attack.
 
 #### Battle Step
 Each round of combat, you receive 1 additional reaction that can only be used to dodge.

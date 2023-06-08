@@ -6,6 +6,7 @@
 | [Black Powder](#Black%20Powder)                     | 1    |
 | [Crossbow](#Crossbow)                               | 1    |
 | [Deadly Draw](#Deadly%20Draw)                       | 1    |
+| [Ensnaring](#Ensnaring)                             | 1    |
 | [Fast Reloading](#Fast%20Reloading)                 | 1    |
 | [Hand and a Half](#Hand%20and%20a%20Half)           | 1    |
 | [Inscribed](#Inscribed)                             | 1    |
@@ -13,6 +14,7 @@
 | [Momentum](#Momentum)                               | 1    |
 | [Multiple Damage Types](#Multiple%20Damage%20Types) | 1    |
 | [Multiple Shots](#Multiple%20Shots)                 | 1    |
+| [On Line](#On%20Line)                               | 1    |
 | [Reach](#Reach)                                     | 1    |
 | [Shield](#Shield)                                   | 1    |
 | [Sling](#Sling)                                     | 1    |
@@ -40,6 +42,9 @@ Your weapon fires bolts of metal. It no longer can be used as a melee weapon and
 #### Deadly Draw
 This weapon is penetrative for your first attack in any combat.
 
+#### Ensnaring
+This weapon deals -2 damage, on [Non-mitigated Attack](Combat#Non-mitigated%20Attack) it causes the enemy to be [Grappled](Combat#Grapple). You need to maintain hold of the ensnaring weapon to maintain the [Grapple](Combat#Grapple).
+
 #### Fast Reloading
 If your weapon requires ammo, it can be reloaded in half the time. Reloads that normally take an action are instead free and any skill tests performed that turn are at a -2.
 
@@ -61,6 +66,8 @@ When you create this weapon, choose two damage types instead of one. When you at
 #### Multiple Shots
 If your weapon requires ammo, it can hold 3 additional readied shots.   
 
+#### On Line
+This weapon cannot be used to perform [Reactions](Combat#Reacting%20to%20Attacks), you can make melee skill tests with this weapon at a range of 6m.
 #### Reach
 A weapon with the reach trait can be used to perform melee attacks up to 2m away and doing so doesn’t put you in melee combat with the target.
 
@@ -72,6 +79,7 @@ This weapon aids with throwing things long distances. A size 1 or 2 sling double
 
 #### Throwable
 This weapon is balanced for throwing, you receive no penalties to throwing it.  
+
 
 ### 2 Cost Traits
 

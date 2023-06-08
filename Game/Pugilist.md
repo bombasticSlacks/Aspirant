@@ -19,9 +19,6 @@ While wearing metal arm armour, you can parry and block using your arms and all 
 #### Throw
 Your [Shove](Combat#Shove) makes people travel twice the distance.
 
-#### Monks Wisdom
-You may substitute your [Intelligence](Stats#Intelligence) for [Strength](Stats#Strength) for unarmed attacks and maneuvers.
-
 ---
 ### Advanced
 
