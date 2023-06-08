@@ -35,6 +35,15 @@ If there are obstacles in the way of a movement, you can test [Acrobatics](Acrob
 ### Attacking
 Usually, in combat, you will be trying to harm your opponents with the goal of killing or disabling them. Attacks will typically be thrown attacks (STR + Marksmanship), ranged attacks (AGI + Marksmanship), melee attacks (STR + Melee), or magic attacks (Res + Evoke).
 
+#### Successful Attack
+If you succeed on your attack roll, that is considered a Successful Attack
+
+#### Non-mitigated Attack
+If you succeed on your attack roll and your opponent doesn't stop the attack with a reaction that is a Non-mitigated Attack.
+
+#### Injuring Attack
+If you successfully cause an injury with an attack, that is an Injuring Attack.
+
 ### Attack Range
 When you attack something, your range is how far you can engage them from. With melee weapons, you need to be within 2m. With Range, Thrown, and Magic you have a range, but it is possible to attack outside of it. When you do, you suffer a -1 penalty to the skill test per total range they are away from you. Magic attacks have a range of 10m, Thrown have a range of 3 times your STR, Ranged attacks will be defined in the weapons traits.
 
