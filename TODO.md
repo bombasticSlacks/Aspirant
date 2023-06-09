@@ -14,6 +14,13 @@ Ioun stones
 
 Move armour to a trait's system.
 
+Internal Monologue - To The Power system
 
 
+Reagent simplification - Per zone
 
+Roll wealth 
+
+Compress travel downtime to once every five min 1, for every five full days you get 1 silver discount. 
+
+Group skill ratings, build list.
