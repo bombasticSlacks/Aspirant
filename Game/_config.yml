@@ -4,3 +4,5 @@ color_scheme: dark
 url: https://aspirantrpg.com
 title: Aspirant
 description: A Game about Adventure and Expertise
+
+math: katex
