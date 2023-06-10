@@ -38,7 +38,7 @@ Your characters are guaranteed to begin play with:
 * Size 1, 2, or 3 [Basic](Weapons#Basic) Weapon.
 * Set of [Simple Clothes](Example-Gear#Simple%20Clothes) covering your entire body.
 * A wild horse [Mount](Mounts) with 1 mobility, 1 toughness, 1 combat.
-* $Silver = 50 + 10 * Total\ XP$
+* $$Silver = 50 + 10 * Total\ XP$$
 
 You may now, with any remaining money, purchase any equipment your character desires. All equipment should be purchased at full price as though it were commissioned. If you wish to upgrade a piece of gear you were given for free you only need to pay the difference in comissioning.
 
