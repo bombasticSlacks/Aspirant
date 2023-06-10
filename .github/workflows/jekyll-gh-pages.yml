@@ -29,9 +29,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: manipulate anchors
-        run: find /github/workspace/Game -type f -name "*.md" -print0 | xargs -0 sed -i '' -e 's/#(.+?)"/\L$1/g'
+        run: find ./Game -type f -name "*.md" -print0 | xargs -0 sed -i '' -e 's/#(.+?)"/\L$1/g'
       - name: create index
-        run: cp /github/workspace/Game/Home.md /github/workspace/Game/index.md
+        run: cp ./Game/Home.md ./Game/index.md
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Build with Jekyll
