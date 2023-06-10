@@ -15,7 +15,7 @@
 
 <ul class="nav-list">
 {%- for node in navpages -%}
-    {%- if node.title == Table Of Contents -%}
+    {%- if node.name ==  _Sidebar.md-%}
         {{node.content}}
     {%- endif -%}
 {%- endfor -%}
