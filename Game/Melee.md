@@ -10,6 +10,7 @@ Some examples of things that shouldn't require a skill test would be.
 * Striking an unmoving, defenseless object or item.
 
 ### Example Skill Tests
+
 | Description                         | [Untrained](Skills#Untrained) | Skill Modifier |
 | ----------------------------------- | ----------------------------- | -------------- |
 | Attacking a character with a weapon | 🗸                             | 0               |

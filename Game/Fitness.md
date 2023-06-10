@@ -10,6 +10,7 @@ Some examples of things that shouldn't require a skill test would be.
 * Climbing a ladder.
 
 ### Example Activities
+
 | Description                                      | [Untrained](Skills#Untrained) | Skill Modifier |
 | ------------------------------------------------ | ----------------------------- | -------------- |
 | Using a rope to climb up a wall                  | 🗸                             | 0              |

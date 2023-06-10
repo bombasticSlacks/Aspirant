@@ -11,6 +11,7 @@ Some examples of things that shouldn't require a skill test would be.
 
 ### Example Activities
 #TODOExamples
+
 | Description                                      | [Untrained](Skills#Untrained) | Skill Modifier |
 | ------------------------------------------------ | ----------------------------- | -------------- |
 
