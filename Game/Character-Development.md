@@ -88,8 +88,8 @@ Each transhumanist affect your character has reduces your [max toxicity](Stats#M
 
 #### Acquiring Transhumanist Effects
 * Purchased: [Buying](#Buying)
-* Found through play: [[Equipment#Looting]]
-* Crafted: [[Designing-Weapons]]
+* Found through play: [Looting](Equipment#Looting)
+* Crafted: [Designing-Weapons](Designing-Weapons)
 * Examples can be found in the #TODOINDEX 
 
 #### Cost

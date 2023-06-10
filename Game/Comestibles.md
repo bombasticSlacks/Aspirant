@@ -1,5 +1,5 @@
 ## Comestibles
-Comestible [[Equipment]] consists of anything that the character will exhaust with use.
+Comestible [Equipment](Equipment) consists of anything that the character will exhaust with use.
 
 ### Toxicity
 Whenever your character ingests any kind of comestible solution, they should increase their toxicity by 1. This can cause injury from overdosing from all the chaos in your body.

@@ -12,7 +12,7 @@ Travelling in Aspirant can take long amounts of time. Travelling at its simplest
 - characters will need to feed themselves (rations tend to cost 1 silver/day)
 - horses will in most situations be able to feed themselves but otherwise also need 1 silver worth of food per day
 - A full day of travel is considered 8 hours of continual travel, this gives the horses and characters ample time to rest
-- Characters at the end of the day of travel all get to perform an [[#Evening Activity|evening activity]].
+- Characters at the end of the day of travel all get to perform an [Evening Activity](#Evening%20Activity).
 - Characters can travel 12 hours (1.5 days) if they push themselves. When you do this, you don’t get an evening activity.
 
 During travel, characters may encounter other travellers, enemies or a point of interest. These will be handled by the GM and should lend to the danger and intrigue of the surrounding world. Generally, the world is sparse and most characters should only have 1 travel encounter per day. If your players were attacked by wolves a number of times travelling through a forest instead, that should be handled as one extended narrative / combat scene where they realize they’ve entered dangerous territory and need to navigate out of it.

@@ -44,7 +44,7 @@ Measures your resilience and willpower
 On top of the above stats, your character also has a few additional values:
 
 #### Total XP
-An abstraction of your characters potential to learn and gain new abilities. [[Character-Development]] has details on how to spend this.
+An abstraction of your characters potential to learn and gain new abilities. [Character-Development](Character-Development) has details on how to spend this.
 
 #### Spent XP
 Aspirants will not immediately spend experience as they gain it, expertise comes from the knowledge of others so your spent XP should be tracked seperately from your total.
