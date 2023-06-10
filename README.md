@@ -2,11 +2,10 @@
 ### A Game about Adventure and Expertise
 Written By: [Dillon Matchett](https://github.com/bombasticSlacks) Licensed Under: [CC BY SA 4.0](https://github.com/bombasticSlacks/Aspirant/blob/main/LICENSE) Originally At: [GitHub](https://github.com/bombasticSlacks/Aspirant) 
 
-**The transcription is not yet complete of the core game, this will be removed when the entire game is transcribed.**
-
 ## Rules
 * The entirety of the games content is provided in Markdown in the Game folder for reuse and forking.
-* Rules are rendered in the [Wiki](https://github.com/bombasticSlacks/Aspirant/wiki/How-To-Play) of the [GitHub](https://github.com/bombasticSlacks/Aspirant) repository for direct perusal.
+* Hosted at: https://aspirantrpg.com/
+* Rules are also rendered in the [Wiki](https://github.com/bombasticSlacks/Aspirant/wiki/How-To-Play) of the [GitHub](https://github.com/bombasticSlacks/Aspirant) repository for direct perusal.
 
 ## Rendering Locally
 * Should be renderable with anything that supports markdown.
