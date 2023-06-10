@@ -1,4 +1,4 @@
-## Example [[Storage]]
+## Example [Storage](Storage)
 * Non-exhaustive list of storage a character could use. You can instead design your own [Designing-Storage](Designing-Storage). 
 * Cost is the full charge to commision, including labour.
 * Sell is the cost for just the materials, so what it's worth if it was sold in a shop.
