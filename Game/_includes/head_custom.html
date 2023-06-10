@@ -1,6 +1,1 @@
-{% assign math = page.math | default: layout.math | default: site.math %}
-
-{% case math %}
-  {% when "mathjax" %}
-    {% include mathjax.html %}
-{% endcase %}
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
