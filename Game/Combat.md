@@ -103,7 +103,7 @@ Make an attack with the intent of getting control of your opponent. If you succe
 * Make a Strength + Fitness test to inflict a severe injury to them, ignoring armour.
 * Pin then completely skipping your turn and their next turn
 * Make an attack with a size 1 weapon with a -2 to hit that can’t be evaded
-* Make an STR + Fitness test to throw them strength + d3 meters in a direction of your choice|
+* Make an STR + Fitness test to throw them strength + d3 meters in a direction of your choice
 #### Overwatch
 Declare a 45-degree cone in front of you. If anyone moves into that area, you make a ranged attack on them, and they take a -2 on their action. Your attack is at -2.
 #### Parry
