@@ -1,20 +1,5 @@
-{%- comment -%}
-  Include as: {%- include nav.html pages = pages key = key -%}
-  Depends on: include.pages, include.key, page, site.
-  Results in: HTML for the navigation panel.
-  Includes:
-    sorted_pages.html
-  Overwrites:
-    nav_pages, first_level_pages, second_level_pages, third_level_pages,
-    node, children_list, child, grand_children_list, grand_child.
-{%- endcomment -%}
-
-{%- assign nav_pages = include.pages
-    | where_exp: "item", "item.title != nil"
-    | where_exp: "item", "item.nav_exclude != true" -%}
-
 <ul class="nav-list">
-{%- for node in navpages -%}
+{%- for node in site.pages -%}
     {%- if node.name ==  '_Sidebar.md' -%}
         {{node.content}}
     {%- endif -%}
