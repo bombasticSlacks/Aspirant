@@ -32,6 +32,8 @@ jobs:
         run: find ./Game -type f -name "*.md"
       - name: manipulate anchors
         run: sed -i 's/#.*)/\L&/g' $(find ./Game -type f)
+      - name: manipulate anchors further
+        run: sed -i 's/%20/-/g' $(find ./Game -type f)
       - name: create index
         run: cp ./Game/Home.md ./Game/index.md
       - name: Setup Pages
