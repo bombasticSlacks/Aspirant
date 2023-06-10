@@ -1,65 +1,139 @@
 <ul class="nav-list">
-    <li class="nav-list-item">
+    <li class="nav-list-item {% if page.url == '/Lore' %} active{% endif %}">
         <a href="Lore" class="nav-list-link">Lore</a>
     </li>
-    <li class="nav-list-item">
+    <li class="nav-list-item {% if page.url == '/How-To-Play' %} active{% endif %} ">
         <a href="How-To-Play" class="nav-list-link">How To Play</a>
     </li>
-    <li class="nav-list-item">
+    <li class="nav-list-item {% if page.url == '/Stats' %} active{% endif %}">
         <a href="Stats" class="nav-list-link">Stats</a>
     </li>
-    <li class="nav-list-item">
+    <li class="nav-list-item {% if page.url == '/Skills' %} active{% endif %}">
         <button class="nav-list-expander btn-reset" aria-label="toggle items in category" aria-pressed="false">
             <svg viewBox="0 0 24 24" aria-hidden="true"><use xlink:href="#svg-arrow-right"></use></svg>
         </button>
         <a href="Skills" class="nav-list-link">Skills</a>
-            <ul class="nav-list">
-                <li class="nav-list-item">
-                    <a href="Fitness" class="nav-list-link">Fitness</a>
-                </li>
-                <li class="nav-list-item">
-                    <a href="Melee" class="nav-list-link">Melee</a>
-                </li>
-                <li class="nav-list-item">
-                    <a href="Acrobatics" class="nav-list-link">Acrobatics</a>
-                </li>
-                <li class="nav-list-item">
-                    <a href="Marksmanship" class="nav-list-link">Marksmanship</a>
-                </li>
-                <li class="nav-list-item">
-                    <a href="Subterfuge" class="nav-list-link">Subterfuge</a>
-                </li>
-                <li class="nav-list-item">
-                    <a href="Crafting" class="nav-list-link">Crafting</a>
-                </li>
-                <li class="nav-list-item">
-                    <a href="Knowledge" class="nav-list-link">Knowledge</a>
-                </li>
-                <li class="nav-list-item">
-                    <a href="Medicine" class="nav-list-link">Medicine</a>
-                </li>
-                <li class="nav-list-item">
-                    <a href="Perception" class="nav-list-link">Perception</a>
-                </li>
-                <li class="nav-list-item">
-                    <a href="Science" class="nav-list-link">Science</a>
-                </li>
-                <li class="nav-list-item">
-                    <a href="Channel" class="nav-list-link">Channel</a>
-                </li>
-                <li class="nav-list-item">
-                    <a href="Ritual" class="nav-list-link">Ritual</a>
-                </li>
-                <li class="nav-list-item">
-                    <a href="Converse" class="nav-list-link">Converse</a>
-                </li>
-                <li class="nav-list-item">
-                    <a href="Husbandry" class="nav-list-link">Husbandry</a>
-                </li>
-                <li class="nav-list-item">
-                    <a href="Perform" class="nav-list-link">Perform</a>
-                </li>
-            </ul>
-        </li>
+        <ul class="nav-list">
+            <li class="nav-list-item {% if page.url == '/Fitness' %} active{% endif %}">
+                <a href="Fitness" class="nav-list-link">Fitness</a>
+            </li>
+            <li class="nav-list-item {% if page.url == '/Melee' %} active{% endif %}">
+                <a href="Melee" class="nav-list-link">Melee</a>
+            </li>
+            <li class="nav-list-item {% if page.url == '/Acrobatics' %} active{% endif %}">
+                <a href="Acrobatics" class="nav-list-link">Acrobatics</a>
+            </li>
+            <li class="nav-list-item {% if page.url == '/Marksmanship' %} active{% endif %}">
+                <a href="Marksmanship" class="nav-list-link">Marksmanship</a>
+            </li>
+            <li class="nav-list-item {% if page.url == '/Subterfuge' %} active{% endif %}">
+                <a href="Subterfuge" class="nav-list-link">Subterfuge</a>
+            </li>
+            <li class="nav-list-item {% if page.url == '/Crafting' %} active{% endif %}">
+                <a href="Crafting" class="nav-list-link">Crafting</a>
+            </li>
+            <li class="nav-list-item {% if page.url == '/Knowledge' %} active{% endif %}">
+                <a href="Knowledge" class="nav-list-link">Knowledge</a>
+            </li>
+            <li class="nav-list-item {% if page.url == '/Medicine' %} active{% endif %}">
+                <a href="Medicine" class="nav-list-link">Medicine</a>
+            </li>
+            <li class="nav-list-item {% if page.url == '/Perception' %} active{% endif %}">
+                <a href="Perception" class="nav-list-link">Perception</a>
+            </li>
+            <li class="nav-list-item {% if page.url == '/Science' %} active{% endif %}">
+                <a href="Science" class="nav-list-link">Science</a>
+            </li>
+            <li class="nav-list-item {% if page.url == '/Channel' %} active{% endif %}">
+                <a href="Channel" class="nav-list-link">Channel</a>
+            </li>
+            <li class="nav-list-item {% if page.url == '/Ritual' %} active{% endif %}">
+                <a href="Ritual" class="nav-list-link">Ritual</a>
+            </li>
+            <li class="nav-list-item {% if page.url == '/Converse' %} active{% endif %}">
+                <a href="Converse" class="nav-list-link">Converse</a>
+            </li>
+            <li class="nav-list-item {% if page.url == '/Husbandry' %} active{% endif %}">
+                <a href="Husbandry" class="nav-list-link">Husbandry</a>
+            </li>
+            <li class="nav-list-item {% if page.url == '/Perform' %} active{% endif %}">
+                <a href="Perform" class="nav-list-link">Perform</a>
+            </li>
+        </ul>
+    </li>
+    <li class="nav-list-item {% if page.url == '/Character-Creation' %} active{% endif %}">
+        <a href="Character-Creation" class="nav-list-link">Character Creation</a>
+    </li>
+    <li class="nav-list-item {% if page.url == '/Telling-The-Story' %} active{% endif %}">
+        <button class="nav-list-expander btn-reset" aria-label="toggle items in category" aria-pressed="false">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><use xlink:href="#svg-arrow-right"></use></svg>
+        </button>
+        <a href="Telling-The-Story" class="nav-list-link">Telling The Story</a>
+        <ul class="nav-list">
+            <li class="nav-list-item {% if page.url == '/Combat' %} active{% endif %}">
+                <a href="Combat" class="nav-list-link">Combat</a>
+            </li>
+            <li class="nav-list-item {% if page.url == '/Injury' %} active{% endif %}">
+                <a href="Injury" class="nav-list-link">Injury</a>
+            </li>
+        </ul>
+    </li>
+    <li class="nav-list-item {% if page.url == '/Equipment' %} active{% endif %}">
+        <button class="nav-list-expander btn-reset" aria-label="toggle items in category" aria-pressed="false">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><use xlink:href="#svg-arrow-right"></use></svg>
+        </button>
+        <a href="Equipment" class="nav-list-link">Equipment</a>
+        <ul class="nav-list">
+            <li class="nav-list-item {% if page.url == '/Armour' %} active{% endif %}">
+                <a href="Armour" class="nav-list-link">Armour</a>
+            </li>
+            <li class="nav-list-item {% if page.url == '/Assets' %} active{% endif %}">
+                <a href="Assets" class="nav-list-link">Assets</a>
+            </li>
+            <li class="nav-list-item {% if page.url == '/Comestibles' %} active{% endif %}">
+                <a href="Comestibles" class="nav-list-link">Comestibles</a>
+            </li>
+            <li class="nav-list-item {% if page.url == '/Gear' %} active{% endif %}">
+                <a href="Gear" class="nav-list-link">Gear</a>
+            </li>
+            <li class="nav-list-item {% if page.url == '/Mounts' %} active{% endif %}">
+                <a href="Mounts" class="nav-list-link">Mounts</a>
+            </li>
+            <li class="nav-list-item {% if page.url == '/Resources' %} active{% endif %}">
+                <a href="Resources" class="nav-list-link">Resources</a>
+            </li>
+            <li class="nav-list-item {% if page.url == '/Storage' %} active{% endif %}">
+                <a href="Storage" class="nav-list-link">Storage</a>
+            </li>
+            <li class="nav-list-item {% if page.url == '/Weapons' %} active{% endif %}">
+                <a href="Weapons" class="nav-list-link">Weapons</a>
+            </li>
+        </ul>
+    </li>
+    <li class="nav-list-item {% if page.url == '/Services' %} active{% endif %}">
+        <a href="Services" class="nav-list-link">Services</a>
+    </li>
+    <li class="nav-list-item {% if page.url == '/Character-Development' %} active{% endif %}">
+        <button class="nav-list-expander btn-reset" aria-label="toggle items in category" aria-pressed="false">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><use xlink:href="#svg-arrow-right"></use></svg>
+        </button>
+        <a href="Character-Development" class="nav-list-link">Character Development</a>
+        <ul class="nav-list">
+            <li class="nav-list-item {% if page.url == '/Combat-Training' %} active{% endif %}">
+                <a href="Combat-Training" class="nav-list-link">Combat Training</a>
+            </li>
+            <li class="nav-list-item {% if page.url == '/Magic-Training' %} active{% endif %}">
+                <a href="Magic-Training" class="nav-list-link">Magic Training</a>
+            </li>
+            <li class="nav-list-item {% if page.url == '/Trades-Training' %} active{% endif %}">
+                <a href="Trades-Training" class="nav-list-link">Trades Training</a>
+            </li>
+        </ul>
+    </li>
+    <li class="nav-list-item {% if page.url == '/Tables' %} active{% endif %}">
+        <a href="Tables" class="nav-list-link">Tables</a>
+    </li>
+    <li class="nav-list-item {% if page.url == '/Running-The-Game' %} active{% endif %}">
+        <a href="Running-The-Game" class="nav-list-link">Running The Game</a>
     </li>
 </ul>

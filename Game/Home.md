@@ -1,6 +1,6 @@
 ## Home
-Welcome to the Aspirant wiki!
+Welcome to Aspirant!
 
 This should be an up-to-date copy of the game data.
 
-To get started, you can check out the [Sidebar](_Sidebar) for a table of contents
+Hosted By: [Dillon Matchett](https://github.com/bombasticSlacks) Licensed Under: [CC BY SA 4.0](https://github.com/bombasticSlacks/Aspirant/blob/main/LICENSE) Originally At: [GitHub](https://github.com/bombasticSlacks/Aspirant) 
