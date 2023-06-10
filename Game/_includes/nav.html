@@ -1,7 +1,65 @@
 <ul class="nav-list">
-{%- for node in site.pages -%}
-    {%- if node.name ==  '_Sidebar.md' -%}
-        {{node.content}}
-    {%- endif -%}
-{%- endfor -%}
+    <li class="nav-list-item">
+        <a href="Lore" class="nav-list-link">Lore</a>
+    </li>
+    <li class="nav-list-item">
+        <a href="How-To-Play" class="nav-list-link">How To Play</a>
+    </li>
+    <li class="nav-list-item">
+        <a href="Stats" class="nav-list-link">Stats</a>
+    </li>
+    <li class="nav-list-item">
+        <button class="nav-list-expander btn-reset" aria-label="toggle items in category" aria-pressed="false">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><use xlink:href="#svg-arrow-right"></use></svg>
+        </button>
+        <a href="Skills" class="nav-list-link">Skills</a>
+            <ul class="nav-list">
+                <li class="nav-list-item">
+                    <a href="Fitness" class="nav-list-link">Fitness</a>
+                </li>
+                <li class="nav-list-item">
+                    <a href="Melee" class="nav-list-link">Melee</a>
+                </li>
+                <li class="nav-list-item">
+                    <a href="Acrobatics" class="nav-list-link">Acrobatics</a>
+                </li>
+                <li class="nav-list-item">
+                    <a href="Marksmanship" class="nav-list-link">Marksmanship</a>
+                </li>
+                <li class="nav-list-item">
+                    <a href="Subterfuge" class="nav-list-link">Subterfuge</a>
+                </li>
+                <li class="nav-list-item">
+                    <a href="Crafting" class="nav-list-link">Crafting</a>
+                </li>
+                <li class="nav-list-item">
+                    <a href="Knowledge" class="nav-list-link">Knowledge</a>
+                </li>
+                <li class="nav-list-item">
+                    <a href="Medicine" class="nav-list-link">Medicine</a>
+                </li>
+                <li class="nav-list-item">
+                    <a href="Perception" class="nav-list-link">Perception</a>
+                </li>
+                <li class="nav-list-item">
+                    <a href="Science" class="nav-list-link">Science</a>
+                </li>
+                <li class="nav-list-item">
+                    <a href="Channel" class="nav-list-link">Channel</a>
+                </li>
+                <li class="nav-list-item">
+                    <a href="Ritual" class="nav-list-link">Ritual</a>
+                </li>
+                <li class="nav-list-item">
+                    <a href="Converse" class="nav-list-link">Converse</a>
+                </li>
+                <li class="nav-list-item">
+                    <a href="Husbandry" class="nav-list-link">Husbandry</a>
+                </li>
+                <li class="nav-list-item">
+                    <a href="Perform" class="nav-list-link">Perform</a>
+                </li>
+            </ul>
+        </li>
+    </li>
 </ul>
