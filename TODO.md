@@ -24,3 +24,6 @@ Roll wealth
 Compress travel downtime to once every five min 1, for every five full days you get 1 silver discount. 
 
 Group skill ratings, build list.
+
+If you have some integrity when attacked reduce the injury by 1 type.
+

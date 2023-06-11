@@ -36,7 +36,7 @@ Your overall suit of armour will have an armour integrity, which is how well it 
 
 > For example, a character with 4 pieces of leather gives 8 structure, looking at the tens' digit (0) gives the minimum value for armour, an integrity of 2.
 
-> A character with 2 pieces of leather (2 structure each) and 3 pieces of plate mail (6 each) has 24 total structure, looking at the ten's digit (2), that's an overall armour integrity of 4.
+> A character with 1 pieces of leather (2 structure) and 3 pieces of plate mail (6 each) has 20 total structure, looking at the ten's digit (2), that's an overall armour integrity of 4.
 
 ### Acquiring Armour
 * [Purchased](Example-Armour)

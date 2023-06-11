@@ -29,26 +29,6 @@ Aspirant is a world of tradespeople, experts with something to offer a prospecti
 | Teaching a skill                                                          | $5 \times Rank$                                                |
 | Teaching an advanced training                                             | $12$                                                           |
 
-### Costs Of Materials
-
-| Name           | Max Weapon Quality | Ratio        |
-| -------------- | ------------------ | ------------ |
-| Cheap Wine     | -                  | $1 \over 8$  |
-| Cotton         | Basic              | $1 \over 8$  |
-| Expensive Wine | -                  | $1 \over 2$  |
-| Gold           | Exotic             | $4$          |
-| Hard Wood      | Basic              | $1 \over 4$  |
-| Leather        | Martial            | $1 \over 4$  |
-| Machinery      | Exotic             | $3 \over 2$  |
-| Oil            | -                  | $1 \over 4$  |
-| Scrap Metal    | Basic              | $1 \over 4$  |
-| Simple Metals  | Martial            | $1 \over 2$  |
-| Spirits        | -                  | $1$          |
-| Steel          | Exotic             | $1$          |
-| Treated Wood   | Martial            | $1 \over 2$  |
-| Water          | -                  | $1 \over 16$ |
-| Wood           | -                  | $1 \over 16$ |
-
 ### Reagent Pricing
 
 | Reagent              | Cost (S)    | Size        |
@@ -61,3 +41,20 @@ Aspirant is a world of tradespeople, experts with something to offer a prospecti
 | Apex Predator Bit    | $4$         | $1$         |
 | Magical Creature Bit | $8$         | $2$         |
 | Imported             | $\times 2$  | -           |
+
+### Costs Of Materials
+
+| Name                      | Max Weapon Quality | Ratio        |
+| ------------------------- | ------------------ | ------------ |
+| Cheap Wine                | -                  | $1 \over 8$  |
+| Expensive Wine            | -                  | $1 \over 2$  |
+| Gold                      | Exotic             | $4$          |
+| Machinery                 | Exotic             | $3 \over 2$  |
+| Oil                       | -                  | $1 \over 4$  |
+| Spirits                   | -                  | $1$          |
+| Water                     | -                  | $1 \over 16$ |
+| Basic Crafting Material   | Basic              | $1 \over 4$  |
+| Martial Crafting Material | Martial            | $1 \over 2$  |
+| Exotic Crafting Material  | Exotic             | $1$          | 
+
+
