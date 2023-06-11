@@ -22,7 +22,7 @@ Unless the task you need a reagent for is exceptionally powerful, you should try
 * [Found through play](Equipment#Looting)
 
 ## Materials
-All things are made up of basical materials. This usually isn't a major concern to the average adventurer, but a savvy tradesman will want to carefully select materials of varying qualities for their projects. Ratios are provided for materials, this is the ammount that 1 size of the material would cost compared to 10 silver, or put another way, 1 size of silver.
+All things are made up of basic materials. This usually isn't a major concern to the average adventurer, but a savvy tradesman will want to carefully select materials of varying qualities for their projects. Ratios are provided for materials, this is the amount that 1 size of the material would cost compared to 10 silver, or put another way, 1 size of silver.
 
 ### Types Of Materials
 

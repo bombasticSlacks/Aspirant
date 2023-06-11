@@ -16,7 +16,7 @@ As [Production Work](Telling-The-Story#Production%20Work), you can create [Marti
 As [Production Work](Telling-The-Story#Production%20Work), you can create [Exotic](Weapons#Exotic) weapons.
 
 #### Honed Edge
-As an evening activity, you may hone everyone's weapons; each ally's weapon deals 1 additional damage the next day.
+As an [Evening Activity](Telling-The-Story#Evening%20Activity), you may hone everyone's weapons; each ally's weapon deals 1 additional damage until the next [Travel Segment](Telling-The-Story#Travel%20Segment).
 
 #### Naturalist
 You don’t need a forge or other advanced equipment to craft weapons and other items.
@@ -43,7 +43,7 @@ As an [Evening Activity](Telling-The-Story#Evening%20Activity) you may repair 2 
 You know the Armour Integrity, weakness, and resistance of any character's armour that you can see.
 
 #### Specialized Tools
-As an [Evening Activity](Telling-The-Story#Evening%20Activity), you can select a specific [Toolkit](Gear#Toolkits) to pre-prepare. When using that tool kit the next day, you get a +2 to all skill tests.
+As an [Evening Activity](Telling-The-Story#Evening%20Activity), you can select a specific [Toolkit](Gear#Toolkits) to pre-prepare. When using that tool kit during the next [Travel Segment](Telling-The-Story#Travel%20Segment), you get a +2 to all skill tests.
 
 ---
 ### Advanced
