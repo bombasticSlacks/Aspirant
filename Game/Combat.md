@@ -150,7 +150,7 @@ To randomly determine a hit location, you should roll a d12 and consult the foll
 When someone is being attacked, to determine what effect the attack has, you check if the incoming damage type is either a weakness or resistance of the armour:
 
 Damage type is a weakness: 
-- Armour does nothing, character is injured.
+- Remove four armour integrity, you are not injured.
 
 Damage type is neither a weakness nor a resistance: 
 - Remove two armour integrity, you are not injured.
