@@ -27,7 +27,7 @@ You never suffer penalties due to intoxication or exotic comestibles.
 As a [Downtime Activities](Telling-The-Story#Downtime%20Activity), you can spend a day finding someone interested in purchasing an item for full price (materials + labour). This is a skill test based on the settlement's Wealth + your [Converse](Converse), and a difficulty based on the rarity of the item.
 
 #### Haggling
-You may use converse to attempt to get better deals when commisioning items. This is an opposed [Converse](Converse) test against the craftsman. For every step of success you recieve 1 silver off the asking price.
+You may use converse to attempt to get better deals when commisioning items. This is an opposed [Converse](Converse) test against the craftsman. For every [Step Of Success](Skills#Step%20Of%20Success) you recieve 1 silver off the asking price.
 
 #### Name Your Price
 You can buy any item, even a person's personal equipment.

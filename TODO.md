@@ -16,8 +16,6 @@ Move armour to a trait's system.
 
 Reagent simplification - Per zone
 
-Roll wealth 
-
 Group skill ratings, build list.
 
 If you have some integrity when attacked reduce the injury by 1 type.
