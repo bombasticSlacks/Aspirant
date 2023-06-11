@@ -4,7 +4,7 @@ matrix:
     lang: en_CA
   dictionary:
     wordlists:
-    - .github/wordlist.txt
+    - .github/config/wordlist.txt
   pipeline:
   - pyspelling.filters.markdown:
   - pyspelling.filters.html:
