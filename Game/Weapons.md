@@ -13,14 +13,12 @@ Weapons, like all items, come in various sizes. However, in the case of weapons,
 - Weapons of size 3-4 require two hands
 - Weapons of size 5 cannot be traditionally wielded by adventurers
 
-```
-Examples of weapons sizes are as follows:
+> Examples of weapons sizes are as follows:
 Size 1 - Dagger, hammer, knife
 Size 2 - Arming Sword, Mace, Truncheon
 Size 3 - Long sword, Warhammer, Spear
 Size 4 - Lance, Great Sword
 Size 5 - Giant Weapons
-```
 
 > So, for example, a long sword is a size 3 weapon. This means it is two-handed, gets +3 damage bonus.
 

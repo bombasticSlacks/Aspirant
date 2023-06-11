@@ -36,5 +36,5 @@ Any people you hire at a day rate, [Costs Of Services](Services#Costs%20Of%20Ser
 ---
 ### Master
 ### Overtime
-Your character can perform any [Downtime Activity](Telling-The-Story#Downtime%20Activity) as an [Evening Activity](Telling-The-Story#Evening%20Activity), assuming the activity makes sense based on your current situation.
+Your character get an extra [Downtime Activity](Telling-The-Story#Downtime%20Activity) while [Resting](Telling-The-Story#Resting) and an additional [Evening Activity](Telling-The-Story#Evening%20Activity) per [Travel Segment](Telling-The-Story#Travel%20Segment).
 
