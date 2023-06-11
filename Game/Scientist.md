@@ -11,14 +11,10 @@ Spend a [Power](Stats#Power), you can declare your far-fetched theory about what
 
 #### Artificer
 #TODOcopy 
-As [Production Work](Telling-The-Story#Production%20Work), using a [Tinkerers Tool Set](Example-Gear#Tinkerers%20Tool%20Set) you can create [Prosthetics](Character-Development#Prosthetics) that characters can use with ease.
+As [Production Work](Telling-The-Story#Production%20Work), using a [Tinkers Kit](Example-Gear#Tinkers%20Kit) you can create [Prosthetics](Character-Development#Prosthetics) that characters can use with ease.
 
 #### Kill Switch
 You can disable automata and machines that you are in melee with using a [Science](Science) skill test.
-
-#### Mechanic
-#TODOcopy 
-As [Production Work](Telling-The-Story#Production%20Work), using a [Tinkerers Tool Set](Example-Gear#Tinkerers%20Tool%20Set) you can create or fix machines.
 
 #### Parabolic Targeting
 You can make ranged attack skill tests using the [Science](Science) skill.

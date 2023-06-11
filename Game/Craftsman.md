@@ -7,19 +7,19 @@ One of the 8 [Trades Training](Trades-Training) disciplines.
 #TODOcopy 
 As [Production Work](Telling-The-Story#Production%20Work), you can create [Ammunition](Resources#Ammunition).
 
-#### Martial Forging
-#TODOconsolidate 
-As [Production Work](Telling-The-Story#Production%20Work), you can create [Martial](Weapons#Martial) weapons.
+#### Weapon Smithing
+As [Production Work](Telling-The-Story#Production%20Work), using a [Weapons Tool Set](Example-Gear#Weapons%20Tool%20Set) you can [Craft](Crafting) [Martial](Weapons#Martial) and [Basic](Weapons#Basic) weapons, more details are available in [Designing-Weapons](Designing-Weapons). 
 
-#### Exotic Forging
-#TODOconsolidate
-As [Production Work](Telling-The-Story#Production%20Work), you can create [Exotic](Weapons#Exotic) weapons.
+You can also as [Production Work](Telling-The-Story#Production%20Work) [Craft](Crafting) [Ammunition](Resources#Ammunition). This costs half the price as the ammo normally would, and you can create up to 10 per [Production Work](Telling-The-Story#Production%20Work).
+
+#### Exotic Crafting
+As when [Crafting](Crafting) you can use exotic [Types Of Materials](Resources#Types%20Of%20Materials).
 
 #### Honed Edge
 As an [Evening Activity](Telling-The-Story#Evening%20Activity), you may hone everyone's weapons; each ally's weapon deals 1 additional damage until the next [Travel Segment](Telling-The-Story#Travel%20Segment).
 
 #### Naturalist
-You don’t need a forge or other advanced equipment to craft weapons and other items.
+You don’t need a tool kit to do [Production Work](Telling-The-Story#Production%20Work), however any skill tests are at a -1.
 
 #### Recycler
 When crafting a weapon, instead of providing materials, you may provide another weapon of equivalent size and materials to transform into the new weapon.
@@ -30,11 +30,10 @@ As [Production Work](Telling-The-Story#Production%20Work), you can repair a dama
 #### Ablative Armour
 After downtime, your armour has 2 additional max integrity that isn’t otherwise repairable.
 
-#### Efficient Patterns
-When crafting armour, you require one less size worth of materials.
-
 #### Armour Smith
-As [Production Work](Telling-The-Story#Production%20Work), you can create or modify [Armour](Armour) and clothing using an [Armourers Tool Set](Example-Gear#Armourers%20Tool%20Set).
+As [Production Work](Telling-The-Story#Production%20Work), you can [Craft](Crafting) or modify #TODOLink basic and martial [Armour](Armour) using an [Armourers Tool Set](Example-Gear#Armourers%20Tool%20Set). More details in [Designing-Armour](Designing-Armour).
+
+You can also as [Production Work](Telling-The-Story#Production%20Work) [Craft](Crafting) and modify storage items, more details in [Designing-Storage](Designing-Storage).
 
 #### Routine Maintenance
 As an [Evening Activity](Telling-The-Story#Evening%20Activity) you may repair 2 points of armour integrity to each ally's armour.
@@ -50,15 +49,16 @@ As an [Evening Activity](Telling-The-Story#Evening%20Activity), you can select a
 #### Custom Job
 Any weapon you craft for personal use can have one additional trait. Anyone else using this weapon suffers a -2 to skill tests and does not benefit from the additional trait.
 
+#### Efficient Patterns
+When [Crafting](Crafting), you require one less size worth of materials.
+
 #### Integrated Weapons
 Up to two of your weapons of size 3 or less are integrated into your armour / clothing. They cannot be dropped, are concealed, and don’t take up space.
 
-#### Monster Hunter
-When using the Tailor or Metalsmith training, you can work with exotic materials from monsters.
-
 #### Jury Rigging
-#TODOcopy 
-You can create single-use tools using exceptionally basic materials, simpler than would otherwise be allowed.
+As an [Evening Activity](Telling-The-Story#Evening%20Activity) or with significant [Narrative Time](Telling-The-Story#Narrative%20Time), using a [Tinkers Kit](Example-Gear#Tinkers%20Kit), you can [Craft](Crafting) single-use [Gear](Gear), [Weapons](Weapons), [Comestibles](Comestibles) and other narrative devices using exceptionally basic materials, simpler than would otherwise be allowed.
+
+The player will need some narrative justification for what they are using, then 1 charge from their [Tinkers Kit](Example-Gear#Tinkers%20Kit).
 
 ---
 ### Master

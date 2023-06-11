@@ -183,11 +183,14 @@ A basic collection of tools and implements needed to perform surgery.
 
 ##### Thieves Tool Set
 
-##### Tinkerers Tool Set
-
 ##### Weapons Tool Set
 
 ---
+
+#### Tinkers Kit
+A collection of scrap bits, odds and ends, adhesive and other consumables you might need to fix or quickly construct something. Any time you need scrap, replacement parts, or other machined parts you can use a tinkers kit.
+
+A Tinkers Kit has 5 uses, and replenishing a use costs 1 silver.
 
 #### Trap Kit
 A collection of materials, triggers, sensors and payloads that can be used to create and customize traps on the go. A trap kit can store up to 3 payloads and triggers, and a new kit starts with that. Usually, you will want to set a trap to trigger a payload, but if you have access to a chemical, grenade, explosive, weapon or other tool you want to trigger, you may use that instead. 
