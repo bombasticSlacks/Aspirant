@@ -58,7 +58,7 @@ Power is equal to 2 + 1 per [Training](Character-Development#Training) that requ
 How far your character can move in 1 turn of combat. [Agility](#Agility) * 4 meters.
 
 #### Initiative
-Your AGI + INT. Used to determine turn order in combat.
+Your [Agility](Stats#Agility) + [Intelligence](Stats#Intelligence). Used to determine turn order in combat.
 
 #### Threat
 The size of your largest weapon. Used to determine who unintelligent monsters target at random.
@@ -76,6 +76,6 @@ Determined by your total XP. Used to survive attacks, show bravery, etc.
 #### Max Toxicity
 Your characters can only handle a certain amount of foreign material in your body before becoming ill.
 
-Characters have a Max Toxicity equal to their STR + RES attributes. Your max toxicity is reduced by 1 for any permanent enchantment, prosthetic with additional abilities, and mutation your character possesses. Whenever you imbibe an alchemical elixir or are positively affected by some form of magic your character marks a level of Toxicity when your characters Toxicity level is equal to or greater than your Max Toxicity you are considered injured.
+Characters have a Max Toxicity equal to their [Strength](Stats#Strength) + [Resolve](Stats#Resolve) attributes. Your max toxicity is reduced by 1 for any permanent enchantment, prosthetic with additional abilities, and mutation your character possesses. Whenever you imbibe an alchemical elixir or are positively affected by some form of magic your character marks a level of Toxicity when your characters Toxicity level is equal to or greater than your Max Toxicity you are considered injured.
 
 Toxicity resets to 0 during downtime.

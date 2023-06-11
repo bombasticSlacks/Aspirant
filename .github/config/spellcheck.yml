@@ -3,7 +3,8 @@ matrix:
   aspell:
     lang: en_CA
   dictionary:
-    encoding: utf-8
+    wordlists:
+    - .github/wordlist.txt
   pipeline:
   - pyspelling.filters.markdown:
   - pyspelling.filters.html:

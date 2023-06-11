@@ -17,6 +17,6 @@ A non exhaustive list of spells to give people inspiration.
 |Wrapped In Darkness|Basic|Illusion|You and nearby characters are obfuscated, giving a +2 to subterfuge skill tests to hide.|
 |Blur|Expert|Illusion|You seem to be in multiple places at once. When attacked, roll a d6 on a 1-2 the character misses you attacking an apparition.|
 |Haunted|Master|Illusion|A target imagines themselves as being targeted by a powerful spectre or demon. They need to succeed at a fear test or become frozen with fear.|
-|Daydream|Master|Illusion|A target touched by you that fails a RES skill test becomes unable to perceive anything around them for 1d6 rounds as they become stuck in a daydream.|
+|Daydream|Master|Illusion|A target touched by you that fails a [Resolve](Stats#Resolve) skill test becomes unable to perceive anything around them for 1d6 rounds as they become stuck in a daydream.|
 |Conjured Army|Expert|Illusion|Focus<br><br>You perform a historic reenactment, creating visions of warriors ready to do battle.|
 |Evil Shadow|Master|Illusion|Focus<br><br>A character you can see within range has its shadow come to life. It is a copy of them and attempts to kill them. Any injury causes the shadow to dissipate. The character effected will no longer cast a shadow.|

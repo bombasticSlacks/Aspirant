@@ -8,7 +8,7 @@ Initiative value is your [Initiative](Stats#Initiative)+ 1d6. Your initiative va
 ### Your Turn
 On Your turn in combat, you can do basically anything that can feasibly be done in 5 seconds. You are encouraged to get creative and talk to the GM; however, several common manoeuvres are listed in this chapter for you to use as examples. The simple way to think about it though is on your turn, you can either:
 - Do an Action (usually involves a skill test)
-- Move up to 2 * AGI meters, then do an action with all skill tests at -2
+- Move up to 2 * [Agility](Stats#Agility) meters, then do an action with all skill tests at -2
 - Delay your combat turn
 
 When you delay your combat turn, you can instead choose to act after any other character has finished their combat turn. You need to use your delayed action before your next combat turn (this can lead to you taking back to back turns).
@@ -33,7 +33,7 @@ If you are prone, it takes the entirety of your available movement to stand up.�
 If there are obstacles in the way of a movement, you can test [Acrobatics](Acrobatics) or [Fitness](Fitness) to attempt to ignore them. Otherwise, you must spend a full turn of movement getting over the obstacles.
 
 ### Attacking
-Usually, in combat, you will be trying to harm your opponents with the goal of killing or disabling them. Attacks will typically be thrown attacks (STR + Marksmanship), ranged attacks (AGI + Marksmanship), melee attacks (STR + Melee), or magic attacks (Res + Evoke).
+Usually, in combat, you will be trying to harm your opponents with the goal of killing or disabling them. Attacks will typically be thrown attacks ([Strength](Stats#Strength) + Marksmanship), ranged attacks ([Agility](Stats#Agility) + Marksmanship), melee attacks ([Strength](Stats#Strength) + Melee), or magic attacks (Res + Evoke).
 
 #### Successful Attack
 If you succeed on your attack roll, that is considered a Successful Attack
@@ -45,7 +45,7 @@ If you succeed on your attack roll and your opponent doesn't stop the attack wit
 If you successfully cause an injury with an attack, that is an Injuring Attack.
 
 ### Attack Range
-When you attack something, your range is how far you can engage them from. With melee weapons, you need to be within 2m. With Range, Thrown, and Magic you have a range, but it is possible to attack outside of it. When you do, you suffer a -1 penalty to the skill test per total range they are away from you. Magic attacks have a range of 10m, Thrown have a range of 3 times your STR, Ranged attacks will be defined in the weapons traits.
+When you attack something, your range is how far you can engage them from. With melee weapons, you need to be within 2m. With Range, Thrown, and Magic you have a range, but it is possible to attack outside of it. When you do, you suffer a -1 penalty to the skill test per total range they are away from you. Magic attacks have a range of 10m, Thrown have a range of 3 times your [Strength](Stats#Strength), Ranged attacks will be defined in the weapons traits.
 
 #### Attacking
 - Declare what weapon you are using
@@ -103,7 +103,7 @@ Make an attack with the intent of getting control of your opponent. If you succe
 * Make a Strength + Fitness test to inflict a severe injury to them, ignoring armour.
 * Pin then completely skipping your turn and their next turn
 * Make an attack with a size 1 weapon with a -2 to hit that can’t be evaded
-* Make an STR + Fitness test to throw them strength + d3 meters in a direction of your choice
+* Make an [Strength](Stats#Strength) + Fitness test to throw them strength + d3 meters in a direction of your choice
 #### Overwatch
 Declare a 45-degree cone in front of you. If anyone moves into that area, you make a ranged attack on them, and they take a -2 on their action. Your attack is at -2.
 #### Parry
@@ -162,7 +162,7 @@ Damage type is a resistance: 
 **Note** Any time you would remove an integrity, but your armour's integrity is 0 you receive an injury instead.
 
 ### Dealing Damage
-When you or something else is attempting to injure someone you will in most cases roll 1d6 + damage modifier. Damage modifier is a combination of the weapons inherent lethality, size, any bonuses from your character and usually your STR. 
+When you or something else is attempting to injure someone you will in most cases roll 1d6 + damage modifier. Damage modifier is a combination of the weapons inherent lethality, size, any bonuses from your character and usually your [Strength](Stats#Strength). 
 
 This number is usually compared to the universal damage chart to determine the injury caused:
 
@@ -173,7 +173,7 @@ This number is usually compared to the universal damage chart to determine the i
 | 11-15 | Critical |
 | 16+   | Lethal   |
 
-> So, for example, a long sword (3 size martial weapon) wielded by a character with 3 STR would have a damage bonus of 7 (1 martial + 3 size + 3 STR). That means on a 1-3 it causes a severe injury, on a 4-6 it causes a critical injury. 
+> So, for example, a long sword (3 size martial weapon) wielded by a character with 3 [Strength](Stats#Strength) would have a damage bonus of 7 (1 martial + 3 size + 3 [Strength](Stats#Strength)). That means on a 1-3 it causes a severe injury, on a 4-6 it causes a critical injury. 
 
 
 ### Types of Damage
@@ -191,7 +191,7 @@ Slamming into and breaking flesh .
 
 Otherworldly injuries can consist of:
 #### Life
-Poison, acid, and rot ravage the body destroying life itself.
+Poison, acid, and rot ravage the body, destroying life itself.
 #### Hot
 Heat, power, holy energy ravage the body 
 #### Cold
@@ -200,10 +200,10 @@ Ice, chill, vampiric energy ravage the body
 ---
 
 ### Area Of Effect
-In general, most things will only target a single person however if something (such as a spell) refers to a square or cone of damage. A 9m square means a square with a side length of 9m. You would choose where you want it and if you miss your attack it scatters in a random direction equal to the number you failed by in meters. Determine what direction it scatters at random.
+In general, most things will only target a single person, however if something (such as a spell) refers to a square or cone of damage. A 9m square means a square with a side length of 9m. You would choose where you want it and if you miss your attack it scatters in a random direction equal to the number you failed by in meters. Determine what direction it scatters at random.
 
 ### Being in Melee Combat
-If you perform a melee attack (whether it’s successful) on an enemy or they perform an attack on you (whether it’s successful) then you are both considered in melee. Anyone who performs a melee attack on anyone in a melee joins the melee. During a melee narratively your characters are moving around and connecting weapons though mechanically your character is rooted in place. Any time you attempt to move, back out, or cautious step you are no longer in the melee but this may cause people to hurt you as you stop defending to escape. While in a melee if the enemies are outnumbered you get a +1 on all combat rolls related to the melee and if they are outnumbered more than 2 to 1 you get a +2.
+If you perform a melee attack (whether it’s successful) on an enemy or they perform an attack on you (whether it’s successful) then you are both considered in melee. Anyone who performs a melee attack on anyone in a melee joins the melee. During a melee, narratively your characters are moving around and connecting weapons, though mechanically your character is rooted in place. Any time you attempt to move, back out, or cautious step you are no longer in the melee, but this may cause people to hurt you as you stop defending to escape. While in a melee, if the enemies are outnumbered you get a +1 on all combat rolls related to the melee and if they are outnumbered more than 2 to 1 you get a +2.
 
 While in melee, you are at a negative to use ranged weapons equal to the largest enemy threat. 
 

@@ -10,8 +10,8 @@ Items stowed for longer storage using the support of your core. Bag items can be
 ### Saddlebag
 Storage bags using the strength of your horse. If you are with your horse, it will take a combat action to retrieve or stow to saddle bags. Default storage for saddlebags is 10 size of items.
 
-### Aquiring Storage
+### Acquiring Storage
 * [Purchased](Example-Storage)
 * [Found through play](Equipment#Looting)
 * [Crafted](Designing-Storage)
-* Commisioned [Costs Of Services](Services#Costs%20Of%20Services)
+* Commissioned [Costs Of Services](Services#Costs%20Of%20Services)

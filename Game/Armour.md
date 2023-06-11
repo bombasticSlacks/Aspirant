@@ -42,4 +42,4 @@ Your overall suit of armour will have an armour integrity, which is how well it 
 * [Purchased](Example-Armour)
 * [Found through play](Equipment#Looting)
 * [Crafted](Designing-Armour)
-* Commisioned [Costs Of Services](Services#Costs%20Of%20Services)
+* Commissioned [Costs Of Services](Services#Costs%20Of%20Services)

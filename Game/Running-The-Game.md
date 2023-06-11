@@ -92,7 +92,7 @@ Settlements size 3 and above will potentially have interesting traits that affec
 | University         |   One full additional branch of trainers is available. </br>  Housing is hard to find, staying daily costs 1 additional silver. </br> Additional Day Work: </br>  Copier – 2 silver daily </br> Reviewer – 3 silver daily, requires knowledge 2                                                                                                                                                                                                                                 |
 
 ## Creatures
-Creatures generally have a few attributes that dictate their power. To really simplify, creatures can have stats out of 8. Otherwise, they can specify a value for STR, AGI, RES and then a few notable skills
+Creatures generally have a few attributes that dictate their power. To really simplify, creatures can have stats out of 8. Otherwise, they can specify a value for [Strength](Stats#Strength), [Agility](Stats#Agility), [Resolve](Stats#Resolve) and then a few notable skills
 
 ### Skills
 The skill values creatures have. Usually out of 3 or 8 depending on if the creature has defined attributes.

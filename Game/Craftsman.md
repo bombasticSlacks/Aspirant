@@ -33,17 +33,17 @@ After downtime, your armour has 2 additional max integrity that isn’t otherwis
 #### Efficient Patterns
 When crafting armour, you require one less size worth of materials.
 
-#### Armorsmith
+#### Armour Smith
 As [Production Work](Telling-The-Story#Production%20Work), you can create or modify [Armour](Armour) and clothing using an [Armourers Tool Set](Example-Gear#Armourers%20Tool%20Set).
 
 #### Routine Maintenance
-As an [Evening Activity](Telling-The-Story#Evening%20Activity) you may repair 2 points of armour integrity to each allies armour.
+As an [Evening Activity](Telling-The-Story#Evening%20Activity) you may repair 2 points of armour integrity to each ally's armour.
 
 #### Weak Spot
 You know the Armour Integrity, weakness, and resistance of any character's armour that you can see.
 
 #### Specialized Tools
-As an [Evening Activity](Telling-The-Story#Evening%20Activity), you can select a specific [Toolkit](Gear#Toolkits) to pre-prepare. When using that tool kit during the next [Travel Segment](Telling-The-Story#Travel%20Segment), you get a +2 to all skill tests.
+As an [Evening Activity](Telling-The-Story#Evening%20Activity), you can select a specific [Toolkit](Gear#Toolkits) to prepare. When using that tool kit during the next [Travel Segment](Telling-The-Story#Travel%20Segment), you get a +2 to all skill tests.
 
 ---
 ### Advanced
