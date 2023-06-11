@@ -8,7 +8,9 @@ One of the 8 [Trades Training](Trades-Training) disciplines.
 As [Production Work](Telling-The-Story#Production%20Work), you can create [Ammunition](Resources#Ammunition).
 
 #### Weapon Smithing
-As [Production Work](Telling-The-Story#Production%20Work), using a [Weapons Tool Set](Example-Gear#Weapons%20Tool%20Set) you can [Craft](Crafting) [Martial](Weapons#Martial) and [Basic](Weapons#Basic) weapons, more details are available in [Designing-Weapons](Designing-Weapons).
+As [Production Work](Telling-The-Story#Production%20Work), using a [Weapons Tool Set](Example-Gear#Weapons%20Tool%20Set) you can [Craft](Crafting) [Martial](Weapons#Martial) and [Basic](Weapons#Basic) weapons, more details are available in [Designing-Weapons](Designing-Weapons). 
+
+You can also as [Production Work](Telling-The-Story#Production%20Work) [Craft](Crafting) [Ammunition](Resources#Ammunition). This costs half the price as the ammo normally would, and you can create up to 10 per [Production Work](Telling-The-Story#Production%20Work).
 
 #### Exotic Crafting
 As when [Crafting](Crafting) you can use exotic [Types Of Materials](Resources#Types%20Of%20Materials).
@@ -28,11 +30,10 @@ As [Production Work](Telling-The-Story#Production%20Work), you can repair a dama
 #### Ablative Armour
 After downtime, your armour has 2 additional max integrity that isn’t otherwise repairable.
 
-#### Efficient Patterns
-When [Crafting](Crafting), you require one less size worth of materials.
-
 #### Armour Smith
-As [Production Work](Telling-The-Story#Production%20Work), you can [Craft](Crafting) or modify #TODOLink basic and martial [Armour](Armour) using an [Armourers Tool Set](Example-Gear#Armourers%20Tool%20Set). 
+As [Production Work](Telling-The-Story#Production%20Work), you can [Craft](Crafting) or modify #TODOLink basic and martial [Armour](Armour) using an [Armourers Tool Set](Example-Gear#Armourers%20Tool%20Set). More details in [Designing-Armour](Designing-Armour).
+
+You can also as [Production Work](Telling-The-Story#Production%20Work) [Craft](Crafting) and modify storage items, more details in [Designing-Storage](Designing-Storage).
 
 #### Routine Maintenance
 As an [Evening Activity](Telling-The-Story#Evening%20Activity) you may repair 2 points of armour integrity to each ally's armour.
@@ -47,6 +48,9 @@ As an [Evening Activity](Telling-The-Story#Evening%20Activity), you can select a
 ### Advanced
 #### Custom Job
 Any weapon you craft for personal use can have one additional trait. Anyone else using this weapon suffers a -2 to skill tests and does not benefit from the additional trait.
+
+#### Efficient Patterns
+When [Crafting](Crafting), you require one less size worth of materials.
 
 #### Integrated Weapons
 Up to two of your weapons of size 3 or less are integrated into your armour / clothing. They cannot be dropped, are concealed, and don’t take up space.
