@@ -31,7 +31,7 @@ You can comfortably wield weapons one size larger in one hand or two.
 You receive a +1 on all combat skill tests, but can never attack an unarmed, unaware or unable to defend themselves opponent. 
 
 #### Pit Fighter
-You may substitute your STR with DEX for combat skill tests where relevant.
+You may substitute your [Strength](Stats#Strength) with DEX for combat skill tests where relevant.
 
 #### Sunderer
 You have access to the combat modifier Sunder. Sunder can be applied to any damaging melee attack or manoeuvre. If you succeed at your attack and your opponent doesn’t evade, whether you injure your opponent, reduce your opponent’s armour integrity by one.

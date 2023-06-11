@@ -5,16 +5,16 @@ One of the 8 [combat training](Combat-Training) disciplines.
 ### Basic
 
 #### Black Belt
-You can attack unarmed as though you had a melee weapons with a damage bonus of 2 + STR.
+You can attack unarmed as though you had a melee weapons with a damage bonus of 2 + [Strength](Stats#Strength).
 
 #### Flesh Prison
-When a character attempts to escape a grapple you initiated, they receive an additional negative equal to either your STR or AGI.
+When a character attempts to escape a grapple you initiated, they receive an additional negative equal to either your [Strength](Stats#Strength) or [Agility](Stats#Agility).
 
 #### Living Weapon
 Your character always counts as armed and can, as long as they are conscious, always attack as though your hands were unbound.
 
 #### Heavy Hitter
-While wearing metal arm armour, you can parry and block using your arms and all of your attacks may knock back enemies STR meters.
+While wearing metal arm armour, you can parry and block using your arms and all of your attacks may knock back enemies [Strength](Stats#Strength) meters.
 
 #### Throw
 Your [Shove](Combat#Shove) makes people travel twice the distance.

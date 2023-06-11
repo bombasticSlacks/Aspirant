@@ -10,7 +10,7 @@ If your character has [Attuned](Magic-Training#Attuned), your character can [Cha
 * Alter yourself in simple ways.
 
 #### Wire Fight
-You Can Use RES instead of Agility to Calculate Movement distance.
+You Can Use [Resolve](Stats#Resolve) instead of Agility to Calculate Movement distance.
 
 #### Wild Casting
 You can cast spells normally while transformed into a non-humanoid creature. You can also speak normally.

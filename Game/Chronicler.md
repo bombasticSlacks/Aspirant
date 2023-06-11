@@ -14,7 +14,7 @@ After the [Evening Activity](Telling-The-Story#Evening%20Activity) [Socialize](T
 When you use to gain information, you can spend 1 [Power](Stats#Power) to infer another useful fact about the thing. Ask another question and the GM should answer honestly.
 
 #### Internal Monologue
-You receive hints and tips from the GM in the form of an internal monologue. Spend 1 [Power](Stats#Power) to recieve some info from the GM.
+You receive hints and tips from the GM in the form of an internal monologue. Spend 1 [Power](Stats#Power) to receive some info from the GM.
 
 #### Photographic Memory
 Your character memorizes any document you get to see.                   
@@ -28,7 +28,7 @@ Your [Knowledge](Knowledge) extends to history.
 #### Knowledgeable Interpreter
 Your [Knowledge](Knowledge) extends to religious groups, otherworldly entities and superstitions.
 
-#### Knowledgeable Crypto-Zoologist
+#### Knowledgeable Cryptozoologist
 Your [Knowledge](Knowledge) extends to animals and monsters.
 
 #### Knowledgeable Herbologist

@@ -36,7 +36,7 @@ You can set psychic abilities to trigger in response to something (a person walk
 You are an expert in a specific ritual of your choice, which you can perform at will. If this ritual is simple enough, you may also not need the reagents.
 
 #### Intellectual Methods
-When performing rituals and ritual spells, you may substitute your INT for RES.
+When performing rituals and ritual spells, you may substitute your [Intelligence](Stats#Intelligence) for [Resolve](Stats#Resolve).
 
 #### Silent Channelling
 You do not need to speak to [Channel](Channel) magic.
@@ -48,7 +48,7 @@ You may use any martial or greater melee weapon as a [Focus](Example-Gear#Focus)
 You do not need to move your hands to [Channel](Channel).
 
 #### Vibe Casting
-When performing [Channel](Channel) skill tests, you may count your RES as the same value as your FEL.
+When performing [Channel](Channel) skill tests, you may count your [Resolve](Stats#Resolve) as the same value as your [Fellowship](Stats#Fellowship).
 
 ---
 ### Advanced

@@ -1,7 +1,7 @@
 ## Example [Armour](Armour)
 * This list is non-exhaustive you can instead design your own [Designing-Armour](Designing-Armour).
 * Armour sells for 5 less than the listed cost.
-* Armour always costs the value here, it will either be commisioned requiring a day of crafting, or will need refitting still costing 5 silver.
+* Armour always costs the value here, it will either be commissioned requiring a day of crafting, or will need refitting still costing 5 silver.
 
 | Name            | Material                   | Max Skill | Integrity | Weakness                    | Resistance                                             | Cost   |
 | --------------- | -------------------------- | --------- | --------- | --------------------------- | ------------------------------------------------------ | ------ |

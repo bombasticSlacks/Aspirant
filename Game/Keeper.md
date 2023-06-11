@@ -29,7 +29,7 @@ When in melee on a [Mount](Mounts), you may as a free action have the [Mount](Mo
 When you or your [Mount](Mounts) are attacked while mounted, you may choose which of you any attack targets. You may also perform reactions to protect your [Mount](Mounts) against attacks.
 
 #### Strange Riding
-If you have [Mounted Expert](#Mounted%20Expert) you recieve the same bonuses while your mount is moving in a way other than moving on ground.
+If you have [Mounted Expert](#Mounted%20Expert) you receive the same bonuses while your mount is moving in a way other than moving on ground.
 
 > Flight, Swimming, Teleporting, Scaling walls.
 
