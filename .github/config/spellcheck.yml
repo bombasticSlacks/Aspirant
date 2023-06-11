@@ -1,7 +1,8 @@
 matrix:
 - name: Markdown
   aspell:
-    lang: en_CA
+    lang: en
+    d: en_CA
     ignore-case: true
   dictionary:
     encoding: utf-8
