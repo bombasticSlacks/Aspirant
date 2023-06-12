@@ -64,6 +64,6 @@ You can create single-use tools using exceptionally basic materials, simpler tha
 ### Master
 
 #### Masters Touch
-[Equipment](Equipment) you create in a [Workshop](Example-Infrastructure#Workshop) are master worked quality.
+[Equipment](Equipment) you create in a [Workshop](Example-Infrastructure#Workshop) are masterwork quality.
 
 

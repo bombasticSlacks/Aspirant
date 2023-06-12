@@ -1,5 +1,5 @@
 ## Designing [Weapons](Weapons)
-Through play and when creating a character, you may be asked to select a weapon. You can use one of the sample weapons further in this chapter or design your own. Perhaps your village has a unique weapon, or a blacksmith has an idea for a unique weapon. 
+Through play and when creating a character, you may be asked to select a weapon. You can use one of the [Example-Weapons](Example-Weapons.md) or design your own. Perhaps your character hales from a distant land which uses a unique weapon, or a blacksmith has an idea for a specialized weapon for your character's fighting style. 
 
 To build a weapon:
 - Choose if it is Basic, Martial, or Exotic

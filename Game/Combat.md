@@ -192,7 +192,7 @@ Slamming into and breaking flesh .
 Otherworldly injuries can consist of:
 #### Life
 Poison, acid, and rot ravage the body destroying life itself.
-#### Hot
+#### Heat
 Heat, power, holy energy ravage the body 
 #### Cold
 Ice, chill, vampiric energy ravage the body

@@ -18,8 +18,8 @@ Exotic weapons have additional complexity over basic martial weapons. Their mech
 
 *All exotic weapons have a +1 damage bonus and 2 traits.*
 
-### Master Work
-A masterful blacksmith can do a lot to imbue an item with additional power and versatility. A master work weapon may have an additional trait beyond those it otherwise might have. It must be made of materials of similar quality to an exotic weapon.
+### Masterwork
+A masterful blacksmith can do a lot to imbue an item with additional power and versatility. A masterwork weapon may have an additional trait beyond those it otherwise might have. It must be made of materials of similar quality to an exotic weapon.
 
 ### Size
 Weapons, like all items, come in various sizes. However, in the case of weapons, an item's size has more effect than just the required storage space. 
