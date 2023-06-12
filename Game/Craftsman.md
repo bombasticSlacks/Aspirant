@@ -64,6 +64,6 @@ The player will need some narrative justification for what they are using, then 
 ### Master
 
 #### Masters Touch
-[Equipment](Equipment) you create in a [Workshop](Example-Infrastructure#Workshop) are master worked quality.
+[Equipment](Equipment) you create in a [Workshop](Example-Infrastructure#Workshop) are masterwork quality.
 
 
