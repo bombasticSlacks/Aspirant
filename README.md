@@ -1,6 +1,6 @@
 ## Aspirant
 ### A Game about Adventure and Expertise
-Written By: [Dillon Matchett](https://github.com/bombasticSlacks) Licensed Under: [CC BY SA 4.0](https://github.com/bombasticSlacks/Aspirant/blob/main/LICENSE) Originally At: [GitHub](https://github.com/bombasticSlacks/Aspirant) 
+A Collaboration By: [Multiple Parties](https://github.com/bombasticSlacks/Aspirant/graphs/contributors) Licensed Under: [CC BY SA 4.0](https://github.com/bombasticSlacks/Aspirant/blob/main/LICENSE) Originally At: [GitHub](https://github.com/bombasticSlacks/Aspirant) 
 
 ## Rules
 * The entirety of the games content is provided in Markdown in the Game folder for reuse and forking.

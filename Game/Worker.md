@@ -4,7 +4,7 @@ One of the 8 [Trades Training](Trades-Training) disciplines.
 
 ### Basic
 #### The Muscle
-You may perform [Converse](Converse) skill tests to interact with people using STR.
+You may perform [Converse](Converse) skill tests to interact with people using [Strength](Stats#Strength).
 
 #### Carrier
 You can perform actions while carrying large items. In combat, you can move a willing character with you as you move.
@@ -36,5 +36,5 @@ Any people you hire at a day rate, [Costs Of Services](Services#Costs%20Of%20Ser
 ---
 ### Master
 ### Overtime
-Your character can perform any [Downtime Activity](Telling-The-Story#Downtime%20Activity) as an [Evening Activity](Telling-The-Story#Evening%20Activity), assuming the activity makes sense based on your current situation.
+Your character get an extra [Downtime Activity](Telling-The-Story#Downtime%20Activity) while [Resting](Telling-The-Story#Resting) and an additional [Evening Activity](Telling-The-Story#Evening%20Activity) per [Travel Segment](Telling-The-Story#Travel%20Segment).
 

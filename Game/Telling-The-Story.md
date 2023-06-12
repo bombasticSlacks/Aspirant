@@ -8,19 +8,29 @@ Combat is the most rigorously kept time in Aspirant; as it is when you are most 
 Narrative time in aspirant involves characters in a place of interest doing activities, exploring, and progressing the story directly. The passage of narrative time can be a bit more ambiguous compared with combat. There aren’t rules for narrative time, this is when characters will be directing the focus and the story themselves.
 
 ### Travelling
-Travelling in Aspirant can take long amounts of time. Travelling at its simplest level involves knowing the direction or location of something and then travelling towards it. Travel will usually take a number of days, each day:
-- characters will need to feed themselves (rations tend to cost 1 silver/day)
+Travelling in Aspirant can take long amounts of time. Travelling at its simplest level involves knowing the direction or location of something and then travelling towards it. Travel will usually take a number of days. 
+
+#### Travel Segment
+For simplicity, travel is split into:
+* 5 day segments:
+* Or a partial segment on arriving at a destination:
+
+At the end of each segment:
+- characters will need to pay for the food they used (rations tend to cost 1 silver/day)
 - horses will in most situations be able to feed themselves but otherwise also need 1 silver worth of food per day
 - A full day of travel is considered 8 hours of continual travel, this gives the horses and characters ample time to rest
-- Characters at the end of the day of travel all get to perform an [Evening Activity](#Evening%20Activity).
-- Characters can travel 12 hours (1.5 days) if they push themselves. When you do this, you don’t get an evening activity.
+- Characters at the end of each travel segment get to perform an [Evening Activity](#Evening%20Activity).
 
-During travel, characters may encounter other travellers, enemies or a point of interest. These will be handled by the GM and should lend to the danger and intrigue of the surrounding world. Generally, the world is sparse and most characters should only have 1 travel encounter per day. If your players were attacked by wolves a number of times travelling through a forest instead, that should be handled as one extended narrative / combat scene where they realize they’ve entered dangerous territory and need to navigate out of it.
+#### Travel Encounter
+During travel, characters may encounter other travellers, enemies or a point of interest. These will be handled by the GM and should lend to the danger and intrigue of the surrounding world. Generally, the world is sparse and most characters should only have 1 travel encounter per [Travel Segment](#Travel%20Segment), though in very dense or dangerous areas the GM can roll for more. If your players were attacked by wolves a number of times travelling through a forest instead, that should be handled as one extended narrative / combat scene where they realize they’ve entered dangerous territory and need to navigate out of it.
+
+#### Ambush Encounter
+Similarly, during travel, the party may be ambushed while camping. These should be high stakes encounters that put the players in danger. Generally, danger isn't lurking around every corner and the characters should only have 1 ambush encounter per [Travel Segment](#Travel%20Segment).
 
 ---
 
 ### Evening Activity
-These are actions that a character could do to wind down in the evening before bed. All characters have access to a number of these, others can be gained with [Training](Character-Development#Training).
+These are actions that a character could do to wind down in the evening before preparing for the next leg of a journey, or before arriving somewhere important. All characters have access to a number of these, others can be gained with [Training](Character-Development#Training).
 #### Good Nights Rest
 +1 to a single skill test the next day, declared before rolling.
 #### Half Work
@@ -28,7 +38,7 @@ Do half the work required for a type of Production Work. If this is the second h
 #### Meditate
 Refresh your [Power](Stats#Power) to maximum.
 #### On Watch
-Dedicate yourself to the night watch, you receive a +3 on any [Perception](Perception) tests against ambush and are not surprised if ambushed. 
+Dedicate yourself to the night watch, you receive a +3 on any [Perception](Perception) tests against [Ambush Encounters](#Ambush%20Encounter) and are not surprised if ambushed. 
 #### Socialize
 Any number of the characters in the party may socialize. Any time you aid a character you socialized with, they get a +2 instead of a +1. Socializing while in a city costs 1 silver per person. Socializing while [Travelling](#Travelling), requires an activity such as a [Games Kit](Example-Gear#Games%20Kit).
 #### Unsupervised Training
@@ -37,7 +47,7 @@ Spending 1XP on character progression where you don’t need someone to train yo
 ---
 
 ### Resting
-Resting is fast forwarded downtime your characters will sometimes have. This tends to happen when you arrive in a safe area. Each day in a safe area, your character may perform 1 [Downtime Activities](#Downtime%20Activity), followed by one [Evening Activities](#Evening%20Activity). Unless you are receiving charity, your food, and housing costs 1 silver per day. If you cannot afford this, you do not get to do activities.
+Resting is fast forwarded downtime your characters will sometimes have. This tends to happen when you arrive in a safe area. Each day, in a safe area, your character may perform 1 [Downtime Activities](#Downtime%20Activity). Unless you are receiving charity, your food, and housing costs 1 silver per day. If you cannot afford this, you do not get to do activities. On the last day of resting before departure, everyone in the party also gets to perform an [Evening Activity](#Evening%20Activity).
 
 ### Downtime Activity
 These are actions a character could spend a day doing. All characters have access to a number of these, others can be gained with [Training](Character-Development#Training).
@@ -71,28 +81,31 @@ Your character has a specific skill or talent that they are trained to leverage.
 #### Production Work
 Your character has a specific skill or talent and can create a certain amount of readily sellable goods based on succeeding on a skill test of some kind. Similar to Skilled work, but your compensation will usually not be in silver, and instead in something that will need to be exchanged.
 
+Any production work you do, assuming you succeed, will pay similarly to what it costs in [Costs Of Services](Services#Costs%20Of%20Services). When you arrive in a town for the first time every week, the town should perform a [Variable Difficulty](Skills#Variable%20Difficulty) [Wealth](Running-The-Game#Wealth) test to determine how many people in town want production work done. If the town succeeds, 1 job + 1 per [Step Of Success](Skills#Step%20Of%20Success) is available. 
+
+The GM may put limits on what sorts of work the locals want done, but shouldn't be too conservative. Even a small, poor village might put their money together to get a powerful ritualist to make sure they have rain in the coming weeks.
+
 ### Influencing the Story
-Aspirant should be a shared experience. So when you play the GM may ask you for suggestions or to volunteer ideas such as: “what is this town known for?”, “someone give me a cool female name.”. When these are accepted by the GM you receive 1 influence which you can spend to influence the game world in any way the GM allows. When you want to influence the world:
-- You will ask the GM, “Can this thing be the case?” 
-- The GM will deliberate and assign an influence cost required “For it to be so you will need to spend X influence.”  
-- Then you and any players who want to contribute can spend the required influence to make this happen.
+Aspirant should be a shared experience. So, when you play, the [GM](How-To-Play#GM) may ask you for suggestions or to volunteer ideas such as: “what is this town known for?”, “someone give me a cool female name.”. When these are accepted by the [GM](How-To-Play#GM), you receive 1 influence which you can spend to influence the game world in any way the GM allows. When you want to influence the world:
+- You will ask the [GM](How-To-Play#GM), “Can this thing be the case?” 
+- The [GM](How-To-Play#GM) will deliberate and assign an influence cost required “For it to be so you will need to spend X influence.”  
+- Then you and any [players](How-To-Play#The%20Players) who would like to contribute can spend the required influence to make this happen.
 - If you don’t have the influence, feel free to try to negotiate for something similarly useful to your character or of interest.
 
-So as an example, if you wanted to train a specific duellist training you could have this conversation:
+> So as an example, if you wanted to train a specific duellist training you could have this conversation:
 
-```
-Player 1: “What if there is a travelling master swordsman moving through this town?” 
+> Player 1: “What if there is a travelling master swordsman moving through this town?” 
 
-GM: “hmm that isn’t too far-fetched I’ll allow a master duellist to be travelling through for 4 influence, or how about it’s a journeyman, but they know the training you want for 2 influence?”
+> GM: “hmm that isn’t too far-fetched I’ll allow a master duellist to be travelling through for 4 influence, or how about it’s a journeyman, but they know the training you want for 2 influence?”
 
-Player 2: “I’ll pitch in the extra 2 influences for the master! Maybe we can hire them to help with our next job!”
+> Player 2: “I’ll pitch in the extra 2 influences for the master! Maybe we can hire them to help with our next job!”
 
-Player 1: “Sure sounds good.”
+> Player 1: “Sure sounds good.”
 
-GM: “Great, spend 2 influence each, now tell me more about this swordsman. What is their name? What are they doing here?” 
-```
+> GM: “Great, spend 2 influence each, now tell me more about this swordsman. What is their name? What are they doing here?” 
 
-Remember, as a GM this system is designed to get your players involved in building the world. Costs aren’t provided here since different GMs will ask their players more or less for help building the world, but some opportunity to shape it should be provided.
+
+Remember, as a [GM](How-To-Play#GM), this system is designed to get your players involved in building the world. Costs aren’t provided here since different [GMs](How-To-Play#GM) will ask their players more or less for help building the world, but some opportunity to shape it should be provided.
 
 ### Creating New Content
-If a player has an idea for something their character wants to do that should require training but isn’t covered in the book, then if reasonable you should let them perform it! Usually, since it is without training, there will be a large associated negative, but at that point work on making a training of an appropriate tier and let them immediately put, if available, 1XP towards it. They don’t need an expert or manual to start the training, their character invented it!
+If a player has an idea for something their character wants to do that should require training but isn’t covered in the book, then if reasonable, you should let them perform it! Usually, since it is without training, there will be a large associated negative, but at that point work on making a training of an appropriate tier and let them immediately put, if available, 1XP towards it. They don’t need an expert or manual to start the training, their character invented it!

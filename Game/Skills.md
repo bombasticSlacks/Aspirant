@@ -13,7 +13,10 @@ Skill tests come in a few various types.
 #### Variable Difficulty
 This is a test where you will receive more information or success based on how well you do. 
 
-> An example is a [Knowledge](Knowledge) test to know about a historical event; passing may constitute knowing the name and factions involved, whereas getting a 14+ might provide you with a full retelling. When talking about variable difficulties, rules may reference steps of success. A step is 1 additional on your dice roll, 4 steps of success is a “14”. 
+> An example is a [Knowledge](Knowledge) test to know about a historical event; passing may constitute knowing the name and factions involved, whereas getting a 14+ might provide you with a full retelling. 
+
+#### Step Of Success
+When talking about variable difficulties, rules may reference step of success. A step is 1 additional on your dice roll, 4 steps of success is a “14”. 
 
 #### Fixed Difficulty
 A standard skill test, will have a negative assigned, and it will be either pass or fail.

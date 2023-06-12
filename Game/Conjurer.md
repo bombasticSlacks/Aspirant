@@ -14,7 +14,7 @@ If your character has [Attuned](Magic-Training#Attuned), your character can perf
 You can maintain one summoned creature long term without requiring skill tests or active focus.
 
 #### Mage Hand
-You can levitate things up to your RES in size and RES x 2 meters away as naturally as picking them up normally.
+You can levitate things up to your [Resolve](Stats#Resolve) in size and [Resolve](Stats#Resolve) x 2 meters away as naturally as picking them up normally.
 
 ---
 ### Advanced

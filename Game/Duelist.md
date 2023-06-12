@@ -14,7 +14,7 @@ You receive a +1 to melee skill tests to block and when you perform a parry mano
 Enemies receive a -1 to reactions against you.
 
 #### Fight Smart
-You may substitute your STR with INT for combat skill tests where relevant.
+You may substitute your [Strength](Stats#Strength) with [Intelligence](Stats#Intelligence) for combat skill tests where relevant.
 
 #### Flowing Defence
 You receive a +1 to reactions per attack you’ve already mitigated this turn.

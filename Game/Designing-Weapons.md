@@ -2,10 +2,10 @@
 Through play and when creating a character, you may be asked to select a weapon. You can use one of the [Example-Weapons](Example-Weapons.md) or design your own. Perhaps your character hales from a distant land which uses a unique weapon, or a blacksmith has an idea for a specialized weapon for your character's fighting style. 
 
 To build a weapon:
-- Choose if it is Basic, Martial, or Exotic
-- Choose a Size
-- Select a damage type
-- Select a number of traits for the weapon equal to the amount available based on category
+- Choose the [Quality](Weapons#Quality)
+- Choose a [Size](Weapons#Size)
+- Select a [Damage Type](Weapons#Damage%20Type)
+- Select a number of [Weapon Traits](Weapon-Traits) for the weapon equal to the amount available based on [Quality](Weapons#Quality)
 
 ### Material
 Generally, weapons material isn’t particularly important. Cheap materials will not be usable for martial weapons, simple but quality materials will not be usable for exotic/master worked weapons. [Costs Of Materials](Services#Costs%20Of%20Materials) has details on the crafting capacity and cost of different materials.
