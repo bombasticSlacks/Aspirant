@@ -4,6 +4,8 @@ color_scheme: dark
 url: https://aspirantrpg.com
 title: Aspirant
 description: A Game about Adventure and Expertise
+favicon_ico: "/Content/Bonfire.svg"
+logo: "/Content/Logo.svg"
 
 back_to_top: true
 back_to_top_text: "Back to top"
