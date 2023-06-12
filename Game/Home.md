@@ -1,7 +1,7 @@
 ## Home
 Welcome to Aspirant!
 
-![Campfire](Campfire.svg)
+![Campfire](Content/Campfire.svg)
 
 This should be an up-to-date copy of the game data.
 
