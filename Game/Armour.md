@@ -5,7 +5,7 @@ Armour [Equipment](Equipment) is your character's safety net. It is designed to 
 Armour is separated into 4 distinct sections. Head, Torso, Arms, Legs.
 
 ### Materials
-Armour is made of specific [materials](materials) which have 4 distinct attributes: Weakness, Resistance, Structure, Max Skill. To function as protection, a piece of armour must be made of at least Martial quality materials even if it is of a Basic design. Materials also influences which [Armour-Traits](Armour-Traits.md) are available for Martial and Exotic armours.
+Armour is made of specific [materials](materials) which have 4 distinct attributes: Weakness, Resistance, Structure, Max Skill. To function as protection, a piece of armour must be made of at least Martial quality materials even if it is of a Basic design. Materials also influences which [Armour-Traits](Armour-Traits) are available for Martial and Exotic armours.
 
 #### Max Skill
 affects different locations separately and is the maximum bonus you can have on related skill tests before negatives are applied. 
@@ -18,7 +18,7 @@ affects different locations separately and is the maximum bonus you can have on 
 | Legs     | [Acrobatics](Acrobatics), [Subterfuge](Subterfuge)                                               |
 
 #### Weakness and Resistance
-Changes how certain [types of damage](Combat#Types%20of%20Damage) effect you. If a piece of armour would gain a resistance or weakness complementary to an existing Resistance or Weakness on the armour through [Armour-Traits](Armour-Traits.md), the two cancel out resulting in no effect. If a piece of armour would gain a resistance or weakness it already has through [Armour-Traits](Armour-Traits.md), there is no effect. See [dealing damage](Combat#Dealing%20Damage) for details. 
+Changes how certain [types of damage](Combat#Types%20of%20Damage) effect you. If a piece of armour would gain a resistance or weakness complementary to an existing Resistance or Weakness on the armour through [Armour-Traits](Armour-Traits), the two cancel out resulting in no effect. If a piece of armour would gain a resistance or weakness it already has through [Armour-Traits](Armour-Traits), there is no effect. See [dealing damage](Combat#Dealing%20Damage) for details. 
 
 #### Structure
 Contributes to your overall armours integrity. Allowing it to take more hits before becoming non-functional.
@@ -34,7 +34,7 @@ Contributes to your overall armours integrity. Allowing it to take more hits bef
 | Machinery | 6         | 1         | Impact   | -          |
 
 ### Quality
-Armour can come in a variety of qualities. Higher quality armours gain access to [Armour-Traits](Armour-Traits.md) as well as the ability to incorporate additional [materials](materials) into their design. When multiple materials are used, one is treated as the primary material and the other as the secondary material. The armour's base attributes (Weakness, Resistance, Structure, and Max Skill) are determined by the primary material, while the secondary material represents the increase in complexity and robustness of higher quality gear. If the secondary material used is of the same Quality and has a Structure equal to or higher than the primary material, increase the armour's Structure by 1. 
+Armour can come in a variety of qualities. Higher quality armours gain access to [Armour-Traits](Armour-Traits) as well as the ability to incorporate additional [materials](materials) into their design. When multiple materials are used, one is treated as the primary material and the other as the secondary material. The armour's base attributes (Weakness, Resistance, Structure, and Max Skill) are determined by the primary material, while the secondary material represents the increase in complexity and robustness of higher quality gear. If the secondary material used is of the same Quality and has a Structure equal to or higher than the primary material, increase the armour's Structure by 1. 
 
 #### Basic
 Basic armour is improvised, hastily constructed, or primitive in nature, but may save your life when no other options are available. 
@@ -55,7 +55,7 @@ Exotic armours incorporate additional complexity of both materials and design al
 
 ### Masterwork
 
-Masterworked armour is a martial or exotic armour of exceptional craftsmanship and design. A piece of masterwork armour gains 1 additional trait point over its martial or exotic counterpart and may take a single [Armour-Trait](Armour-Traits.md) it does not meet the material requirement for. Masterwork armours must incorporate a material of similiar quality to an exotic armour in their construction.
+Masterworked armour is a martial or exotic armour of exceptional craftsmanship and design. A piece of masterwork armour gains 1 additional trait point over its martial or exotic counterpart and may take a single [Armour-Trait](Armour-Traits) it does not meet the material requirement for. Masterwork armours must incorporate a material of similiar quality to an exotic armour in their construction.
 
 ### Armour Integrity
 Your overall suit of armour will have an armour integrity, which is how well it all comes together to protect you. In other words, your armour suit has a shared amount of health over all locations. To calculate your suit of armour's integrity, add the structure values of all your armour pieces together. All armour suits no matter the pieces have at least 2 points of integrity, and for every 10 total structure value you get an additional point of armour integrity. 
