@@ -1,5 +1,6 @@
 ## Aspirant RPG
 *A Game about Adventure and Expertise!*
+
 Loosely inspired by PBtA systems, classic fantasy RPGs, and worlds where all labour has value.
 
 ![Campfire](Content/Campfire.svg)
