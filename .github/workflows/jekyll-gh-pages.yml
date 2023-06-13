@@ -32,8 +32,10 @@ jobs:
         run: cat ./Game/Example-Weapons.md
       - name: manipulate anchors
         run: python3 ./convert.py $(find ./Game -type f -name "*.md")
-      - name: manipulate anchors further
+      - name: manipulate anchors strip %20
         run: sed -i 's/%20/-/g' $(find ./Game -type f -name "*.md")
+      - name: manipulate anchors strip Game/
+        run: sed -i 's/Game\///g' $(find ./Game -type f -name "*.md")
       - name: details later
         run: cat ./Game/Example-Weapons.md
       - name: create index

@@ -8,5 +8,7 @@
     "Cryptozoologist",
     "Herbologist",
     "vampiric"
-  ]
+  ],
+  "showLineNumber": false,
+  "newLinkFormat": "absolute"
 }
