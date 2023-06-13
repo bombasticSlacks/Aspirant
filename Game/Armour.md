@@ -58,11 +58,21 @@ Exotic armours incorporate additional complexity of both materials and design al
 Masterworked armour is a martial or exotic armour of exceptional craftsmanship and design. A piece of masterwork armour gains 1 additional trait point over its martial or exotic counterpart and may take a single [Armour-Trait](Armour-Traits) it does not meet the material requirement for. Masterwork armours must incorporate a material of similiar quality to an exotic armour in their construction.
 
 ### Armour Integrity
-Your overall suit of armour will have an armour integrity, which is how well it all comes together to protect you. In other words, your armour suit has a shared amount of health over all locations. To calculate your suit of armour's integrity, add the structure values of all your armour pieces together. All armour suits no matter the pieces have at least 2 points of integrity, and for every 10 total structure value you get an additional point of armour integrity. 
+Your overall suit of armour will have an armour integrity, which is how well it all comes together to protect you. In other words, your armour suit has a shared amount of health over all locations. To calculate your suit of armour's integrity, add the structure values of all your armour pieces together. 
 
-> For example, a character with 4 pieces of leather gives 8 structure, looking at the tens' digit (0) gives the minimum value for armour, an integrity of 2.
+Armour Integrity is calculated as $Structure \over 8$ rounded. You can also consult the table below.
 
-> A character with 1 pieces of leather (2 structure) and 3 pieces of plate mail (6 each) has 20 total structure, looking at the ten's digit (2), that's an overall armour integrity of 4.
+| Total Structure | Armour Integrity |
+| --------------- | ---------------- |
+| 1-4             | 2                |
+| 5-12            | 3                |
+| 13-20           | 4                |
+| 21-28           | 5                |
+| 29+             | 6                 |
+
+> For example, a character with 4 pieces of leather gives 8 structure, that's one additional integrity, for integrity of 3 total.
+
+> A character with 1 pieces of leather (2 structure) and 3 pieces of plate mail (6 each) has 20 total structure, that's 2 bonus integrity for an overall armour integrity of 4.
 
 ### Style
 Characters shouldn’t be punished for dressing their characters in a specific way that doesn’t describe perfect protection. The most obvious, however dated, example is a chain mail bikini. Though silly and perhaps not something players would be comfortable with, if it is in your game, it counts as fully functional armour with similar weaknesses to any other armour of similar material. Players and, in most cases, NPCs should not have their narrative armour exploited.  
