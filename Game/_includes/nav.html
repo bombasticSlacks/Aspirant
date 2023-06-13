@@ -191,12 +191,12 @@
     </ul>
   </li>
   <li
-    class="nav-list-item {% if page.url == '/Services.html' or page.url == '/Combat-Training.html' or page.url == '/Magic-Training.html' or page.url == '/Trades-Training.html' %} active{% endif %}"
+    class="nav-list-item {% if page.url == '/Services.html' %} active{% endif %}"
   >
     <a href="Services" class="nav-list-link">Services</a>
   </li>
   <li
-    class="nav-list-item {% if page.url == '/Character-Development.html' %} active{% endif %}"
+    class="nav-list-item {% if page.url == '/Character-Development.html' or page.url == '/Combat-Training.html' or page.url == '/Magic-Training.html' or page.url == '/Trades-Training.html' %} active{% endif %}"
   >
     <button
       class="nav-list-expander btn-reset"
