@@ -1,20 +1,29 @@
 <script>
-MathJax = {
-  tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']]
-  }
-};
+  MathJax = {
+    tex: {
+      inlineMath: [
+        ["$", "$"],
+        ["\\(", "\\)"],
+      ],
+    },
+  };
 </script>
-<script type="text/javascript" id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
-</script>
+<script
+  type="text/javascript"
+  id="MathJax-script"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"
+></script>
 
 <script>
-  function activateLightMode() {
-    jtd.setTheme('light');
-  } 
+  function checkLightMode() {
+    const lightModePreference = window.matchMedia(
+      "(prefers-color-scheme: light)"
+    );
+    if (lightModePreference) {
+      jtd.setTheme("light");
+    }
+  }
 
-  const lightModePreference = window.matchMedia("(prefers-color-scheme: light)");
-
-  lightModePreference.addEventListener("change", e => e.matches && activateLightMode());
+  window.onload = checkLightMode;
 </script>
