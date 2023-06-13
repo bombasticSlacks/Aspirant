@@ -20,4 +20,14 @@ Group skill ratings, build list.
 
 If you have some integrity when attacked reduce the injury by 1 type.
 
+Fix the tabbing on sidebar
+
+Armour section for sheets
+
+Light mode
+
+Update example weapon costs
+
+
+
 

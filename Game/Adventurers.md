@@ -24,7 +24,7 @@ Assign your [Attributes](Stats#Attributes) placing one of the two sets of values
 You can put 6 ranks into skills of your choice, no skill may go above rank 2.
 
 ### Determine Starter Training
-All characters begin play with 2 basic trainings of their choice.
+All characters begin play with 2 basic [Training](Character-Development#Training) of their choice.
 
 ### Purchase Progression
 At this point, you can spend as much of your remaining XP as you would like to. Each training / skill you take does require spending money: [Costs Of Services](Services#Costs%20Of%20Services). Your character can also decide to start with [Cultural-Mutations](Cultural-Mutations).
