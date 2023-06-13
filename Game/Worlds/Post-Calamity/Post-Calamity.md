@@ -13,4 +13,4 @@
 * Zach
 
 ### Sessions
-* [Session-0](Game/Worlds/Post-Calamity/Session-0)
+* [Session-0](Session-0)
