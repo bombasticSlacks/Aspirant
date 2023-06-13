@@ -31,7 +31,7 @@ When making skill tests with a [Rending](Combat#Rending) weapon, you may substit
 You receive a +1 to all non-combat skill tests, however to directly harm another thing, you need to first roll a [Resolve](Stats#Resolve) test.
 
 #### Long Term Care
-As an [Evening Activity](Telling-The-Story#Evening%20Activity) you can attempt to manage your allies injuries further. This is a [Medicine](Medicine) test which receives a +2 if you have access to a full medical facility. If you succeed on this test any allies ignore their injury penalties until the next [Travel Segment](Telling-The-Story#Travel%20Segment).
+As an [Evening Activity](Activities#Evening%20Activity) you can attempt to manage your allies injuries further. This is a [Medicine](Medicine) test which receives a +2 if you have access to a full medical facility. If you succeed on this test any allies ignore their injury penalties until the next [Travel Segment](Telling-The-Story#Travel%20Segment).
 
 #### Surgeon
 You may perform surgery on someone who has suffered lasting injuries to treat them. Surgery at a minimum requires a flat surface and [Surgeons Tool Set](Example-Gear#Surgeons%20Tool%20Set). However you receive a 

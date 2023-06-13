@@ -26,7 +26,7 @@ If your character has [Amateur Divination](#Amateur%20Divination) training, your
 * See into the past what has happened.
 
 #### Oracle
-During [Meditate](Telling-The-Story#Meditate) roll 2d6. At any point before the next meditation, you may choose to have any skill test use that roll result.
+During [Meditate](Activities#Meditate) roll 2d6. At any point before the next meditation, you may choose to have any skill test use that roll result.
 
 ### Master
 

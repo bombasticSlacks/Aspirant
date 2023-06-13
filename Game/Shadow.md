@@ -39,7 +39,7 @@ You can apply poison to a weapon during combat as a free action. It lasts until 
 Your character's [Threat](Stats#Threat) is reduced by your ranks in [Subterfuge](Subterfuge).
 
 #### Thievery
-As [Skilled Work](Telling-The-Story#Skilled%20Work), you can pickpocket. Make a [Variable Difficulty](Skills#Variable%20Difficulty) [Subterfuge](Subterfuge) skill test, you receive settlement wealth - 1 silver per [Step Of Success](Skills#Step%20Of%20Success). If you fail this skill test you may be in trouble with the law.
+As [Skilled Work](Activities#Skilled%20Work), you can pickpocket. Make a [Variable Difficulty](Skills#Variable%20Difficulty) [Subterfuge](Subterfuge) skill test, you receive settlement wealth - 1 silver per [Step Of Success](Skills#Step%20Of%20Success). If you fail this skill test you may be in trouble with the law.
 
 ---
 

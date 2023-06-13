@@ -42,7 +42,7 @@ Your characters are guaranteed to begin play with:
 
 You may now, with any remaining money, purchase any equipment your character desires. All equipment should be purchased at full price as though it were commissioned. If you wish to upgrade a piece of gear you were given for free you only need to pay the difference in comissioning.
 
-You also at any point during purchasing get 5 [Downtime Activities](Telling-The-Story#Downtime%20Activity) with which you can either make money, craft equipment, or do something else relevant. They don't need to all be done at once. 
+You also at any point during purchasing get 5 [Downtime Activities](Activities#Downtime%20Activity) with which you can either make money, craft equipment, or do something else relevant. They don't need to all be done at once. 
 > So you could craft an item you then buy some stuff to upgrade.
 
 ### Finalize Your Character

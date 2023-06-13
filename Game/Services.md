@@ -3,31 +3,31 @@ Aspirant is a world of tradespeople, experts with something to offer a prospecti
 
 ### Costs Of Services
 
-| Service                                                                   | Cost                                                           |
-| ------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| Commissioning A guide through a known trail                               | $2$                                                            |
-| Commissioning A guide through a not well-known trail                      | $5$                                                            |
-| Commissioning Creating A [Weapon](Weapons)                                | $5 \times traits + 2 \times weapon\ size\ material$            |
-| Commissioning Creating Armour                                             | $5 + 2 \times size\ of\ materials$                               |
-| Commissioning Creating Something Complex                                  | $10 + materials$                                               |
-| Commissioning Creating Something Simple                                   | $3 + materials$                                                |
-| Commissioning First Aid                                                   | $2$                                                            |
-| Commissioning Master Worked Service                                       | $base\ Commission + 10$                                        |
-| Commissioning Performing a complex ritual                                 | $12 + reagents$                                                |
-| Commissioning Performing a simple ritual                                  | $5 + reagents$                                                 |
-| Commissioning Storage                                                     | $5$ + [Crafting Storage](Designing-Storage#Crafting%20Storage) |
-| Commissioning a standard days work for a tradesman                        | $5$                                                            |
-| Commissioning creating commestibles                                       | $4 + reagents$                                                 |
-| Commissioning surgery                                                     | $8$                                                            |
-| Day of lodgings                                                           | $1$                                                            |
-| Day of travel food                                                        | $1$                                                            |
-| Getting expertise or knowledge                                            | $4$                                                            |
-| Hiring a mercenary for a day                                              | $2$                                                            |
-| Moving a piece of [Infrastructure](Assets#Infrastructure) to another city | $2 \times Days\ Of\ Travel \times Space$                       |
-| Teaching a basic training                                                 | $5$                                                            |
-| Teaching a master training                                                | $30$                                                           |
-| Teaching a skill                                                          | $5 \times Rank$                                                |
-| Teaching an advanced training                                             | $12$                                                           |
+| Service                                                                   | Cost                                                                                                     |
+| ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Commissioning A guide through a known trail                               | $2$                                                                                                      |
+| Commissioning A guide through a not well-known trail                      | $5$                                                                                                      |
+| Commissioning Creating A [Weapon](Weapons)                                | $5 \times traits + {{20 \times weapon\ size} \over {material\ ratio}}$                    |
+| Commissioning Creating Armour                                             | $5 \times traits + {{30} \over {primary\ material\ ratio}}  + {{10} \over {secondary\ material\ ratio}}$ | 
+| Commissioning Creating Something Complex                                  | $10 + materials$                                                                                         |
+| Commissioning Creating Something Simple                                   | $3 + materials$                                                                                          |
+| Commissioning First Aid                                                   | $2$                                                                                                      |
+| Commissioning Master Worked Service                                       | $base\ Commission + 10$                                                                                  |
+| Commissioning Performing a complex ritual                                 | $12 + reagents$                                                                                          |
+| Commissioning Performing a simple ritual                                  | $5 + reagents$                                                                                           |
+| Commissioning Storage                                                     | $5$ + [Crafting Storage](Designing-Storage#Crafting%20Storage)                                           |
+| Commissioning a standard days work for a tradesman                        | $5$                                                                                                      |
+| Commissioning creating commestibles                                       | $4 + reagents$                                                                                           |
+| Commissioning surgery                                                     | $8$                                                                                                      |
+| Day of lodgings                                                           | $1$                                                                                                      |
+| Day of travel food                                                        | $1$                                                                                                      |
+| Getting expertise or knowledge                                            | $4$                                                                                                      |
+| Hiring a mercenary for a day                                              | $2$                                                                                                      |
+| Moving a piece of [Infrastructure](Assets#Infrastructure) to another city | $2 \times Days\ Of\ Travel \times Space$                                                                 |
+| Teaching a basic training                                                 | $5$                                                                                                      |
+| Teaching a master training                                                | $30$                                                                                                     |
+| Teaching a skill                                                          | $5 \times Rank$                                                                                          |
+| Teaching an advanced training                                             | $12$                                                                                                     |
 
 ### Reagent Pricing
 
