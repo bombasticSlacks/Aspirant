@@ -20,7 +20,7 @@
     const lightModePreference = window.matchMedia(
       "(prefers-color-scheme: light)"
     );
-    if (lightModePreference) {
+    if (lightModePreference.matches) {
       jtd.setTheme("light");
     }
   }
