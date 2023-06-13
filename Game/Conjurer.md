@@ -25,7 +25,7 @@ If your character has [Amateur Conjuration](#Amateur%20Conjuration) training, yo
 * Teleport an exact item to yourself.
 
 #### Lead To Gold
-As production work, you can transform matter into gold. Perform a fixed difficulty ritual test with a difficulty of your choice, if successful, you receive gold nuggets worth 3 times the difficulty in silver. This requires an [Alchemists Tool Set](Example-Gear#Alchemists%20Tool%20Set).
+As [Production Work](Activities#Production%20Work), you can transform matter into gold. Perform a fixed difficulty ritual test with a difficulty of your choice, if successful, you receive gold nuggets worth 3 times the difficulty in silver. This requires an [Alchemists Tool Set](Example-Gear#Alchemists%20Tool%20Set).
 
 ### Master
 

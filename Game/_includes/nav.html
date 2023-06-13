@@ -109,7 +109,7 @@
     <a href="/Character-Creation" class="nav-list-link">Character Creation</a>
   </li>
   <li
-    class="nav-list-item {% if page.url == '/Telling-The-Story.html' or page.url == '/Combat.html' or page.url == '/Injury.html' %} active{% endif %}"
+    class="nav-list-item {% if page.url == '/Telling-The-Story.html' or page.url == '/Combat.html' or page.url == '/Injury.html' or page.url == '/Activities.html' %} active{% endif %}"
   >
     <button
       class="nav-list-expander btn-reset"
@@ -122,6 +122,11 @@
     </button>
     <a href="/Telling-The-Story" class="nav-list-link">Telling The Story</a>
     <ul class="nav-list">
+      <li
+        class="nav-list-item {% if page.url == '/Activities.html' %} active{% endif %}"
+      >
+        <a href="/Activities" class="nav-list-link">Activities</a>
+      </li>
       <li
         class="nav-list-item {% if page.url == '/Combat.html' %} active{% endif %}"
       >

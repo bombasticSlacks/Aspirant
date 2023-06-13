@@ -10,7 +10,7 @@ To build a piece of armour:
 Armour is made of [materials](materials), which determine its characteristics, see [Materials](Armour#Materials) for more details. Martial or Exotic [Quality](Armour#Quality) armour will require a small amount of secondary material to reinforce, pad, or affix the primary material to. Materials, whether they be the primary or secondary material, will also give access to material specific [Armour-Traits](Armour-Traits) for Martial and Exotic armours.
  
 ### Crafting
-A character looking to craft a specific armour first requires 3 size worth of the primary material and 1/2 size worth of secondary material where applicable. Other bits, unless narratively relevant, are a negligible portion of the cost. Then, the character, as a downtime activity, may spend a day crafting. If they succeed on the [Crafting](Crafting) test, the item is created successfully. If not, they must try again in the future; however, materials are not lost, just time. 
+A character looking to craft a specific armour first requires 3 size worth of the primary material and 1 size worth of secondary material where applicable. Other bits, unless narratively relevant, are a negligible portion of the cost. Then, the character, as a downtime activity, may spend a day crafting. If they succeed on the [Crafting](Crafting) test, the item is created successfully. If not, they must try again in the future; however, materials are not lost, just time. 
 
 The difficulty of the test is modified as follows:
 

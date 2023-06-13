@@ -8,7 +8,7 @@ One of the 8 [Trades Training](Trades-Training) disciplines.
 You automatically succeed on anything you do on a roll of double 1’s.
 
 #### Fast Learner
-After the [Evening Activity](Telling-The-Story#Evening%20Activity) [Socialize](Telling-The-Story#Socialize), you can attempt [Medicine](Medicine), [Science](Science), [Crafting](Crafting), [Perform](Perform) skill tests with the same skill level as the person with the highest skill rank in your party who also socialized. 
+After the [Evening Activity](Activities#Evening%20Activity) [Socialize](Activities#Socialize), you can attempt [Medicine](Medicine), [Science](Science), [Crafting](Crafting), [Perform](Perform) skill tests with the same skill level as the person with the highest skill rank in your party who also socialized. 
 
 #### Intellectual Leap
 When you use to gain information, you can spend 1 [Power](Stats#Power) to infer another useful fact about the thing. Ask another question and the GM should answer honestly.
@@ -46,7 +46,7 @@ You may keep someone's attention and interest, even in a topic you know nothing 
 ---
 ### Advanced
 #### Cram Session
-During [Meditate](Telling-The-Story#Meditate), you can select any one of your skills that isn’t already at 3 ranks to count as being one rank higher until the next meditation.
+During [Meditate](Activities#Meditate), you can select any one of your skills that isn’t already at 3 ranks to count as being one rank higher until the next meditation.
 
 #### Contacts
 As a downtime action, you can spend a day setting up contacts in any location. This contact network can be queried for information and will send relevant info your way.
