@@ -7,8 +7,8 @@ Aspirant is a world of tradespeople, experts with something to offer a prospecti
 | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | Commissioning A guide through a known trail                               | $2$                                                                                                      |
 | Commissioning A guide through a not well-known trail                      | $5$                                                                                                      |
-| Commissioning Creating A [Weapon](Weapons)                                | $5 \times traits + {{20 \times weapon\ size} \over {material\ ratio}}$                    |
-| Commissioning Creating Armour                                             | $5 \times traits + {{30} \over {primary\ material\ ratio}}  + {{10} \over {secondary\ material\ ratio}}$ | 
+| Commissioning Creating A [Weapon](Weapons)                                | $5 \times traits + {{20 \times size} \over {material\ ratio}}$                    |
+| Commissioning Creating Armour                                             | $5 \times traits + {{30} \over {primarymaterialratio}}  + {{10} \over {secondarymaterialratio}}$ | 
 | Commissioning Creating Something Complex                                  | $10 + materials$                                                                                         |
 | Commissioning Creating Something Simple                                   | $3 + materials$                                                                                          |
 | Commissioning First Aid                                                   | $2$                                                                                                      |
