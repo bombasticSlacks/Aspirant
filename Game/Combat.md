@@ -134,32 +134,38 @@ Declare that you forgo your reaction for the turn to get a +2 on an action on yo
 ---
 
 ### Hit Locations
-Hit locations are usually simplified to head, body, dominant arm, nondominant arm, legs.
+Hit locations are usually simplified to head, body, arms, legs.
 
-To randomly determine a hit location, you should roll a d12 and consult the following chart. This also matches up with hit location dice that are readily available for many other pen and paper RPGs.
+To randomly determine a hit location, you should roll a d12 and consult the following chart.
 
-| D12  | Location         |
-| ---- | ---------------- |
-| 1-4  | Chest            |
-| 5-6  | Dominant Arm     |
-| 7-8  | Non-Dominant Arm |
-| 9-11 | Legs             |
-| 12   | Head             |
+| D12  | Location |
+| ---- | -------- |
+| 1-4  | Chest    |
+| 5-8  | Arms     | 
+| 9-11 | Legs     |
+| 12   | Head     |
 
 ### Armour and Penetration
 When someone is being attacked, to determine what effect the attack has, you check if the incoming damage type is either a weakness or resistance of the armour:
 
-Damage type is a weakness: 
-- Remove four armour integrity, you are not injured.
+| Attack is: | Armour Integrity Damage |
+| ---------- | ----------------------- |
+| Weakness   | 4                       |
+| Normal     | 2                       |
+| Resistance | 1                       | 
 
-Damage type is neither a weakness nor a resistance: 
-- Remove two armour integrity, you are not injured.
+#### Compromised Armour
+Once your armour integrity goes to 0, your armour is considered compromised. It no longer provides any protection and any attacks you take [Deal Damage](#Dealing%20Damage).
 
-Damage type is a resistance: 
-- Remove one armour integrity, you are not injured.
-- If you are injured, reduce the injury type by one level.
+#### Partially Compromised
+Any time you would remove armour integrity, your armour isn't compromised, but you don't have the full required ammount, your armour's integrity is reduced to 0, but your opponent attack is a [Glancing Blow](#Glancing%20Blow).
 
-**Note** Any time you would remove an integrity, but your armour's integrity is 0 you receive an injury instead.
+> A character with two armour integrity taking a normal attack reduces their armour integrity to 0 but is otherwise unharmed.
+
+> A character with 2 armour integrity taking a weakness attack (4 integrity damage) reduces their armour integrity to 0 and takes an injury. The opponent rolls and determines the injuy is a [Severe Injury](Injury#Severe%20Injury), but since the characters armour was only [Partially Compromised](#Partially%20Compromised) they take a [Minimal Injury](Injury#Minimal%20Injury) instead. Their armour is now [Compromised](#Compromised%20Armour).
+
+#### Resistance
+As an additional benefit, if you are resistant to an attack it always counts as a [Glancing Blow](#Glancing%20Blow).
 
 ### Dealing Damage
 When you or something else is attempting to injure someone you will in most cases roll 1d6 + damage modifier. Damage modifier is a combination of the weapons inherent lethality, size, any bonuses from your character and usually your [Strength](Stats#Strength). 
@@ -175,6 +181,10 @@ This number is usually compared to the universal damage chart to determine the i
 
 > So, for example, a long sword (3 size martial weapon) wielded by a character with 3 [Strength](Stats#Strength) would have a damage bonus of 7 (1 martial + 3 size + 3 [Strength](Stats#Strength)). That means on a 1-3 it causes a severe injury, on a 4-6 it causes a critical injury. 
 
+#### Glancing Blow
+Sometimes your attacks will be partially mitigated by abilities or other circumstances. When this happens you reduce the severity of your injury by one.
+
+> So a [Critical Injury](Injury#Critical%20Injury) glancing blow becomes a [Severe Injury](Injury#Severe%20Injury).
 
 ### Types of Damage
 Generally, there are two large categories of damage – Physical and Otherworldly, each of these then further has three categories of damage.

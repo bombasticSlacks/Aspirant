@@ -18,44 +18,13 @@ affects different locations separately and is the maximum bonus you can have on 
 | Legs     | [Acrobatics](Acrobatics), [Subterfuge](Subterfuge)                                               |
 
 #### Weakness and Resistance
-Changes how certain [types of damage](Combat#Types%20of%20Damage) effect you. If a piece of armour would gain a resistance or weakness complementary to an existing Resistance or Weakness on the armour through [Armour-Traits](Armour-Traits), the two cancel out resulting in no effect. If a piece of armour would gain a resistance or weakness it already has through [Armour-Traits](Armour-Traits), there is no effect. See [dealing damage](Combat#Dealing%20Damage) for details. 
+Changes how certain [types of damage](Combat#Types%20of%20Damage) effect you. If a piece of armour would gain a resistance or weakness complementary to an existing Resistance or Weakness on the armour through [Armour-Traits](Armour-Traits), the two cancel out resulting in no effect. If a piece of armour would gain a resistance or weakness it already has through [Armour-Traits](Armour-Traits), there is no effect. See [Armour and Penetration](Combat#Armour%20and%20Penetration) for details. 
 
 #### Structure
 Contributes to your overall armours integrity. Allowing it to take more hits before becoming non-functional.
 
-#### Material Table
-
-| Material  | Max Skill | Structure | Weakness | Resistance |
-| --------- | --------- | --------- | -------- | ---------- |
-| Textile   | 8         | 1         | Heat     | -          |
-| Leather   | 7         | 2         | Life     | -          |
-| Wood      | 6         | 3         | Heat     | -          |
-| Metal     | 5         | 4         | Cold     | -          | 
-| Machinery | 6         | 1         | Impact   | -          |
-
 ### Quality
-Armour can come in a variety of qualities. Higher quality armours gain access to [Armour-Traits](Armour-Traits) as well as the ability to incorporate additional [materials](materials) into their design. When multiple materials are used, one is treated as the primary material and the other as the secondary material. The armour's base attributes (Weakness, Resistance, Structure, and Max Skill) are determined by the primary material, while the secondary material represents the increase in complexity and robustness of higher quality gear. If the secondary material used is of the same Quality and has a Structure equal to or higher than the primary material, increase the armour's Structure by 1. 
-
-#### Basic
-Basic armour is improvised, hastily constructed, or primitive in nature, but may save your life when no other options are available. 
-
-*Basic armours utilize a single material and have 0 trait points*
-
-#### Martial
-
-Martial armour is expressly built for the hardships of battle. When compared to basic armour, martial armours are more complex and more meticulously constructed often with specific functions in mind.
-
-*Martial armours ultilize 2 materials and have 1 trait points*
-
-#### Exotic
-
-Exotic armours incorporate additional complexity of both materials and design allowing for further specialization of enhanced functionality thanks to the use of rare and advanced materials and expert craftsmanship.
-
-*Exotic armours utilize 2 materials, one of which must be exotic quality, and have 2 trait points*
-
-### Masterwork
-
-Masterworked armour is a martial or exotic armour of exceptional craftsmanship and design. A piece of masterwork armour gains 1 additional trait point over its martial or exotic counterpart and may take a single [Armour-Trait](Armour-Traits) it does not meet the material requirement for. Masterwork armours must incorporate a material of similiar quality to an exotic armour in their construction.
+Armour can come in a variety of qualities. Higher quality armours gain access to [Armour-Traits](Armour-Traits) as well as the ability to incorporate additional [materials](materials) into their design. [Designing Armour](Designing-Armour) has more details on the specifics.
 
 ### Armour Integrity
 Your overall suit of armour will have an armour integrity, which is how well it all comes together to protect you. In other words, your armour suit has a shared amount of health over all locations. To calculate your suit of armour's integrity, add the structure values of all your armour pieces together. 
@@ -68,7 +37,7 @@ Armour Integrity is calculated as $Structure \over 8$ rounded. You can also cons
 | 5-12            | 3                |
 | 13-20           | 4                |
 | 21-28           | 5                |
-| 29+             | 6                 |
+| 29+             | 6                |
 
 > For example, a character with 4 pieces of leather gives 8 structure, that's one additional integrity, for integrity of 3 total.
 
