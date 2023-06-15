@@ -1,4 +1,5 @@
 ## Services
+![Market](Content/Market.svg)
 Aspirant is a world of tradespeople, experts with something to offer a prospective adventurer. 
 
 ### Costs Of Services
@@ -44,17 +45,17 @@ Aspirant is a world of tradespeople, experts with something to offer a prospecti
 
 ### Costs Of Materials
 
-| Name                      | Max Weapon Quality | Ratio        |
-| ------------------------- | ------------------ | ------------ |
-| Cheap Wine                | -                  | $1 \over 8$  |
-| Expensive Wine            | -                  | $1 \over 2$  |
-| Gold                      | Exotic             | $4$          |
-| Machinery                 | Exotic             | $3 \over 2$  |
-| Oil                       | -                  | $1 \over 4$  |
-| Spirits                   | -                  | $1$          |
-| Water                     | -                  | $1 \over 16$ |
-| Basic Crafting Material   | Basic              | $1 \over 4$  |
-| Martial Crafting Material | Martial            | $1 \over 2$  |
-| Exotic Crafting Material  | Exotic             | $1$          | 
+| Name                      | Max Weapon Quality | Ratio        | Cost Per Size (S) |
+| ------------------------- | ------------------ | ------------ | ----------------- |
+| Cheap Wine                | -                  | $1 \over 8$  | 1.25              |
+| Expensive Wine            | -                  | $1 \over 2$  | 5                 |
+| Gold                      | Exotic             | $4$          | 40                |
+| Machinery                 | Exotic             | $3 \over 2$  | 15                |
+| Oil                       | -                  | $1 \over 4$  | 2.5               |
+| Spirits                   | -                  | $1$          | 10                |
+| Water                     | -                  | $1 \over 16$ | 0.675             |
+| Basic Crafting Material   | Basic              | $1 \over 4$  | 2.5               |
+| Martial Crafting Material | Martial            | $1 \over 2$  | 5                 |
+| Exotic Crafting Material  | Exotic             | $1$          | 10                | 
 
 
