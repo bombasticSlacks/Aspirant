@@ -1,7 +1,10 @@
 ## Ritual
-One of the [Skills](Skills) in Aspirant. Usually performed with the [Resolve](Stats#Resolve) attribute.
+One of the [Skills](Skills) in Aspirant. 
 
 Understanding ancient powers, interacting with large magical devices, performing rituals of [Conjurer](Conjurer), [Diviner](Diviner), [Enchanter](Enchanter), and [Vitomancer](Vitomancer) magic. These rituals are lengthier magic processes, but also more powerful. A ritual skill test will usually require time, reagents, and some form of ritual process.
+
+### Stat Used
+[Resolve](Stats#Resolve) skill.
 
 ### Mundane Activities
 There are no mundane ritual activities, everything requires a skill test.

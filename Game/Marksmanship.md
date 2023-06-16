@@ -1,7 +1,10 @@
 ## Marksmanship
-One of the [Skills](Skills) in Aspirant. Usually performed with the [Agility](Stats#Agility) attribute.
+One of the [Skills](Skills) in Aspirant. 
 
 Attacking with weapons at range.
+
+### Stat Used
+[Agility](Stats#Agility) skill.
 
 ### Mundane Activities
 Some examples of things that shouldn't require a skill test would be.

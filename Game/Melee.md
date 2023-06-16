@@ -1,7 +1,10 @@
 ## Melee
-One of the [Skills](Skills) in Aspirant. Usually performed with the [Strength](Stats#Strength) attribute.
+One of the [Skills](Skills) in Aspirant.
 
 Attacking with weapons in melee, defending with weapons in melee.
+
+### Stat Used
+[Strength](Stats#Strength) skill.
 
 ### Mundane Activities
 Some examples of things that shouldn't require a skill test would be.

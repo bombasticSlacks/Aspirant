@@ -1,7 +1,10 @@
 ## Fitness
-One of the [Skills](Skills) in Aspirant. Usually performed with the [Strength](Stats#Strength) attribute.
+One of the [Skills](Skills) in Aspirant.
 
 Dealing with the stress/exhaustion of travel and marching, strength-based acts of movement/traversal, feats of physical power.
+
+### Stat Used
+[Strength](Stats#Strength) skill.
 
 ### Mundane Activities
 Some examples of things that shouldn't require a skill test would be.

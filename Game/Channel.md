@@ -1,7 +1,10 @@
 ## Channel
-One of the [Skills](Skills) in Aspirant. Usually performed with the [Resolve](Stats#Resolve) attribute.
+One of the [Skills](Skills) in Aspirant. 
 
 Invoking the power of magical items, channeling [Abjurer](Abjurer), [Evoker](Evoker), [Illusionist](Illusionist), or [Transmuter](Transmuter) power. Creates immediate effects by pulling energy or manipulating magic in the world around you.
+
+### Stat Used
+[Resolve](Stats#Resolve) skill.
 
 ### Mundane Activities
 There are no mundane channel actions there should always be a chance to fail.

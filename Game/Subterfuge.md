@@ -1,7 +1,10 @@
 ## Subterfuge
-One of the [Skills](Skills) in Aspirant. Usually performed with the [Agility](Stats#Agility) attribute.
+One of the [Skills](Skills) in Aspirant. 
 
 Hiding, moving quietly, sleight of hand, theft.
+
+### Stat Used
+[Agility](Stats#Agility) skill.
 
 ### Mundane Activities
 #TODOExamples 
