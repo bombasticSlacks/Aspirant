@@ -1,7 +1,10 @@
 ## Medicine
-One of the [Skills](Skills) in Aspirant. Usually performed with the [Intelligence](Stats#Intelligence) attribute.
+One of the [Skills](Skills) in Aspirant. 
 
 Performing care on the injured and ill.
+
+### Stat Used
+[Intelligence](Stats#Intelligence) skill.
 
 ### Mundane Activities
 Some examples of things that shouldn't require a skill test would be.

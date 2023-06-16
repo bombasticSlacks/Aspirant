@@ -1,7 +1,10 @@
 ## Science
-One of the [Skills](Skills) in Aspirant. Usually performed with the [Intelligence](Stats#Intelligence) attribute.
+One of the [Skills](Skills) in Aspirant.
 
 Mathematics, logic, chemistry, biology, physics and other complex problems. Crafting medicines, elixirs and other compounds.
+
+### Stat Used
+[Intelligence](Stats#Intelligence) skill.
 
 ### Mundane Activities
 Some examples of things that shouldn't require a skill test would be.

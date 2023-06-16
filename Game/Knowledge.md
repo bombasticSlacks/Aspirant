@@ -1,7 +1,10 @@
 ## Knowledge
-One of the [Skills](Skills) in Aspirant. Usually performed with the [Intelligence](Stats#Intelligence) attribute.
+One of the [Skills](Skills) in Aspirant. 
 
 General knowledge about the world. Certain training will allow you to use this for very specific knowledge.
+
+### Stat Used
+[Intelligence](Stats#Intelligence) skill.
 
 ### Mundane Activities
 Some examples of things that shouldn't require a skill test would be.

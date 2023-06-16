@@ -1,7 +1,10 @@
 ## Perform
-One of the [Skills](Skills) in Aspirant. Usually performed with the [Fellowship](Stats#Fellowship) attribute.
+One of the [Skills](Skills) in Aspirant. 
 
 Pretending to be someone you are not, lying, disguise/clowning, performing a skill such as an instrument. 
+
+### Stat Used
+[Fellowship](Stats#Fellowship) skill.
 
 ### Mundane Activities
 Some examples of things that shouldn't require a skill test would be.
