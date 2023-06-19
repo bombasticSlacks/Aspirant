@@ -20,8 +20,4 @@ Group skill ratings, build list.
 
 If you have some integrity when attacked reduce the injury by 1 type.
 
-Light mode, but better
-
-
-
-
+Keyword / define stuff like "NPC"

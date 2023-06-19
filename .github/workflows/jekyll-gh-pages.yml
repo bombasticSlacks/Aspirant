@@ -28,6 +28,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      - name: add raw top
+        run: sed -i '1s/^/{% raw %}\n/' $(find ./Game -type f -name "*.md")
+      - name: add raw bottom
+        run: echo "{% endraw %}" | tee -a ./Game/**/*.md && echo "{% endraw %}" | tee -a ./Game/*.md
       - name: details early
         run: cat ./Game/Example-Weapons.md
       - name: manipulate anchors
