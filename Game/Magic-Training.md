@@ -4,7 +4,7 @@ One of the three greater [Training](Character-Development#Types%20Of%20Training)
 Characters with the skills of [Channel](Channel) or [Ritual](Ritual) and some training in magical disciplines can perform powerful feats of magic.
 
 ### Specialized Schools
-Magic is furth seperated into 8 specialized schools:
+Magic is further seperated into 8 specialized schools:
 * [Abjurer](Abjurer)
 * [Conjurer](Conjurer)
 * [Diviner](Diviner)
