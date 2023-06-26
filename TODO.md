@@ -12,10 +12,6 @@ Damage brings you back (phylactery style)
 
 Ioun stones
 
-Move armour to a trait's system.
-
-Reagent simplification - Per zone
-
 Group skill ratings, build list.
 
 If you have some integrity when attacked reduce the injury by 1 type.
