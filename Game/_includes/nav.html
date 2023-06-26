@@ -196,9 +196,25 @@
     </ul>
   </li>
   <li
-    class="nav-list-item {% if page.url == '/Services.html' %} active{% endif %}"
+    class="nav-list-item {% if page.url == '/Services.html' or page.url == '/Reagent-Uses.html' %} active{% endif %}"
   >
+    <button
+      class="nav-list-expander btn-reset"
+      aria-label="toggle items in category"
+      aria-pressed="false"
+    >
+      <svg viewBox="0 0 24 24" aria-hidden="true">
+        <use xlink:href="#svg-arrow-right"></use>
+      </svg>
+    </button>
     <a href="/Services" class="nav-list-link">Services</a>
+    <ul class="nav-list">
+      <li
+        class="nav-list-item {% if page.url == '/Reagent-Uses.html' %} active{% endif %}"
+      >
+        <a href="/Reagent-Uses" class="nav-list-link">Reagent Uses</a>
+      </li>
+    </ul>
   </li>
   <li
     class="nav-list-item {% if page.url == '/Character-Development.html' or page.url == '/Combat-Training.html' or page.url == '/Magic-Training.html' or page.url == '/Trades-Training.html' %} active{% endif %}"

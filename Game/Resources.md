@@ -11,6 +11,9 @@ Characters will need to buy a reagent needed for a ritual, alchemical compound, 
 ### Bits
 After killing a creature you can, unless it’s been annihilated, usually harvest some of what are called bits. Bits are a generalization of organs, glands, bones, and other valuables. Your character would intuitively know what parts of a creature are valuable even if you don’t yet, so monster harvests can just be logged as “wolf bits”, “golem bits”, “vampire bits”. Later, if you require the “heart of a golem” you could use a golem bit. This might end up causing oddities like a golem giving two bits and both being used as hearts; however, this should be hand waved away as splitting the heart or just not thinking about it too hard.
 
+### Flora
+The world is full of powerful and magical materials for characters to scavenge. Some even grow in the ground. When you collect flora make note of the [Region](Telling-The-Story#Regions) it was collected in as some flora from locations have special properties [Reagent-Uses](Reagent-Uses).
+
 ### Reagents Bag
 A character who does a lot of ritual magic, [Crafting](Crafting), or [Science](Science) might get exhausted trying to maintain a large collection of bits. For such a character, they should get a [Reagent Bag](Example-Gear#Reagent%20Bag).
 
@@ -22,101 +25,7 @@ Unless the task you need a reagent for is exceptionally powerful, you should try
 * [Found through play](Equipment#Looting)
 
 ## Materials
-All things are made up of basic materials. This usually isn't a major concern to the average adventurer, but a savvy tradesman will want to carefully select materials of varying qualities for their projects. Ratios are provided for materials, this is the amount that 1 size of the material would cost compared to 10 silver, or put another way, 1 size of silver.
-
-### Types Of Materials
-
-#### Leathers
-| Type                                  | Quality | Ratio       |
-| ------------------------------------- | ------- | ----------- |
-| [Leather](#Leather)                   | Basic   | $1 \over 4$ |
-| [Treated Leather](#Treated%20Leather) | Martial | $1 \over 2$ |
-| [Monster Leather](#Monster%20Leather) | Exotic  | $1$         |
-
-##### Leather
-Simple animal leathers.
-
-> Cow leather, Dear hide.
-
-##### Treated Leather
-Hardened leathers.
-
-> Boiled leather, treated with epoxy. 
-
-##### Monster Leather
-Exotic creature skins with stranger properties.
-
----
-
-#### Metals
-| Type                                  | Quality | Ratio       |
-| ------------------------------------- | ------- | ----------- |
-| [Scrap Metal](#Scrap%20Metal)         | Basic   | $1 \over 4$ |
-| [Simple Metals](#Simple%20Metals)     | Martial | $1 \over 2$ |
-| [Advanced Metals](#Advanced%20Metals) | Exotic  | $1$         |
-
-##### Scrap Metal
-Poorly sourced metal that isn't very useful for working.
-
-> Junk metal melted down, pig iron, poorly sourced metal.
-
-##### Simple Metals
-Simple unimpressive metals that are unsafe for complex work.
-
-> Refined iron, copper, brass.
-
-##### Advanced Metals
-Complex impressive metals with properties great for working with.
-
-> Steel, mithril, dwarven ingots.
-
----
-
-#### Fabrics
-| Type                                    | Quality | Ratio       |
-| --------------------------------------- | ------- | ----------- |
-| [Cloth](#Cloth)                         | Basic   | $1 \over 4$ | 
-| [Textiles](#Textiles)                   | Martial | $1 \over 2$ |
-| [Treated Textiles](#Treated%20Textiles) | Exotic  | $1$         |
-
-##### Cloth
-Basic poorly made fabrics.
-
-> Simple spotty cotton, recycled fabrics.
-
-##### Textiles
-Properly made fabric weaves.
-
-> Proper cotton, linens.
-
-##### Treated Textiles
-High quality fabrics that have then been treated with additional processes.
-
-> Linothorax, quilted weaves, silks.
-
----
-
-#### Natural Materials
-| Type                            | Quality | Ratio       |
-| ------------------------------- | ------- | ----------- |
-| [Hard Wood](#Hard%20Wood)       | Basic   | $1 \over 4$ |
-| [Treated Wood](#Treated%20Wood) | Martial | $1 \over 2$ |
-| [Exotic Wood](#Exotic%20Wood)   | Exotic  | $1$         |
-
-##### Hard Wood
-High quality wood that can be worked.
-
-> hard woods
-
-##### Treated Wood
-High quality wood that has been further treated with alchemical processes.
-
-> Varnished, epoxied.
-
-##### Exotic Wood
-Magical wood, from ancient forests.
-
-> Elven wood, spirit wood, living logs.
+All things are made up of basic materials. This usually isn't a major concern to the average adventurer, but a savvy tradesman will want to carefully select materials of varying qualities for their projects. Ratios are provided for materials, this is the amount that 1 size of the material would cost compared to 10 silver, or put another way, 1 size of silver. A [Example Materials](Example-Materials) list is provided.
 
 ### Acquiring Materials
 * Purchased [Costs Of Materials](Services#Costs%20Of%20Materials)

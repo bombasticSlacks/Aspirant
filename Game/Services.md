@@ -8,8 +8,8 @@ Aspirant is a world of tradespeople, experts with something to offer a prospecti
 | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Commissioning A guide through a known trail                               | $2$                                                                                     |
 | Commissioning A guide through a not well-known trail                      | $5$                                                                                     |
-| Commissioning Creating A [Weapon](Weapons)                                | $5 \times traits + 20 \times \frac{size}{material\ ratio}$                              | 
-| Commissioning Creating Armour                                             | $5 \times traits + \frac{30}{primarymaterialratio} + \frac{10}{secondarymaterialratio}$ |
+| Commissioning Creating A [Weapon](Weapons)                                | $5 \times traits + 20 \times size \times material\ ratio$                              | 
+| Commissioning Creating Armour                                             | $5 \times traits + 30 \times primary\ material\ ratio + 10 \times secondary\ material\ ratio$ |
 | Commissioning Creating Something Complex                                  | $10 + materials$                                                                        |
 | Commissioning Creating Something Simple                                   | $3 + materials$                                                                         |
 | Commissioning First Aid                                                   | $2$                                                                                     |
@@ -32,30 +32,31 @@ Aspirant is a world of tradespeople, experts with something to offer a prospecti
 
 ### Reagent Pricing
 
-| Reagent              | Cost (S)    | Size        |
-| -------------------- | ----------- | ----------- |
-| Crop                 | $1 \over 2$ | $1 \over 5$ |
-| Wild Flora           | $1$         | $1 \over 5$ |
-| Rare Flora           | $2$         | $1 \over 5$ |
-| Prey Bit             | $1$         | $1$         |
-| Predator Bit         | $2$         | $1$         |
-| Apex Predator Bit    | $4$         | $1$         |
-| Magical Creature Bit | $8$         | $2$         |
-| Imported             | $\times 2$  | -           |
+| Reagent                                                 | Ratio       | Cost Per Size (S) |
+| ------------------------------------------------------- | ----------- | ----------------- |
+| [Crops](Reagent-Uses#Crops)                             | $1 \over 8$ | $1$               |
+| [Wild Flora](Reagent-Uses#Wild%20Flora)                 | $1 \over 4$ | $3$               |
+| [Rare Flora](Reagent-Uses#Rare%20Flora)                 | $1 \over 2$ | $5$               |
+| [Magical Flora](Reagent-Uses#Magical%20Flora)                                             | $1$         | $10$              |
+| Prey Bit                                                | $1 \over 4$ | $3$               |
+| Predator Bit                                            | $1 \over 2$ | $5$               |
+| Apex Predator Bit                                       | $1$         | $10$              |
+| Magical Creature Bit                                    | $2$         | $20$              |
+| Imported From Other [Region](Telling-The-Story#Regions) | $\times 2$  |                   |
 
 ### Costs Of Materials
 
 | Name                      | Max Weapon Quality | Ratio        | Cost Per Size (S) |
 | ------------------------- | ------------------ | ------------ | ----------------- |
-| Cheap Wine                | -                  | $1 \over 8$  | 1.25              |
-| Expensive Wine            | -                  | $1 \over 2$  | 5                 |
-| Gold                      | Exotic             | $4$          | 40                |
-| Machinery                 | Exotic             | $3 \over 2$  | 15                |
-| Oil                       | -                  | $1 \over 4$  | 2.5               |
-| Spirits                   | -                  | $1$          | 10                |
-| Water                     | -                  | $1 \over 16$ | 0.675             |
-| Basic Crafting Material   | Basic              | $1 \over 4$  | 2.5               |
-| Martial Crafting Material | Martial            | $1 \over 2$  | 5                 |
-| Exotic Crafting Material  | Exotic             | $1$          | 10                | 
+| Cheap Wine                | -                  | $1 \over 8$  | $1$                 | 
+| Expensive Wine            | -                  | $1 \over 2$  | $5$                 |
+| Gold                      | Exotic             | $4$          | $40$                |
+| Machinery                 | Exotic             | $3 \over 2$  | $15$                |
+| Oil                       | -                  | $1 \over 4$  | $3$                 |
+| Spirits                   | -                  | $1$          | $10$                |
+| Water                     | -                  | $1 \over 16$ | $1$                 |
+| Basic Crafting Material   | Basic              | $1 \over 4$  | $3$                 |
+| Martial Crafting Material | Martial            | $1 \over 2$  | $5$                 |
+| Exotic Crafting Material  | Exotic             | $1$          | $10$                |
 
 

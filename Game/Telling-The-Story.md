@@ -30,6 +30,14 @@ During travel, characters may encounter other travellers, enemies or a point of 
 #### Ambush Encounter
 Similarly, during travel, the party may be ambushed while camping. These should be high stakes encounters that put the players in danger. Generally, danger isn't lurking around every corner and the characters should only have 1 ambush encounter per [Travel Segment](#Travel%20Segment).
 
+#### Regions
+It may be useful to split your game space into regions, this will effect what [Resources](Resources) are readily available in that area. The five general regions are:
+* Coast
+* Forest
+* Mountain
+* Plain
+* Swamp
+
 ### Influencing the Story
 Aspirant should be a shared experience. So, when you play, the [GM](How-To-Play#GM) may ask you for suggestions or to volunteer ideas such as: “what is this town known for?”, “someone give me a cool female name.”. When these are accepted by the [GM](How-To-Play#GM), you receive 1 influence which you can spend to influence the game world in any way the GM allows. When you want to influence the world:
 - You will ask the [GM](How-To-Play#GM), “Can this thing be the case?” 
