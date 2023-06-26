@@ -149,9 +149,9 @@ A collection of pins, patches, bolts and metal bits used to repair armour in the
 A patching kit has 5 uses, and replenishing a use costs 1 silver.
 
 #### Reagent Bag
-A well constructed satchel of elixirs, dried powdered items, and other small bits that can count as a replacement for other bits. When you go to craft or perform a ritual, you can substitute items from your reagent bag for any bit that costs up to 3 silver.
+A well constructed satchel of elixirs, dried powdered items, and other small bits that can count as a replacement for other bits. When you go to craft or perform a ritual, you can substitute items from your reagent bag for any [Bits](Resources#Bits).
 
-A reagent bag initially comes with 10 silver worth of abstract bits in it that can be restocked at civilization.
+A reagent bag initially comes with 15 silver worth of abstract bits in it that can be restocked at civilization.
 
 #### Simple Instrument
 A musical tool of rudimentary design. Basic instruments will be cheaper than expensive very fancy instruments and produce simpler sounds.
