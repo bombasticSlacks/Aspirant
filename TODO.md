@@ -27,3 +27,6 @@ Mana Crystal crafting off weapon smithing, needs a ritual roll
 
 Write Celestial out
 
+Make it more obvious you get a "single" training from the category with humble beginnings start.
+
+
