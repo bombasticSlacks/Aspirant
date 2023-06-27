@@ -3,8 +3,7 @@ on: push
 
 jobs:
   build:
-    name: Validate
     runs-on: ubuntu-latest
     steps:
       - name: Validate White Space
-      run: if [ ! `find . -type f -name '* *' | wc -l` -eq 0 ]; then exit 1; fi
+        run: if [ ! `find . -type f -name '* *' | wc -l` -eq 0 ]; then exit 1; fi
