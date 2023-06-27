@@ -11,7 +11,7 @@ You automatically succeed on anything you do on a roll of double 1’s.
 After the [Evening Activity](Activities#Evening%20Activity) [Socialize](Activities#Socialize), you can attempt [Medicine](Medicine), [Science](Science), [Crafting](Crafting), [Perform](Perform) skill tests with the same skill level as the person with the highest skill rank in your party who also socialized. 
 
 #### Intellectual Leap
-When you use to gain information, you can spend 1 [Power](Stats#Power) to infer another useful fact about the thing. Ask another question and the GM should answer honestly.
+When you use [Knowledge](Knowledge) to gain information, you can spend 1 [Power](Stats#Power) to infer another useful fact about the thing. Ask another question and the [GM](How-To-Play#GM) should answer honestly.
 
 #### Internal Monologue
 You receive hints and tips from the GM in the form of an internal monologue. Spend 1 [Power](Stats#Power) to receive some info from the GM.
@@ -58,4 +58,4 @@ If you succeed on a [Knowledge](Knowledge) skill test to know about an enemy ani
 ### Master
 
 #### Anthropologist
-You immediately gain any training of your choice; even if you don’t have someone to train you.
+You no longer have [Restrictions](Character-Development#Restrictions) when doing [Supervised Training](Activities#Supervised%20Training). In other words you do not need a trainer or reference to train, just time and [Total XP](Stats#Total%20XP)
