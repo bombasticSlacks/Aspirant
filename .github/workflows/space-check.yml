@@ -1,0 +1,11 @@
+name: Validate Files Action
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Validate White Space
+        run: if [ ! `find . -type f -name '* *' | wc -l` -eq 0 ]; then exit 1; fi

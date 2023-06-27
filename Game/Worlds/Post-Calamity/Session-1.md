@@ -2,7 +2,7 @@
 
 * Setting out, [Simple-Joe](Simple-Joe), [Alexander-Aurelius](Alexander-Aurelius), [Greg-Colter](Greg-Colter) all decide to depart from [Crosshaven](Crosshaven) on their way to [Snowcrest](Snowcrest). Planning to meet [Akren](Akren) somewhere on the way.
 * [Crosshaven](Crosshaven) has a medium size noble cast, [Alexander-Aurelius](Alexander-Aurelius) isn't the ruling family
-* [Argent Hold](Argent%20Hold) militant city
+* [Argent-Hold](Argent-Hold) militant city
 * Story starts with [Alexander-Aurelius](Alexander-Aurelius) trying to find [Greg-Colter](Greg-Colter), meet in the stables.
 * Bumped into [Simple-Joe](Simple-Joe) at the gate
 * The [Grand Cross Bar](Crosshaven#Grand%20Cross%20Bar) that adventurers stay at
