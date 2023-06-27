@@ -17,7 +17,7 @@
 * [Session-1](Session-1)
 
 ### Settlements
-* [Argent Hold](Argent%20Hold)
+* [Argent-Hold](Argent-Hold)
 * [Crosshaven](Crosshaven)
 * [Snowcrest](Snowcrest)
 * [Wayside](Wayside)
