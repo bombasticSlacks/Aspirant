@@ -17,3 +17,13 @@ Group skill ratings, build list.
 If you have some integrity when attacked reduce the injury by 1 type.
 
 Keyword / define stuff like "NPC"
+
+Basic Crafting Rules
+Crafting Training
+
+Simplify the character sheet bits, no drop downs for armour and weapons.
+
+Mana Crystal crafting off weapon smithing, needs a ritual roll
+
+Write Celestial out
+

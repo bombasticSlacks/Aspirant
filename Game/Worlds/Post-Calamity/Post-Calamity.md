@@ -5,12 +5,24 @@
 * [Dillon Matchett](https://github.com/bombasticSlacks)
 
 ### Players
-* Jeff
-* Jon
-* Mack
-* Matt
-* Stanton
-* Zach
+* [Akren](Akren)
+* [Alexander-Aurelius](Alexander-Aurelius)
+* [Arturas-Gabrys](Arturas-Gabrys)
+* [Greg-Colter](Greg-Colter)
+* [Simple-Joe](Simple-Joe)
+* [Vespin-Aevaris](Vespin-Aevaris)
 
 ### Sessions
 * [Session-0](Session-0)
+* [Session-1](Session-1)
+
+### Settlements
+* [Argent Hold](Argent%20Hold)
+* [Crosshaven](Crosshaven)
+* [Snowcrest](Snowcrest)
+* [Wayside](Wayside)
+
+### Pages of Interest
+* [Crafting-Recipes](Crafting-Recipes)
+* [Hooks](Hooks)
+* [Monsters](Monsters)
