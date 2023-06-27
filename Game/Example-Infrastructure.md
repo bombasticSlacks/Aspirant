@@ -23,7 +23,7 @@ A way to move large ammounts of items and people around the countryside with eas
 
 The benefit of traveling with a cart is that it: 
 * Holds 60 size worth of items with people counting as 10 size.
-* Any person not driving gets a [Downtime Activity](Activities#Downtime%20Activity) every day of travel.
+* Any person not driving gets a [Downtime Activity](Activities#Downtime%20Activity) every [Travel Segment](Telling-The-Story#Travel%20Segment).
 * Moves at the same rate as traveling by horse.
 
 A cart can further be upgraded:
