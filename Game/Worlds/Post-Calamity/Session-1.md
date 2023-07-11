@@ -16,7 +16,7 @@
 * [Jerald](Crosshaven#Jerald), butler of the house.
 
 
-## Segment 1 Spring 1 -
+## Segment 1 Spring 1 - Spring 5
 * Arturas and Vespin socialized
 * Simple and Greg Socialize
 * Arturas + Vespin doing Half Work to make flash bombs
