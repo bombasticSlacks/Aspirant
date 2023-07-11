@@ -12,15 +12,15 @@
 * 10 people lost and starved behind a collapse, (these became The Hungry + The Full)
 * Simple Joe did surgery on Jameson successfuly.
 * [Alexander-Aurelius](Alexander-Aurelius) and co went to get supplies and talk to [Tellian](#Tellian)
-* Month since injuries
-* 2 weeks since the damage
-* [Tellian](#Tellian) mentioned an underground civilization
+* Month since cave in that killed the miners.
+* 2 weeks since the harm started and the section was cleared.
+* [Tellian](#Tellian) mentioned an underground civilization.
 * Nurse has a weird sorting system of codes for medicine.
 * [Vespin-Aevaris](Vespin-Aevaris) got 1 size of *necrotic flesh bits* from surgery
 * 2 [Dungeoneering Kit](../../Example-Gear#Dungeoneering%20Kit) + Excavation Tool Set + [Light Kit](../../Example-Gear#Light%20Kit) need to return all but the light kit.
 * [Simple-Joe](Simple-Joe) was given 8 silver for performing surgery
-* 15 minutes into the mine,
-* ambushed by the remains of the miners [The Full](Monsters#The%20Full), and 9 of [The Hungry](Monsters#The%20Hungry)
+* 15 minutes into the mine traveling and getting tired. 
+* ambushed by the remains of the miners: [The Full](Monsters#The%20Full), and 9 of [The Hungry](Monsters#The%20Hungry) in the clearing where the attack took place.
 * [Arturas-Gabrys](Arturas-Gabrys) destroyed [The Full](Monsters#The%20Full) lobbing off its head
 * The full provided an Apex Predator Bit
 
