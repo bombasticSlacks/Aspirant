@@ -10,19 +10,39 @@ Skills range in value from 0-3
 ### Types Of Skill Tests
 
 Skill tests come in a few various types.
+#### Fixed Difficulty
+A standard skill test, will have a negative assigned, and it will be either pass or fail.
+
 #### Variable Difficulty
-This is a test where you will receive more information or success based on how well you do. 
+This is a test where you will receive more information or success based on how well you do. Variable difficulty skill tests care about your [Step Of Success](#Step%20Of%20Success)
 
 > An example is a [Knowledge](Knowledge) test to know about a historical event; passing may constitute knowing the name and factions involved, whereas getting a 14+ might provide you with a full retelling. 
 
 #### Step Of Success
 When talking about variable difficulties, rules may reference step of success. A step is 1 additional on your dice roll, 4 steps of success is a “14”. 
 
-#### Fixed Difficulty
-A standard skill test, will have a negative assigned, and it will be either pass or fail.
-
 #### Opposed Difficulty
-A standard skill test, however since the skill test is directed at a certain thing it will influence the difficulty. An example would be trying to sneak past someone, which is opposed by their ranks in [Perception](Perception), meaning the test is at an additional negative equal to their skill ranks.
+A standard skill test, however since the skill test is directed at a certain thing it will influence the difficulty. An example would be trying to sneak past someone, which is opposed by their ranks in [Perception](Perception), meaning the test is at an additional negative equal to their skill ranks. Only [Bosses](Running-The-Game#Bosses) can make non-combat opposed difficulty skill tests. 
+
+#### Project
+Sometimes a character will begin working on something early in a session or scene that may not reasonably resolve until the end of the scene or further into the session. This could be because the character lacks all the information, tools, or materials they need to complete the current action, but before trying to pursue the idea want to make sure it is possible. Short-term situations like this should be considered "projects". If something does not have a large bearing on the story and could easily be resolved immediately with a single skill test, it would better be considered a [Variable Difficulty](#Variable%20Difficulty) skill test.
+
+> Examples of projects would be, sweet-talking a guard captain into letting you have their troops, powering a device to destroy a magic barrier, coordinating the plan of attack for a massive battle, identifying a creature you are hunting. Treating a king who has come down with a mystery illness.
+
+A project is a [Variable Difficulty](#Variable%20Difficulty) skill test:
+* If you fail, your character isn't capable of attempting the project, whether it be you lack the knowledge, items, or the process eludes you. Potentially, in the future, you could receive aid of some kind to allow you to attempt the project again.
+* If you succeed, your character marks their [Step Of Success](#Step%20Of%20Success) against a number of required [Step Of Success](#Step%20Of%20Success) set by the [GM](How-To-Play#GM).
+
+The initial success should provide the player with some information, direction or confirmation to [The Players](How-To-Play#The%20Players) are on the right track. Then as the [Scene](Telling-The-Story#Scene) progresses, you can take further action to gain additional steps towards success, these should not directly require a skill test (but obtaining the progress may require other skill tests). Any beneficial project action should give at least 1 [Step Of Success](#Step%20Of%20Success) and may give up to 3. They also potentially should again give the players further information, direction or confirmation towards their final goal.
+
+If the number of [Step Of Success](#Step%20Of%20Success) is met, and [The Players](How-To-Play#The%20Players) and [GM](How-To-Play#GM) both agree that it is time for the project to be completed, there is no additional skill test required, after all the initial work, the project will succeed.
+
+Even if you roll all of the required [Step Of Success](#Step%20Of%20Success) on the original skill test, **all projects require at least one additional step to be completed**.
+
+> As an example, say a hunter is trying to identify the creature that has been slaughtering farmers cows. He has [Knowledge](Knowledge) and [Knowledgeable Cryptozoologist](Chronicler#Knowledgeable%20Cryptozoologist), so he is capable of knowing of the creature, though he doesn't have many clues to go on yet. After witnessing the injuries on the cows, he makes his [Project](#Project) skill test rolling [Knowledge](Knowledge) to see if he knows of the creature and succeeds with 3 steps of success. The hunter has a list of creatures it could be based on the attack but can't narrow it down, the GM assigns a requirement of 4 [Step Of Success](#Step%20Of%20Success) to complete the project. The hunter will need one more clue to receive the details of the creature.
+> He decides to go into town to ask about strange occurrences.
+> After some additional narrative time, the hunter discovers that the creature had avoided a woman wearing a lot of silver jewellery, this gives him his final step of success and the player and GM agree that it is reasonable for the project to then be completed. 
+> As a reward for completion the GM provides the hunter with the information that it is a Werewolf and the abilities and attributes of the creature.
 
 #### Aid and Hindrance
 When multiple characters are all attempting to perform the same task together, instead of each rolling separately, the most skilled of the group rolls and receives a +1 for each person who is skilled and aiding them. Similarly, they receive a -1 for each person who isn’t trained and is part of the activity. 
