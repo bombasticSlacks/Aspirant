@@ -7,6 +7,9 @@ Combat is the most rigorously kept time in Aspirant; as it is when you are most 
 ### Narrative Time
 Narrative time in aspirant involves characters in a place of interest doing activities, exploring, and progressing the story directly. The passage of narrative time can be a bit more ambiguous compared with combat. There aren’t rules for narrative time, this is when characters will be directing the focus and the story themselves.
 
+#### Scene
+A scene refers to the current moment of action / intrigue playing out. Scenes don't have a defined length or strict rules but it is a useful way of talking about narrative play.
+
 ### Resting
 Resting is fast forwarded downtime your characters will sometimes have. This tends to happen when you arrive in a safe area. Each day, in a safe area, your character may perform 1 [Downtime Activities](#Downtime%20Activity). Unless you are receiving charity, your food, and housing costs 1 silver per day. If you cannot afford this, you do not get to do activities. On the last day of resting before departure, everyone in the party also gets to perform an [Evening Activity](#Evening%20Activity).
 
