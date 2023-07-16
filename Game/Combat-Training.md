@@ -8,11 +8,11 @@ has_children: true
 ## Combat Training
 One of the three greater [Training](Character-Development#Types%20Of%20Training) disciplines.
 
-Combat is a notable part of any adventurers life. 
+Combat is a notable part of any adventurers' life. 
 #TODOcopy
 
 ### Specialized Schools
-Combat is furth seperated into 8 specialized schools:
+Combat is further separated into 8 specialized schools:
 * [Bastion](Bastion)
 * [Berserker](Berserker)
 * [Duelist](Duelist)
