@@ -4,13 +4,13 @@ One of the 8 [Trades Training](Trades-Training) disciplines.
 
 ### Basic
 #### Autodoc
-You can perform invasive surgery on yourself and ignore your own injuries when performing [Medicine](Medicine) skill tests on yourself.
+You can perform invasive [Surgeon](#Surgeon) work on yourself and ignore your own injuries when performing [Medicine](Medicine) skill tests on yourself.
 
 #### Bedside Manner
 You receive a +2 on all social interactions with people you have treated since last downtime, and a +1 on all medical tests with people that like you.
 
 #### Doctors Eye
-You can always tell how injured a person is (and where). It takes much less time for you to diagnose an illness or unknown condition.
+You can always tell how injured a person is (and where). When starting a [Medicine](Medicine) [Project](Skills#Project) you always succeed with at least 1 [Step Of Success](Skills#Step%20Of%20Success).
 
 #### On Ice
 You have twice as long to perform medical skill tests on characters before it becomes impossible.
@@ -24,14 +24,14 @@ At the beginning of any combat encounter, you can name a character who you think
 #### Sword Surgeon
 When making skill tests with a [Rending](Combat#Rending) weapon, you may substitute your [Medicine](Medicine) skill for melee skill.
 
+#### Long Term Care
+As an [Evening Activity](Activities#Evening%20Activity) you can attempt to manage your allies injuries further. This is a [Medicine](Medicine) test which receives a +2 if you have access to a full medical facility. If you succeed on this test any allies ignore their injury penalties until the next [Travel Segment](Telling-The-Story#Travel%20Segment).
+
 ---
 ### Advanced
 
 #### Do No Harm
 You receive a +1 to all non-combat skill tests, however to directly harm another thing, you need to first roll a [Resolve](Stats#Resolve) test.
-
-#### Long Term Care
-As an [Evening Activity](Activities#Evening%20Activity) you can attempt to manage your allies injuries further. This is a [Medicine](Medicine) test which receives a +2 if you have access to a full medical facility. If you succeed on this test any allies ignore their injury penalties until the next [Travel Segment](Telling-The-Story#Travel%20Segment).
 
 #### Surgeon
 You may perform surgery on someone who has suffered lasting injuries to treat them. Surgery at a minimum requires a flat surface and [Surgeons Tool Set](Example-Gear#Surgeons%20Tool%20Set). However you receive a 
