@@ -38,13 +38,13 @@ When [Travelling](Telling-The-Story#Travelling) and your GM rolls to see if you 
 When you roll for damage, roll 2 dice and take the higher roll.
 
 #### Field Dressing
-When collecting bits from creatures, you may collect one additional.
+When collecting bits from creatures after an encounter, you may collect one additional from any monster you choose.
 
 #### Interrogator
 If you have someone detained for any meaningful amount of time, they can hide nothing from you.
 
 #### Peacekeeper
-Your minor injuries cause opponents to become injured.
+Your inflicted [Minimal Injury](Injury#Minimal%20Injury) cause opponents to become [Wounded](Injury#Being%20Wounded).
 
 #### Ambusher
 If you are shadowing or otherwise not the centre of attention as a combat starts, you get an additional free turn before initiative starts.
