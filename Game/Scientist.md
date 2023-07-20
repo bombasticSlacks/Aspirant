@@ -6,8 +6,15 @@ One of the 8 [Trades Training](Trades-Training) disciplines.
 #### Macguffin
 You know just the thing to solve this problem. It might take time to find or build, but once per session you know just the thing to resolve an issue and the answer will be relatively on hand.
 
+Start a [Project](Skills#Project) with a number of steps required by the GM, this project doesn't require an initial skill test to work towards a solution to the problem.
+
+#### Problem Solver
+You recieve a +2 to all skill tests to start a [Project](Skills#Project)
+
 #### Apophenia
 Spend a [Power](Stats#Power), you can declare your far-fetched theory about what is really going on. Rolls you make which help confirm or refute your theory receive +1.
+
+Your far fetched theory can help progress [Projects](Skills#Project) only tangentially related.
 
 #### Artificer
 #TODOcopy 
