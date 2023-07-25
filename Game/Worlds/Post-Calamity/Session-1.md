@@ -1,6 +1,7 @@
 ## Session 1
 [Post-Calamity](Post-Calamity)
 
+## Segment 1 Spring 1 - Spring 5
 * Setting out, [Simple-Joe](Simple-Joe), [Alexander-Aurelius](Alexander-Aurelius), [Greg-Colter](Greg-Colter) all decide to depart from [Crosshaven](Crosshaven) on their way to [Snowcrest](Snowcrest). Planning to meet [Akren](Akren) somewhere on the way.
 * [Crosshaven](Crosshaven) has a medium size noble cast, [Alexander-Aurelius](Alexander-Aurelius) isn't the ruling family
 * [Argent-Hold](Argent-Hold) militant city
@@ -15,16 +16,12 @@
 * [Brindle](Crosshaven#Brindle) the barkeep, beast woman and sister run the Grand Cross.
 * [Simple-Joe](Simple-Joe) gave the others promisarry notes from the Lady.
 * [Jerald](Crosshaven#Jerald), butler of the house.
-
-
-## Segment 1 Spring 1 - Spring 5
 * Arturas and Vespin socialized
 * Simple and Greg Socialize
 * Arturas + Vespin doing Half Work to make flash bombs
 * Alexander on watch
-
-Were attacked by a [Bilwis](Monsters#Bilwis) while crossing a cursed field.
-Made it to [Wayside](Wayside)
+* Were attacked by a [Bilwis](Monsters#Bilwis) while crossing a cursed field.
+* Made it to [Wayside](Wayside)
 
 ### To Do
 * Resolve crafting bombs,
