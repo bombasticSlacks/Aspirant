@@ -144,7 +144,7 @@ The tools in this kit provide a total of 12 hours of uninterrupted light, whethe
 2 Hours of light can be replenished for 1 silver.
 
 #### Patching Kit
-A collection of pins, patches, bolts and metal bits used to repair armour in the field. Given 10 minutes, you can repair 2 overall integrity on a suit of armour.
+A collection of pins, patches, bolts and metal bits used to repair armour in the field. Given 5 minutes, you can repair 1 integrity on a suit of armour.
 
 A patching kit has 5 uses, and replenishing a use costs 1 silver.
 

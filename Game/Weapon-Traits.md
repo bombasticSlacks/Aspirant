@@ -6,6 +6,7 @@
 | [Black Powder](#Black%20Powder)                     | 1    |
 | [Crossbow](#Crossbow)                               | 1    |
 | [Deadly Draw](#Deadly%20Draw)                       | 1    |
+| [Disguised](#Disguised)                             | 1    | 
 | [Ensnaring](#Ensnaring)                             | 1    |
 | [Fast Reloading](#Fast%20Reloading)                 | 1    |
 | [Hand and a Half](#Hand%20and%20a%20Half)           | 1    |
@@ -42,14 +43,17 @@ Your weapon fires bolts of metal. It no longer can be used as a melee weapon and
 #### Deadly Draw
 This weapon is penetrative for your first attack in any combat.
 
+#### Disguised
+This does not appear to be a weapon but has -1 [Damage Bonus](Weapons#Damage%20Bonus).
+
 #### Ensnaring
 This weapon deals -2 damage, on [Non-mitigated Attack](Combat#Non-mitigated%20Attack) it causes the enemy to be [Grappled](Combat#Grapple). You need to maintain hold of the ensnaring weapon to maintain the [Grapple](Combat#Grapple).
 
 #### Fast Reloading
-If your weapon requires ammo, it can be reloaded in half the time. Reloads that normally take an action are instead free and any skill tests performed that turn are at a -2.
+If your weapon requires ammo, it can be reloaded in half the time. Reloads that normally take an action are instead free, and any skill tests performed that turn are at a -2.
 
 #### Hand and a Half
-If this weapon is otherwise usable in one hand, the weapon counts as 1 size larger while wielded in two hands. The weapon recieves one additional trait that only applies when used in two hands.
+If this weapon is otherwise usable in one hand, the weapon counts as 1 size larger while wielded in two hands. The weapon receives one additional trait that only applies when used in two hands.
 
 #### Inscribed
 This weapon counts as a Focus for [Channel](Channel) skill tests.    
@@ -68,8 +72,9 @@ If your weapon requires ammo, it can hold 3 additional readied shots.
 
 #### On Line
 This weapon cannot be used to perform [Reactions](Combat#Reacting%20to%20Attacks), you can make melee skill tests with this weapon at a range of 6m.
+
 #### Reach
-A weapon with the reach trait can be used to perform melee attacks up to 2m away and doing so doesn’t put you in melee combat with the target.
+A weapon with the reach trait can be used to perform melee attacks up to 2m away, and doing so doesn’t put you in melee combat with the target.
 
 #### Shield
 This weapon can no longer be used for attacks. Instead, it provides a +2 to defensive skill tests using it.
@@ -78,13 +83,13 @@ This weapon can no longer be used for attacks. Instead, it provides a +2 to defe
 This weapon aids with throwing things long distances. A size 1 or 2 sling doubles your thrown range, size 3 or 4 triples it, and a size 5 sling quadruples your thrown range. If you load and launch a sling in the same turn, your skill test to attack is at a -1.
 
 #### Throwable
-This weapon is balanced for throwing, you receive no penalties to throwing it.  
+This weapon is balanced for throwing, you receive no penalties for throwing it.  
 
 
 ### 2 Cost Traits
 
 #### Folding
-This weapon counts as two separate sizes. When stored, it is considered the smaller size. As an action, you may change which size it counts as, or at the end of any attack action you can change the size. Aside from Folding the weapon can count as having seperate traits in each form.
+This weapon counts as two separate sizes. When stored, it is considered the smaller size. As an action, you may change which size it counts as, or at the end of any attack action you can change the size. Aside from folding the weapon can count as having separate traits in each form.
 
 #### Overweight
 This weapon has -1 to skill tests made with it and does +3 damage. 
