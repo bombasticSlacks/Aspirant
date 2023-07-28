@@ -4,7 +4,7 @@
 | --------------- | ---------------- | -------------- | -------------------------------------------- |
 | Minimal Injury  | If Fail Strength | No             | No                                           |
 | Severe Injury   | If Fail Strength | Yes            | No                                           |
-| Critical Injury | Yes              | Yes            | Guaranteed In Head, Chance In Body (Heroism) |
+| Critical Injury | Yes              | Yes            | Guaranteed In Head, Chance In Body [Composure](Composure) skill test |
 | Lethal Injury   | Death            | Yes            | Always                                       |
 
 Humans don’t have hit points. A character's armour takes the role of their safety net to injury, once it is gone when attacked and harmed you suffer injuries. Whenever something is injured the injury can be of the magnitude of: None (N), Mimal Injury (M), Severe Injury (S), Critical Injury (C), Lethal Injury (L).
@@ -42,7 +42,7 @@ A person will die of blood loss if they don’t receive first aid or stabilizati
 Assuming you have been put out, burns will not immediately kill you but are a risk for later.
 
 ### Being on Fire
-If you are caught on fire you are in immediate risk of severe complications. On each of your turns, unless you are in the middle of “stop drop and roll”, you must make a fear test (resolve + heroism bonuses) to not panic. You receive a +4 to this test if you are going to “stop drop and roll” during your turn. If you fail this test you flail around wildly, if you pass you take your combat turn normally.
+If you are caught on fire you are in immediate risk of severe complications. On each of your turns, unless you are in the middle of “stop drop and roll”, you must make a [Composure](Composure) [Fixed Difficulty](Skills#Fixed%20Difficulty) skill test to not panic. You receive a +4 to this test if you are going to “stop drop and roll” during your turn. If you fail this test you flail around wildly, if you pass you take your combat turn normally.
 
 After 2 turns (10 seconds) of being on fire you take an immediate severe injury to the body part that’s on fire and another fire starts on an adjacent body part. After 4 turns (20 seconds) you take a critical injury to the original body part that’s on fire and the fire spreads to your entire body. After 6 turns (30 seconds) on fire you take a critical injury to the chest on each of your turns until either dead or no longer on fire.
 
@@ -50,7 +50,7 @@ After 2 turns (10 seconds) of being on fire you take an immediate severe injury 
 Make a [Fitness](Fitness), [Acrobatics](Acrobatics), or [Science](Science) test at a -3 if you succeed you are no longer on fire. For each consecutive turn you stop, drop and roll this test is at a +1. It is important to note some forms of militarized fire are sticky and impossible to put out without help or tools.
 
 ### Being Wounded
-If your character is injured, they only have so long before they pass out/collapse. In general on each combat turn you are wounded after you have performed your action you make a resolve + heroism test to see if you can continue to fight at a reasonable level (the use of medication and stabilization can cause you to ignore this). If you fail this test you fall unconscious. For every severe injury after the first add a -1 to the test for every critical injury add -2 to the test.
+If your character is injured, they only have so long before they pass out/collapse. In general on each combat turn you are wounded after you have performed your action you make a [Composure](Composure) [Fixed Difficulty](Skills#Fixed%20Difficulty) skill test to see if you can continue to fight at a reasonable level (the use of medication and stabilization can cause you to ignore this). If you fail this test you fall unconscious. For every severe injury after the first add a -1 to the test for every critical injury add -2 to the test.
 
 ### Lingering Pain
 After someone is Wounded, whether they pass out or stay conscious they will suffer long term effects. Once the combat ends you will take negatives to any skill tests. Critical injuries give a -3 to all tests and Severe injuries give a -2 to all tests. This lasts until your characters gets to [rest](Telling-The-Story#Resting).
