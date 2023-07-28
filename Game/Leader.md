@@ -43,4 +43,4 @@ Spend 3 [Power](Stats#Power), you may as a free action cause one of your allies 
 Your character is partially controlled by another force, which helps you out with multitasking. You have an additional reaction you can use to avoid attacks or anything else a reaction is used for. As well, if you are stunned or knocked unconscious, you may opt to continue fighting or acting with the spirit controlling your body. You count as having 2 in each attribute and 1 in each skill while the force is in control or performing a reaction.
 
 #### Unending Fury
-You and your followers never collapse from injuries, they will fight until dead. Other allies get a +2 to heroism.
+You and your followers never collapse from injuries, they will fight until dead. Other allies get a +2 to [Composure](Composure) skill tests.

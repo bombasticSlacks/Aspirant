@@ -63,16 +63,6 @@ Your [Agility](Stats#Agility) + [Intelligence](Stats#Intelligence). Used to dete
 #### Threat
 The size of your largest weapon. Used to determine who unintelligent monsters target at random.
 
-#### Heroism
-Determined by your total XP. Used to survive attacks, show bravery, etc.
-
-|XP|Bonuses|
-|---|---|
-|0-9|Heroism +0|
-|10-19|Heroism +1|
-|20-29|Heroism +2|
-|30+|Heroism +3|
-
 #### Max Toxicity
 Your characters can only handle a certain amount of foreign material in your body before becoming ill.
 

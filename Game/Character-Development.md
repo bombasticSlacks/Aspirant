@@ -1,7 +1,18 @@
 ## Character Development
-As you adventure, your character will become stronger. This can happen in a number of ways. When completing quests, you will gain XP. XP in this game stands for “Experience Potential”. During downtime, you can convert XP into character development, whether it be increased skills or new training. Remember as you gain XP your [heroism](Stats#Heroism) also increases.
+As you adventure, your character will become stronger. This can happen in a number of ways. When completing quests, you will gain XP. XP in this game stands for “Experience Potential”. During downtime, you can convert XP into character development, whether it be increased skills or new training.
 
 When you rest, based on the length of the rest, you will have time which could be spent training. Spending XP to train is either a [downtime activity](Activities#Downtime%20Activity) or [evening activity](Activities#Evening%20Activity).
+
+### Progression
+As your characters gain [Total XP](Stats#Total%20XP) you gain additional benefits beyond your [Training](#Training).
+
+| [Total XP](Stats#Total%20XP) | Reward                                                                                                           |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| 10                           | Increase a [Skill](Skills) by 1 rank                                                                             |
+| 15                           | Increase an [Attribute](Stats#Attributes) by 1                                                                    |
+| 20                           | Increase a [Skill](Skills) by 1 rank                                                                             |
+| 25                           | Increase your [Power](Stats#Power), [Max Toxicity](Stats#Max%20Toxicity), or [Initiative](Stats#Initiative) by 1 | 
+| 30                           | Increase a [Skill](Skills) by 1 rank                                                                             |
 
 ### Costs
 Different trainings cost a different amount of XP as follows:
