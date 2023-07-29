@@ -36,7 +36,7 @@ Your characters are guaranteed to begin play with:
 * 10 storage [Saddlebag](Storage#Saddlebag).
 * [Camping Gear](Example-Gear#Camping%20Gear).
 * Size 1, 2, or 3 [Basic](Weapons#Basic) Weapon.
-* Set of [Simple Clothes](Example-Gear#Simple%20Clothes) covering your entire body.
+* Set of [Clothing](Example-Gear#Clothing) covering your entire body.
 * A wild horse [Mount](Mounts) with 1 mobility, 1 toughness, 1 combat.
 * $Silver = 50 + 10 * Total\ XP$
 

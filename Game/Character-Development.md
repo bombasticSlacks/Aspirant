@@ -8,10 +8,10 @@ As your characters gain [Total XP](Stats#Total%20XP) you gain additional benefit
 
 | [Total XP](Stats#Total%20XP) | Reward                                                                                                           |
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 10                           | Increase a [Skill](Skills) by 1 rank                                                                             |
-| 15                           | Increase an [Attribute](Stats#Attributes) by 1                                                                    |
+| 10                           | Increase a [Skill](Skills) by 1 rank (but not to rank 3)                                                         |
+| 15                           | Increase your [Power](Stats#Power), [Max Toxicity](Stats#Max%20Toxicity), or [Initiative](Stats#Initiative) by 1 |
 | 20                           | Increase a [Skill](Skills) by 1 rank                                                                             |
-| 25                           | Increase your [Power](Stats#Power), [Max Toxicity](Stats#Max%20Toxicity), or [Initiative](Stats#Initiative) by 1 | 
+| 25                           | Increase an [Attribute](Stats#Attributes) by 1                                                                   | 
 | 30                           | Increase a [Skill](Skills) by 1 rank                                                                             |
 
 ### Costs
