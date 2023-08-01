@@ -27,7 +27,7 @@ You can put 6 ranks into skills of your choice, no skill may go above rank 2.
 All characters begin play with 2 basic [Training](Character-Development#Training) of their choice.
 
 ### Purchase Progression
-At this point, you can spend as much of your remaining XP as you would like to. Each training / skill you take does require spending money: [Costs Of Services](Services#Costs%20Of%20Services). Your character can also decide to start with [Cultural-Mutations](Cultural-Mutations).
+At this point, you can spend as much of your remaining XP as you would like to. Each training / skill you take does not require spending money, the assumption being you already would have spent it: [Costs Of Services](Services#Costs%20Of%20Services). Your character can also decide to start with [Cultural-Mutations](Cultural-Mutations).
 
 ### Purchase Any Gear And Work
 Your characters are guaranteed to begin play with:
@@ -40,13 +40,15 @@ Your characters are guaranteed to begin play with:
 * A wild horse [Mount](Mounts) with 1 mobility, 1 toughness, 1 combat.
 * $Silver = 50 + 10 * Total\ XP$
 
-You may now, with any remaining money, purchase any equipment your character desires. All equipment should be purchased at full price as though it were commissioned. If you wish to upgrade a piece of gear you were given for free you only need to pay the difference in comissioning.
+You may now, with any remaining money, purchase any equipment your character desires. All equipment should be purchased at full price as though it were commissioned. If you wish to upgrade a piece of gear you were given for free, you only need to pay the difference in commissioning.
 
-You also at any point during purchasing get 5 [Downtime Activities](Activities#Downtime%20Activity) with which you can either make money, craft equipment, or do something else relevant. They don't need to all be done at once. 
+You also, at any point during purchasing get 5 [Downtime Activities](Activities#Downtime%20Activity) with which you can either make money, craft equipment, or do something else relevant. They don't need to all be done at once. 
 > So you could craft an item you then buy some stuff to upgrade.
 
 ### Finalize Your Character
 Finally calculate your character other [Additional Attributes](Stats#Additional%20Attributes) and make note of your items and abilities.
+
+If you have any unspent XP you start with an additional $5 \times unspent\ XP$ silver
 
 
 

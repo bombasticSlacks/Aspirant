@@ -15,3 +15,10 @@ Your GM should discuss with your party to determine what sort of characters you 
 
 
 Optionally, characters may also begin with one (or more) [Cultural-Mutations](Cultural-Mutations) which can further effect starting XP.
+
+### Example Characters
+A few [Classes](Classes) character of 10XP are provided for [The Players](How-To-Play#The%20Players) and [GM](How-To-Play#GM) to use or reference.
+
+* [Tesson-Ravenmark](Example-Characters/Tesson-Ravenmark) a [Barbarian](Classes#Barbarian) [Fortune Teller](Classes#Fortune%20Teller).
+* [Della](Example-Characters/Della) a [Conjurer](Classes#Conjurer) [Tactician](Classes#Tactician)
+* 

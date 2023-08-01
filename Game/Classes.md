@@ -59,7 +59,9 @@ The basis of your character, the skills and tools that help you when adventuring
 * A Great Axe [[Example-Weapons]]
 * Leather Chest Piece [Example-Armour](Example-Armour) 
 * [Explorers Kit](Example-Gear#Explorers%20Kit) 
-* 10 Silver
+* 15 Silver
+
+---
 
 #### Fighter
 *Someone trained in defence and controlling their opponents*
@@ -100,9 +102,13 @@ The basis of your character, the skills and tools that help you when adventuring
 * Shield [Example-Weapons](Example-Weapons)
 * Leather Chest Piece [Example-Armour](Example-Armour)
 * [Explorers Kit](Example-Gear#Explorers%20Kit) 
-* 5 Silver
+* 10 Silver
 
-#### Sorcerer
+---
+
+#### Elementalist
+> This class can be used for any channelling form by swapping the amateur and expert evocation trainings.
+
 *Someone trained in channelling the magic all around them to do wonderful and powerful things*
 
 ##### Recommended Stats
@@ -143,8 +149,12 @@ The basis of your character, the skills and tools that help you when adventuring
 * Leather chest piece [Example-Armour](Example-Armour)
 * 15 Silver
 
-#### Wizard
-*Someone trained in performing powerful rituals to modify the world*
+---
+
+#### Conjurer
+> This class can be used for any ritual form by swapping the amateur and expert conjurer trainings.
+
+*Someone trained in performing powerful summoning rituals*
 
 ##### Recommended Stats
 * [Strength](Stats#Strength) of 2
@@ -169,20 +179,22 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Perception](Perception)     | 2     |
 | [Science](Science)           |       |
 | [Composure](Composure)       |       |
-| [Channel](Channel)           | 2     |
-| [Ritual](Ritual)             |       |
+| [Channel](Channel)           |       |
+| [Ritual](Ritual)             | 2     | 
 
 ##### Training ( 2 Basic, 1 Advanced )
 * [Attuned](Magic-Training#Attuned)
-* [Amateur Evocation](Evoker#Amateur%20Evocation)
-* [Expert Evocation](Evoker#Expert%20Evocation)
+* [Amateur Conjuration](Conjurer#Amateur%20Conjuration)
+* [Expert Conjuration](Conjurer#Expert%20Conjuration)
 
 ##### Gear (100 Silver)
-* [Focus](Example-Gear#Focus)
-* 10 [Crystallized Magic](Example-Gear#Crystallized%20Magic)
+* [Spell Book](Example-Gear#Spell%20Book)
+* [Reagent Bag](Example-Gear#Reagent%20Bag)
 * [Explorers Kit](Example-Gear#Explorers%20Kit) 
 * Leather chest piece [Example-Armour](Example-Armour)
-* 15 Silver
+* 10 Silver
+
+---
 
 ### Hobby
 Your character's additional interest, things they do in their spare time.
@@ -201,6 +213,8 @@ Your character's additional interest, things they do in their spare time.
 * [Trauma Kit](Example-Gear#Trauma%20Kit) (30 silver)
 * 2 [Healing Potion](Example-Comestibles#Healing%20Potion)
 
+---
+
 #### Fortune Teller
 *You've a small amount of experience with divining the fates*
 
@@ -215,6 +229,8 @@ Your character's additional interest, things they do in their spare time.
 ##### Additional Gear (50 Silver)
 * [Spell Book](Example-Gear#Spell%20Book)
 * [Reagent Bag](Example-Gear#Reagent%20Bag)
+
+---
 
 #### Brawler
 *You seem to always be getting thrown out of bars*
@@ -232,6 +248,8 @@ Your character's additional interest, things they do in their spare time.
 * Hammered Iron Gloves [Example-Armour](Example-Armour)
 * 15 silver
 
+---
+
 #### Duelist
 *Your upbringing included learning to spar*
 
@@ -246,6 +264,8 @@ Your character's additional interest, things they do in their spare time.
 ##### Additional Gear (50 Silver)
 * Machete [Example-Weapons](Example-Weapons)
 * Hammered Metal Helmet [Example-Armour](Example-Armour)
+
+---
 
 #### Traveller
 *You pride yourself on the knowledge you've amassed travelling*
@@ -263,3 +283,39 @@ Your character's additional interest, things they do in their spare time.
 * 1 size of gold (40 silver)
 * 5 silver pieces
 
+---
+
+#### Tactician
+*You know how to command those around you, and direct them in battle*
+
+##### Additional Skills (2 Ranks)
+> depending on what you are controlling, you could take husbandry instead
+
+* Add two ranks to [Converse](Converse)
+
+##### Additional Trainings (2 Basic)
+* [With Me](Leader#With%20Me)
+* [Lookout Sir](Leader#Lookout%20Sir)
+
+##### Additional Gear (50 Silver)
+> Remember you can hire mercenaries at a day rate
+* [Comfort Kit](Example-Gear#Comfort%20Kit)
+* 35 silver pieces
+
+---
+
+#### Rogue
+*You always knew how to take care of yourself, even at others expense*
+
+##### Additional Skills (2 Ranks)
+* Add two ranks to [Subterfuge](Subterfuge)
+
+##### Additional Trainings (2 Basic)
+* [Shadow Combatant](Shadow#Shadow%20Combatant)
+* [Fast Hands](Shadow#Fast%20Hands)
+
+##### Additional Gear (50 Silver)
+* [Thieves Tool Set](Example-Gear#Thieves%20Tool%20Set)
+* 2 size worth of goods worth 15 silver / size
+
+---
