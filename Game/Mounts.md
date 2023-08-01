@@ -33,15 +33,19 @@ A mount's value in [Currency](Equipment#Currency) is determined by its stats.
 
 | Stat Value | Price |
 | ---------- | ----- |
-| 1          | 20    |
-| 2          | 35    |
-| 3          | 55    |
-| 4          | 80    |
-| 5          | 110   | 
+| 1          | 0    |
+| 2          | 10    |
+| 3          | 20    |
+| 4          | 30    | 
+| 5          | 40    |
 
-> So, a mount with 4 Mobility, 2 Toughness, and 3 Combat would cost $80+35+55=170$
+> So, a mount with 4 Mobility, 2 Toughness, and 3 Combat would cost $30+10+20=60$
 
-Traits additionally increase cost by somewhere between 20-50 silver.
+### Exotic Mounts
+Sometimes something other than a horse is used. 
+* An exotic mount requires [Husbandry](Husbandry) to be trained as a [Skills](Skills) to be able to ride at all.
+* Exotic mounts can have additional [Creature-Traits](Creature-Traits.md) which will cost between 10-50 silver.
+* Exotic mounts attributes can be determined from their [Creatures](Running-The-Game#Creatures) attributes.
 
 ### Acquiring Mounts
 * Purchased from a merchant [Mount Prices](#Mount%20Prices)

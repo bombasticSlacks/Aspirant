@@ -57,7 +57,7 @@ The basis of your character, the skills and tools that help you when adventuring
 
 ##### Gear (100 Silver)
 * A Great Axe [[Example-Weapons]]
-* Leather Chest Piece [Example-Armour](Example-Armour) 
+* [Leather](Example-Armour#Leather) chest piece
 * [Explorers Kit](Example-Gear#Explorers%20Kit) 
 * 15 Silver
 
@@ -100,7 +100,7 @@ The basis of your character, the skills and tools that help you when adventuring
 ##### Gear (100 Silver)
 * Javelin [Example-Weapons](Example-Weapons) 
 * Shield [Example-Weapons](Example-Weapons)
-* Leather Chest Piece [Example-Armour](Example-Armour)
+* [Leather](Example-Armour#Leather) chest piece
 * [Explorers Kit](Example-Gear#Explorers%20Kit) 
 * 10 Silver
 
@@ -146,7 +146,7 @@ The basis of your character, the skills and tools that help you when adventuring
 * [Focus](Example-Gear#Focus)
 * 10 [Crystallized Magic](Example-Gear#Crystallized%20Magic)
 * [Explorers Kit](Example-Gear#Explorers%20Kit) 
-* Leather chest piece [Example-Armour](Example-Armour)
+* [Leather](Example-Armour#Leather) chest piece
 * 15 Silver
 
 ---
@@ -191,8 +191,96 @@ The basis of your character, the skills and tools that help you when adventuring
 * [Spell Book](Example-Gear#Spell%20Book)
 * [Reagent Bag](Example-Gear#Reagent%20Bag)
 * [Explorers Kit](Example-Gear#Explorers%20Kit) 
-* Leather chest piece [Example-Armour](Example-Armour)
+* [Leather](Example-Armour#Leather) chest piece
 * 10 Silver
+
+---
+
+#### Face
+*Someone great at talking to others and negotiating*
+
+##### Recommended Stats
+* [Strength](Stats#Strength) of 2
+* [Agility](Stats#Agility) of 3
+* [Intelligence](Stats#Intelligence) of 2
+* [Resolve](Stats#Resolve) of 2
+* [Fellowship](Stats#Fellowship) of 4
+
+
+##### Skills ( 6 Ranks )
+
+| Skill                        | Ranks |
+| ---------------------------- | ----- |
+| [Fitness](Fitness)           |       |
+| [Melee](Melee)               |       |
+| [Acrobatics](Acrobatics)     |       |
+| [Marksmanship](Marksmanship) |       |
+| [Subterfuge](Subterfuge)     |       |
+| [Crafting](Crafting)         |       |
+| [Knowledge](Knowledge)       |       |
+| [Medicine](Medicine)         |       |
+| [Perception](Perception)     | 1     |
+| [Science](Science)           |       |
+| [Composure](Composure)       | 1     |
+| [Channel](Channel)           |       |
+| [Ritual](Ritual)             |       |
+| [Converse](Converse)         | 2     |
+| [Husbandry](Husbandry)       | 1     |
+| [Perform](Perform)           | 1     | 
+
+##### Training ( 2 Basic, 1 Advanced )
+* [Haggling](Trades-Training#Haggling)
+* [Heartthrob](Performer#Heartthrob)
+* [What I Meant Was](Performer#What%20I%20Meant%20Was)
+
+##### Gear (100 Silver)
+* Chest, Legs, and Arms of [Politicians Plate](Example-Armour#Politicians%20Plate)
+* [Explorers Kit](Example-Gear#Explorers%20Kit) 
+* 6 Silver
+
+---
+
+#### Beast Master
+*A trainer of wild beasts and creatures*
+
+##### Recommended Stats
+* [Strength](Stats#Strength) of 2
+* [Agility](Stats#Agility) of 3
+* [Intelligence](Stats#Intelligence) of 3
+* [Resolve](Stats#Resolve) of 2
+* [Fellowship](Stats#Fellowship) of 3
+
+
+##### Skills ( 6 Ranks )
+
+| Skill                        | Ranks |
+| ---------------------------- | ----- |
+| [Fitness](Fitness)           | 1     |
+| [Melee](Melee)               | 1     | 
+| [Acrobatics](Acrobatics)     |       |
+| [Marksmanship](Marksmanship) |       |
+| [Subterfuge](Subterfuge)     |       |
+| [Crafting](Crafting)         |       |
+| [Knowledge](Knowledge)       | 1     |
+| [Medicine](Medicine)         |       |
+| [Perception](Perception)     | 1     |
+| [Science](Science)           |       |
+| [Composure](Composure)       |       |
+| [Channel](Channel)           |       |
+| [Ritual](Ritual)             |       |
+| [Converse](Converse)         |       |
+| [Husbandry](Husbandry)       | 2     |
+| [Perform](Perform)           |       |
+
+##### Training ( 2 Basic, 1 Advanced )
+* [Mounted Expert](Keeper#Mounted%20Expert)
+* [Knowledgeable Cryptozoologist](Chronicler#Knowledgeable%20Cryptozoologist)
+* [Battle Mount](Keeper#Battle%20Mount)
+
+##### Gear (100 Silver)
+* [Leather](Example-Armour#Leather) chest piece
+* [Explorers Kit](Example-Gear#Explorers%20Kit) 
+* [Dire Wolf](Example-Mounts#Dire%20Wolf) [Mount](Mounts)
 
 ---
 
@@ -245,7 +333,7 @@ Your character's additional interest, things they do in their spare time.
 
 ##### Additional Gear (50 Silver)
 * 2 size of spirits [Costs Of Materials](Services#Costs%20Of%20Materials)
-* Hammered Iron Gloves [Example-Armour](Example-Armour)
+* [Hammered Iron](Example-Armour#Hammered%20Iron) Gloves 
 * 15 silver
 
 ---
@@ -317,5 +405,22 @@ Your character's additional interest, things they do in their spare time.
 ##### Additional Gear (50 Silver)
 * [Thieves Tool Set](Example-Gear#Thieves%20Tool%20Set)
 * 2 size worth of goods worth 15 silver / size
+
+---
+
+#### Archer
+*From a young age, you practised with a bow*
+
+##### Additional Skills (2 Ranks)
+* Add two ranks to [Marksmanship](Marksmanship)
+
+##### Additional Trainings (2 Basic)
+* [Bow Expert](Marksman#Bow%20Expert)
+* [Long Shot](Marksman#Long%20Shot)
+
+##### Additional Gear (50 Silver)
+* Short Bow [Example-Weapons](Example-Weapons)
+* 10 arrows of [Ammunition](Example-Gear#Ammunition)
+* 1 Size of your [Belt](Storage#Belt) is [Customized Storage](Designing-Storage#Customized%20Storage) for [Ammunition](Resources#Ammunition)
 
 ---

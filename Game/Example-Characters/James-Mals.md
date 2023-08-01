@@ -1,5 +1,5 @@
 ## James "Scratch" Mals (He/Him)
-A broke street magician, Scratch was always trying to get ahead whether through their specialty of visual magic or more illicit activities. After a hot streak of jobs in a far away city they finally had some money to their name, but also a bounty on their head. They are halfway around the world now, the money is mostly dried up, but nobody seems interested in a bounty two oceans over.
+A down on his luck street magician, Scratch was always trying to get ahead, whether through their specialty of visual magic or more illicit activities. After a hot streak of jobs in a far away city they finally had some money to their name, but also a bounty on their head. They are halfway around the world now, the money is mostly dried up, but nobody seems interested in a bounty two oceans over.
 
 Scratch is a tall [Elementalist](../Classes#Elementalist) [Rogue](../Classes#Rogue) with brown wide eyes, pale skin, tattered medium length hair, and a nice, if ill-fitting, coat.
 
@@ -33,12 +33,15 @@ Scratch is a tall [Elementalist](../Classes#Elementalist) [Rogue](../Classes#Rog
 * [Attuned](../Magic-Training#Attuned)
 * [Amateur Evocation](../Evoker#Amateur%20Evocation)
 * [Expert Evocation](../Evoker#Expert%20Evocation)
+* [Shadow Combatant](../Shadow#Shadow%20Combatant)
+* [Fast Hands](../Shadow#Fast%20Hands)
 
 ### Weapons
 
-| Name          | Size | Damage Type | Damage Bonus | Traits |
-| ------------- | ---- | ----------- | ------------ | ------ |
-| Simple dagger | 1    | [Piercing](../Combat#Piercing)     | 0 + 2 = 2    |        |
+| Name          | Size | Range     | Damage Type                    | Damage Bonus | Traits           |
+| ------------- | ---- | --------- | ------------------------------ | ------------ | ---------------- |
+| Simple dagger | 1    |           | [Piercing](../Combat#Piercing) | 0 + 2 = 2    |                  |
+| Fire Strike   |      | 10m Range | [Heat](../Combat#Heat)         | 4 + 4 = 8    | Burning, Resolve |
 
 
 ### Armour
@@ -60,7 +63,7 @@ Scratch is a tall [Elementalist](../Classes#Elementalist) [Rogue](../Classes#Rog
 * 4 storage [Belt](../Storage#Belt).
 * 10 storage [Saddlebag](../Storage#Saddlebag).
 * [Camping Gear](../Example-Gear#Camping%20Gear).
-* Size 2 Simple Sword.
+* Size 1 Simple Dagger.
 * [Clothing](../Example-Gear#Clothing).
 * A wild horse [../Mount](Mounts) with 1 mobility, 1 toughness, 1 combat.
 * [Explorers Kit](../Example-Gear#Explorers%20Kit)

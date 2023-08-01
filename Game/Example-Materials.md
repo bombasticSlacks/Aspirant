@@ -4,6 +4,7 @@ The following is details on the materials in game. For more details on pricing s
 ### Types Of Materials
 
 #### Leathers
+
 | Type                                  | Quality | Ratio       |
 | ------------------------------------- | ------- | ----------- |
 | [Leather](#Leather)                   | Basic   | $1 \over 4$ |
@@ -26,6 +27,7 @@ Exotic creature skins with stranger properties.
 ---
 
 #### Metals
+
 | Type                                  | Quality | Ratio       |
 | ------------------------------------- | ------- | ----------- |
 | [Scrap Metal](#Scrap%20Metal)         | Basic   | $1 \over 4$ |
@@ -50,6 +52,7 @@ Complex impressive metals with properties great for working with.
 ---
 
 #### Fabrics
+
 | Type                                    | Quality | Ratio       |
 | --------------------------------------- | ------- | ----------- |
 | [Cloth](#Cloth)                         | Basic   | $1 \over 4$ | 
@@ -74,6 +77,7 @@ High quality fabrics that have then been treated with additional processes.
 ---
 
 #### Natural Materials
+
 | Type                            | Quality | Ratio       |
 | ------------------------------- | ------- | ----------- |
 | [Hard Wood](#Hard%20Wood)       | Basic   | $1 \over 4$ |
