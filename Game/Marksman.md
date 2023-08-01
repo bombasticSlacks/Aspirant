@@ -22,7 +22,14 @@ You can throw weapons and objects designed to be thrown twice the normal range. 
 #### Armed To The Teeth
 You can carry twice the consumables or ammo in the same amount of size on your belt. So, as an example, if 10 arrows are 2 size, you may carry 20 arrows as 2 size.
 
+#### Bow Expert
+When using a weapon with the [Bow](Weapon-Traits#Bow) [Weapon Trait](Weapons#[Weapon-Traits](Weapon-Traits)) you no longer receive a -1 to readying and firing the bow in the same turn.
+
+#### Long Shot
+When firing a weapon with range, you may spend a [Power](Stats#Power) to ignore any [Distance Penalty](Combat#Distance%20Penalty).
+
 ---
+
 ### Advanced
 
 #### Double Tap
@@ -36,6 +43,9 @@ While using a ranged weapon, you get a +1 to overwatch skill tests, no negative 
 
 #### Disarming Shot
 A ranged [Special Manoeuvre](Combat#Special%20Manoeuvres) that otherwise is the same as the regular [Disarm](Combat#Disarm) manoeuvre. 
+
+#### Grand Shot
+Weapons you wield that are longer than melee range, have double [Range](Weapons#Range).
 
 ---
 

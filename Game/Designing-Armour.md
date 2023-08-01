@@ -31,7 +31,7 @@ Masterworked armour is a martial or exotic armour of exceptional craftsmanship a
 
 
 ### Materials
-Armour is made of [materials](materials), which determine its characteristics, see [Materials](Armour#Materials) for more details. Martial or Exotic [Quality](Armour#Quality) armour will require a small amount of secondary material to reinforce, pad, or affix the primary material to. Materials, whether they be the primary or secondary material, will also give access to material specific [Armour-Traits](Armour-Traits) for Martial and Exotic armours.
+Armour is made of [Materials](Example-Materials), which determine its characteristics, see [Materials](Armour#Materials) for more details. Martial or Exotic [Quality](Armour#Quality) armour will require a small amount of secondary material to reinforce, pad, or affix the primary material to. Materials, whether they be the primary or secondary material, will also give access to material specific [Armour-Traits](Armour-Traits) for Martial and Exotic armours.
 
 #### Material Table
 This is a list of the base values an armour with each primary material will have.

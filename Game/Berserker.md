@@ -23,6 +23,15 @@ After taking an injury that would wound you, you immediately get to take a comba
 #### Cleave
 If you injure an enemy with a critical or lethal injury during an attack you may make an additional attack against another enemy in range with the same modifiers.
 
+#### Enrage
+When you make a [Melee](Melee) skill test, spend a [Power](Stats#Power) to become enraged. While enraged, you have: 
+* +1 [Strength](Stats#Strength) 
+* -1 [Intelligence](Stats#Intelligence)
+* +2 to [Composure](Composure) tests
+* Ignore [Being Wounded](Injury#Being%20Wounded)
+
+On any turn where you don't make a melee skill test, you must roll a d6, on a 1-3 you stop being enraged.
+
 #### Greater Cleave
 If you have [Cleave](#Cleave) training, when making a charge you may target anyone with cleave who was in weapon range along the path.
 

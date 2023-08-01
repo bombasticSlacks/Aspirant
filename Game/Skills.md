@@ -71,6 +71,7 @@ Generally you cannot perform a skill without [Training](Character-Development#Tr
 ### Resolve Skills
 * [Channel](Channel)
 * [Ritual](Ritual)
+* [Composure](Composure)
 
 ### Fellowship Skills
 * [Converse](Converse)

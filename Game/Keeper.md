@@ -9,14 +9,17 @@ No penalties for performing [Character Activity On Mount](Mounts#Character%20Act
 #### Trampler
 When charging an opponent on [Mount](Mounts), you receive +2 damage.
 
-#### Houndmaster
+#### Hound Master
 If you have the [With Me](Leader#With%20Me) training, you can control animals in combat like NPC’s.
 
 #### Pack Animals
-Animals that you own / have controll of may be fit with saddlebags.
+Animals that you own / have control of may be fit with saddlebags.
 
 #### Proper Packing
 Your saddlebags can hold an additional 6 size of items.
+
+#### Quick Saddles
+While mounted, you may draw from your [Saddlebag](Storage#Saddlebag) as you would draw from your [Belt](Storage#Belt)
 
 ---
 

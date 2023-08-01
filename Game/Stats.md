@@ -12,7 +12,6 @@ Attributes range in value from 1-5 and measure your capability to do almost anyt
 ### Strength
 Measures physical power.
 - Melee Weapon Damage
-- Ability to resist immediate injuries, poison and disease
 - Maximum Toxicity
 - [Fitness](Fitness) and [Melee](Melee) [Skills](Skills)
 
@@ -34,11 +33,9 @@ Measures charm and how well-spoken you are
 
 ### Resolve
 Measures your resilience and willpower
-- Ability to remain conscious after injury
-- Ability to resist mind-altering effects
 - Maximum Toxicity
 - Damage with psychic and magical abilities
-- [Channel](Channel) and [Ritual](Ritual) [Skills](Skills)
+- [Channel](Channel), [Composure](Composure) and [Ritual](Ritual) [Skills](Skills)
 
 ### Additional Attributes
 On top of the above stats, your character also has a few additional values:
@@ -61,7 +58,10 @@ How far your character can move in 1 turn of combat. [Agility](#Agility) * 4 met
 Your [Agility](Stats#Agility) + [Intelligence](Stats#Intelligence). Used to determine turn order in combat.
 
 #### Threat
-The size of your largest weapon. Used to determine who unintelligent monsters target at random.
+The size of your largest weapon. Used to determine who unintelligent monsters target at random. 
+
+* A character that is unarmed still has a base threat of 1. 
+* A character that is unconscious or otherwise detained should have a threat of 0.
 
 #### Max Toxicity
 Your characters can only handle a certain amount of foreign material in your body before becoming ill.

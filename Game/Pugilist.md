@@ -5,7 +5,7 @@ One of the 8 [combat training](Combat-Training) disciplines.
 ### Basic
 
 #### Black Belt
-You can attack unarmed as though you had a melee weapons with a damage bonus of 2 + [Strength](Stats#Strength).
+You can attack unarmed as though you had a melee weapon with a damage bonus of 2 + [Strength](Stats#Strength). 
 
 #### Flesh Prison
 When a character attempts to escape a grapple you initiated, they receive an additional negative equal to either your [Strength](Stats#Strength) or [Agility](Stats#Agility).

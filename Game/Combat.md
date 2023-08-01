@@ -45,7 +45,10 @@ If you succeed on your attack roll and your opponent doesn't stop the attack wit
 If you successfully cause an injury with an attack, that is an Injuring Attack.
 
 ### Attack Range
-When you attack something, your range is how far you can engage them from. With melee weapons, you need to be within 2m. With Range, Thrown, and Magic you have a range, but it is possible to attack outside of it. When you do, you suffer a -1 penalty to the skill test per total range they are away from you. Magic attacks have a range of 10m, Thrown have a range of 3 times your [Strength](Stats#Strength), Ranged attacks will be defined in the weapons traits.
+When you attack something, your range is how far you can engage them from. With melee weapons, you need to be within 2m. With Range, Thrown, and Magic you have a range, but it is possible to attack up to 5x your range, but you will suffer [Distance Penalty](#Distance%20Penalty). 
+* Magic attacks have a range of 10m
+* Thrown have a range of 3 times your [Strength](Stats#Strength)
+* Ranged attacks will be defined in the weapons [traits](Weapons#[Weapon-Traits](Weapon-Traits)).
 
 #### Attacking
 - Declare what weapon you are using
@@ -75,7 +78,12 @@ If you have moved this turn, you take a -2 to attacks and manoeuvres.
 #### Unweighted for Throwing
 If you attempt to throw a weapon that doesn’t have the thrown tag you receive a -3 on the skill test. Basic weapons only have a -1 penalty.
 #### On Your Back
-When attempting a melee test, if you are prone you receive a -2.
+When attempting a melee test, if you are prone, you receive a -2.
+#### Distance Penalty
+When you fire a ranged weapon if you are outside the range, you suffer a -1 per range they are away from you.
+
+> So if you have a range of 10m and are attacking 35 meters away, you suffer a -3.
+
 
 ---
 
