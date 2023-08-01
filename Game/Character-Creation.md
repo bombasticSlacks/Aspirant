@@ -17,8 +17,11 @@ Your GM should discuss with your party to determine what sort of characters you 
 Optionally, characters may also begin with one (or more) [Cultural-Mutations](Cultural-Mutations) which can further effect starting XP.
 
 ### Example Characters
-A few [Classes](Classes) character of 10XP are provided for [The Players](How-To-Play#The%20Players) and [GM](How-To-Play#GM) to use or reference.
+A few [Classes](Classes) characters of 10XP are provided for [The Players](How-To-Play#The%20Players) and [GM](How-To-Play#GM) to use or reference.
 
 * [Tesson-Ravenmark](Example-Characters/Tesson-Ravenmark) a [Barbarian](Classes#Barbarian) [Fortune Teller](Classes#Fortune%20Teller).
 * [Della](Example-Characters/Della) a [Conjurer](Classes#Conjurer) [Tactician](Classes#Tactician)
-* 
+* [Aaron-Corse](Example-Characters/Aaron-Corse) a [Fighter](Classes#Fighter) [Healer](Classes#Healer)
+* [Ceradelle](Example-Characters/Ceradelle) a [Beast Master](Classes#Beast%20Master) [Archer](Classes#Archer)
+* [Granite](Example-Characters/Granite) a [Face](Classes#Face) [Brawler](Classes#Brawler)
+* [James-Mals](Example-Characters/James-Mals) a [Elementalist](Classes#Elementalist) [Rogue](Classes#Rogue)
