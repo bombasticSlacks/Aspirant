@@ -1,4 +1,7 @@
 ## Humble Beginnings
+
+**CURRENTLY OUT OF DATE** #TODO
+
 A way to do [Character-Creation](Character-Creation).
 
 To create a true *level 1* character in Aspirant you need to follow a few steps. 

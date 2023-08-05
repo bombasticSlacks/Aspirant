@@ -46,7 +46,7 @@ You can use any martial weapons without penalty.
 You get an additional 4 size worth of belt space.
 
 #### Resilient
-Your character may add their fitness skill to rolls for immediate effects of injuries, resist death from critical injuries to the chest, and to not collapse from being wounded.
+Your character may add their [Fitness](Fitness) skill to rolls for immediate effects of injuries, resist death from critical injuries to the chest, and to not collapse from being wounded.
 
 #### Bury Them
 If an enemy is on the ground, and you make a [Melee](Melee) attack against them, you receive a +4 to the skill test, and you add 3 to your [Damage Bonus](Weapons#Damage%20Bonus).

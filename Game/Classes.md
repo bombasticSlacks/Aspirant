@@ -32,12 +32,13 @@ The basis of your character, the skills and tools that help you when adventuring
 * [Fellowship](Stats#Fellowship) of 2
 
 
-##### Skills ( 6 Ranks )
+##### Skills
 
 | Skill                        | Ranks |
 | ---------------------------- | ----- |
 | [Fitness](Fitness)           | 1     |
 | [Melee](Melee)               | 2     |
+| [Sport](Sport)               | 1     |
 | [Acrobatics](Acrobatics)     | 1     |
 | [Marksmanship](Marksmanship) |       |
 | [Subterfuge](Subterfuge)     |       |
@@ -49,13 +50,16 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Composure](Composure)       | 1     |
 | [Channel](Channel)           |       |
 | [Ritual](Ritual)             |       |
+| [Converse](Converse)         |       |
+| [Husbandry](Husbandry)       |       |
+| [Perform](Perform)           |       |
 
-##### Training ( 2 Basic, 1 Advanced )
+##### Training
 * [Martial Training](Combat-Training#Martial%20Training)
 * [Monstrous Leap](Berserker#Monstrous%20Leap)
 * [Enrage](Berserker#Enrage)
 
-##### Gear (100 Silver)
+##### Gear
 * A Great Axe [[Example-Weapons]]
 * [Leather](Example-Armour#Leather) chest piece
 * [Explorers Kit](Example-Gear#Explorers%20Kit) 
@@ -74,12 +78,13 @@ The basis of your character, the skills and tools that help you when adventuring
 * [Fellowship](Stats#Fellowship) of 2
 
 
-##### Skills ( 6 Ranks )
+##### Skills
 
 | Skill                        | Ranks |
 | ---------------------------- | ----- |
 | [Fitness](Fitness)           | 1     |
 | [Melee](Melee)               | 2     |
+| [Sport](Sport)               |       |
 | [Acrobatics](Acrobatics)     |       |
 | [Marksmanship](Marksmanship) | 1     |
 | [Subterfuge](Subterfuge)     |       |
@@ -91,13 +96,16 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Composure](Composure)       | 1     |
 | [Channel](Channel)           |       |
 | [Ritual](Ritual)             |       |
+| [Converse](Converse)         |       |
+| [Husbandry](Husbandry)       | 1     | 
+| [Perform](Perform)           |       |
 
-##### Training ( 2 Basic, 1 Advanced )
+##### Training
 * [Martial Training](Combat-Training#Martial%20Training)
 * [Shield Expert](Bastion#Shield%20Expert)
 * [Grand Defender](Bastion#Grand%20Defender)
 
-##### Gear (100 Silver)
+##### Gear
 * Javelin [Example-Weapons](Example-Weapons) 
 * Shield [Example-Weapons](Example-Weapons)
 * [Leather](Example-Armour#Leather) chest piece
@@ -119,30 +127,34 @@ The basis of your character, the skills and tools that help you when adventuring
 * [Fellowship](Stats#Fellowship) of 2
 
 
-##### Skills ( 6 Ranks )
+##### Skills
 
 | Skill                        | Ranks |
 | ---------------------------- | ----- |
 | [Fitness](Fitness)           |       |
 | [Melee](Melee)               |       |
+| [Sport](Sport)               |       |
 | [Acrobatics](Acrobatics)     | 2     |
 | [Marksmanship](Marksmanship) |       |
 | [Subterfuge](Subterfuge)     |       |
 | [Crafting](Crafting)         |       |
-| [Knowledge](Knowledge)       |       |
+| [Knowledge](Knowledge)       | 1     | 
 | [Medicine](Medicine)         |       |
 | [Perception](Perception)     | 1     |
 | [Science](Science)           |       |
 | [Composure](Composure)       | 1     |
 | [Channel](Channel)           | 2     |
 | [Ritual](Ritual)             |       |
+| [Converse](Converse)         |       |
+| [Husbandry](Husbandry)       |       |
+| [Perform](Perform)           |       |
 
-##### Training ( 2 Basic, 1 Advanced )
+##### Training
 * [Attuned](Magic-Training#Attuned)
 * [Amateur Evocation](Evoker#Amateur%20Evocation)
 * [Expert Evocation](Evoker#Expert%20Evocation)
 
-##### Gear (100 Silver)
+##### Gear
 * [Focus](Example-Gear#Focus)
 * 10 [Crystallized Magic](Example-Gear#Crystallized%20Magic)
 * [Explorers Kit](Example-Gear#Explorers%20Kit) 
@@ -164,12 +176,13 @@ The basis of your character, the skills and tools that help you when adventuring
 * [Fellowship](Stats#Fellowship) of 2
 
 
-##### Skills ( 6 Ranks )
+##### Skills
 
 | Skill                        | Ranks |
 | ---------------------------- | ----- |
 | [Fitness](Fitness)           |       |
 | [Melee](Melee)               |       |
+| [Sport](Sport)               |       |
 | [Acrobatics](Acrobatics)     |       |
 | [Marksmanship](Marksmanship) |       |
 | [Subterfuge](Subterfuge)     |       |
@@ -180,14 +193,17 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Science](Science)           |       |
 | [Composure](Composure)       |       |
 | [Channel](Channel)           |       |
-| [Ritual](Ritual)             | 2     | 
+| [Ritual](Ritual)             | 2     |
+| [Converse](Converse)         | 1     | 
+| [Husbandry](Husbandry)       |       |
+| [Perform](Perform)           |       |
 
-##### Training ( 2 Basic, 1 Advanced )
+##### Training
 * [Attuned](Magic-Training#Attuned)
 * [Amateur Conjuration](Conjurer#Amateur%20Conjuration)
 * [Expert Conjuration](Conjurer#Expert%20Conjuration)
 
-##### Gear (100 Silver)
+##### Gear
 * [Spell Book](Example-Gear#Spell%20Book)
 * [Reagent Bag](Example-Gear#Reagent%20Bag)
 * [Explorers Kit](Example-Gear#Explorers%20Kit) 
@@ -207,12 +223,13 @@ The basis of your character, the skills and tools that help you when adventuring
 * [Fellowship](Stats#Fellowship) of 4
 
 
-##### Skills ( 6 Ranks )
+##### Skills
 
 | Skill                        | Ranks |
 | ---------------------------- | ----- |
 | [Fitness](Fitness)           |       |
-| [Melee](Melee)               |       |
+| [Melee](Melee)               | 1     | 
+| [Sport](Sport)               |       |
 | [Acrobatics](Acrobatics)     |       |
 | [Marksmanship](Marksmanship) |       |
 | [Subterfuge](Subterfuge)     |       |
@@ -226,14 +243,14 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Ritual](Ritual)             |       |
 | [Converse](Converse)         | 2     |
 | [Husbandry](Husbandry)       | 1     |
-| [Perform](Perform)           | 1     | 
+| [Perform](Perform)           | 1     |
 
-##### Training ( 2 Basic, 1 Advanced )
+##### Training
 * [Haggling](Trades-Training#Haggling)
 * [Heartthrob](Performer#Heartthrob)
 * [What I Meant Was](Performer#What%20I%20Meant%20Was)
 
-##### Gear (100 Silver)
+##### Gear
 * Chest, Legs, and Arms of [Politicians Plate](Example-Armour#Politicians%20Plate)
 * [Explorers Kit](Example-Gear#Explorers%20Kit) 
 * 6 Silver
@@ -251,18 +268,19 @@ The basis of your character, the skills and tools that help you when adventuring
 * [Fellowship](Stats#Fellowship) of 3
 
 
-##### Skills ( 6 Ranks )
+##### Skills
 
 | Skill                        | Ranks |
 | ---------------------------- | ----- |
 | [Fitness](Fitness)           | 1     |
-| [Melee](Melee)               | 1     | 
+| [Melee](Melee)               | 1     |
+| [Sport](Sport)               |       |
 | [Acrobatics](Acrobatics)     |       |
 | [Marksmanship](Marksmanship) |       |
 | [Subterfuge](Subterfuge)     |       |
 | [Crafting](Crafting)         |       |
 | [Knowledge](Knowledge)       | 1     |
-| [Medicine](Medicine)         |       |
+| [Medicine](Medicine)         | 1     | 
 | [Perception](Perception)     | 1     |
 | [Science](Science)           |       |
 | [Composure](Composure)       |       |
@@ -272,12 +290,12 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Husbandry](Husbandry)       | 2     |
 | [Perform](Perform)           |       |
 
-##### Training ( 2 Basic, 1 Advanced )
+##### Training
 * [Mounted Expert](Keeper#Mounted%20Expert)
 * [Knowledgeable Cryptozoologist](Chronicler#Knowledgeable%20Cryptozoologist)
 * [Battle Mount](Keeper#Battle%20Mount)
 
-##### Gear (100 Silver)
+##### Gear
 * [Leather](Example-Armour#Leather) chest piece
 * [Explorers Kit](Example-Gear#Explorers%20Kit) 
 * [Dire Wolf](Example-Mounts#Dire%20Wolf) [Mount](Mounts)
@@ -325,7 +343,7 @@ Your character's additional interest, things they do in their spare time.
 
 ##### Additional Skills (2 Ranks)
 * Add one rank to [Melee](Melee)
-* Add one rank to [Fitness](Fitness)
+* Add one rank to [Sport](Sport)
 
 ##### Additional Trainings (2 Basic)
 * [Black Belt](Pugilist#Black%20Belt)

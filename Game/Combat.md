@@ -7,9 +7,9 @@ Initiative value is your [Initiative](Stats#Initiative)+ 1d6. Your initiative va
 
 ### Your Turn
 On Your turn in combat, you can do basically anything that can feasibly be done in 5 seconds. You are encouraged to get creative and talk to the GM; however, several common manoeuvres are listed in this chapter for you to use as examples. The simple way to think about it though is on your turn, you can either:
-- Do an Action (usually involves a skill test)
-- Move up to 2 * [Agility](Stats#Agility) meters, then do an action with all skill tests at -2
-- Delay your combat turn
+- Do an Action (usually involves a skill test).
+- Move up to 2 * [Agility](Stats#Agility) meters, then do an action with all skill tests at -2.
+- Delay your combat turn.
 
 When you delay your combat turn, you can instead choose to act after any other character has finished their combat turn. You need to use your delayed action before your next combat turn (this can lead to you taking back to back turns).
 
@@ -18,7 +18,7 @@ There are some advanced things that may become available to you as your characte
 
 Free actions such as imbibing medicine, declaring combat stances, talking, etc. These free actions need to (unless otherwise specified) be performed before your action.
 
-Control Allies or other characters. If you have allies or other characters they will usually act on your turn and during your turn you can choose in what order you all act. However, after starting a character's turn you must finish it before moving on to another character.
+Control Allies or other characters. If you have allies or other characters they will usually act on your turn and during your turn you can select in what order you all act. However, after starting a character's turn you must finish it before moving on to another character.
 
 ### Drawing Equipment and Weapons
 Your character typically has 3 types of storage: [belt](Storage#Belt), [Backpack](Storage#Backpack), [Saddlebag](Storage#Saddlebag). These all have different costs for drawing.
@@ -33,7 +33,11 @@ If you are prone, it takes the entirety of your available movement to stand up.�
 If there are obstacles in the way of a movement, you can test [Acrobatics](Acrobatics) or [Fitness](Fitness) to attempt to ignore them. Otherwise, you must spend a full turn of movement getting over the obstacles.
 
 ### Attacking
-Usually, in combat, you will be trying to harm your opponents with the goal of killing or disabling them. Attacks will typically be thrown attacks ([Strength](Stats#Strength) + Marksmanship), ranged attacks ([Agility](Stats#Agility) + Marksmanship), melee attacks ([Strength](Stats#Strength) + Melee), or magic attacks (Res + Evoke).
+Usually, in combat, you will be trying to harm your opponents with the goal of killing or disabling them. Attacks will typically be 
+* Thrown attacks using [Sport](Sport)
+* Ranged attacks using [Marksmanship](Marksmanship)
+* Melee attacks using [Melee](Melee) 
+* Magic attacks using [Channel](Channel)
 
 #### Successful Attack
 If you succeed on your attack roll, that is considered a Successful Attack
@@ -107,11 +111,11 @@ You move out of melee with an enemy without provoking an attack of opportunity. 
 #### Disarm
 With at least one free hand or a melee weapon, you can attempt to disarm someone. Make a melee attack at -1 and if successful, your opponent drops their weapon (or it is now in your hands).
 #### Grapple
-Make an attack with the intent of getting control of your opponent. If you successfully hit, your opponent is in a grapple. They have to spend their turn succeeding an [Strength](Stats#Strength) + [Fitness](Fitness) or [Agility](Stats#Agility) + [Acrobatics](Acrobatics) test with a negative equal to your [Melee](Melee) skill, or remain grappled. On your turn, you may:
-* Make a Strength + Fitness test to inflict a severe injury to them, ignoring armour.
+Make an attack with the intent of getting control of your opponent. If you successfully hit, your opponent is in a grapple. They have to spend their turn succeeding an [Strength](Stats#Strength) + [Sport](Sport) or [Agility](Stats#Agility) + [Acrobatics](Acrobatics) test with a negative equal to your [Sport](Sport) skill, or remain grappled. On your turn, you may:
+* Make a [Strength](Stats#Strength) + [Sport](Sport) test to inflict a severe injury to them, ignoring armour.
 * Pin then completely skipping your turn and their next turn
 * Make an attack with a size 1 weapon with a -2 to hit that can’t be evaded
-* Make an [Strength](Stats#Strength) + Fitness test to throw them strength + d3 meters in a direction of your choice
+* Make an [Strength](Stats#Strength) + [Fitness](Fitness) test to throw them strength + d3 meters in a direction of your choice
 #### Overwatch
 Declare a 45-degree cone in front of you. If anyone moves into that area, you make a ranged attack on them, and they take a -2 on their action. Your attack is at -2.
 #### Parry
@@ -163,20 +167,20 @@ When someone is being attacked, to determine what effect the attack has, you che
 | Resistance | 1                       | 
 
 #### Compromised Armour
-Once your armour integrity goes to 0, your armour is considered compromised. It no longer provides any protection and any attacks you take [Deal Damage](#Dealing%20Damage).
+Once your armour integrity goes to 0, your armour is considered compromised. It no longer provides any protection, and any attacks you take [Deal Damage](#Dealing%20Damage).
 
 #### Partially Compromised
-Any time you would remove armour integrity, your armour isn't compromised, but you don't have the full required ammount, your armour's integrity is reduced to 0, but your opponent attack is a [Glancing Blow](#Glancing%20Blow).
+Any time you would remove armour integrity, your armour isn't compromised, but you don't have the full required amount, your armour's integrity is reduced to 0, but your opponent's attack is a [Glancing Blow](#Glancing%20Blow).
 
 > A character with two armour integrity taking a normal attack reduces their armour integrity to 0 but is otherwise unharmed.
 
-> A character with 2 armour integrity taking a weakness attack (4 integrity damage) reduces their armour integrity to 0 and takes an injury. The opponent rolls and determines the injuy is a [Severe Injury](Injury#Severe%20Injury), but since the characters armour was only [Partially Compromised](#Partially%20Compromised) they take a [Minimal Injury](Injury#Minimal%20Injury) instead. Their armour is now [Compromised](#Compromised%20Armour).
+> A character with 2 armour integrity taking a weakness attack (4 integrity damage) reduces their armour integrity to 0 and takes an injury. The opponent rolls and determines the injury is a [Severe Injury](Injury#Severe%20Injury), but since the characters armour was only [Partially Compromised](#Partially%20Compromised) they take a [Minimal Injury](Injury#Minimal%20Injury) instead. Their armour is now [Compromised](#Compromised%20Armour).
 
 #### Resistance
 As an additional benefit, if you are resistant to an attack it always counts as a [Glancing Blow](#Glancing%20Blow).
 
 ### Dealing Damage
-When you or something else is attempting to injure someone you will in most cases roll 1d6 + damage modifier. Damage modifier is a combination of the weapons inherent lethality, size, any bonuses from your character and usually your [Strength](Stats#Strength). 
+When you or something else is attempting to injure someone you will in most cases roll 1d6 + damage modifier. Damage modifier is a combination of the weapons inherent lethality, size, any bonuses from your character and usually, your [Strength](Stats#Strength). 
 
 This number is usually compared to the universal damage chart to determine the injury caused:
 
