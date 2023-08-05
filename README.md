@@ -9,7 +9,7 @@ A Collaboration By: [Multiple Parties](https://github.com/bombasticSlacks/Aspira
 
 ## Rendering Locally
 * Should be renderable with anything that supports markdown.
-* Optimized for [Obsidian,](https://obsidian/) a note-taking tool using Markdown files.
+* Optimized for [Obsidian,](https://obsidian.md/) a note-taking tool using Markdown files.
 
 ## Additional Content
 * If you create content for Aspirant, make an [issue](https://github.com/bombasticSlacks/Aspirant/issues) letting me know where it can be found, and I will include a link here (if this file gets too large it will be migrated to a separate file).
