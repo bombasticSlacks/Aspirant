@@ -1,6 +1,7 @@
 ## Craftsman
 One of the 8 [Trades Training](Trades-Training) disciplines.
-#TODOcopy 
+
+An artisan, working to produce high-quality goods manually. People with craftsman training will be: repairers, tradesmen, smiths and tinkerers. 
 
 ### Basic
 #### Ammo Smith

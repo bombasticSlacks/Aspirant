@@ -1,6 +1,7 @@
 ## Doctor
 One of the 8 [Trades Training](Trades-Training) disciplines.
-#TODOcopy 
+
+A medical professional working to provide advanced care to those who are injured and sick. People with doctor training will be: paramedics, nurses, battle medics, shamans, and doctors.
 
 ### Basic
 #### Autodoc

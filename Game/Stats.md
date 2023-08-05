@@ -13,7 +13,7 @@ Attributes range in value from 1-5 and measure your capability to do almost anyt
 Measures physical power.
 - Melee Weapon Damage
 - Maximum Toxicity
-- [Fitness](Fitness) and [Melee](Melee) [Skills](Skills)
+- [Fitness](Fitness), [Sport](Sport), and [Melee](Melee) [Skills](Skills)
 
 ### Agility
 Measures speed and dexterity

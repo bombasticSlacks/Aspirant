@@ -11,13 +11,13 @@ When you miss with ammunition, it is always [salvageable](Resources#Salvaging).
 As an [evening activities](Activities#Evening%20Activity), you can scavenge 1d6 ammunition for a ranged weapon. This ammo makes the weapon deal 2 less damage, and may potentially remove traits, though that is at the discretion of the GM. 
 
 #### Olympian
-You can throw an item at the end of a charge, receiving the bonuses. 
+You can throw an item at the end of [Charging](Combat#Charging), receiving the bonuses. 
 
 #### Pin Down
 After performing a ranged attack or manoeuvre targeting an enemy, they need to make a resolve test to move until your next action. 
 
 #### Quarterback
-You can throw weapons and objects designed to be thrown twice the normal range. You can throw any object not designed to be thrown your normal thrown range.
+You can throw weapons and objects designed to be thrown twice the normal range. You can throw any object not designed to be thrown your normal thrown range with no penalty.
 
 #### Armed To The Teeth
 You can carry twice the consumables or ammo in the same amount of size on your belt. So, as an example, if 10 arrows are 2 size, you may carry 20 arrows as 2 size.
@@ -51,7 +51,7 @@ Weapons you wield that are longer than melee range, have double [Range](Weapons#
 
 ### Master
 #### Marksman
-No negative on [Called Shot](Combat#Called%20Shot) with ranged or thrown weapons if you do nothing else during your turn.
+No negative on [Called Shot](Combat#Called%20Shot) with ranged or thrown attacks if you do nothing else during your turn.
 
 #### Fan Fire
 A special manoeuvre where you may make a ranged attack on any number of targets within a 45 degree cone and up to 2 comfortable range increments. For each target beyond the first each attack is at a -2 to hit. If your weapon needs reloading between shots add the penalty for reloading in the turn.

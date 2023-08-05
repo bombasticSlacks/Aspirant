@@ -21,7 +21,7 @@ Assign your [Attributes](Stats#Attributes) placing one of the two sets of values
 > So, 4 [Strength](Stats#Strength), 3 [Agility](Stats#Agility), 2 [Intelligence](Stats#Intelligence), 2 [Resolve](Stats#Resolve), 2 [Fellowship](Stats#Fellowship) is a valid stat line 
 
 ### Determine Your Skills
-You can put 6 ranks into skills of your choice, no skill may go above rank 2.
+You can put 7 ranks into skills of your choice, no skill may go above rank 2.
 
 ### Determine Starter Training
 All characters begin play with 2 basic [Training](Character-Development#Training) of their choice.
