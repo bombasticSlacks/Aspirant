@@ -42,7 +42,7 @@ When performing rituals and ritual spells, you may substitute your [Intelligence
 You do not need to speak to [Channel](Channel) magic.
 
 #### Spell Sword
-You may use any [Martial](Designing-Weapons#Martial) or greater [Quality](Weapons#Quality) [Melee](Melee) weapon as a [Focus](Example-Gear#Focus).
+You may use any [Artisan](Materials#Artisan) or greater [Quality](Weapons#Quality) [Melee](Melee) weapon as a [Focus](Example-Gear#Focus).
 
 #### Still Channelling
 You do not need to move your hands to [Channel](Channel).

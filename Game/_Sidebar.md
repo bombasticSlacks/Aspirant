@@ -31,7 +31,7 @@
 	* [Comestibles](Comestibles)
 	* [Gear](Gear)
 	* [Mounts](Mounts)
-	* [Resources](Resources)
+	* [Materials](Materials)
 	* [Storage](Storage)
 	* [Weapons](Weapons)
 * [Services](Services)

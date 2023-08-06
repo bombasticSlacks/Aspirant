@@ -37,7 +37,7 @@ Aspirant is a world of tradespeople, experts with something to offer a prospecti
 | [Crops](Reagent-Uses#Crops)                             | $1 \over 8$ | $1$               |
 | [Wild Flora](Reagent-Uses#Wild%20Flora)                 | $1 \over 4$ | $3$               |
 | [Rare Flora](Reagent-Uses#Rare%20Flora)                 | $1 \over 2$ | $5$               |
-| [Magical Flora](Reagent-Uses#Magical%20Flora)                                             | $1$         | $10$              |
+| [Magical Flora](Reagent-Uses#Magical%20Flora)           | $1$         | $10$              |
 | Prey Bit                                                | $1 \over 4$ | $3$               |
 | Predator Bit                                            | $1 \over 2$ | $5$               |
 | Apex Predator Bit                                       | $1$         | $10$              |
@@ -46,17 +46,17 @@ Aspirant is a world of tradespeople, experts with something to offer a prospecti
 
 ### Costs Of Materials
 
-| Name                      | Max Weapon Quality | Ratio        | Cost Per Size (S) |
-| ------------------------- | ------------------ | ------------ | ----------------- |
-| Cheap Wine                | -                  | $1 \over 8$  | $1$                 | 
-| Expensive Wine            | -                  | $1 \over 2$  | $5$                 |
-| Gold                      | Exotic             | $4$          | $40$                |
-| Machinery                 | Exotic             | $3 \over 2$  | $15$                |
-| Oil                       | -                  | $1 \over 4$  | $3$                 |
-| Spirits                   | -                  | $1$          | $10$                |
-| Water                     | -                  | $1 \over 16$ | $1$                 |
-| Basic Crafting Material   | Basic              | $1 \over 4$  | $3$                 |
-| Martial Crafting Material | Martial            | $1 \over 2$  | $5$                 |
-| Exotic Crafting Material  | Exotic             | $1$          | $10$                |
+| Name             | Max Craft Quality | Ratio        | Cost Per Size (S) |
+| ---------------- | ------------------ | ------------ | ----------------- |
+| Cheap Wine       | -                  | $1 \over 8$  | $1$               |
+| Expensive Wine   | -                  | $1 \over 2$  | $5$               |
+| Gold             | Exotic             | $4$          | $40$              |
+| Machinery        | Exotic             | $3 \over 2$  | $15$              |
+| Oil              | -                  | $1 \over 4$  | $3$               |
+| Spirits          | -                  | $1$          | $10$              |
+| Water            | -                  | $1 \over 16$ | $1$               |
+| Basic Material   | Basic              | $1 \over 4$  | $3$               |
+| Artisan Material | Artisan            | $1 \over 2$  | $5$               |
+| Exotic Material  | Exotic             | $1$          | $10$              |
 
 

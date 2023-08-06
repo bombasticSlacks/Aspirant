@@ -31,7 +31,7 @@
 	* [Greg-Colter](Greg-Colter) [Socialize](../../Activities#Socialize)
 
 ### Rewards
-* Telescoping baton MW Martial - [Folding](../../Weapon-Traits#Folding), 1 size [Disguised](../../Weapon-Traits#Disguised), 2 size [Lethal](../../Weapon-Traits#Lethal), Archeo-brass
+* Telescoping baton MW Artisan - [Folding](../../Weapon-Traits#Folding), 1 size [Disguised](../../Weapon-Traits#Disguised), 2 size [Lethal](../../Weapon-Traits#Lethal), Archeo-brass
 * The Generator
 * Torso is 2 size worth of Archeo-brass (exotic metal)
 * Arm is a prosthetic arm with a retractable size 2 balanced sword
