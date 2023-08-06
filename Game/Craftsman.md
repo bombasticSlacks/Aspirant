@@ -4,14 +4,11 @@ One of the 8 [Trades Training](Trades-Training) disciplines.
 An artisan, working to produce high-quality goods manually. People with craftsman training will be: repairers, tradesmen, smiths and tinkerers. 
 
 ### Basic
-#### Ammo Smith
-#TODOcopy 
-As [Production Work](Activities#Production%20Work), you can create [Ammunition](Resources#Ammunition).
 
 #### Weapon Smithing
 As [Production Work](Activities#Production%20Work), using a [Weapons Tool Set](Example-Gear#Weapons%20Tool%20Set) you can [Craft](Crafting) [Martial](Weapons#Martial) and [Basic](Weapons#Basic) weapons, more details are available in [Designing-Weapons](Designing-Weapons). 
 
-You can also as [Production Work](Activities#Production%20Work) [Craft](Crafting) [Ammunition](Resources#Ammunition). This costs half the price as the ammo normally would, and you can create up to 10 per [Production Work](Activities#Production%20Work).
+You can also as [Production Work](Activities#Production%20Work) [Craft](Crafting) [Munitions](Comestibles#Munitions). This costs half the price as the ammo normally would, and you can create up to 10 per [Production Work](Activities#Production%20Work).
 
 #### Exotic Crafting
 As when [Crafting](Crafting) you can use exotic [Types Of Materials](Resources#Types%20Of%20Materials).

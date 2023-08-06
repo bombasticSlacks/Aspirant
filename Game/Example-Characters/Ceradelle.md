@@ -61,7 +61,7 @@ Ceradelle is an elvish [Beast Master](../Classes#Beast%20Master) [Archer](../Cla
 
 ### Gear
 * 6 storage [Backpack](../Storage#Backpack).
-* 4 storage [Belt](../Storage#Belt) with 1 size [Customized](../Designing-Storage#Customized%20Storage) for [Ammunition](../Resources#Ammunition).
+* 4 storage [Belt](../Storage#Belt) with 1 size [Customized](../Designing-Storage#Customized%20Storage) for [Munitions](../Comestibles#Munitions).
 * 10 storage [Saddlebag](../Storage#Saddlebag).
 * [Camping Gear](../Example-Gear#Camping%20Gear).
 * Size 3 Simple Spear.

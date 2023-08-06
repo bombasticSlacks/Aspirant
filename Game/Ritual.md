@@ -16,7 +16,7 @@ Unlike with most skills, ritual is a complex field. There is a limit on what act
 
 Even with training you still need:
 * [Reagents](Resources#Reagents)
-* [Spell Book](Example-Gear#Spell%20Book)
+* [Reagent Bag](Example-Gear#Reagent%20Bag)
 
 ### Example Activities
 

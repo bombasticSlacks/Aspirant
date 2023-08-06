@@ -20,9 +20,9 @@ Every type of storage can have up to 4 additional size.
 ### Customized Storage
 Any bag can have its storage customized for a specific thing. This activity takes a tailor a day and allows you to convert 1 size of generic storage into 2 size of specialized storage or the other way. The types of specialized storage are: 
 * [Bits](Resources#Bits)
-* [Ammunition](Resources#Ammunition)
+* [Munitions](Comestibles#Munitions)
 * [Weapons](Weapons) 
-* [Comestibles](Comestibles)
+* [Alchemy](Comestibles#Alchemy)
 * [Toolkits](Gear#Toolkits)
 * [Currency](Equipment#Currency)  
 Only items of that type can be stored in the related specialized storage.

@@ -204,11 +204,10 @@ The basis of your character, the skills and tools that help you when adventuring
 * [Expert Conjuration](Conjurer#Expert%20Conjuration)
 
 ##### Gear
-* [Spell Book](Example-Gear#Spell%20Book)
 * [Reagent Bag](Example-Gear#Reagent%20Bag)
 * [Explorers Kit](Example-Gear#Explorers%20Kit) 
 * [Leather](Example-Armour#Leather) chest piece
-* 10 Silver
+* 30 Silver
 
 ---
 
@@ -333,8 +332,8 @@ Your character's additional interest, things they do in their spare time.
 * [Amateur Divination](Diviner#Amateur%20Divination)
 
 ##### Additional Gear (50 Silver)
-* [Spell Book](Example-Gear#Spell%20Book)
 * [Reagent Bag](Example-Gear#Reagent%20Bag)
+* 20 silver
 
 ---
 
@@ -439,6 +438,6 @@ Your character's additional interest, things they do in their spare time.
 ##### Additional Gear (50 Silver)
 * Short Bow [Example-Weapons](Example-Weapons)
 * 10 arrows of [Ammunition](Example-Gear#Ammunition)
-* 1 Size of your [Belt](Storage#Belt) is [Customized Storage](Designing-Storage#Customized%20Storage) for [Ammunition](Resources#Ammunition)
+* 1 Size of your [Belt](Storage#Belt) is [Customized Storage](Designing-Storage#Customized%20Storage) for [Munitions](Comestibles#Munitions)
 
 ---
