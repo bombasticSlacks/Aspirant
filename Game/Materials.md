@@ -1,11 +1,11 @@
 ## Material
-All things are made up of materials. This usually isn't a major concern to the average adventurer, but a savvy tradesman will want to carefully select materials of varying qualities for their projects. Characters will need to source materials for anything they are [Crafting](Crafting). Materials should be simple and interchangeable withing a quality.
+All things are made up of materials. This usually isn't a major concern to the average adventurer, but a savvy tradesman will want to carefully select materials of varying qualities for their projects. Characters will need to source materials for anything they are [Crafting](Crafting). Materials should be simple and interchangeable within a quality.
 
 ### Material Quality
 All materials generally come in three quality levels:
 
 #### Basic
-simple materials, not very useful for crafting anything but the most basic of things.
+Simple materials, not very useful for crafting anything but the most basic of things.
 #### Artisan
 Well treated, high-quality materials used for proper tools and equipment.
 #### Exotic
@@ -15,7 +15,7 @@ Impressive materials, sourced from unique locations and situations with powerful
 There are generally 8 types of materials that will be used for creating:
 
 #### Bits
-After killing a creature you can, unless it’s been annihilated, usually [harvest](Equipment#Looting) some of what are called bits. Bits are a generalization of organs, glands, bones, and other valuables. Your character would intuitively know what parts of a creature are valuable, even if you don’t yet. 
+After killing a creature you can, unless it’s been annihilated, usually [harvest](Equipment#Looting) some bits. Bits are a generalization of organs, glands, bones, and other valuables. Your character would intuitively know what parts of a creature are valuable, even if you don’t yet. 
 
 ##### Basic Bits
 Simple unimpressive creature viscera, not useful for much more than cooking or filler.
@@ -25,7 +25,7 @@ Simple unimpressive creature viscera, not useful for much more than cooking or f
 ##### Artisan Bits
 Purposeful materials from creatures with clearly developed biological systems doing useful things.
 
-> An undead creature's icor, the claws of a powerful predator, eyes of a creature that can see in the dark
+> An undead creature's ichor, the claws of a powerful predator, eyes of a creature that can see in the dark
 
 ##### Exotic Bits
 Similarly highly developed biological systems, but doing truly incredible things.
@@ -45,10 +45,10 @@ Simple plants useful for herbal remedies and basic purposes.
 ##### Artisan Flora
 Specialized plants with great properties possible to derive.
 
-> Psychadelic mushrooms, poppeys, powerful medicinal herbs
+> Psychadelic mushrooms, poppies, powerful medicinal herbs
 
 ##### Exotic Flora
-Plants with truley magical properties.
+Plants with truly magical properties.
 
 > Glowbulb, firegrass, noxgreen
 
@@ -68,29 +68,29 @@ Simple unimpressive metals that are built for purpose.
 > Refined iron, copper, brass.
 
 ##### Exotic Metals
-Complex impressive metals with properties great for working with.
+Complex, impressive metals with great working properties.
 
 > Steel, mithril, dwarven ingots.
 
 ---
 
 #### Leather
-Repurposed skin of creature's, leather makes an excellent material for [Storage](Storage), and [Armour](Armour).
+Repurposed skin of creatures, leather makes an excellent material for [Storage](Storage), and [Armour](Armour).
 
 ##### Basic Leather
 Simple animal leathers.
 
-> cow leather, deer hide.
+> Cow leather, deer hide.
 
 ##### Artisan Leather
 Hardened leathers.
 
-> boiled leather, treated with epoxy, other treatments. 
+> Boiled leather, treated with epoxy, other treatments. 
 
 ##### Exotic Leather
 Exotic creature skins with stranger properties.
 
-> Dragon hide, demons skin.
+> Dragon hide, demon skin.
 
 ---
 
@@ -156,7 +156,7 @@ Intentionally imbued powders, items warped from long exposure to enchanted place
 ---
 
 #### Liquid
-Spirits, elixirs, strange fluids, anything that can be used to dissolve material, treat it or as lubrication. Useful in crafting [Comestibles](Comestibles).
+Spirits, elixirs, strange fluids, or anything that can be used to dissolve, treat, or lubricate materials. Useful in crafting [Comestibles](Comestibles).
 
 ---
 
