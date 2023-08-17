@@ -4,8 +4,8 @@ When [Resting](Telling-The-Story#Resting), or [Travelling](Telling-The-Story#Tra
 
 ### Downtime Activity
 These are actions a character could spend a day doing. All characters have access to a number of these, others can be gained with [Training](Character-Development#Training).
-#### Perform Evening Activity
-Perform an [Evening Activity](#Evening%20Activity)
+#### Perform Travelling Activity
+Perform a [Travel Activity](#Travel%20Activity)
 #### Injury Recovery
 #### Interview
 Hiring a specific expert to aid on a job.
@@ -14,26 +14,39 @@ Involved research.
 #### Source
 Searching for a specific item to buy.
 #### Supervised Training
-Spending 1XP on character progression, where someone else needs to train you (covered in Character Development).
+Spending up to 2XP on character progression, where someone else needs to train you (covered in Character Development).
 #### Surgery
 Undergoing Surgery.
 #### Work
 Performing an activity or job to make currency. Usually requires some training. Basic labour work pays 1 silver per day.
 
-### Evening Activity
-These are actions that a character could do to wind down in the evening before preparing for the next leg of a journey, or before arriving somewhere important. All characters have access to a number of these, others can be gained with [Training](Character-Development#Training).
-#### Good Nights Rest
-+1 to a single skill test the next day, declared before rolling.
-#### Half Work
-Do half the work required for a type of Production Work. If this is the second half of the job, roll the required skill tests and check the outcome of the job.
-#### Meditate
-Refresh your [Power](Stats#Power) to maximum.
+### Travel Activity
+These are actions that a character can do while travelling somewhere, your spare time in the evenings or additional brain power on the road are dedicated to whatever you do. All characters have access to a number of these, others can be gained with [Training](Character-Development#Training).
+#### Good Night's Rest
+*You focus on sleeping and being prepared for what lies ahead*
+* +1 to a single skill test the next day, declared before rolling.
+* Refresh your [Power](Stats#Power) to maximum.
+#### Do Production Work
+*You tinker and work away in the evenings, maybe even while riding*
+Do everything required for some Production Work.
 #### On Watch
-Dedicate yourself to the night watch, you receive a +3 on any [Perception](Perception) tests against [Ambush Encounters](#Ambush%20Encounter) and are not surprised if ambushed. 
+*You organize watch for the team taking extra shifts when necessary*
+* When the GM rolls to determine if an [Ambush Encounter](Telling-The-Story#Ambush%20Encounter) occurs, you may have your [Subterfuge](Subterfuge) provide a penalty to the roll. 
+* You receive a +3 on any [Perception](Perception) tests during [Ambush Encounter](Telling-The-Story#Ambush%20Encounter).
+* You are not surprised if ambushed. 
+#### Scavenge
+*You hunt, forage, and provide for the group*
+No one needs to spend money on food during this [Travel Segment](Telling-The-Story#Travel%20Segment).
+#### Scout
+*You travel ahead, and plan the journey*
+* When your GM rolls to see if you have a [Travel Encounter](Telling-The-Story#Travel%20Encounter) you may have your [Subterfuge](Subterfuge) provide a penalty to the roll. 
+* The [GM](How-To-Play#GM) will describe any [Travel Encounter](Telling-The-Story#Travel%20Encounter) that occurs to you, before the scene begins. 
+* You also gain 1 [Influencing the Story](Telling-The-Story#Influencing%20the%20Story)
 #### Socialize
-Any number of the characters in the party may socialize. Any time you aid a character you socialized with, they get a +2 instead of a +1. Socializing while in a city costs 1 silver per person. Socializing while [Travelling](#Travelling), requires an activity such as a [Games Kit](Example-Gear#Games%20Kit).
-#### Unsupervised Training
-Spending 1XP on character progression where you don’t need someone to train you (either from a book or a training you have already started).  
+*Your character work on getting closer together, sharing moments*
+Any number of the characters in the party may socialize. Any time you aid a character you socialized with, they get a +2 instead of a +1. Socializing while [Travelling](#Travelling), requires an activity such as a [Games Kit](Example-Gear#Games%20Kit), or good food.
+#### Night Training
+Spending up to 2XP on character progression where you don’t need someone to train you (either from a book or a training you have already started) or the person is in camp with you.  
 
 ### Working a Job
 Jobs are ways to spend days and supplement your income. They come in 3 variants.

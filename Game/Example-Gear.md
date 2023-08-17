@@ -169,7 +169,7 @@ A forgery kit holds 15 silver worth of supplies.
 *Size 1 Cost 5*
 A set of cards, dice, small hobby models, or other things a group of people could play with.
 
-Allows a group of people to easily pass time, you can perform the [Socialize](Activities#Socialize) [Evening Activity](Activities#Evening%20Activity) while [Travelling](Telling-The-Story#Travelling).
+Allows a group of people to easily pass time, you can perform the [Socialize](Activities#Socialize) [Travel Activity](Activities#Travel%20Activity) while [Travelling](Telling-The-Story#Travelling).
 
 ---
 

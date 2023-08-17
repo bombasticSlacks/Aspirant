@@ -13,9 +13,6 @@ You can also as [Production Work](Activities#Production%20Work) [Craft](Crafting
 #### Exotic Crafting
 When [Crafting](Crafting) you can use [Exotic](Materials#Exotic) materials.
 
-#### Honed Edge
-As an [Evening Activity](Activities#Evening%20Activity), you may hone everyone's weapons; each ally's weapon deals 1 additional damage until the next [Travel Segment](Telling-The-Story#Travel%20Segment).
-
 #### Naturalist
 You don’t need a tool kit to do [Production Work](Activities#Production%20Work), however any skill tests are at a -1.
 
@@ -34,13 +31,13 @@ As [Production Work](Activities#Production%20Work), you can [Craft](Crafting) or
 You can also as [Production Work](Activities#Production%20Work) [Craft](Crafting) and modify storage items, more details in [Designing-Storage](Designing-Storage).
 
 #### Routine Maintenance
-As an [Evening Activity](Activities#Evening%20Activity) you may repair 2 points of armour integrity to each ally's armour.
+As a [Travel Activity](Activities#Travel%20Activity) you may repair 2 points of armour integrity to each ally's armour. Each ally's weapon deals 1 additional damage until the next [Travel Segment](Telling-The-Story#Travel%20Segment).
 
 #### Weak Spot
 You know the Armour Integrity, weakness, and resistance of any character's armour that you can see.
 
 #### Specialized Tools
-As an [Evening Activity](Activities#Evening%20Activity), you can select a specific [Toolkit](Gear#Toolkits) to prepare. When using that tool kit during the next [Travel Segment](Telling-The-Story#Travel%20Segment), you get a +2 to all skill tests.
+As a [Travel Activity](Activities#Travel%20Activity), you can select a specific [Toolkit](Gear#Toolkits) to prepare. When using that tool kit during the next [Travel Segment](Telling-The-Story#Travel%20Segment), you get a +2 to all skill tests.
 
 ---
 ### Advanced
@@ -54,7 +51,7 @@ When [Crafting](Crafting), you require one less size worth of materials.
 Up to two of your weapons of size 3 or less are integrated into your armour / clothing. They cannot be dropped, are concealed, and don’t take up space.
 
 #### Jury Rigging
-As an [Evening Activity](Activities#Evening%20Activity) or with significant [Narrative Time](Telling-The-Story#Narrative%20Time), using a [Tinkers Kit](Example-Gear#Tinkers%20Kit), you can [Craft](Crafting) single-use [Gear](Gear), [Weapons](Weapons), [Comestibles](Comestibles) and other narrative devices using exceptionally basic materials, simpler than would otherwise be allowed.
+As a [Travel Activity](Activities#Travel%20Activity) or with significant [Narrative Time](Telling-The-Story#Narrative%20Time), using a [Tinkers Kit](Example-Gear#Tinkers%20Kit), you can [Craft](Crafting) single-use [Gear](Gear), [Weapons](Weapons), [Comestibles](Comestibles) and other narrative devices using exceptionally basic materials, simpler than would otherwise be allowed.
 
 The player will need some narrative justification for what they are using, then 1 charge from their [Tinkers Kit](Example-Gear#Tinkers%20Kit).
 
