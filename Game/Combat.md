@@ -66,7 +66,7 @@ When you attack something, your range is how far you can engage them from. With 
 - Roll a d6, add any relevant damage bonuses, and consult the damage chart for what corresponding injury they will take.
 
 ### Combat Bonuses and Negatives
-These are common bonuses and negatives you can receive on your attacks which will make attacking easier. This is not an exhaustive list and sometimes if you feel you are advantaged over your opponent, you should express this to your GM, and they may give you additional bonuses. As well, some combat bonuses can be learned by taking specific martial arts, combat training, or having specific pieces of equipment.
+These are common bonuses and negatives you can receive on your attacks which will make attacking easier. This is not an exhaustive list and sometimes if you feel you are advantaged over your opponent, you should express this to your GM, and they may give you additional bonuses. As well, some combat bonuses can be learned by taking specific combat training, or having specific pieces of equipment.
 #### Charging
 When making a melee attack or manoeuvre, if you have moved at least 3 meters towards your opponent you get a +1 to the skill test.
 #### Shooting Position
@@ -92,7 +92,7 @@ When you fire a ranged weapon if you are outside the range, you suffer a -1 per 
 ---
 
 ### Combat Modifiers
-These are modifiers you can apply to attacks and manoeuvres which will put you at a negative to the skill test but will make the attack or manoeuvre do additional things. Several other powerful modifiers can be learned by taking specific martial arts or combat training. 
+These are modifiers you can apply to attacks and manoeuvres which will put you at a negative to the skill test but will make the attack or manoeuvre do additional things. Several other powerful modifiers can be learned by taking specific combat training. 
 #### Called Shot
 Your attack has a guaranteed hit location. -2 for arm or leg shots, -1 for chest shots, -3 for headshots.
 #### Difficult Hit
@@ -103,7 +103,7 @@ before making a melee attack or manoeuvre, you can move to a different side of y
 ---
 
 ### Special Manoeuvres
-These are attacks or abilities that any trained fighter can use. This isn’t an exhaustive list of everything you can do in combat but includes some of the manoeuvres that tend to come up a lot. Any manoeuvre which affects an enemy combatant is considered an attack (such as for determining if you are in melee). A number of other powerful manoeuvres can be learned by taking specific martial arts or combat training. When reasonable [Combat Modifiers](#Combat%20Modifiers) and [Combat Bonuses and Negatives](#Combat%20Bonuses%20and%20Negatives) are applied to these regularly.
+These are attacks or abilities that any trained fighter can use. This isn’t an exhaustive list of everything you can do in combat but includes some of the manoeuvres that tend to come up a lot. Any manoeuvre which affects an enemy combatant is considered an attack (such as for determining if you are in melee). A number of other powerful manoeuvres can be learned by taking specific combat training. When reasonable [Combat Modifiers](#Combat%20Modifiers) and [Combat Bonuses and Negatives](#Combat%20Bonuses%20and%20Negatives) are applied to these regularly.
 #### Back out
 You make an [Acrobatics](Acrobatics) skill test to step out of melee with an opponent. If you succeed, you can move agility * 2 meters and then perform an action at a -2 (as normal). If you fail, you provoke an attack of opportunity and then may do that anyway.
 #### Cautious Step
@@ -191,7 +191,7 @@ This number is usually compared to the universal damage chart to determine the i
 | 11-15 | Critical |
 | 16+   | Lethal   |
 
-> So, for example, a long sword (3 size martial weapon) wielded by a character with 3 [Strength](Stats#Strength) would have a damage bonus of 7 (1 martial + 3 size + 3 [Strength](Stats#Strength)). That means on a 1-3 it causes a severe injury, on a 4-6 it causes a critical injury. 
+> So, for example, a long sword (3 size artisan weapon) wielded by a character with 3 [Strength](Stats#Strength) would have a damage bonus of 7 (1 artisan + 3 size + 3 [Strength](Stats#Strength)). That means on a 1-3 it causes a severe injury, on a 4-6 it causes a critical injury. 
 
 #### Glancing Blow
 Sometimes your attacks will be partially mitigated by abilities or other circumstances. When this happens you reduce the severity of your injury by one.

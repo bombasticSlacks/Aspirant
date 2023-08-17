@@ -7,7 +7,7 @@
 
 ### Politicians Plate
 *Fancy Fabrics reinforced with metal plates with stylish decals*
-Martial armour made from [Textiles](Example-Materials#Textiles) and [Simple Metals](Example-Materials#Simple%20Metals)
+Artisan armour made from [Artisan Fabric](Materials#Artisan%20Fabric) and [Artisan Metals](Materials#Artisan%20Metals)
 
 | Cost | Max Skill | [Structure](Armour#Structure) | Weakness            | Resistance | Traits                     |
 | ---- | --------- | ----------------------------- | ------------------- | ---------- | -------------------------- |
@@ -18,7 +18,7 @@ Martial armour made from [Textiles](Example-Materials#Textiles) and [Simple Meta
 
 ### Leather
 *Simple leathers providing some meaningful protection*
-Basic armour made from [Treated Leather](Example-Materials#Treated%20Leather)
+Basic armour made from [Artisan Leather](Materials#Artisan%20Leather)
 
 | Cost | Max Skill | [Structure](Armour#Structure) | Weakness            | Resistance | Traits                     |
 | ---- | --------- | ----------------------------- | ------------------- | ---------- | -------------------------- |
@@ -28,7 +28,7 @@ Basic armour made from [Treated Leather](Example-Materials#Treated%20Leather)
 
 ### Hammered Iron
 *Simple metal hammered into functional plates providing solid protection*
-Basic armour made from [Simple Metals](Example-Materials#Simple%20Metals)
+Basic armour made from [Artisan Metals](Materials#Artisan%20Metals)
 
 | Cost | Max Skill | [Structure](Armour#Structure) | Weakness            | Resistance | Traits |
 | ---- | --------- | ----------------------------- | ------------------- | ---------- | ------ |

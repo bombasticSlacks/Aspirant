@@ -66,9 +66,8 @@ Della is a small [Conjurer](../Classes#Conjurer) [Tactician](../Classes#Tacticia
 * [Clothing](../Example-Gear#Clothing).
 * A wild horse [../Mount](Mounts) with 1 mobility, 1 toughness, 1 combat.
 * [Explorers Kit](../Example-Gear#Explorers%20Kit)
-* [Spell Book](../Example-Gear#Spell%20Book)
 * [Reagent Bag](../Example-Gear#Reagent%20Bag)
-* 10 Silver
+* 30 Silver
 
 ### Notes
 Della knows how to conjure powerful creatures and begins with a Sabre Tooth Tiger summoned under her command. This ritual cost her 35 silver already deducted from her starting silver.

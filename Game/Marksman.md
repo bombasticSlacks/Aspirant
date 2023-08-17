@@ -5,7 +5,7 @@ One of the 8 [combat training](Combat-Training) disciplines.
 ### Basic
 
 #### Efficient Rounds
-When you miss with ammunition, it is always [salvageable](Resources#Salvaging).
+When you miss with ammunition, it is always [salvagable](Comestibles#Salvaging)
 
 #### Improvised Munitions
 As an [evening activities](Activities#Travel%20Activity), you can scavenge 1d6 ammunition for a ranged weapon. This ammo makes the weapon deal 2 less damage, and may potentially remove traits, though that is at the discretion of the GM. 

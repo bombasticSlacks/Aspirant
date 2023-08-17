@@ -24,7 +24,7 @@ You may attempt a ritual without 1 of the requirements and replace it with an am
 #### Attuned
 Your character has a basic understanding of magic. 
 
-When wielding a focus, your character can perform simple cantrips of magic and operate magical items using the [Channel](Channel) skill. When wielding a spell book, your character can aid in rituals of magic and operate magical structures and places of power using the [Ritual](Ritual) skill. Your [Knowledge](Knowledge) extends to magic. With further training, you could learn to do greater acts of magic.
+When wielding a [Focus](Example-Gear#Focus), your character can perform simple cantrips of magic and operate magical items using the [Channel](Channel) skill. When wielding a [Reagent Bag](Example-Gear#Reagent%20Bag), your character can aid in rituals of magic and operate magical structures and places of power using the [Ritual](Ritual) skill. Your [Knowledge](Knowledge) extends to magic. With further training, you could learn to do greater acts of magic.
 
 #### Distant Channelling
 You gain access to the Far magical trait for spell attacks. Your narrative magic abilities have double the range before they suffer negatives.
@@ -42,7 +42,7 @@ When performing rituals and ritual spells, you may substitute your [Intelligence
 You do not need to speak to [Channel](Channel) magic.
 
 #### Spell Sword
-You may use any [Martial](Designing-Weapons#Martial) or greater [Quality](Weapons#Quality) [Melee](Melee) weapon as a [Focus](Example-Gear#Focus).
+You may use any [Artisan](Materials#Artisan) or greater [Quality](Weapons#Quality) [Melee](Melee) weapon as a [Focus](Example-Gear#Focus).
 
 #### Still Channelling
 You do not need to move your hands to [Channel](Channel).

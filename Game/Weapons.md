@@ -1,5 +1,5 @@
 ## Weapons
-Weapon [Equipment](Equipment) can normally be separated into 3 categories: Basic, Martial and Exotic. Anyone can use a Basic weapon without difficulty. A Martial or Exotic weapon would require additional training.
+Weapon [Equipment](Equipment) can normally be separated into 3 categories: Basic, artisan and exotic. Anyone can use a Basic weapon without difficulty. An artisan or exotic weapon would require additional training or attacks will be at a -3.
 
 In the world of Aspirant, there are plenty of unique weapons to be found and experienced. Some examples will be provided, along with rules for creating your own weapons in each category.
 

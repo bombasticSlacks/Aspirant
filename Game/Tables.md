@@ -8,4 +8,4 @@
 ### [Example Weapons](Example-Weapons)
 ### [Example-Infrastructure](Example-Infrastructure)
 ### [Weapon Traits](Weapon-Traits)
-### [Example-Materials](Example-Materials)
+### [Armour-Traits](Armour-Traits)

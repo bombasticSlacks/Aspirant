@@ -13,11 +13,11 @@ Basic armour is improvised, hastily constructed, or primitive in nature, but may
 
 *Basic armours utilize a single material and have 0 trait points*
 
-#### Martial
+#### Artisan
 
-Martial armour is expressly built for the hardships of battle. When compared to basic armour, martial armours are more complex and more meticulously constructed often with specific functions in mind.
+Artisan armour is expressly built for the hardships of battle. When compared to basic armour, artisan armours are more complex and more meticulously constructed often with specific functions in mind.
 
-*Martial armours ultilize 2 materials and have 1 trait points*
+*Artisan armours utilize 2 materials and have 1 trait points*
 
 #### Exotic
 
@@ -27,11 +27,11 @@ Exotic armours incorporate additional complexity of both materials and design al
 
 #### Masterwork
 
-Masterworked armour is a martial or exotic armour of exceptional craftsmanship and design. A piece of masterwork armour gains 1 additional trait point over its martial or exotic counterpart and may take a single [Armour-Trait](Armour-Traits) it does not meet the material requirement for. Masterwork armours must incorporate a material of similiar quality to an exotic armour in their construction.
+Master worked armour is an artisan or exotic armour of exceptional craftsmanship and design. A piece of masterwork armour gains 1 additional trait point over its artisan or exotic counterpart, and may take a single [Armour-Trait](Armour-Traits) it does not meet the material requirement for. Masterwork armours must incorporate a material of similar quality to an exotic armour in their construction.
 
 
 ### Materials
-Armour is made of [Materials](Example-Materials), which determine its characteristics, see [Materials](Armour#Materials) for more details. Martial or Exotic [Quality](Armour#Quality) armour will require a small amount of secondary material to reinforce, pad, or affix the primary material to. Materials, whether they be the primary or secondary material, will also give access to material specific [Armour-Traits](Armour-Traits) for Martial and Exotic armours.
+Armour is made of [Materials](Materials), which determine its characteristics, see [Materials](Armour#Materials) for more details. Artisan or Exotic [Quality](Armour#Quality) armour will require a small amount of secondary material to reinforce, pad, or affix the primary material to. Materials, whether they be the primary or secondary material, will also give access to material specific [Armour-Traits](Armour-Traits) for Artisan and Exotic armours.
 
 #### Material Table
 This is a list of the base values an armour with each primary material will have.

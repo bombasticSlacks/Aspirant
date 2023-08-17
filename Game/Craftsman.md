@@ -4,17 +4,14 @@ One of the 8 [Trades Training](Trades-Training) disciplines.
 An artisan, working to produce high-quality goods manually. People with craftsman training will be: repairers, tradesmen, smiths and tinkerers. 
 
 ### Basic
-#### Ammo Smith
-#TODOcopy 
-As [Production Work](Activities#Production%20Work), you can create [Ammunition](Resources#Ammunition).
 
 #### Weapon Smithing
-As [Production Work](Activities#Production%20Work), using a [Weapons Tool Set](Example-Gear#Weapons%20Tool%20Set) you can [Craft](Crafting) [Martial](Weapons#Martial) and [Basic](Weapons#Basic) weapons, more details are available in [Designing-Weapons](Designing-Weapons). 
+As [Production Work](Activities#Production%20Work), using a [Weapons Tool Set](Example-Gear#Weapons%20Tool%20Set) you can [Craft](Crafting) [Basic](Designing-Weapons#Basic) and [Artisan](Designing-Weapons#Artisan) weapons, more details are available in [Designing-Weapons](Designing-Weapons). 
 
-You can also as [Production Work](Activities#Production%20Work) [Craft](Crafting) [Ammunition](Resources#Ammunition). This costs half the price as the ammo normally would, and you can create up to 10 per [Production Work](Activities#Production%20Work).
+You can also as [Production Work](Activities#Production%20Work) [Craft](Crafting) [Munitions](Comestibles#Munitions). This costs half the price as the ammo normally would, and you can create up to 10 per [Production Work](Activities#Production%20Work).
 
 #### Exotic Crafting
-As when [Crafting](Crafting) you can use exotic [Types Of Materials](Resources#Types%20Of%20Materials).
+When [Crafting](Crafting) you can use [Exotic](Materials#Exotic) materials.
 
 #### Naturalist
 You don’t need a tool kit to do [Production Work](Activities#Production%20Work), however any skill tests are at a -1.
@@ -29,7 +26,7 @@ As [Production Work](Activities#Production%20Work), you can repair a damaged ite
 After downtime, your armour has 2 additional max integrity that isn’t otherwise repairable.
 
 #### Armour Smith
-As [Production Work](Activities#Production%20Work), you can [Craft](Crafting) or modify #TODOLink basic and martial [Armour](Armour) using an [Armourers Tool Set](Example-Gear#Armourers%20Tool%20Set). More details in [Designing-Armour](Designing-Armour).
+As [Production Work](Activities#Production%20Work), you can [Craft](Crafting) or modify [Basic](Designing-Armour#Basic) and [Artisan](Designing-Armour#Artisan) [Armour](Armour) using an [Armourers Tool Set](Example-Gear#Armourers%20Tool%20Set). More details in [Designing-Armour](Designing-Armour).
 
 You can also as [Production Work](Activities#Production%20Work) [Craft](Crafting) and modify storage items, more details in [Designing-Storage](Designing-Storage).
 

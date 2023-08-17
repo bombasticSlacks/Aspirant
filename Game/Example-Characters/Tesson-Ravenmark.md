@@ -68,6 +68,5 @@ Tess is a [Barbarian](../Classes#Barbarian) [Fortune Teller](../Classes#Fortune%
 * [Clothing](../Example-Gear#Clothing)
 * A wild horse [../Mount](Mounts) with 1 mobility, 1 toughness, 1 combat.
 * [Explorers Kit](../Example-Gear#Explorers%20Kit)
-* [Spell Book](../Example-Gear#Spell%20Book)
 * [Reagent Bag](../Example-Gear#Reagent%20Bag)
-* 15 Silver
+* 35 Silver
