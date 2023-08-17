@@ -25,7 +25,7 @@
 * Traveling:
 	* [Alexander-Aurelius](Alexander-Aurelius) [Meditate](../../Activities#Meditate) + [Unsupervised Training](../../Activities#Unsupervised%20Training)
 	* [Arturas-Gabrys](Arturas-Gabrys) [Unsupervised Training](../../Activities#Unsupervised%20Training)
-	* [Akren](Akren) [Production Work](../../Activities#Production%20Work) [Evening Activity](../../Activities#Evening%20Activity)
+	* [Akren](Akren) [Production Work](../../Activities#Production%20Work) [Evening Activity](../../Activities#Travel%20Activity)
 	* [Vespin-Aevaris](Vespin-Aevaris) Spent 2 silver worth of reagents to fire enchant gregs spear, [Socialize](../../Activities#Socialize)
 	* [Simple-Joe](Simple-Joe) [On Watch](../../Activities#On%20Watch)
 	* [Greg-Colter](Greg-Colter) [Socialize](../../Activities#Socialize)

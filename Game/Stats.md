@@ -41,13 +41,13 @@ Measures your resilience and willpower
 On top of the above stats, your character also has a few additional values:
 
 #### Total XP
-An abstraction of your characters potential to learn and gain new abilities. [Character-Development](Character-Development) has details on how to spend this.
+An abstraction of your characters' potential to learn and gain new abilities. [Character-Development](Character-Development) has details on how to spend this.
 
 #### Spent XP
-Aspirants will not immediately spend experience as they gain it, expertise comes from the knowledge of others so your spent XP should be tracked seperately from your total.
+Aspirants will not immediately spend experience as they gain it, expertise comes from the knowledge of others, so your spent XP should be tracked separately from your total.
 
 #### Power
-A stat tracking how many times you character can perform certain powerful abilities. Some [Training](Character-Development#Training) will require you to expend this resource. It can be regained using the [Meditate](Activities#Meditate) [Evening Activity](Activities#Evening%20Activity).
+A stat tracking how many times you character can perform certain powerful abilities. Some [Training](Character-Development#Training) will require you to expend this resource. It can be regained using the [Good Night's Rest](Activities#Good%20Night's%20Rest) [Travel Activity](Activities#Travel%20Activity).
 
 Power is equal to 2 + 1 per [Training](Character-Development#Training) that requires power.
 
@@ -69,3 +69,8 @@ Your characters can only handle a certain amount of foreign material in your bod
 Characters have a Max Toxicity equal to their [Strength](Stats#Strength) + [Resolve](Stats#Resolve) attributes. Your max toxicity is reduced by 1 for any permanent enchantment, prosthetic with additional abilities, and mutation your character possesses. Whenever you imbibe an alchemical elixir or are positively affected by some form of magic your character marks a level of Toxicity when your characters Toxicity level is equal to or greater than your Max Toxicity you are considered injured.
 
 Toxicity resets to 0 during downtime.
+
+#### Influence
+A measure of the influence you as a player have over the story. See [Influencing the Story](Telling-The-Story#Influencing%20the%20Story) for more details.
+
+Starts at 0 and is rewarded for contributing to the game.

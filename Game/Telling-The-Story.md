@@ -8,24 +8,25 @@ Combat is the most rigorously kept time in Aspirant; as it is when you are most 
 Narrative time in aspirant involves characters in a place of interest doing activities, exploring, and progressing the story directly. The passage of narrative time can be a bit more ambiguous compared with combat. There aren’t rules for narrative time, this is when characters will be directing the focus and the story themselves.
 
 #### Scene
-A scene refers to the current moment of action / intrigue playing out. Scenes don't have a defined length or strict rules but it is a useful way of talking about narrative play.
+A scene refers to the current moment of action / intrigue playing out. Scenes don't have a defined length or strict rules, but it is a useful way of talking about narrative play.
 
 ### Resting
-Resting is fast forwarded downtime your characters will sometimes have. This tends to happen when you arrive in a safe area. Each day, in a safe area, your character may perform 1 [Downtime Activities](#Downtime%20Activity). Unless you are receiving charity, your food, and housing costs 1 silver per day. If you cannot afford this, you do not get to do activities. On the last day of resting before departure, everyone in the party also gets to perform an [Evening Activity](#Evening%20Activity).
+Resting is fast forwarded downtime your characters will sometimes have. This tends to happen when you arrive in a safe area. Each day, in a safe area, your character may perform 1 [Downtime Activity](Activities#Downtime%20Activity). Unless you are receiving charity, your food, and housing costs 1 silver per day. If you cannot afford this, you do not get to do activities.
 
 ### Travelling
-Travelling in Aspirant can take long amounts of time. Travelling at its simplest level involves knowing the direction or location of something and then travelling towards it. Travel will usually take a number of days. 
+Travelling in Aspirant can take long amounts of time. Travelling involves knowing the direction or location of something and then travelling towards it. Travel will usually take a number of days. 
 
 #### Travel Segment
 For simplicity, travel is split into:
-* 5 day segments:
-* Or a partial segment on arriving at a destination:
+* Simply, the time to get from one location to another
+* If you are travelling a large distance, travel is split further into 5 day segments
+* A full day of travel is considered 8 hours of continual travel, this gives the horses and characters ample time to rest
 
 At the end of each segment:
-- characters will need to pay for the food they used (rations tend to cost 1 silver/day)
-- horses will in most situations be able to feed themselves but otherwise also need 1 silver worth of food per day
-- A full day of travel is considered 8 hours of continual travel, this gives the horses and characters ample time to rest
-- Characters at the end of each travel segment get to perform an [Evening Activity](#Evening%20Activity).
+- characters will need to pay for the food they used (rations tend to cost 2 silver per travel segment)
+- horses will in most situations be able to feed themselves but otherwise also need 1 silver worth of food per segment
+
+- Characters at the start of each travel segment declare a [Travelling Activity](Activities#Travelling%20Activity) they will focus on during the travel.
 
 #### Travel Encounter
 During travel, characters may encounter other travellers, enemies or a point of interest. These will be handled by the GM and should lend to the danger and intrigue of the surrounding world. Generally, the world is sparse and most characters should only have 1 travel encounter per [Travel Segment](#Travel%20Segment), though in very dense or dangerous areas the GM can roll for more. If your players were attacked by wolves a number of times travelling through a forest instead, that should be handled as one extended narrative / combat scene where they realize they’ve entered dangerous territory and need to navigate out of it.

@@ -12,9 +12,6 @@ You can perform actions while carrying large items. In combat, you can move a wi
 #### Hard Worker
 When being paid for [Day Work](Activities#Day%20Work), you receive 1 additional silver.
 
-#### Night Shift
-As an [Evening Activity](Activities#Evening%20Activity) you can perform [Day Work](Activities#Day%20Work).
-
 #### Networking
 When you perform [Day Work](Activities#Day%20Work) you can ask the GM one question about the city you are in.
 
@@ -33,8 +30,11 @@ You can as [Production Work](Activities#Production%20Work) create a meal to shar
 #### Middle Manager
 Any people you hire at a day rate, [Costs Of Services](Services#Costs%20Of%20Services), are hired at half the price (rounding up).
 
+#### Guardsman
+You can perform [On Watch](Activities#On%20Watch) while doing another [Travelling Activity](Activities#Travelling%20Activity).
+
 ---
 ### Master
 ### Overtime
-Your character get an extra [Downtime Activity](Activities#Downtime%20Activity) while [Resting](Telling-The-Story#Resting) and an additional [Evening Activity](Activities#Evening%20Activity) per [Travel Segment](Telling-The-Story#Travel%20Segment).
+Your character get an extra [Downtime Activity](Activities#Downtime%20Activity) while [Resting](Telling-The-Story#Resting) and an additional [Travelling Activity](Activities#Travelling%20Activity) per [Travel Segment](Telling-The-Story#Travel%20Segment).
 
