@@ -34,7 +34,7 @@ You can attempt to activate magical items using the [Science](Science) skill.
 As [Production Work](Activities#Production%20Work), using an [Alchemists Tool Set](Example-Gear#Alchemists%20Tool%20Set) you can craft an alchemical potion, medicine or other mixture.
 
 #### Gatherer
-As [Skilled Work](Activities#Skilled%20Work), you can harvest [Wild Flora](Reagent-Uses#Wild%20Flora). Perform a [Variable Difficulty](Skills#Variable%20Difficulty) [Science](Science) skill test to look for local [Wild Flora](Reagent-Uses#Wild%20Flora) or [Rare Flora](Reagent-Uses#Rare%20Flora). The test for rare flora is at a -2. If you succeed, you receive 1 size of [Reagents](Resources#Reagents) plus 1 additional per 2 [Steps Of Success](Skills#Step%20Of%20Success).
+As [Skilled Work](Activities#Skilled%20Work), you can harvest [Basic Flora](Materials#Basic%20Flora). Perform a [Variable Difficulty](Skills#Variable%20Difficulty) [Science](Science) skill test to look for [Basic Flora](Materials#Basic%20Flora) or [Artisan Flora](Materials#Artisan%20Flora). The test for artisan flora is at a -2. If you succeed, you receive 1 size of [Materials](Materials) plus 1 additional per 2 [Steps Of Success](Skills#Step%20Of%20Success).
 
 #### Visual Calculus
 You can visualize what nearby characters are doing even if you can’t directly see them. This also means you can attack them through cover and other similar situations.

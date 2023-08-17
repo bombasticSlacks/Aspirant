@@ -192,10 +192,10 @@ A patching kit has 5 uses, and replenishing a use costs 1 silver.
 ---
 
 #### Reagent Bag
-*Size 2 Cost 25*
-A well constructed satchel of elixirs, dried powdered items, and other small bits that can count as a replacement for other bits. When you go to craft or perform a ritual, you can substitute items from your reagent bag for any [Bits](Resources#Bits).
+*Size 2 Cost 30*
+A well constructed satchel of elixirs, dried powdered items, and other small bits of magic that can be used to perform [Rituals](Ritual). When you go to perform a ritual, you must expend a charge from your reagent bag. 
 
-A reagent bag initially comes with 15 silver worth of abstract bits in it that can be restocked at civilization.
+A reagent bag contains 5 uses, and replenishing a use costs 2 silver.
 
 ---
 
@@ -204,12 +204,6 @@ A reagent bag initially comes with 15 silver worth of abstract bits in it that c
 A musical tool of rudimentary design. Basic instruments will be cheaper than expensive very fancy instruments and produce simpler sounds.
 
 > Examples would include: Drums, Flute, Horn.
-
----
-
-#### Spell Book
-*Size 2 Cost 25*
-A collection of prepared pages and translations needed to properly perform ritual magic.
 
 ---
 

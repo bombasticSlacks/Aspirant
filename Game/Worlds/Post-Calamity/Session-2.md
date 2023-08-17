@@ -26,7 +26,7 @@
 * The full provided an Apex Predator Bit
 
 ### Rewards
-* Apex Predator [Bits](../../Resources#Bits)
+* Apex Predator [Bits](../../Materials#Bits)
 * [Light Kit](../../Example-Gear#Light%20Kit)
 * Loaned equipment
 * 8 Silver for [Simple-Joe](Simple-Joe)

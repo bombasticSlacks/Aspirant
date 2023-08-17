@@ -34,7 +34,7 @@ During travel, characters may encounter other travellers, enemies or a point of 
 Similarly, during travel, the party may be ambushed while camping. These should be high stakes encounters that put the players in danger. Generally, danger isn't lurking around every corner and the characters should only have 1 ambush encounter per [Travel Segment](#Travel%20Segment).
 
 #### Regions
-It may be useful to split your game space into regions, this will effect what [Resources](Resources) are readily available in that area. The five general regions are:
+It may be useful to split your game space into regions, this will effect what [Materials](Materials) are readily available in that area and how much they cost. The five general regions are:
 * Coast
 * Forest
 * Mountain

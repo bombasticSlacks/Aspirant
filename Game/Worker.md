@@ -25,6 +25,7 @@ As [Production Work](Activities#Production%20Work) you can prepare food for your
 You can drive a [Cart](Example-Infrastructure#Cart) alone.
 
 ---
+
 ### Advanced
 
 #### Chef
@@ -34,7 +35,9 @@ You can as [Production Work](Activities#Production%20Work) create a meal to shar
 Any people you hire at a day rate, [Costs Of Services](Services#Costs%20Of%20Services), are hired at half the price (rounding up).
 
 ---
+
 ### Master
-### Overtime
+
+#### Overtime
 Your character get an extra [Downtime Activity](Activities#Downtime%20Activity) while [Resting](Telling-The-Story#Resting) and an additional [Evening Activity](Activities#Evening%20Activity) per [Travel Segment](Telling-The-Story#Travel%20Segment).
 
