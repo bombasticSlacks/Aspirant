@@ -23,8 +23,8 @@ Scratch is a tall [Elementalist](../Classes#Elementalist) [Rogue](../Classes#Rog
 | [Fitness](Fitness)           | STR  |       | -   | [Perception](Perception)  | INT  | 1     |
 | [Melee](Melee)               | STR  |       | -   | [Science](Science)        | INT  |       |
 | [Acrobatics](Acrobatics)     | AGI  | 2     | -   | [Composure](Composure)    | RES  | 1     |
-| [Marksmanship](Marksmanship) | AGI  | 1     | -   | [Channel](Channel)        | RES  | 2     | 
-| [Subterfuge](Subterfuge)     | AGI  |       | -   | [Ritual](Ritual)          | RES  |       |
+| [Marksmanship](Marksmanship) | AGI  |       | -   | [Channel](Channel)        | RES  | 2     |
+| [Subterfuge](Subterfuge)     | AGI  | 2     | -   | [Ritual](Ritual)          | RES  |       |
 | [Crafting](Crafting)         | INT  |       | -   | [Converse](../Converse)   | FEL  |       |
 | [Knowledge](Knowledge)       | INT  |       | -   | [Husbandry](../Husbandry) | FEL  |       |
 | [Medicine](Medicine)         | INT  |       | -   | [Perform](../Perform)     | FEL  |       |
