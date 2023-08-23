@@ -24,8 +24,8 @@
 	* [Akren](Akren) made scrap bombs using his iron
 * Traveling:
 	* [Alexander-Aurelius](Alexander-Aurelius) [Meditate](../../Activities#Meditate) + [Unsupervised Training](../../Activities#Unsupervised%20Training)
-	* [Arturas-Gabrys](Arturas-Gabrys) [Unsupervised Training](../../Activities#Unsupervised%20Training)
-	* [Akren](Akren) [Production Work](../../Activities#Production%20Work) [Evening Activity](../../Activities#Travel%20Activity)
+	* [Arturas-Gabrys](Arturas-Gabrys) [Scavenge](../../Activities#Scavenge)
+	* [Akren](Akren) [Production Work](../../Activities#Production%20Work) [Scout](../../Activities#Scout)
 	* [Vespin-Aevaris](Vespin-Aevaris) Spent 2 silver worth of reagents to fire enchant gregs spear, [Socialize](../../Activities#Socialize)
 	* [Simple-Joe](Simple-Joe) [On Watch](../../Activities#On%20Watch)
 	* [Greg-Colter](Greg-Colter) [Socialize](../../Activities#Socialize)

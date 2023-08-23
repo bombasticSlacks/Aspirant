@@ -30,3 +30,12 @@ Impact damage
 
 * If they injure causes flesh to rot for additional [Life](../../Combat#Life) damage
 * On taking an injury splash necrotic ooze on a nearby space, if it lands on a [The Hungry](#The%20Hungry) it revives. If it hits a living creature they take a severe life injury to the location.
+
+### Manticore
+
+Powerful flying creature,
+
+Poisonous, paralyzing tail, rending claws, Mouth can evoke spell like effects of energy and reality disruption, Exceptionally tough hide (platemail if not more). Bit larger than a wagon, and agile.
+
+Not resistant to Heat and Slashing
+
