@@ -2,6 +2,7 @@
 layout: default
 title: Designing Comestibles
 parent: Comestibles
+grand_parent: Equipment
 nav_order: 2
 ---
 ## Designing [Comestibles](Comestibles)

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Armour Traits
-parent: Tables
+parent: Armour
+grand_parent: Equipment
 nav_order: 2
 ---
 ## [Armour](Armour) Traits

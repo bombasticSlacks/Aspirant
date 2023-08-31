@@ -2,6 +2,7 @@
 layout: default
 title: Designing Storage
 parent: Storage
+grand_parent: Equipment
 nav_order: 2
 ---
 ## Designing [Storage](Storage)

@@ -2,6 +2,7 @@
 layout: default
 title: Example Gear
 parent: Gear
+grand_parent: Equipment
 nav_order: 2
 ---
 ## Example [Gear](Gear)

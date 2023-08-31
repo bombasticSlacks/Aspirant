@@ -2,6 +2,7 @@
 layout: default
 title: Designing Armour
 parent: Armour
+grand_parent: Equipment
 nav_order: 2
 ---
 ## Designing [Armour](Armour)

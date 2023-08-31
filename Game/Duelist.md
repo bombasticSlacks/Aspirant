@@ -2,6 +2,7 @@
 layout: default
 title: Duelist
 parent: Combat Training
+grand_parent: Character Development
 nav_order: 2
 ---
 ## Duelist
