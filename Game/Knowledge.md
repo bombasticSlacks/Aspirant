@@ -1,3 +1,9 @@
+---
+layout: default
+title: Knowledge
+parent: Skills
+nav_order: 2
+---
 ## Knowledge
 One of the [Skills](Skills) in Aspirant. 
 

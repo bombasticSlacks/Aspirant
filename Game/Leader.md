@@ -1,3 +1,9 @@
+---
+layout: default
+title: Leader
+parent: Trades Training
+nav_order: 2
+---
 ## Leader
 One of the 8 [Trades-Training](Trades-Training) disciplines.
 #TODOcopy 

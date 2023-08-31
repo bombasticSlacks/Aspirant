@@ -1,3 +1,9 @@
+---
+layout: default
+title: Hunter
+parent: Trades Training
+nav_order: 2
+---
 ## Hunter
 One of the 8 [Trades Training](Trades-Training) disciplines.
 #TODOcopy 

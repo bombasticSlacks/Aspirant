@@ -1,3 +1,9 @@
+---
+layout: default
+title: Duelist
+parent: Combat Training
+nav_order: 2
+---
 ## Duelist
 One of the 8 [combat training](Combat-Training) disciplines.
 #TODOcopy 

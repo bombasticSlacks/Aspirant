@@ -1,3 +1,9 @@
+---
+layout: default
+title: Conjurer
+parent: Magic Training
+nav_order: 2
+---
 ## Conjurer
 One of the 8 [Magic-Training](Magic-Training) disciplines.
 

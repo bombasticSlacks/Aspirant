@@ -1,3 +1,9 @@
+---
+layout: default
+title: Science
+parent: Skills
+nav_order: 2
+---
 ## Science
 One of the [Skills](Skills) in Aspirant.
 

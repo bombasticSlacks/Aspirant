@@ -1,3 +1,7 @@
+---
+layout: default
+title: Stats
+---
 ## Stats
 Values your character should track related to the game.
 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Ritual
+parent: Skills
+nav_order: 2
+---
 ## Ritual
 One of the [Skills](Skills) in Aspirant. 
 

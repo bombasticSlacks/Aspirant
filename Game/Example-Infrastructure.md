@@ -1,3 +1,9 @@
+---
+layout: default
+title: Example Infrastructure
+parent: Assets
+nav_order: 2
+---
 ## Example [Infrastructure](Assets#Infrastructure)
 * Non-exhaustive list of infrastructure your party may use. 
 * Prices will vary based on what is selected, but a base cost is included.

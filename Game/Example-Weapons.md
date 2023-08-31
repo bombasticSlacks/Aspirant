@@ -1,3 +1,9 @@
+---
+layout: default
+title: Example Weapons
+parent: Weapons
+nav_order: 2
+---
 ## Example Weapons
 * A non-exhaustive list of weapons a player could use. You can instead design your own [Designing-Weapons](Designing-Weapons).
 * Cost is the full charge to commision, including labour.

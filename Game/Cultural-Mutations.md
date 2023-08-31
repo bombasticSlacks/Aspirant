@@ -1,3 +1,9 @@
+---
+layout: default
+title: Cultural Mutations
+parent: Character Creation
+nav_order: 2
+---
 ## Cultural Mutations
 Some groups or entities will have specific cultural mutations that make them more powerful, but also have drawbacks or additional requirements for the character. These work similarly to transhumanist effects, but: 
 

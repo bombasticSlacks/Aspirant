@@ -1,3 +1,9 @@
+---
+layout: default
+title: Designing Weapons
+parent: Weapons
+nav_order: 2
+---
 ## Designing [Weapons](Weapons)
 Through play and when creating a character, you may be asked to select a weapon. You can use one of the [Example-Weapons](Example-Weapons) or design your own. Perhaps your character hales from a distant land which uses a unique weapon, or a blacksmith has an idea for a specialized weapon for your character's fighting style. 
 

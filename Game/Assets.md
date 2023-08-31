@@ -1,3 +1,9 @@
+---
+layout: default
+title: Assets
+parent: Equipment
+nav_order: 2
+---
 ## Assets
 Asset [Equipment](Equipment) is your more abstract holdings. If you own a house, business, manage a keep etc. Some of these will require active management to maintain, or have maintenance costs and potential earnings. 
 

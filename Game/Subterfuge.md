@@ -1,3 +1,9 @@
+---
+layout: default
+title: Subterfuge
+parent: Skills
+nav_order: 2
+---
 ## Subterfuge
 One of the [Skills](Skills) in Aspirant. 
 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Melee
+parent: Skills
+nav_order: 2
+---
 ## Melee
 One of the [Skills](Skills) in Aspirant.
 

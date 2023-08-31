@@ -1,3 +1,9 @@
+---
+layout: default
+title: Example Armour
+parent: Armour
+nav_order: 2
+---
 ## Example [Armour](Armour)
 * This list is non-exhaustive you can instead design your own [Designing-Armour](Designing-Armour).
 * Armour sells for 5 less than the listed cost.

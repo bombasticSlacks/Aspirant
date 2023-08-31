@@ -1,3 +1,9 @@
+---
+layout: default
+title: Worker
+parent: Trades Training
+nav_order: 2
+---
 ## Worker
 One of the 8 [Trades Training](Trades-Training) disciplines.
 #TODOcopy 

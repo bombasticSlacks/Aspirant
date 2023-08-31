@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tables
+has_children: true
+---
 ## Tables
 ### [Example Armour](Example-Armour)
 ### [Example Comestibles](Example-Comestibles)

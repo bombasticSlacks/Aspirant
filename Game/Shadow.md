@@ -1,3 +1,9 @@
+---
+layout: default
+title: Shadow
+parent: Combat Training
+nav_order: 2
+---
 ## Shadow
 One of the 8 [Combat Training](Combat-Training) disciplines.
 #TODOcopy 

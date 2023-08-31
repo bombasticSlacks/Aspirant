@@ -1,3 +1,8 @@
+---
+layout: default
+title: How To Play
+has_children: true
+---
 ## How To Play
 ### The Players
 The players, characters, heroes, adventurers etc. refers to the group of people that the players playing the game control directly. They will have motivations, plans, ideas, abilities, and be directed by the players themselves.

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Keeper
+parent: Combat Training
+nav_order: 2
+---
 ## Keeper
 One of the 8 [combat training](Combat-Training) disciplines.
 #TODOcopy

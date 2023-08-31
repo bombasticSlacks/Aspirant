@@ -1,3 +1,9 @@
+---
+layout: default
+title: Craftsman
+parent: Trades Training
+nav_order: 2
+---
 ## Craftsman
 One of the 8 [Trades Training](Trades-Training) disciplines.
 

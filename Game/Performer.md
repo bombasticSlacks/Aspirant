@@ -1,3 +1,9 @@
+---
+layout: default
+title: Performer
+parent: Trades Training
+nav_order: 2
+---
 ## Performer
 One of the 8 [Trades Training](Trades-Training) disciplines.
 #TODOcopy 

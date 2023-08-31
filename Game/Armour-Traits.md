@@ -1,3 +1,9 @@
+---
+layout: default
+title: Armour Traits
+parent: Tables
+nav_order: 2
+---
 ## [Armour](Armour) Traits
 
 | Name                                                              | Cost |

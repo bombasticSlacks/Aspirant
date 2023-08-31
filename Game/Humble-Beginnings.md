@@ -1,3 +1,9 @@
+---
+layout: default
+title: Humble Beginnings
+parent: Character Creation
+nav_order: 2
+---
 ## Humble Beginnings
 
 **CURRENTLY OUT OF DATE** #TODO

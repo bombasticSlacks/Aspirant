@@ -1,3 +1,9 @@
+---
+layout: default
+title: Designing Armour
+parent: Armour
+nav_order: 2
+---
 ## Designing [Armour](Armour)
 Through play and when creating a character, you may desire to protect yourself with armour. You can use one of the [Example-Armour](Example-Armour) or design your own. Perhaps your village or character has a unique type of armour, or you encounter a blacksmith who has an idea for a unique piece of armour. 
 

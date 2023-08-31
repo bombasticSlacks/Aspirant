@@ -1,3 +1,9 @@
+---
+layout: default
+title: Crafting
+parent: Skills
+nav_order: 2
+---
 ## Crafting
 One of the [Skills](Skills) in Aspirant.
 

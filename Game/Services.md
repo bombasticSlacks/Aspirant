@@ -1,3 +1,8 @@
+---
+layout: default
+title: Services
+has_children: true
+---
 ## Services
 ![Market](Content/Market.svg)
 Aspirant is a world of tradespeople, experts with something to offer a prospective adventurer. 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Pugilist
+parent: Combat Training
+nav_order: 2
+---
 ## Pugilist
 One of the 8 [combat training](Combat-Training) disciplines.
 #TODOcopy 

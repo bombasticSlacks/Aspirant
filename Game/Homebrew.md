@@ -1,3 +1,7 @@
+---
+layout: default
+title: Homebrew
+---
 ## Homebrew
 
 ![Cauldron](Content/Cauldron.svg)

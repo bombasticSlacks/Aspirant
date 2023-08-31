@@ -1,3 +1,9 @@
+---
+layout: default
+title: Perception
+parent: Skills
+nav_order: 2
+---
 ## Perception
 One of the [Skills](Skills) in Aspirant. 
 

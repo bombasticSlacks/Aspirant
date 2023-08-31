@@ -1,3 +1,9 @@
+---
+layout: default
+title: Enchanter
+parent: Magic Training
+nav_order: 2
+---
 ## Enchanter
 One of the 8 [Magic-Training](Magic-Training) disciplines.
 

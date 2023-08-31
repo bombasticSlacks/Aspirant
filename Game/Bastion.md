@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bastion
+parent: Combat Training
+nav_order: 2
+---
 ## Bastion
 One of the 8 [combat training](Combat-Training) disciplines.
 #TODOcopy

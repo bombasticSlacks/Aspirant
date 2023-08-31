@@ -1,3 +1,9 @@
+---
+layout: default
+title: Injury
+parent: How To Play
+nav_order: 2
+---
 ## Injury
 
 | Injury Type     | Immediate Effect | Become Wounded | Chance Of Death                              |

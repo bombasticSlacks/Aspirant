@@ -1,3 +1,9 @@
+---
+layout: default
+title: Medicine
+parent: Skills
+nav_order: 2
+---
 ## Medicine
 One of the [Skills](Skills) in Aspirant. 
 

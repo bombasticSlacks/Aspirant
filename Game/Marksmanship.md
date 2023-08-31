@@ -1,3 +1,9 @@
+---
+layout: default
+title: Marksmanship
+parent: Skills
+nav_order: 2
+---
 ## Marksmanship
 One of the [Skills](Skills) in Aspirant. 
 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Flurry
+parent: Combat Training
+nav_order: 2
+---
 ## Flurry
 One of the 8 [combat training](Combat-Training) disciplines.
 #TODOcopy
