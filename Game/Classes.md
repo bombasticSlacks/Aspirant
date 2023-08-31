@@ -48,9 +48,7 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Acrobatics](Acrobatics)     | 1     |
 | [Marksmanship](Marksmanship) |       |
 | [Subterfuge](Subterfuge)     |       |
-| [Crafting](Crafting)         |       |
 | [Knowledge](Knowledge)       |       |
-| [Medicine](Medicine)         |       |
 | [Perception](Perception)     | 1     |
 | [Science](Science)           |       |
 | [Composure](Composure)       | 1     |
@@ -94,9 +92,7 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Acrobatics](Acrobatics)     |       |
 | [Marksmanship](Marksmanship) | 1     |
 | [Subterfuge](Subterfuge)     |       |
-| [Crafting](Crafting)         |       |
 | [Knowledge](Knowledge)       |       |
-| [Medicine](Medicine)         |       |
 | [Perception](Perception)     | 1     |
 | [Science](Science)           |       |
 | [Composure](Composure)       | 1     |
@@ -143,9 +139,7 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Acrobatics](Acrobatics)     | 2     |
 | [Marksmanship](Marksmanship) |       |
 | [Subterfuge](Subterfuge)     |       |
-| [Crafting](Crafting)         |       |
 | [Knowledge](Knowledge)       | 1     | 
-| [Medicine](Medicine)         |       |
 | [Perception](Perception)     | 1     |
 | [Science](Science)           |       |
 | [Composure](Composure)       | 1     |
@@ -192,9 +186,7 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Acrobatics](Acrobatics)     |       |
 | [Marksmanship](Marksmanship) |       |
 | [Subterfuge](Subterfuge)     |       |
-| [Crafting](Crafting)         |       |
 | [Knowledge](Knowledge)       | 2     |
-| [Medicine](Medicine)         |       |
 | [Perception](Perception)     | 2     |
 | [Science](Science)           |       |
 | [Composure](Composure)       |       |
@@ -238,9 +230,7 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Acrobatics](Acrobatics)     |       |
 | [Marksmanship](Marksmanship) |       |
 | [Subterfuge](Subterfuge)     |       |
-| [Crafting](Crafting)         |       |
 | [Knowledge](Knowledge)       |       |
-| [Medicine](Medicine)         |       |
 | [Perception](Perception)     | 1     |
 | [Science](Science)           |       |
 | [Composure](Composure)       | 1     |
@@ -283,11 +273,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Acrobatics](Acrobatics)     |       |
 | [Marksmanship](Marksmanship) |       |
 | [Subterfuge](Subterfuge)     |       |
-| [Crafting](Crafting)         |       |
 | [Knowledge](Knowledge)       | 1     |
-| [Medicine](Medicine)         | 1     | 
 | [Perception](Perception)     | 1     |
-| [Science](Science)           |       |
+| [Science](Science)           |  1     |
 | [Composure](Composure)       |       |
 | [Channel](Channel)           |       |
 | [Ritual](Ritual)             |       |
@@ -314,7 +302,7 @@ Your character's additional interest, things they do in their spare time.
 *You've experience tending for harmed individuals and can easily help the sick and wounded*
 
 ##### Additional Skills (2 Ranks)
-* Add two ranks to [Medicine](Medicine)
+* Add two ranks to [Science](Science)
 
 ##### Additional Trainings (2 Basic)
 * [Doctors Eye](Doctor#Doctors%20Eye)

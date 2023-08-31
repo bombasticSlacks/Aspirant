@@ -75,9 +75,7 @@ Aspirant has a prebuilt list of skills that should cover any activity a characte
 * [Subterfuge](Subterfuge)
 
 #### Intelligence Skills
-* [Crafting](Crafting)
 * [Knowledge](Knowledge)
-* [Medicine](Medicine)
 * [Perception](Perception)
 * [Science](Science)
 

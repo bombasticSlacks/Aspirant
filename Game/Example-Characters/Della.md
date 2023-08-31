@@ -29,9 +29,8 @@ Della is a small [Conjurer](../Classes#Conjurer) [Tactician](../Classes#Tacticia
 | [Acrobatics](Acrobatics)     | AGI  |       | -   | [Composure](Composure)    | RES  |       |
 | [Marksmanship](Marksmanship) | AGI  |       | -   | [Channel](Channel)        | RES  |       |
 | [Subterfuge](Subterfuge)     | AGI  |       | -   | [Ritual](Ritual)          | RES  | 2     |
-| [Crafting](Crafting)         | INT  |       | -   | [Converse](../Converse)   | FEL  | 1     |
-| [Knowledge](Knowledge)       | INT  | 2     | -   | [Husbandry](../Husbandry) | FEL  | 1     | 
-| [Medicine](Medicine)         | INT  |       | -   | [Perform](../Perform)     | FEL  |       |
+| [Perform](../Perform)        | FEL  |       | -   | [Converse](../Converse)   | FEL  | 1     |
+| [Knowledge](Knowledge)       | INT  | 2     | -   | [Husbandry](../Husbandry) | FEL  | 1     |
 
 ### Training
 * [Attuned](../Magic-Training#Attuned)

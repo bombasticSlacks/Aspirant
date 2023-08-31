@@ -29,9 +29,8 @@ Granite is a lean and fit [Face](../Classes#Face) [Brawler](../Classes#Brawler) 
 | [Acrobatics](Acrobatics)     | AGI  |       | -   | [Composure](Composure)    | RES  | 1     |
 | [Marksmanship](Marksmanship) | AGI  |       | -   | [Channel](Channel)        | RES  |       |
 | [Subterfuge](Subterfuge)     | AGI  |       | -   | [Ritual](Ritual)          | RES  |       |
-| [Crafting](Crafting)         | INT  |       | -   | [Converse](../Converse)   | FEL  | 2     |
+| [Perform](../Perform)        | FEL  | 1      | -   | [Converse](../Converse)   | FEL  | 2     |
 | [Knowledge](Knowledge)       | INT  |       | -   | [Husbandry](../Husbandry) | FEL  | 1     |
-| [Medicine](Medicine)         | INT  |       | -   | [Perform](../Perform)     | FEL  | 1     |
 
 ### Training
 * [Haggling](../Trades-Training#Haggling)

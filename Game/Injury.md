@@ -59,12 +59,12 @@ Make a [Fitness](Fitness), [Acrobatics](Acrobatics), or [Science](Science) test 
 If your character is injured, they only have so long before they pass out/collapse. In general on each combat turn you are wounded after you have performed your action you make a [Composure](Composure) [Fixed Difficulty](Skills#Fixed%20Difficulty) skill test to see if you can continue to fight at a reasonable level (the use of medication and stabilization can cause you to ignore this). If you fail this test you fall unconscious. For every severe injury after the first add a -1 to the test for every critical injury add -2 to the test.
 
 ### Lingering Pain
-After someone is Wounded, whether they pass out or stay conscious they will suffer long term effects. Once the combat ends you will take negatives to any skill tests. Critical injuries give a -3 to all tests and Severe injuries give a -2 to all tests. This lasts until your characters gets to [rest](Telling-The-Story#Resting).
+After someone is wounded, whether they pass out or stay conscious, they will suffer long-term effects. Once the combat ends, you will take negatives to any skill tests. Critical injuries give a -3 to all tests, and Severe injuries give a -2 to all tests. This lasts until your characters gets to [rest](Telling-The-Story#Resting).
 
 ### Managing Injuries
-Aside from the trauma of being injured in the field there are also other immediate risks to a person who has been injured, and they will need treatment to stay healthy or remain alive (depending on severity).
+Aside from the trauma of being injured in the field, there are other immediate risks to a person who has been injured, and they will need treatment to stay healthy or remain alive (depending on severity).
 
-When determining difficulty of [Medicine](Medicine) skill tests and negatives for any injuries you just count the injury that would give you the largest negative/penalty. Multiple injuries don’t provide cumulative negatives.
+When determining difficulty of [Science](Science) skill tests and negatives for any injuries, you just count the injury that would give you the largest negative/penalty. Multiple injuries don’t provide cumulative negatives.
 
 #### Stabilization
-Even if you aren’t trained in [Medicine](Medicine) and don't have the proper tools you may still attempt to stabilize someone's injuries. This is a very basic test which means they are no longer bleeding, their burns have been covered, etc. This is a [Medicine](Medicine) test with a modifier of 0. No matter the result of the skill test the person is no longer at risk of immediately dying, but they get an additional -1 to their [injury penalty](#Lingering%20Pain). 
+Even if you aren’t trained in [Science](Science) and don't have the proper tools you may still attempt to stabilize someone's injuries. This is a very basic test which means they are no longer bleeding, their burns have been covered, etc. This is a [Science](Science) test with a modifier of 0. No matter the result of the skill test the person is no longer at risk of immediately dying, but they get an additional -1 to their [injury penalty](#Lingering%20Pain). 

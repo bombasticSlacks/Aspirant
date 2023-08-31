@@ -29,9 +29,8 @@ Ceradelle is an elvish [Beast Master](../Classes#Beast%20Master) [Archer](../Cla
 | [Acrobatics](Acrobatics)     | AGI  |       | -   | [Composure](Composure)    | RES  |       |
 | [Marksmanship](Marksmanship) | AGI  | 2     | -   | [Channel](Channel)        | RES  |       |
 | [Subterfuge](Subterfuge)     | AGI  |       | -   | [Ritual](Ritual)          | RES  |       |
-| [Crafting](Crafting)         | INT  |       | -   | [Converse](../Converse)   | FEL  |       |
+| [Perform](../Perform)        | FEL  |       | -   | [Converse](../Converse)   | FEL  |       |
 | [Knowledge](Knowledge)       | INT  | 1     | -   | [Husbandry](../Husbandry) | FEL  | 2     |
-| [Medicine](Medicine)         | INT  |       | -   | [Perform](../Perform)     | FEL  |       |
 
 ### Training
 * [Mounted Expert](../Keeper#Mounted%20Expert)

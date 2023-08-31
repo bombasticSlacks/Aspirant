@@ -25,13 +25,12 @@ Aaron is a stout [Fighter](../Classes#Fighter) [Healer](../Classes#Healer) with 
 | Skill                        | Stat | Ranks | -   | Skill                     | Stat | Ranks |
 | ---------------------------- | ---- | ----- | --- | ------------------------- | ---- | ----- |
 | [Fitness](Fitness)           | STR  | 1     | -   | [Perception](Perception)  | INT  | 1     |
-| [Melee](Melee)               | STR  | 2     | -   | [Science](Science)        | INT  |       |
+| [Melee](Melee)               | STR  | 2     | -   | [Science](Science)        | INT  | 2     |
 | [Acrobatics](Acrobatics)     | AGI  |       | -   | [Composure](Composure)    | RES  | 1     |
 | [Marksmanship](Marksmanship) | AGI  | 1     | -   | [Channel](Channel)        | RES  |       |
 | [Subterfuge](Subterfuge)     | AGI  |       | -   | [Ritual](Ritual)          | RES  |       |
-| [Crafting](Crafting)         | INT  |       | -   | [Converse](../Converse)   | FEL  |       |
+| [Perform](../Perform)        | FEL  |       | -   | [Converse](../Converse)   | FEL  |       |
 | [Knowledge](Knowledge)       | INT  |       | -   | [Husbandry](../Husbandry) | FEL  |       |
-| [Medicine](Medicine)         | INT  | 2     | -   | [Perform](../Perform)     | FEL  |       |
 
 ### Training
 * [Martial Training](../Combat-Training#Martial%20Training)

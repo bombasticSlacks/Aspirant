@@ -28,7 +28,7 @@ Measures speed and dexterity
 ### Intelligence
 Measures mental acuity and knowledge
 - Initiative
-- [Medicine](Medicine), [Science](Science), [Crafting](Crafting), [Perception](Perception) and [Knowledge](Knowledge) [Skills](Skills)
+- [Science](Science), [Perception](Perception) and [Knowledge](Knowledge) [Skills](Skills)
 
 ### Fellowship
 Measures charm and how well-spoken you are

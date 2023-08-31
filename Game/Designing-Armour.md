@@ -55,7 +55,7 @@ This is a list of the base values an armour with each primary material will have
  When multiple materials are used, one is treated as the primary material and the other as the secondary material. The armour's base attributes (Weakness, Resistance, Structure, and Max Skill) are determined by the primary material, while the secondary material represents the increase in complexity and robustness of higher quality gear. If the secondary material used is of the same Quality and has a Structure equal to or higher than the primary material, increase the armour's Structure by 1. 
  
 ### Crafting
-A character looking to craft a specific armour requires relevant training as a [Craftsman](Craftsman), requires 3 size worth of the primary material, and 1 size worth of secondary material where applicable. Other bits, unless narratively relevant, are a negligible portion of the cost. Then, the character, as a downtime activity, may spend a day crafting. If they succeed on the [Crafting](Crafting) test, the item is created successfully. If not, they must try again in the future; however, materials are not lost, just time. 
+A character looking to craft a specific armour requires relevant training as a [Craftsman](Craftsman), requires 3 size worth of the primary material, and 1 size worth of secondary material where applicable. Other bits, unless narratively relevant, are a negligible portion of the cost. Then, the character, as a downtime activity, may spend a day crafting. If they succeed on the [Science](Science) test, the item is created successfully. If not, they must try again in the future; however, materials are not lost, just time. 
 
 The difficulty of the test is modified as follows:
 

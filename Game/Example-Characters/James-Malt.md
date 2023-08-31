@@ -29,9 +29,9 @@ Scratch is a tall [Elementalist](../Classes#Elementalist) [Rogue](../Classes#Rog
 | [Acrobatics](Acrobatics)     | AGI  | 2     | -   | [Composure](Composure)    | RES  | 1     |
 | [Marksmanship](Marksmanship) | AGI  |       | -   | [Channel](Channel)        | RES  | 2     |
 | [Subterfuge](Subterfuge)     | AGI  | 2     | -   | [Ritual](Ritual)          | RES  |       |
-| [Crafting](Crafting)         | INT  |       | -   | [Converse](../Converse)   | FEL  |       |
+| [Perform](../Perform)         | FEL  |       | -   | [Converse](../Converse)   | FEL  |       |
 | [Knowledge](Knowledge)       | INT  |       | -   | [Husbandry](../Husbandry) | FEL  |       |
-| [Medicine](Medicine)         | INT  |       | -   | [Perform](../Perform)     | FEL  |       |
+
 
 ### Training
 * [Attuned](../Magic-Training#Attuned)

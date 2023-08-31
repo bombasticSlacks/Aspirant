@@ -12,13 +12,13 @@ A medical professional working to provide advanced care to those who are injured
 
 ### Basic
 #### Autodoc
-You can perform invasive [Surgeon](#Surgeon) work on yourself and ignore your own injuries when performing [Medicine](Medicine) skill tests on yourself.
+You can perform invasive [Surgeon](#Surgeon) work on yourself and ignore your own injuries when performing [Science](Science) skill tests.
 
 #### Bedside Manner
 You receive a +2 on all social interactions with people you have treated since last downtime, and a +1 on all medical tests with people that like you.
 
 #### Doctors Eye
-You can always tell how injured a person is (and where). When starting a [Medicine](Medicine) [Project](Skills#Project) you always succeed with at least 1 [Step Of Success](Skills#Step%20Of%20Success).
+You can always tell how injured a person is (and where). When starting a health/medicine related [Project](Skills#Project) you always succeed with at least 1 [Step Of Success](Skills#Step%20Of%20Success).
 
 #### On Ice
 You have twice as long to perform medical skill tests on characters before it becomes impossible.
@@ -30,10 +30,10 @@ You count as having a [Trauma Kit](Example-Gear#Trauma%20Kit) even if not carryi
 At the beginning of any combat encounter, you can name a character who you think will be injured during the encounter. Any medical tests you make on that person during and after this combat gets a +3. The person you select also gets +1 to [Composure](Composure) skill tests for the duration of the encounter.
 
 #### Sword Surgeon
-When making skill tests with a [Rending](Combat#Rending) weapon, you may substitute your [Medicine](Medicine) skill for melee skill.
+When making skill tests with a [Rending](Combat#Rending) weapon, you may substitute your [Science](Science) skill for melee skill.
 
 #### Long Term Care
-As a [Travel Activity](Activities#Travel%20Activity) you can attempt to manage your allies injuries further. This is a [Medicine](Medicine) test which receives a +2 if you have access to a full medical facility. If you succeed on this test any allies ignore their injury penalties until the next [Travel Segment](Telling-The-Story#Travel%20Segment).
+As a [Travel Activity](Activities#Travel%20Activity) you can attempt to manage your allies injuries further. This is a [Science](Science) test which receives a +2 if you have access to a full medical facility. If you succeed on this test any allies ignore their injury penalties until the next [Travel Segment](Telling-The-Story#Travel%20Segment).
 
 ---
 ### Advanced
