@@ -2,6 +2,7 @@
 layout: default
 title: Example Comestibles
 parent: Comestibles
+grand_parent: Equipment
 nav_order: 2
 ---
 ## Example [Comestibles](Comestibles)

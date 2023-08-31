@@ -2,6 +2,7 @@
 layout: default
 title: Example Weapons
 parent: Weapons
+grand_parent: Equipment
 nav_order: 2
 ---
 ## Example Weapons

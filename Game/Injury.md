@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Injury
-parent: How To Play
+parent: Telling The Story
 nav_order: 2
 ---
 ## Injury

@@ -2,6 +2,7 @@
 layout: default
 title: Weapon Traits
 parent: Weapons
+grand_parent: Equipment
 nav_order: 2
 ---
 ## [Weapon](Weapons) Traits

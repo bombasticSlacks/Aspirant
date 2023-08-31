@@ -2,6 +2,7 @@
 layout: default
 title: Example Infrastructure
 parent: Assets
+grand_parent: Equipment
 nav_order: 2
 ---
 ## Example [Infrastructure](Assets#Infrastructure)

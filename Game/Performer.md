@@ -2,6 +2,7 @@
 layout: default
 title: Performer
 parent: Trades Training
+grand_parent: Character Development
 nav_order: 2
 ---
 ## Performer

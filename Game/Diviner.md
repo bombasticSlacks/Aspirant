@@ -2,6 +2,7 @@
 layout: default
 title: Diviner
 parent: Magic Training
+grand_parent: Character Development
 nav_order: 2
 ---
 ## Diviner
