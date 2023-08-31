@@ -30,7 +30,7 @@ nav_exclude: true
 * The full provided an Apex Predator Bit
 
 ### Rewards
-* Apex Predator [Bits](../../Materials#Bits)
+* Apex Predator [Bits](../../Bits)
 * [Light Kit](../../Example-Gear#Light%20Kit)
 * Loaned equipment
 * 8 Silver for [Simple-Joe](Simple-Joe)

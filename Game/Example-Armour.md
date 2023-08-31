@@ -14,7 +14,7 @@ nav_order: 2
 
 ### Politicians Plate
 *Fancy Fabrics reinforced with metal plates with stylish decals*
-Artisan armour made from [Artisan Fabric](Materials#Artisan%20Fabric) and [Artisan Metals](Materials#Artisan%20Metals)
+Artisan armour made from [Artisan Fabric](Textiles#Artisan%20Fabric) and [Artisan Metals](Metal#Artisan%20Metals)
 
 | Cost | Max Skill | [Structure](Armour#Structure) | Weakness            | Resistance | Traits                     |
 | ---- | --------- | ----------------------------- | ------------------- | ---------- | -------------------------- |
@@ -25,7 +25,7 @@ Artisan armour made from [Artisan Fabric](Materials#Artisan%20Fabric) and [Artis
 
 ### Leather
 *Simple leathers providing some meaningful protection*
-Basic armour made from [Artisan Leather](Materials#Artisan%20Leather)
+Basic armour made from [Artisan Hide](Hide#Artisan%20Hide)
 
 | Cost | Max Skill | [Structure](Armour#Structure) | Weakness            | Resistance | Traits                     |
 | ---- | --------- | ----------------------------- | ------------------- | ---------- | -------------------------- |
@@ -35,7 +35,7 @@ Basic armour made from [Artisan Leather](Materials#Artisan%20Leather)
 
 ### Hammered Iron
 *Simple metal hammered into functional plates providing solid protection*
-Basic armour made from [Artisan Metals](Materials#Artisan%20Metals)
+Basic armour made from [Artisan Metals](Metal#Artisan%20Metals)
 
 | Cost | Max Skill | [Structure](Armour#Structure) | Weakness            | Resistance | Traits |
 | ---- | --------- | ----------------------------- | ------------------- | ---------- | ------ |
