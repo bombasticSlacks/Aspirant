@@ -3,6 +3,7 @@ layout: default
 title: Comestibles
 parent: Equipment
 nav_order: 2
+has_children: true
 ---
 ## Comestibles
 Comestible [Equipment](Equipment) consists of anything that the character will exhaust with use.

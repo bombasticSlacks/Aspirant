@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 ## Crafting Recipes
 
 ### Basic Flash Bombs

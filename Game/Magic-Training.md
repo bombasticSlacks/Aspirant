@@ -3,6 +3,7 @@ layout: default
 title: Magic Training
 parent: Training
 nav_order: 2
+has_children: true
 ---
 ## Magic-Training
 One of the three greater [Training](Character-Development#Types%20Of%20Training) disciplines.

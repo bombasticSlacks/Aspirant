@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 ## Monsters
 Monsters list for [Post-Calamity](Post-Calamity)
 

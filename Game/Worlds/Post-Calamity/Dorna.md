@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 ## Dorna
 
 [The Manticore](Hooks#The%20Manticore) is here
