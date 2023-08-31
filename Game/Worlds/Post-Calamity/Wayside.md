@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 ## Wayside
 
 Training for [Science](../../Science), and [Chronicler](../../Chronicler)

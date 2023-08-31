@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 ## Post Calamity
 *In the aftermath of a horrible event, a celestial being and his collection of experts attempt to discover themselves while reuniting a broken continent.*
 

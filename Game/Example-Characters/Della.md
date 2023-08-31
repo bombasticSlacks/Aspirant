@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 ## Della (She/Her)
 An intelligent forest spirit, Della is a master of conjuring creatures to fight for her. After her forest was destroyed by nearby settlers, she began to travel, usually with the companionship of a strange tiger creature. Della tries to keep joy in her life with exploration and discovery.
 

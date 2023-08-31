@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 ## Calamity
 The calamity is the terrible effect that happened to cause the lost empire to fall.
 

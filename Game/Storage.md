@@ -3,6 +3,7 @@ layout: default
 title: Storage
 parent: Equipment
 nav_order: 2
+has_children: true
 ---
 ## Storage
 Your character in general will have 20 size worth of storage on their character which is how you hold [Equipment](Equipment). That’s 6 in a bag, 4 on a belt and 10 in your horse's saddlebags. In Aspirant, we aren’t concerned with the weight of items, size is a fair enough abstraction and any incredibly heavy items can be handled narratively. Storage specifics are also not relevant. If your characters divide a pot of 3 size of oil 3 ways, it is assumed you had containers on hand to store it. Similarly, if you pick up a new weapon and want to put it on your belt, it is assumed you can adjust your belt loops to support it.

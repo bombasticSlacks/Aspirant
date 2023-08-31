@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 ## Session 1
 [Post-Calamity](Post-Calamity)
 

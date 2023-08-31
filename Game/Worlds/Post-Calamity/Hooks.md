@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 ## Hooks and Intrigue
 For [Post-Calamity](Post-Calamity) A list of things the players know of, and quests they wish to complete.
 

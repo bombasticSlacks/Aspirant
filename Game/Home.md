@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 ## Aspirant RPG
 *A Game about Adventure and Expertise!*
 
@@ -10,7 +14,7 @@ This should be an up-to-date copy of the game data.
 * Learn to [How To Play](How-To-Play).
 
 Remember!
-* Remember to respect the [Code Of Conduct](https://github.com/bombasticSlacks/Aspirant/blob/main/CODE_OF_CONDUCT.md).
+* Remember to respect the [Code Of Conduct](https://github.com/bombasticSlacks/Aspirant/blob/main/CODE_OF_CONDUCT).
 * If you are going to approach difficult topics make sure that everyone has [Consented](https://www.montecookgames.com/store/product/consent-in-gaming/).
 
 

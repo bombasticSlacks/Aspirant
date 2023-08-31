@@ -3,6 +3,7 @@ layout: default
 title: Mounts
 parent: Equipment
 nav_order: 2
+has_children: true
 ---
 ## Mounts
 A mount is critical [Equipment](Equipment) for an adventurer. Moving with just the storage on your back would waste precious time and space. Generally, mounts consist of different breeds of horses, however more exotic mounts with special abilities aren’t unheard of.
