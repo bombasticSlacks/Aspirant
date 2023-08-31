@@ -1,3 +1,10 @@
+---
+layout: default
+title: Liquid
+parent: Materials
+grand_parent: Services
+nav_order: 2
+---
 ## Liquid
 One of the [Materials](Materials) used for crafting and trading.
 
