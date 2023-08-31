@@ -29,8 +29,8 @@ In almost all cases, looted armour will not fit you. Ill-fitting armour reduces 
 #### Looting Creatures
 In most cases, a dead creature will have 
 * Enough meat to save the party from paying to live that night, after that, it is assumed the meat spoils. 
-* One [bit](Materials#Bits)
-* 1-4 size of monster skin / hide / chiten / etc. which is some quality of [Leather](Materials#Leather) or [Metal](Materials#Metal)
+* One [Bits](Bits)
+* 1-4 size of monster skin / hide / chiten / etc. which is some quality of [Hide](Hide) or [Metal](Metal)
 
 #### Quest Rewards
 Your characters will be rewarded for their actions.
