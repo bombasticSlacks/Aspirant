@@ -3,5 +3,7 @@
 .obsidian/appearance.json
 .obsidian/graph.json
 .obsidian/plugins
+.obsidian/core-plugins.json
+.obsidian/core-plugins-migration.json
 TODO.md
 Secret-Plans.md
