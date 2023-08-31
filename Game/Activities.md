@@ -1,3 +1,9 @@
+---
+layout: default
+title: Activities
+parent: Telling The Story
+nav_order: 2
+---
 ## Activities
 When [Resting](Telling-The-Story#Resting), or [Travelling](Telling-The-Story#Travelling) you will get a chance to do some activities. These are simple declarations of how you spend a large chunk of time, culminating in some benefit to the player.
 

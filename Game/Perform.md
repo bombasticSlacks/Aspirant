@@ -1,3 +1,9 @@
+---
+layout: default
+title: Perform
+parent: Skills
+nav_order: 2
+---
 ## Perform
 One of the [Skills](Skills) in Aspirant. 
 

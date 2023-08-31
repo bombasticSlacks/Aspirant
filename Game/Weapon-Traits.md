@@ -1,3 +1,9 @@
+---
+layout: default
+title: Weapon Traits
+parent: Weapons
+nav_order: 2
+---
 ## [Weapon](Weapons) Traits
 
 | Name                                                | Cost |

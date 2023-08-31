@@ -1,3 +1,9 @@
+---
+layout: default
+title: Example Mounts
+parent: Mounts
+nav_order: 2
+---
 ## Example Mounts
 
 ### Dire Wolf

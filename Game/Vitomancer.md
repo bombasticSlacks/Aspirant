@@ -1,3 +1,9 @@
+---
+layout: default
+title: Vitomancer
+parent: Magic Training
+nav_order: 2
+---
 ## Vitomancer
 One of the 8 [Magic-Training](Magic-Training) disciplines.
 

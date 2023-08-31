@@ -1,3 +1,9 @@
+---
+layout: default
+title: Creature Traits
+parent: Tables
+nav_order: 2
+---
 ## Creature Traits
 
 ### Maul

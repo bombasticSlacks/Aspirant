@@ -1,3 +1,9 @@
+---
+layout: default
+title: Diviner
+parent: Magic Training
+nav_order: 2
+---
 ## Diviner
 One of the 8 [Magic-Training](Magic-Training) disciplines.
 

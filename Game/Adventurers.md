@@ -1,7 +1,13 @@
+---
+layout: default
+title: Adventurers
+parent: Character Creation
+nav_order: 2
+---
 ## Adventurers
 A way to do [Character-Creation](Character-Creation).
 
-To create a character who is already a knowlegdable adventurer. 
+To create a character who is already a knowledgeable adventurer. 
 * Determine your XP target
 * Determine your attributes
 * Determine your skills

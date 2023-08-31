@@ -1,3 +1,9 @@
+---
+layout: default
+title: Sport
+parent: Skills
+nav_order: 2
+---
 ## Sport
 One of the [Skills](Skills) in Aspirant. 
 

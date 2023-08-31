@@ -1,3 +1,9 @@
+---
+layout: default
+title: Weapons
+parent: Equipment
+nav_order: 2
+---
 ## Weapons
 Weapon [Equipment](Equipment) can normally be separated into 3 categories: Basic, artisan and exotic. Anyone can use a Basic weapon without difficulty. An artisan or exotic weapon would require additional training or attacks will be at a -3.
 

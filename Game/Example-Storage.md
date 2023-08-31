@@ -1,3 +1,9 @@
+---
+layout: default
+title: Example Storage
+parent: Storage
+nav_order: 2
+---
 ## Example [Storage](Storage)
 * Non-exhaustive list of storage a character could use. You can instead design your own [Designing-Storage](Designing-Storage). 
 * Cost is the full charge to commission, including labour.

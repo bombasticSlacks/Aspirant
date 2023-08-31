@@ -1,3 +1,9 @@
+---
+layout: default
+title: Armour
+parent: Equipment
+nav_order: 2
+---
 ## Armour
 Armour [Equipment](Equipment) is your character's safety net. It is designed to protect against only a small amount of high-powered attacks. However, advanced armour can be almost impervious to simpler weapons. Armour will protect certain locations on your body. A suit of armour together has shared integrity, but separate details for each location it protects on your body. Some armours will stack, such as shields and energy fields. If you have multiple valid armour sources, you can choose to use whichever you want (though only 1 per attack).
 

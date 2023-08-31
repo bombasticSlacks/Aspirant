@@ -1,3 +1,9 @@
+---
+layout: default
+title: Composure
+parent: Skills
+nav_order: 2
+---
 ## Composure
 One of the [Skills](Skills) in Aspirant. 
 

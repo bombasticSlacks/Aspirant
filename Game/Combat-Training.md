@@ -1,3 +1,9 @@
+---
+layout: default
+title: Combat Training
+parent: Character Development
+nav_order: 2
+---
 ## Combat Training
 One of the three greater [Training](Character-Development#Types%20Of%20Training) disciplines.
 

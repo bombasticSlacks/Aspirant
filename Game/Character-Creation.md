@@ -1,3 +1,8 @@
+---
+layout: default
+title: Character Creation
+has_children: true
+---
 ## Character Creation
 To play Aspirant as a [Player](How-To-Play#The%20Players) , you will need to create a character, this will be your way of connecting to the game world and interacting with it. When referring to the player, the player's character will be used interchangeably with the player themselves. 
 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Acrobatics
+parent: Skills
+nav_order: 2
+---
 ## Acrobatics
 One of the [Skills](Skills) in Aspirant. 
 

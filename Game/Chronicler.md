@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chronicler
+parent: Trades Training
+nav_order: 2
+---
 ## Chronicler
 One of the 8 [Trades Training](Trades-Training) disciplines.
 #TODOcopy 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Marksman
+parent: Combat Training
+nav_order: 2
+---
 ## Marksman
 One of the 8 [combat training](Combat-Training) disciplines.
 #TODOcopy 

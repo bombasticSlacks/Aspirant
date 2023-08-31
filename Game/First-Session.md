@@ -1,3 +1,9 @@
+---
+layout: default
+title: First Session
+parent: How To Play
+nav_order: 2
+---
 ## First Session
 ![House](Content/House.svg)
 The world of Aspirant is big, but it will start out small. During the first session, a number of questions about the world will be answered.

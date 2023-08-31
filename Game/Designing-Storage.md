@@ -1,3 +1,9 @@
+---
+layout: default
+title: Designing Storage
+parent: Storage
+nav_order: 2
+---
 ## Designing [Storage](Storage)
 
 ### Crafting Storage

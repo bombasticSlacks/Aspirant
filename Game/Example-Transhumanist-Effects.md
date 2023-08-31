@@ -1,3 +1,9 @@
+---
+layout: default
+title: Example Transhumanist Effects
+parent: Tables
+nav_order: 2
+---
 ## Example Transhumanist Effects
 * This is a non-exhaustive list of effects a character could have installed.
 * Prices are not included as these should be rare and almost priceless.

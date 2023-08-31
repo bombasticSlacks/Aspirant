@@ -1,3 +1,9 @@
+---
+layout: default
+title: Illusionist
+parent: Magic Training
+nav_order: 2
+---
 ## Illusionist
 One of the 8 [Magic-Training](Magic-Training) disciplines.
 

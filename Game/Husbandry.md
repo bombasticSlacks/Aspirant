@@ -1,3 +1,9 @@
+---
+layout: default
+title: Husbandry
+parent: Skills
+nav_order: 2
+---
 ## Husbandry
 One of the [Skills](Skills) in Aspirant. 
 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Combat
+parent: Telling The Story
+nav_order: 2
+---
 ## Combat
 ### Combat Turns
 Combat in Aspirant is more structured than standard narrative time, since it is also more high stakes. Combat is broken up into combat turns. During each 5 second combat turn, you get a personal turn to take an action.

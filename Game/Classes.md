@@ -1,3 +1,9 @@
+---
+layout: default
+title: Classes
+parent: Character Creation
+nav_order: 2
+---
 ## Classes
 A way to do [Character-Creation](Character-Creation)
 

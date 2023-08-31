@@ -1,3 +1,9 @@
+---
+layout: default
+title: Materials
+parent: Services
+nav_order: 2
+---
 ## Material
 All things are made up of materials. This usually isn't a major concern to the average adventurer, but a savvy tradesman will want to carefully select materials of varying qualities for their projects. Characters will need to source materials for anything they are [Crafting](Crafting). Materials should be simple and interchangeable within a quality.
 

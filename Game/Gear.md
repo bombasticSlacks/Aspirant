@@ -1,3 +1,9 @@
+---
+layout: default
+title: Gear
+parent: Equipment
+nav_order: 2
+---
 ## Gear
 Generalist [Equipment](Equipment) characters in the world of Aspirant need to perform activities and skill tests or otherwise help their characters. 
 

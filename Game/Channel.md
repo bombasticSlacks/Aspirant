@@ -1,3 +1,9 @@
+---
+layout: default
+title: Channel
+parent: Skills
+nav_order: 2
+---
 ## Channel
 One of the [Skills](Skills) in Aspirant. 
 

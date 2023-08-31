@@ -1,3 +1,9 @@
+---
+layout: default
+title: Mounts
+parent: Equipment
+nav_order: 2
+---
 ## Mounts
 A mount is critical [Equipment](Equipment) for an adventurer. Moving with just the storage on your back would waste precious time and space. Generally, mounts consist of different breeds of horses, however more exotic mounts with special abilities aren’t unheard of.
 
@@ -44,7 +50,7 @@ A mount's value in [Currency](Equipment#Currency) is determined by its stats.
 ### Exotic Mounts
 Sometimes something other than a horse is used. 
 * An exotic mount requires [Husbandry](Husbandry) to be trained as a [Skills](Skills) to be able to ride at all.
-* Exotic mounts can have additional [Creature-Traits](Creature-Traits.md) which will cost between 10-50 silver.
+* Exotic mounts can have additional [Creature-Traits](Creature-Traits) which will cost between 10-50 silver.
 * Exotic mounts attributes can be determined from their [Creatures](Running-The-Game#Creatures) attributes.
 
 ### Acquiring Mounts

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Fitness
+parent: Skills
+nav_order: 2
+---
 ## Fitness
 One of the [Skills](Skills) in Aspirant.
 
