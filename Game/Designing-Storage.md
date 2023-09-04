@@ -15,12 +15,12 @@ Efficient storage requires numerous small latches and fixings and meticulous tai
 
 Every type of storage can have up to 4 additional size.
 
-| Additional Size Of Storage | Cost |
-| -------------------------- | ---- |
-| 1                          | 5    |
-| 2                          | 10   |
-| 3                          | 20   |
-| 4                          | 30   |
+| Additional Size Of Storage | Cost (cumulative) |
+| -------------------------- | ----------------- |
+| 1                          | 5                 |
+| 2                          | 10                |
+| 3                          | 20                |
+| 4                          | 30                |
 
 > So, a Belt with 6 storage would cost 10 silver for the base plus 10 silver for the additional 2 size of storage.
 
