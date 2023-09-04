@@ -1,6 +1,9 @@
 ---
 layout: default
-nav_exclude: true
+title: Dorna
+parent: Post Calamity
+nav_order: 2
+grand_parent: Worlds
 ---
 ## Dorna
 
@@ -16,27 +19,27 @@ Truth Teller in Dorna that tells the fates.
 
 2 Argent hold tens as well (7 people) [Bastion](../../Bastion), Vitomancy, Enchanter, Abjurer, Duelist
 
-#### Aye
+### Aye
 The barkeep
 
-### Mercs Scarlet Inferno (Ess Eye)
+## Mercs Scarlet Inferno (Ess Eye)
 
 Use [Flurry](../../Flurry) and [Berserker](../../Berserker) training.
-#### Jordan
+### Jordan
 Merc leader
 
-#### Katherine
+### Katherine
 Merc QM
 
 
-### Argent Hold
+## Argent Hold
 
-#### Tally (Talia Defferen)
+### Tally (Talia Defferen)
 Field Officer
 
 Tight bun, younger, Black officer uniform
 
-#### Fen Onyx
+### Fen Onyx
 The Mage
 he/him
 

@@ -1,6 +1,9 @@
 ---
 layout: default
-nav_exclude: true
+title: Monsters
+parent: Post Calamity
+nav_order: 2
+grand_parent: Worlds
 ---
 ## Monsters
 Monsters list for [Post-Calamity](Post-Calamity)
