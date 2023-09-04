@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lore
+title: Worlds
 has_children: true
 ---
 ## Worlds
