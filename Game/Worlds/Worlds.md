@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lore
+has_children: true
+---
 ## Worlds
 
 Many stories can be told in the world of Aspirant. These are just a few of them:

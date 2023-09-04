@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Magic Training
-parent: Training
+parent: Character Development
 nav_order: 2
 has_children: true
 ---

@@ -1,6 +1,9 @@
 ---
 layout: default
-nav_exclude: true
+title: Hooks
+parent: Post Calamity
+nav_order: 2
+grand_parent: Worlds
 ---
 ## Hooks and Intrigue
 For [Post-Calamity](Post-Calamity) A list of things the players know of, and quests they wish to complete.
@@ -12,7 +15,7 @@ For [Post-Calamity](Post-Calamity) A list of things the players know of, and que
 [Vespin-Aevaris](Vespin-Aevaris) knows of a staff of power in a dead civilisation crypt to the South West of [Crosshaven](Crosshaven)
 
 ### The Manticore
-[Arturas-Gabrys](Arturas-Gabrys) knows there is a manticore broken free from a wizard tower NE of [Crosshaven](Crosshaven). [Argent-Hold](Argent-Hold) needs experts to track and deal with it. Grey and brown sell swords from [Session-1](Session-1.md) were travelling in that direction.
+[Arturas-Gabrys](Arturas-Gabrys) knows there is a manticore broken free from a wizard tower NE of [Crosshaven](Crosshaven). [Argent-Hold](Argent-Hold) needs experts to track and deal with it. Grey and brown sell swords from [Session-1](Session-1) were travelling in that direction.
 
 ## Complete
 For [Post-Calamity](Post-Calamity) a list of completed hooks

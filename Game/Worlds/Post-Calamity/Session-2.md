@@ -1,6 +1,9 @@
 ---
 layout: default
-nav_exclude: true
+title: Session 2
+parent: Post Calamity
+nav_order: 1
+grand_parent: Worlds
 ---
 ## Session 2
 [Post-Calamity](Post-Calamity)

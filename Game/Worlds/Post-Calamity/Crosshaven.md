@@ -1,6 +1,9 @@
 ---
 layout: default
-nav_exclude: true
+title: Crosshaven
+parent: Post Calamity
+nav_order: 2
+grand_parent: Worlds
 ---
 ## Crosshaven
 

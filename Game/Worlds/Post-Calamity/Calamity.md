@@ -1,6 +1,9 @@
 ---
 layout: default
-nav_exclude: true
+title: Calamity
+parent: Post Calamity
+nav_order: 2
+grand_parent: Worlds
 ---
 ## Calamity
 The calamity is the terrible effect that happened to cause the lost empire to fall.

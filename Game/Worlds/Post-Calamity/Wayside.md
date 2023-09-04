@@ -1,6 +1,9 @@
 ---
 layout: default
-nav_exclude: true
+title: Wayside
+parent: Post Calamity
+nav_order: 2
+grand_parent: Worlds
 ---
 ## Wayside
 
