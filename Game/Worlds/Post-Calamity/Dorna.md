@@ -19,6 +19,18 @@ Truth Teller in Dorna that tells the fates.
 
 2 Argent hold tens as well (7 people) [Bastion](../../Bastion), Vitomancy, Enchanter, Abjurer, Duelist
 
+### The Truthsayer
+Saw-say blind woman.
+
+service door for deliveries
+garden with gate towards the road
+
+sewed shut eyes, matted hair, glowing ethereal blue skin.
+
+Alchohol stove making tea,
+
+Aethertouched, doesn't need ritual magic to perform rituals.
+
 ### Aye
 The barkeep
 

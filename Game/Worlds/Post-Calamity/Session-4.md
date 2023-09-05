@@ -17,7 +17,7 @@ grand_parent: Worlds
 * 8 meter tall, war machine, dormant, inside, maul + cannon.
 * Temple, had a dias with an indent for the orb
 
-## Segment 5 Dorna Spring 13 -
+## Segment 5 Dorna Spring 13 - 14
 * Went to meet [Jordan](Dorna#Jordan), spotted [Arturas-Gabrys](Arturas-Gabrys) Axe, had heard stories from father about the axe being used to slay.
 * Told to meet [Katherine](Dorna#Katherine) about payment
 * *Downtime*
@@ -29,7 +29,7 @@ grand_parent: Worlds
 * While labouring, Greg spotted a box of armour in the back of the local tailors shop.
 * [Vespin-Aevaris](Vespin-Aevaris) went to see [Tally (Talia Defferen)](Dorna#Tally%20(Talia%20Defferen))
 * The last group of mercenaries "departed", 10-15 days ago (stopped ordering drinks)
-* [Arturas-Gabrys](Arturas-Gabrys) talking too [Alexander-Aurelius](Alexander-Aurelius)
+* [Arturas-Gabrys](Arturas-Gabrys) talking to [Alexander-Aurelius](Alexander-Aurelius)
 
 ### Rewards
 * Got paid their 30 silver
@@ -39,7 +39,6 @@ grand_parent: Worlds
 
 ### To Do
 * [Alexander-Aurelius](Alexander-Aurelius) wants to talk to the Truthsayer, get info on the manticore and SI fighting.
-* 
 
 ### Hooks
 * [Arturas-Gabrys](Arturas-Gabrys) got information on the symbol
