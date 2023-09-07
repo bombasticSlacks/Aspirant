@@ -1,10 +1,9 @@
 ## Strength
-### Force
+### Strike
 Formerly Melee, 
-this skill encompasses melee attacks, and applying force to another object. 
+this skill encompasses melee attacks, and applying immediate force to another object. 
 
 This includes:
-* Wrestling
 * Tackling
 * Knocking a door down
 * Striking with a weapon
@@ -22,6 +21,7 @@ This includes:
 * Pushing
 * Carrying
 * Throwing
+* Wrestling
 
 ### Endurance
 *Not formerly a skill*, 
