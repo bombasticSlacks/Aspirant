@@ -29,4 +29,4 @@ A few [Classes](Classes) characters of 10XP are provided for [The Players](How-T
 * [Aaron Corse](Example-Characters/Aaron-Corse) a [Fighter](Classes#Fighter) [Healer](Classes#Healer)
 * [Ceradelle](Example-Characters/Ceradelle) a [Beast Master](Classes#Beast%20Master) [Archer](Classes#Archer)
 * [Granite](Example-Characters/Granite) a [Face](Classes#Face) [Brawler](Classes#Brawler)
-* [James Mals](Example-Characters/James-Mals) a [Elementalist](Classes#Elementalist) [Rogue](Classes#Rogue)
+* [James Malt](Example-Characters/James-Malt) a [Elementalist](Classes#Elementalist) [Rogue](Classes#Rogue)
