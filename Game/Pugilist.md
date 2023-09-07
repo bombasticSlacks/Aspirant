@@ -48,5 +48,5 @@ While unarmed, you can as [Reacting to Attacks](Combat#Reacting%20to%20Attacks),
 #### Rip and Tear
 Your unarmed attacks get the [Penetrating](Weapon-Traits#Penetrating) quality, and +2 damage.
 
-#### Pankration
+#### Bone Crushing
 When grappling an opponent, and you opt to inflict an injury, it is of critical severity.

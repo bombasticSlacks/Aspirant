@@ -138,7 +138,7 @@ Equipment:
 You want to be a great sorcerer. Someone who has complete control of reality and bends their environment to their will. 
 * Start with the Channel and Perception skills at beginner
 * Start with a basic training in one of: Amateur Abjuration, Amateur Evocation, Amateur Illusion, Amateur Transmutation
-* Start with the Channeller training
+* Start with the Channeler training
 
 Equipment:
 * 1 basic weapon of size 2 or less 

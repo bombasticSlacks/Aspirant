@@ -62,7 +62,7 @@ When multiple characters are all attempting to perform the same task together, i
 Generally you cannot perform a skill without [Training](Character-Development#Training), however in some cases a skill test will be forced or simple enough the character could feasibly attempt it anyway. This means that even though you are untrained, you or the game state is forcing your character to try anyways. Examples would be trying to spot enemies with [Perception](Perception), or jumping across a ledge with [Fitness](Fitness). Any untrained skill test is at an additional -2.
 
 ### Character Skills
-Aspirant has a pre-built list of skills that should cover any activity a character would be expected to do.
+Aspirant has a prebuilt list of skills that should cover any activity a character would be expected to do.
 
 #### Strength Skills
 * [Fitness](Fitness)

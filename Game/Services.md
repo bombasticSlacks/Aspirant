@@ -23,7 +23,7 @@ Aspirant is a world of tradespeople, experts with something to offer a prospecti
 | Commissioning Performing a simple ritual                                  | $5 + reagents$                                                                          |
 | Commissioning Storage                                                     | $5$ + [Crafting Storage](Designing-Storage#Crafting%20Storage)                          |
 | Commissioning a standard days work for a tradesman                        | $5$                                                                                     |
-| Commissioning creating commestibles                                       | $4 + reagents$                                                                          |
+| Commissioning creating comestibles                                       | $4 + reagents$                                                                          |
 | Commissioning surgery                                                     | $8$                                                                                     |
 | Day of lodgings                                                           | $1$                                                                                     |
 | Day of travel food                                                        | $1$                                                                                     |

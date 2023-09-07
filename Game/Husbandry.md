@@ -14,7 +14,7 @@ Calming an animal, determining an animal's disposition/what it desires, controll
 
 ### Mundane Activities
 Some examples of things that shouldn't require a skill test would be.
-* Traveling on your horse.
+* travelling on your horse.
 * Petting a domesticated animal.
 * Harvesting material from a domesticated animal.
 

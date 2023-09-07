@@ -27,7 +27,7 @@ On your turn, you may make an attack at -2 additional difficulty, and then perfo
 If you move during your turn, enemies suffer a -2 to hit you with ranged attacks until your next turn.
 
 #### Lash Out
-After attacking, you may throw a weapon of a smaller size as a seperate attack.
+After attacking, you may throw a weapon of a smaller size as a separate attack.
 
 ---
 

@@ -20,7 +20,7 @@ nav_exclude: true
 - Jarl staying with Casey
 - Rei slipped down the stairs
 - Magdolin started to travel with them, disappeared in the sunlight, dropped the lantern.
-- Did some trading in town, liquified some items
+- Did some trading in town, liquefied some items
 
 
 ### Rewards

@@ -17,7 +17,7 @@ If it is your first time playing Aspirant you should do the following:
 ### GM
 The GM, or, game master is the person who directs the flow of the game. They set up the initial state of the world, potentially with [help from the players](First-Session), then control every non-player character and entity in it.
 
-More guidlines for the GM are provided in [Running The Game](Running-The-Game).
+More guidelines for the GM are provided in [Running The Game](Running-The-Game).
 
 ### Dice
 ![dice-icons](Content/dice-icons.svg)
