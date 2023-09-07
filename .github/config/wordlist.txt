@@ -68,9 +68,13 @@ Immunosuppressants
 lootable
 barding
 undead
-NPC’s
+NPC
 Juke
 dwarven
 mithril
 attunement
 Sunderer
+prebuilt
+vitomancy
+Warhammer
+ichor

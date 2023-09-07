@@ -51,7 +51,7 @@ Armour Integrity is calculated as $Structure \over 8$ rounded. You can also cons
 > A character with 1 pieces of leather (2 structure) and 3 pieces of plate mail (6 each) has 20 total structure, that's 2 bonus integrity for an overall armour integrity of 4.
 
 ### Style
-Characters shouldn’t be punished for dressing their characters in a specific way that doesn’t describe perfect protection. The most obvious, however dated, example is a chain mail bikini. Though silly and perhaps not something players would be comfortable with, if it is in your game, it counts as fully functional armour with similar weaknesses to any other armour of similar material. Players and, in most cases, NPCs should not have their narrative armour exploited.  
+Characters shouldn’t be punished for dressing their characters in a specific way that doesn’t describe perfect protection. The most obvious, however dated, example is a chain mail bikini. Though silly and perhaps not something players would be comfortable with, if it is in your game, it counts as fully functional armour with similar weaknesses to any other armour of similar material. Players and, in most cases, NPC characters should not have their narrative armour exploited.  
 
 This extends to hats and helmets as well. Many players love the idea of a hero with their hair flowing in the wind and a perfect smile as they rush into battle. This vision doesn’t need to conflict with having a protected head. Characters could have headbands, thinly framed helmets, or even a high coif / scarf. These give the impression of head armour without giving up the vision of a hero.
 

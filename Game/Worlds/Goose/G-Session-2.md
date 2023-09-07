@@ -11,7 +11,7 @@ nav_exclude: true
 - Casey helping to heal the sick
 - 4 floors including top deck, 
 - Casey moved to the bottom floor
-- The sick have degenerative disease, leprosy (ish)
+- The sick have degenerative disease, leprosy (kind of)
 - about 7 minutes till, the hull explodes
 - Casey cleaning self for 2 minutes
 - Bront see soldiers casing tent to the west

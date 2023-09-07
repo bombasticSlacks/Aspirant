@@ -43,7 +43,7 @@ Basic, advanced, and master training represents powerful new abilities that your
 * Power Based - Requires spending [Power](Stats#Power) to activate.
 * Per Downtime - Very powerful abilities that can only be used once before resting in a city.
 
-Training is split into 24 seperate specialized schools over 3 disciplines. Cities, heroes, and ancient tomes will be able to provide access to training.
+Training is split into 24 separate specialized schools over 3 disciplines. Cities, heroes, and ancient tomes will be able to provide access to training.
 
 #### Basic Level Training
 Basic training should fundamentally be known by any practitioners of the training school.
