@@ -39,10 +39,9 @@ Your precision and accuracy with your hands.
 
 This includes: 
 * Shooting ranged weapons
-* Doing meticulous work that precision would matter in
+* Doing meticulous work with your hands
 * Picking locks
-* Surgery
-* Engraving
+* Playing instruments
 
 ### Reflexes
 Formerly Acrobatics
@@ -64,6 +63,7 @@ This includes:
 * Dancing
 * Stepping out of combat with an enemy
 * Acrobatics
+* Maintaining balance
 
 ## Intelligence
 ### Knowledge
@@ -114,6 +114,6 @@ This includes:
 * Not being afraid
 * Charmed
 * Mind controlled
-* Going without food / water
+* Hiding weakness / exhaustion
 
 
