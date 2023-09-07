@@ -55,7 +55,7 @@ Your character grew up assisting with skilled work. A parent was a carpenter, bl
 * Start with a set of glasses or guild insignia.
 
 ## Aspiration
-What does your character dream to be? What have you practiced and purchased to become? Your characters may not stay on the path to this, true adventurers' lives are never so simple, but this is where you start. 
+What does your character dream to be? What have you trained and purchased to become? Your characters may not stay on the path to this, true adventurers' lives are never so simple, but this is where you start. 
 
 ### Expert
 You want to be the best at something. To hone your craft above all others. You aren’t content to work with recycled steel or soft wood; you'll need the best materials to create items of legend.
@@ -82,7 +82,7 @@ Equipment:
 ### Hero
 You want to be a legend. You see people suffering, harassed by monsters and bandits. You aren’t content to make a difference in your town. You will battle with the legendary monsters of the world.
 * Start with the Melee and Acrobatics skills at beginner
-* Start with a basic training in one of: Dual Wielding, Acrobat, Laborer, Marksman
+* Start with a basic training in one of: Dual Wielding, Acrobat, Labourer, Marksman
 * Start with a basic training in Fighter
 
 Equipment:

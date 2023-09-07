@@ -16,7 +16,7 @@ If your character has [Attuned](Magic-Training#Attuned), your character can perf
 * Command and manipulate unintelligent spirits and undead.
 
 #### Army Of The Dead
-If you have the [With Me](Leader#With%20Me) training, you can control undead in combat like NPC’s.
+If you have the [With Me](Leader#With%20Me) training, you can control non hostile undead in combat using [With Me](Leader#With%20Me).
 
 #### Dead Tongues
 You can speak to spirits and undead even if you wouldn't otherwise share a language.

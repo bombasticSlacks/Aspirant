@@ -16,7 +16,7 @@ Invoking the power of magical items, channeling [Abjurer](Abjurer), [Evoker](Evo
 There are no mundane channel actions there should always be a chance to fail.
 
 ### Restrictions
-Unlike with most skills, channeling is a complex field. There is a limit on what actviities you can attempt to cast based on discipline and [Magic-Training](Magic-Training). Without [Attuned](Magic-Training#Attuned) you cannot use the channel skill.
+Unlike with most skills, channeling is a complex field. There is a limit on what activities you can attempt to cast based on discipline and [Magic-Training](Magic-Training). Without [Attuned](Magic-Training#Attuned) you cannot use the channel skill.
 
 > So, a character with [Amateur Abjuration](Abjurer#Amateur%20Abjuration) can at most attempt the magical feats described there, anything beyond that would be impossible. 
 
