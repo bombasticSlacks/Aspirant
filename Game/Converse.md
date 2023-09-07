@@ -15,7 +15,7 @@ Talking to people, intimidating them, trying to get a good deal or bargain.
 ### Mundane Activities
 Some examples of things that shouldn't require a skill test would be.
 * Talking with someone casually.
-* Asking someone a question where they have no reason to misstrust you.
+* Asking someone a question where they have no reason to mistrust you.
 * Selling things for an expected value.
 
 ### Example Activities

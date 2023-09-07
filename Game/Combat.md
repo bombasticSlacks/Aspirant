@@ -100,7 +100,7 @@ When you fire a ranged weapon if you are outside the range, you suffer a -1 per 
 ### Combat Modifiers
 These are modifiers you can apply to attacks and manoeuvres which will put you at a negative to the skill test but will make the attack or manoeuvre do additional things. Several other powerful modifiers can be learned by taking specific combat training. 
 #### Called Shot
-Your attack has a guaranteed hit location. -2 for arm or leg shots, -1 for chest shots, -3 for headshots.
+Your attack has a guaranteed hit location. -2 for arm or leg shots, -1 for chest shots, -3 for head shots.
 #### Difficult Hit
 You make your attacks harder to predict and therefore harder to avoid. You can give yourself a -1, -3 or -5 to your skill test to give your opponent a similar negative to any reactions.
 #### Reposition

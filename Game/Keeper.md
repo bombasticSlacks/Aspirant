@@ -17,7 +17,7 @@ No penalties for performing [Character Activity On Mount](Mounts#Character%20Act
 When charging an opponent on [Mount](Mounts), you receive +2 damage.
 
 #### Hound Master
-If you have the [With Me](Leader#With%20Me) training, you can control animals in combat like NPC’s.
+If you have the [With Me](Leader#With%20Me) training, you can control animals in combat using [With Me](Leader#With%20Me).
 
 #### Pack Animals
 Animals that you own / have control of may be fit with saddlebags.

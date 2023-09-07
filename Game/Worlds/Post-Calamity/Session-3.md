@@ -29,7 +29,7 @@ grand_parent: Worlds
 	* [Vespin-Aevaris](Vespin-Aevaris) did an enchantment
 	* [Greg-Colter](Greg-Colter) negotiated a contract, to move 30 size of gunpowder to Dorna for 10% of the profits (30 silver)
 	* [Akren](Akren) made scrap bombs using his iron
-* Traveling:
+* travelling:
 	* [Alexander-Aurelius](Alexander-Aurelius) [Meditate](../../Activities#Meditate) + [Unsupervised Training](../../Activities#Unsupervised%20Training)
 	* [Arturas-Gabrys](Arturas-Gabrys) [Scavenge](../../Activities#Scavenge)
 	* [Akren](Akren) [Production Work](../../Activities#Production%20Work) [Scout](../../Activities#Scout)

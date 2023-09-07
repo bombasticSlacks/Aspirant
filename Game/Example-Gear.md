@@ -59,7 +59,7 @@ A folded up cloth stretcher used for transporting individuals who have suffered 
 
 #### Crystallized Magic
 *Size $1\over5$ Cost 1*
-Crystallized magic is an infused or naturally magically resonant material that allows a channeller to transform pure magic into effects on the material world. Crystallized magic is necessary to [Channel](Channel) any meaningful magical effect, it can be purchased like any other equipment. When casting a spell, you need to expend a unit of crystallized magic per level of the spell, so amateur spells require 1 unit, expert 2, and master 3. If you do not succeed, there is a 50% chance that the crystallized magic is not expended. 
+Crystallized magic is an infused or naturally magically resonant material that allows a channeler to transform pure magic into effects on the material world. Crystallized magic is necessary to [Channel](Channel) any meaningful magical effect, it can be purchased like any other equipment. When casting a spell, you need to expend a unit of crystallized magic per level of the spell, so amateur spells require 1 unit, expert 2, and master 3. If you do not succeed, there is a 50% chance that the crystallized magic is not expended. 
 
 ---
 

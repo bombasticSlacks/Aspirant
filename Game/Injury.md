@@ -13,22 +13,22 @@ nav_order: 2
 | Critical Injury | Yes              | Yes            | Guaranteed In Head, Chance In Body [Composure](Composure) skill test |
 | Lethal Injury   | Death            | Yes            | Always                                       |
 
-Humans don’t have hit points. A character's armour takes the role of their safety net to injury, once it is gone when attacked and harmed you suffer injuries. Whenever something is injured the injury can be of the magnitude of: None (N), Mimal Injury (M), Severe Injury (S), Critical Injury (C), Lethal Injury (L).
+Humans don’t have hit points. A character's armour takes the role of their safety net to injury, once it is gone when attacked and harmed you suffer injuries. Whenever something is injured, the injury can be of the magnitude of: None (N), Minimal Injury (M), Severe Injury (S), Critical Injury (C), Lethal Injury (L).
 
 ### Minimal Injury
 An attack that causes a minimal injury causing bleeding, bruising or burns. After taking a minimal injury you will usually need to make a strength test to not immediately fall over, collapse, drop what you were holding etc.
 
 ### Severe Injury
-Severe injuries need medical attention quickly. Can involve broken bones, and severe lacerations. After taking a severe injury there is only so long you can fight before you pass out. After taking a severe injury you will usually need to make a strength test to not immediately fall over, collapse, drop what you were holding etc. Also consider yourself Wounded.
+Severe injuries need medical attention quickly. Can involve broken bones, and severe lacerations. After taking a severe injury, there is only so long you can fight before you pass out. After taking a severe injury you will usually need to make a strength test to not immediately fall over, collapse, drop what you were holding etc. Also consider yourself Wounded.
 
 ### Critical Injury
-Critical injuries pose an immediate threat to your life. You are left severely bleeding, unconscious, burning, etc. as well you will have completely lost use of the damaged limb which will need to be replaced and you will suffer the negative effect of the injury (no strength test to resist). If you take a critical injury to the chest you must make a resolve test or die. A critical injury to the head immediately kills you. Consider yourself Wounded your resolve test starts at -1.
+Critical injuries pose an immediate threat to your life. You are left severely bleeding, unconscious, burning, etc. as well you will have completely lost use of the damaged limb which will need to be replaced, and you will suffer the negative effect of the injury (no strength test to resist). If you take a critical injury to the chest you must make a resolve test or die. A critical injury to the head immediately kills you. Consider yourself Wounded your resolve test starts at -1.
 
 ### Lethal Injury
 A lethal injury always means death to a normal sized creature and represents a complete failure or their necessary systems for survival. Usually weapons that cause immediate death are known for their large amounts of collateral damage.
 
 ### Immediate Effects
-Immediate effects are what happens to you immediately as you are harmed by an enemy. All injury types inflict one of these but you will sometimes get to roll to ignore the effect. The usual immediate effects to each limb are as follows: 
+Immediate effects are what happens to you immediately as you are harmed by an enemy. All injury types inflict one of these, but you will sometimes get to roll to ignore the effect. The usual immediate effects to each limb are as follows: 
 
 | Body Part | Effect                                                           |
 | --------- | ---------------------------------------------------------------- |
@@ -62,7 +62,7 @@ If your character is injured, they only have so long before they pass out/collap
 After someone is Wounded, whether they pass out or stay conscious they will suffer long term effects. Once the combat ends you will take negatives to any skill tests. Critical injuries give a -3 to all tests and Severe injuries give a -2 to all tests. This lasts until your characters gets to [rest](Telling-The-Story#Resting).
 
 ### Managing Injuries
-Aside from the trauma of being injured in the field there are also other immediate risks to a person who has been injured and they will need treatment to stay healthy or remain alive (depending on severity).
+Aside from the trauma of being injured in the field there are also other immediate risks to a person who has been injured, and they will need treatment to stay healthy or remain alive (depending on severity).
 
 When determining difficulty of [Medicine](Medicine) skill tests and negatives for any injuries you just count the injury that would give you the largest negative/penalty. Multiple injuries don’t provide cumulative negatives.
 

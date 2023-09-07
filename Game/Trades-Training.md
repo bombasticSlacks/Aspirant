@@ -10,7 +10,7 @@ One of the 3 greater [Training](Character-Development#Training) disciplines.
 #TODOcopy 
 
 ### Specialized Schools
-Trades are furth seperated into 8 specialized schools:
+Trades are further separated into 8 specialized schools:
 * [Chronicler](Chronicler)
 * [Craftsman](Craftsman)
 * [Doctor](Doctor)

@@ -38,7 +38,7 @@ Your armour incorporates fine linens, silks, furs or other more exotic fibers, w
 
 #### Fortified
 Material: Metal
-Your armour has been affixed with additional plates and bands or metal suring up weak spots and creating new layers of protection. Increase the armour's [Structure](Armour#Structure) by 2, but reduce [Max Skill](Armour#Max%20Skill) by 1.
+Your armour has been affixed with additional plates and bands of metal strengthening it and creating new layers of protection. Increase the armour's [Structure](Armour#Structure) by 2, but reduce [Max Skill](Armour#Max%20Skill) by 1.
 
 #### Hardened
 Material: Leather
@@ -54,11 +54,11 @@ Your armour swaps out heavy, awkward pieces and components for lighter more flex
 
 #### Mail
 Material: Metal
-Your armour is costructed of distinct interlocking rings or scales, reducing weight and providing excellent flexibility when compared to plates of the same material. Increase the [Max Skill](Armour#Max%20Skill) of the armour by 1 and gain [Resistance](Armour#Weakness%20and%20Resistance) [Rending](Combat#Rending), but gain [Weakness](Armour#Weakness%20and%20Resistance) [Piercing](Combat#Piercing).
+Your armour is constructed of distinct interlocking rings or scales, reducing weight and providing excellent flexibility when compared to plates of the same material. Increase the [Max Skill](Armour#Max%20Skill) of the armour by 1 and gain [Resistance](Armour#Weakness%20and%20Resistance) [Rending](Combat#Rending), but gain [Weakness](Armour#Weakness%20and%20Resistance) [Piercing](Combat#Piercing).
 
 #### Ornate
 Material: Any
-Your armour includes ornate details such as eloborate patterns, intricate engravings, or precise coloration that makes it impressive to behold. You add +1 to [Converse](Converse) skill tests when more than half of your armour pieces have the Ornate Trait.
+Your armour includes ornate details such as elaborate patterns, intricate engravings, or precise coloration that makes it impressive to behold. You add +1 to [Converse](Converse) skill tests when more than half of your armour pieces have the Ornate Trait.
 
 #### Padded
 Material: Textile
@@ -74,7 +74,7 @@ Your armour utilizes additional banded plates, rivets, latches, or planks to rei
 
 #### Runic
 Material: Metal, Wood
-Through arcane ritual and carefully handiwork, your armor has had runes chiselled into its structure. This armour counts as a Focus for [Channel](Channel) skill tests.    
+Through arcane ritual and carefully handiwork, your armour has had runes chiselled into its structure. This armour counts as a Focus for [Channel](Channel) skill tests.    
 
 #### Spiked
 Material: Metal, Wood

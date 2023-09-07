@@ -23,4 +23,4 @@ Gemstones and fancy powders.
 ### Exotic Resonant
 Intentionally imbued powders, items warped from long exposure to enchanted places.
 
-> Crystallized magic, liquified elements
+> Crystallized magic, liquefied elements

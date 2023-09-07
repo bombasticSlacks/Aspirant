@@ -23,15 +23,15 @@ Renting this facility for other experts to use returns 2 silver per day.
 
 
 ### Cart
-A way to move large ammounts of items and people around the countryside with ease. A cart can be used to travel if:
+A way to move large amounts of items and people around the countryside with ease. A cart can be used to travel if:
 * At least 2 horses are hooked up to haul it (though more can be).
 * 2 people spend their day driving.
 * You are not taking it off a standard trail.
 
-The benefit of traveling with a cart is that it: 
+The benefit of travelling with a cart is that it: 
 * Holds 60 size worth of items with people counting as 10 size.
 * Any person not driving gets a [Downtime Activity](Activities#Downtime%20Activity) every [Travel Segment](Telling-The-Story#Travel%20Segment).
-* Moves at the same rate as traveling by horse.
+* Moves at the same rate as travelling by horse.
 
 A cart can further be upgraded:
 #### Coach
