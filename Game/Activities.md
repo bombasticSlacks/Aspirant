@@ -64,7 +64,7 @@ Your character works the day at an up front rate. This work is typically for a c
 Your character has a specific skill or talent that they are trained to leverage. Usually, how this works is your character will be compensated a variable amount based on how successful you are at a skill test.
 
 #### Production Work
-Your character has a specific skill or talent and can create a certain amount of readily tradable goods based on succeeding on a skill test of some kind. Similar to Skilled work, but your compensation will usually not be in silver, and instead in something that will need to be exchanged.
+Your character has a specific skill or talent and can create a certain amount of goods ready to be traded based on succeeding on a skill test of some kind. Similar to Skilled work, but your compensation will usually not be in silver, and instead in something that will need to be exchanged.
 
 Any production work you do, assuming you succeed, will pay similarly to what it costs in [Costs Of Services](Services#Costs%20Of%20Services). When you arrive in a town for the first time every week, the town should perform a [Variable Difficulty](Skills#Variable%20Difficulty) [Wealth](Running-The-Game#Wealth) test to determine how many people in town want production work done. If the town succeeds, 1 job + 1 per [Step Of Success](Skills#Step%20Of%20Success) is available. 
 
