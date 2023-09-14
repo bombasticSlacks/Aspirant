@@ -21,6 +21,7 @@ Inspired by PBtA systems, classic fantasy RPGs, and worlds where all labour has 
 * It is updated almost weekly with a public [changelog](https://github.com/bombasticSlacks/Aspirant/commits/main).
 * It may have proposed changes you can [review](https://github.com/bombasticSlacks/Aspirant/pulls).
 * A list of known [issues](https://github.com/bombasticSlacks/Aspirant/issues) is tracked you can report anything you notice.
+* You can also request [features](https://github.com/bombasticSlacks/Aspirant/issues/new/choose)
 
 
 Hosted By: [Dillon Matchett](https://github.com/bombasticSlacks) Licensed Under: [CC BY SA 4.0](https://github.com/bombasticSlacks/Aspirant/blob/main/LICENSE) Originally At: [GitHub](https://github.com/bombasticSlacks/Aspirant) 
