@@ -89,7 +89,7 @@ This includes:
 * Learning more about an environment
 
 ## Fellowship
-### Interfacing
+### Communication
 Identical to converse, just interfacing also would include one - way conversation, or written word
 
 ### Husbandry
