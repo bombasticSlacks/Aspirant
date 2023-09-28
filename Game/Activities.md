@@ -32,6 +32,7 @@ These are actions that a character can do while travelling somewhere, your spare
 *You focus on sleeping and being prepared for what lies ahead*
 * +1 to a single skill test the next day, declared before rolling.
 * Refresh your [Power](Stats#Power) to maximum.
+
 #### Do Production Work
 *You tinker and work away in the evenings, maybe even while riding*
 Do everything required for some Production Work.
@@ -40,6 +41,8 @@ Do everything required for some Production Work.
 * When the GM rolls to determine if an [Ambush Encounter](Telling-The-Story#Ambush%20Encounter) occurs, you may have your [Subterfuge](Subterfuge) provide a penalty to the roll. 
 * You receive a +3 on any [Perception](Perception) tests during [Ambush Encounter](Telling-The-Story#Ambush%20Encounter).
 * You are not surprised if ambushed. 
+* You regain 1 [Power](Stats#Power)
+
 #### Scavenge
 *You hunt, forage, and provide for the group*
 No one needs to spend money on food during this [Travel Segment](Telling-The-Story#Travel%20Segment).
@@ -48,6 +51,7 @@ No one needs to spend money on food during this [Travel Segment](Telling-The-Sto
 * When your GM rolls to see if you have a [Travel Encounter](Telling-The-Story#Travel%20Encounter) you may have your [Subterfuge](Subterfuge) provide a penalty to the roll. 
 * The [GM](How-To-Play#GM) will describe any [Travel Encounter](Telling-The-Story#Travel%20Encounter) that occurs to you, before the scene begins. 
 * You also gain 1 [Influencing the Story](Telling-The-Story#Influencing%20the%20Story)
+
 #### Socialize
 *Your character work on getting closer together, sharing moments*
 Any number of the characters in the party may socialize. Any time you aid a character you socialized with, they get a +2 instead of a +1. Socializing while [Travelling](#Travelling), requires an activity such as a [Games Kit](Example-Gear#Games%20Kit), or good food.

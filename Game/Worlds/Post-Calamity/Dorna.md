@@ -46,10 +46,8 @@ Merc QM
 
 ## Argent Hold
 
-### Tally (Talia Defferen)
-Field Officer
 
-Tight bun, younger, Black officer uniform
+[Tally (Talia Defferen)](Argent-Hold#Tally%20(Talia%20Defferen)) stationed there
 
 ### Fen Onyx
 The Mage

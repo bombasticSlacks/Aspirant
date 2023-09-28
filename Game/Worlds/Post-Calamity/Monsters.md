@@ -46,3 +46,13 @@ Poisonous, paralyzing tail, rending claws, Mouth can evoke spell like effects of
 
 Not resistant to Heat and Slashing
 
+### Tidal Boar
+A fey / Elemental creature that is like a living Tidal Wave. Appears after rains and on riverbanks.
+
+Weak to heat damage,
+can't be harmed by physical damage
+strong forward fighter with charging
+exceptionally dangerous in water
+
+
+

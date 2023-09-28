@@ -18,4 +18,4 @@ Small Size 2 city,
 * Clavers, Chetin run the Patron.
 
 ### Wayside Quarry
-produces the compounds for explosives recently had a cave in [[Hooks#]]
+produces the compounds for explosives recently had a cave in 

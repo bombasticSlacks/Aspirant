@@ -38,7 +38,6 @@ grand_parent: Worlds
 * spend 5 minutes, failing to hide, lost the cub (10 minutes left)
 * Cauldron, bookshelf, nice bed
 * [Argent-Hold](Argent-Hold) wants a book called "bridging the moon"
-* 
 
 
 ### Rewards
