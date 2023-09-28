@@ -7,3 +7,7 @@
 	* Books of expert: Conjuration, Divination, Abjuration.
 	* Book on "bridging the moon" bringing the moon back to earth.
 
+* [Tussole](Tussole) the people will be mad about the boar dying, it was helping business as people were stopping there and turning back. 
+
+
+

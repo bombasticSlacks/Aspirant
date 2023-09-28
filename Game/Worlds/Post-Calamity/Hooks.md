@@ -17,6 +17,12 @@ For [Post-Calamity](Post-Calamity) A list of things the players know of, and que
 ### The Manticore
 [Arturas-Gabrys](Arturas-Gabrys) knows there is a manticore broken free from a wizard tower NE of [Crosshaven](Crosshaven). [Argent-Hold](Argent-Hold) needs experts to track and deal with it. Grey and brown sell swords from [Session-1](Session-1) were travelling in that direction.
 
+### Ruins in the Lake
+[Arturas-Gabrys](Arturas-Gabrys) remembers hearing of ancient ruins rumors in Dorna.
+
+### The Tidal Boar
+An elemental boar has taken control of the waterway south of Tennens
+
 ## Complete
 For [Post-Calamity](Post-Calamity) a list of completed hooks
 

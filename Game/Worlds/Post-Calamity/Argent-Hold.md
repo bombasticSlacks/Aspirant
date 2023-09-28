@@ -20,3 +20,13 @@ Long Rifles
 *Onyx* - Vitomancy and Enchanting
 
 
+### Tally (Talia Defferen)
+Field Officer
+
+Tight bun, younger, Black officer uniform
+
+[Simple-Joe](Simple-Joe) younger sister
+
+"Average" nickname
+
+
