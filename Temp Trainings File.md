@@ -1,10 +1,26 @@
-Want to cut down on training disciplines slightly, move to 4, 4, 4 with a generalist 5th
+Want to cut down on training disciplines slightly, move to 4, 4, 4 with a generalist 5th still
 
-## Combat
+| Combat | Old Category (generally) | 
+| --------- | ------------------------ |
+| Mercenary | Duelist + Flury |
+| Brawler | Pugilist + Berserker |
+| Rogue | Shadow + Marksman |
+| Knight | Keeper + Bastion |
 
-Assassins (sneak + ranged)
+---
 
-Brawlers (berserk + pugilist)
+| Trades | Old Category (generally) | 
+| -------- | ------------------------ |
+| Academic | Scientist + Doctor |
+| Worker | Craftsman + Worker |
+| Explorer | Hunter + Chronicler |
+| Star | Leader + Performer |
 
-Champions ()
+---
 
+| Magic | Old Category (generally) | 
+| ------------ | ------------------------ |
+| Mystic | Div + Vito |
+| Arcanist | Ench + Conjure |
+| Elementalist | Evocation + Abjuration |
+| Magician | Illusion + Transmutation |

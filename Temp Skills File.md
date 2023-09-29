@@ -101,11 +101,11 @@ Exact same as perform, however this tends to be used in more direct "lying" situ
 No longer includes instrumental performance, which is better covered with Accuracy
 
 ## Resolve
-### Channelling
-Exact same
+### Will
+The Same as channelling, inflicting your will on the world around you.
 
-### Weaving
-Exact same as ritual, but it's a less clunky word, and also I think better clarifies that rituals make things, whereas channelling just changes things temporarily.
+### Attunement
+Exact same as ritual, but it's a less clunky word, and also I think better clarifies that rituals are about connecting to the world around you and influencing it, rather than changing it completely.
 
 ### Composure
 Partially the same, composure only includes the mental portion of the old composure.
