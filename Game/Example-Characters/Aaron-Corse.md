@@ -24,10 +24,10 @@ Aaron is a stout [Fighter](../Classes#Fighter) [Healer](../Classes#Healer) with 
 
 | Skill                        | Stat | Ranks | -   | Skill                     | Stat | Ranks |
 | ---------------------------- | ---- | ----- | --- | ------------------------- | ---- | ----- |
-| [Athletics](../Athletics.md)           | STR  | 1     | -   | [Perception](Perception)  | INT  | 1     |
-| [Strike](../Strike.md)               | STR  | 2     | -   | [Science](Science)        | INT  | 2     |
+| [Athletics](../Athletics)           | STR  | 1     | -   | [Perception](Perception)  | INT  | 1     |
+| [Strike](../Strike)               | STR  | 2     | -   | [Science](Science)        | INT  | 2     |
 | [Acrobatics](Acrobatics)     | AGI  |       | -   | [Composure](Composure)    | RES  | 1     |
-| [Accuracy](../Accuracy.md) | AGI  | 1     | -   | [Channel](Channel)        | RES  |       |
+| [Accuracy](../Accuracy) | AGI  | 1     | -   | [Channel](Channel)        | RES  |       |
 | [Subterfuge](Subterfuge)     | AGI  |       | -   | [Ritual](Ritual)          | RES  |       |
 | [Perform](../Perform)        | FEL  |       | -   | [Converse](../Converse)   | FEL  |       |
 | [Knowledge](Knowledge)       | INT  |       | -   | [Husbandry](../Husbandry) | FEL  |       |

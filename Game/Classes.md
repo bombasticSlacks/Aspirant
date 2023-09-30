@@ -42,11 +42,11 @@ The basis of your character, the skills and tools that help you when adventuring
 
 | Skill                        | Ranks |
 | ---------------------------- | ----- |
-| [Athletics](Athletics.md)           | 1     |
-| [Strike](Strike.md)               | 2     |
+| [Athletics](Athletics)           | 1     |
+| [Strike](Strike)               | 2     |
 | [Sport](Sport)               | 1     |
 | [Acrobatics](Acrobatics)     | 1     |
-| [Accuracy](Accuracy.md) |       |
+| [Accuracy](Accuracy) |       |
 | [Subterfuge](Subterfuge)     |       |
 | [Knowledge](Knowledge)       |       |
 | [Perception](Perception)     | 1     |
@@ -86,11 +86,11 @@ The basis of your character, the skills and tools that help you when adventuring
 
 | Skill                        | Ranks |
 | ---------------------------- | ----- |
-| [Athletics](Athletics.md)           | 1     |
-| [Strike](Strike.md)               | 2     |
+| [Athletics](Athletics)           | 1     |
+| [Strike](Strike)               | 2     |
 | [Sport](Sport)               |       |
 | [Acrobatics](Acrobatics)     |       |
-| [Accuracy](Accuracy.md) | 1     |
+| [Accuracy](Accuracy) | 1     |
 | [Subterfuge](Subterfuge)     |       |
 | [Knowledge](Knowledge)       |       |
 | [Perception](Perception)     | 1     |
@@ -133,11 +133,11 @@ The basis of your character, the skills and tools that help you when adventuring
 
 | Skill                        | Ranks |
 | ---------------------------- | ----- |
-| [Athletics](Athletics.md)           |       |
-| [Strike](Strike.md)               |       |
+| [Athletics](Athletics)           |       |
+| [Strike](Strike)               |       |
 | [Sport](Sport)               |       |
 | [Acrobatics](Acrobatics)     | 2     |
-| [Accuracy](Accuracy.md) |       |
+| [Accuracy](Accuracy) |       |
 | [Subterfuge](Subterfuge)     |       |
 | [Knowledge](Knowledge)       | 1     | 
 | [Perception](Perception)     | 1     |
@@ -180,11 +180,11 @@ The basis of your character, the skills and tools that help you when adventuring
 
 | Skill                        | Ranks |
 | ---------------------------- | ----- |
-| [Athletics](Athletics.md)           |       |
-| [Strike](Strike.md)               |       |
+| [Athletics](Athletics)           |       |
+| [Strike](Strike)               |       |
 | [Sport](Sport)               |       |
 | [Acrobatics](Acrobatics)     |       |
-| [Accuracy](Accuracy.md) |       |
+| [Accuracy](Accuracy) |       |
 | [Subterfuge](Subterfuge)     |       |
 | [Knowledge](Knowledge)       | 2     |
 | [Perception](Perception)     | 2     |
@@ -224,11 +224,11 @@ The basis of your character, the skills and tools that help you when adventuring
 
 | Skill                        | Ranks |
 | ---------------------------- | ----- |
-| [Athletics](Athletics.md)           |       |
-| [Strike](Strike.md)               | 1     | 
+| [Athletics](Athletics)           |       |
+| [Strike](Strike)               | 1     | 
 | [Sport](Sport)               |       |
 | [Acrobatics](Acrobatics)     |       |
-| [Accuracy](Accuracy.md) |       |
+| [Accuracy](Accuracy) |       |
 | [Subterfuge](Subterfuge)     |       |
 | [Knowledge](Knowledge)       |       |
 | [Perception](Perception)     | 1     |
@@ -267,11 +267,11 @@ The basis of your character, the skills and tools that help you when adventuring
 
 | Skill                        | Ranks |
 | ---------------------------- | ----- |
-| [Athletics](Athletics.md)           | 1     |
-| [Strike](Strike.md)               | 1     |
+| [Athletics](Athletics)           | 1     |
+| [Strike](Strike)               | 1     |
 | [Sport](Sport)               |       |
 | [Acrobatics](Acrobatics)     |       |
-| [Accuracy](Accuracy.md) |       |
+| [Accuracy](Accuracy) |       |
 | [Subterfuge](Subterfuge)     |       |
 | [Knowledge](Knowledge)       | 1     |
 | [Perception](Perception)     | 1     |
@@ -335,7 +335,7 @@ Your character's additional interest, things they do in their spare time.
 *You seem to always be getting thrown out of bars*
 
 ##### Additional Skills (2 Ranks)
-* Add one rank to [Strike](Strike.md)
+* Add one rank to [Strike](Strike)
 * Add one rank to [Sport](Sport)
 
 ##### Additional Trainings (2 Basic)
@@ -353,7 +353,7 @@ Your character's additional interest, things they do in their spare time.
 *Your upbringing included learning to spar*
 
 ##### Additional Skills (2 Ranks)
-* Add one rank to [Strike](Strike.md)
+* Add one rank to [Strike](Strike)
 * Add one rank to [Acrobatics](Acrobatics)
 
 ##### Additional Trainings (2 Basic)
@@ -423,7 +423,7 @@ Your character's additional interest, things they do in their spare time.
 *From a young age, you practised with a bow*
 
 ##### Additional Skills (2 Ranks)
-* Add two ranks to [Accuracy](Accuracy.md)
+* Add two ranks to [Accuracy](Accuracy)
 
 ##### Additional Trainings (2 Basic)
 * [Bow Expert](Marksman#Bow%20Expert)

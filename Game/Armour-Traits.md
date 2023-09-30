@@ -78,7 +78,7 @@ Through arcane ritual and carefully handiwork, your armour has had runes chisell
 
 #### Spiked
 Material: Metal, Wood
-Your armour includes spines, brambles, or razor sharp edges which may be used to perform an unarmed [Strike](Strike.md) attack that deals Piercing damage. This attack occurs automatically when a [Grapple](Combat#Grapple) is initiated involving the character wearing this armour.
+Your armour includes spines, brambles, or razor sharp edges which may be used to perform an unarmed [Strike](Strike) attack that deals Piercing damage. This attack occurs automatically when a [Grapple](Combat#Grapple) is initiated involving the character wearing this armour.
 
 #### Well-fitted
 Material: Any
@@ -96,7 +96,7 @@ The wood your armour is made of has extraordinary properties, giving it steel li
 
 #### Mechanical Strength
 Material: Machinery
-Your armour augments the users movements Count as having 4 [Strength](Strength) when [Dealing Damage](Combat#Dealing%20Damage) or performing a [Athletics](Athletics.md) skill test other than Swimming, but lower [Max Skill](Armour#Max%20Skill) by 2. If the character already has 4 [Strength](Strength) instead treat their [Strength](Strength) as 5.
+Your armour augments the users movements Count as having 4 [Strength](Strength) when [Dealing Damage](Combat#Dealing%20Damage) or performing a [Athletics](Athletics) skill test other than Swimming, but lower [Max Skill](Armour#Max%20Skill) by 2. If the character already has 4 [Strength](Strength) instead treat their [Strength](Strength) as 5.
 
 #### Natural Resilience
 Material: Leather
