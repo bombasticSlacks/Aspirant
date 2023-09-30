@@ -2,5 +2,6 @@
   "obsidian-linter",
   "obsidian-languagetool-plugin",
   "obsidian-sort-and-permute-lines",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "find-unlinked-files"
 ]

@@ -24,10 +24,10 @@ Ceradelle is an elvish [Beast Master](../Classes#Beast%20Master) [Archer](../Cla
 
 | Skill                        | Stat | Ranks | -   | Skill                     | Stat | Ranks |
 | ---------------------------- | ---- | ----- | --- | ------------------------- | ---- | ----- |
-| [Athletics](../Athletics)           | STR  | 1     | -   | [Perception](Perception)  | INT  | 1     |
-| [Strike](../Strike)               | STR  | 1     | -   | [Science](Science)        | INT  |       |
+| [Athletics](../Strength#Athletics)           | STR  | 1     | -   | [Perception](Perception)  | INT  | 1     |
+| [Strike](../Strength#Strike)               | STR  | 1     | -   | [Science](Science)        | INT  |       |
 | [Acrobatics](Acrobatics)     | AGI  |       | -   | [Composure](Composure)    | RES  |       |
-| [Accuracy](../Accuracy) | AGI  | 2     | -   | [Channel](Channel)        | RES  |       |
+| [Accuracy](../Agility#Accuracy) | AGI  | 2     | -   | [Channel](Channel)        | RES  |       |
 | [Subterfuge](Subterfuge)     | AGI  |       | -   | [Ritual](Ritual)          | RES  |       |
 | [Perform](../Perform)        | FEL  |       | -   | [Converse](../Converse)   | FEL  |       |
 | [Knowledge](Knowledge)       | INT  | 1     | -   | [Husbandry](../Husbandry) | FEL  | 2     |

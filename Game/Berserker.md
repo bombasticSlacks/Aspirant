@@ -31,7 +31,7 @@ After taking an injury that would wound you, you immediately get to take a comba
 If you injure an enemy with a critical or lethal injury during an attack you may make an additional attack against another enemy in range with the same modifiers.
 
 #### Enrage
-When you make a [Strike](Strike) skill test, spend a [Power](Stats#Power) to become enraged. While enraged, you have: 
+When you make a [Strike](Strength#Strike) skill test, spend a [Power](Stats#Power) to become enraged. While enraged, you have: 
 * +1 [Strength](Strength) 
 * -1 [Intelligence](Intelligence)
 * +2 to [Composure](Composure) tests

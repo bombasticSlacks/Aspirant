@@ -41,7 +41,7 @@ If there are obstacles in the way of a movement, you can test [Acrobatics](Acrob
 ### Attacking
 Usually, in combat, you will be trying to harm your opponents with the goal of killing or disabling them. Attacks will typically be 
 * Thrown attacks using [Athletics](Strength#Athletics)
-* Ranged attacks using [Accuracy](Accuracy)
+* Ranged attacks using [Accuracy](Agility#Accuracy)
 * Melee attacks using [Strike](Strength#Strike) 
 * Magic attacks using [Channel](Channel)
 

@@ -24,10 +24,10 @@ Della is a small [Conjurer](../Classes#Conjurer) [Tactician](../Classes#Tacticia
 
 | Skill                        | Stat | Ranks | -   | Skill                     | Stat | Ranks |
 | ---------------------------- | ---- | ----- | --- | ------------------------- | ---- | ----- |
-| [Athletics](../Athletics)           | STR  |       | -   | [Perception](Perception)  | INT  | 2     |
-| [Strike](../Strike)               | STR  |       | -   | [Science](Science)        | INT  |       |
+| [Athletics](../Strength#Athletics)           | STR  |       | -   | [Perception](Perception)  | INT  | 2     |
+| [Strike](../Strength#Strike)               | STR  |       | -   | [Science](Science)        | INT  |       |
 | [Acrobatics](Acrobatics)     | AGI  |       | -   | [Composure](Composure)    | RES  |       |
-| [Accuracy](../Accuracy) | AGI  |       | -   | [Channel](Channel)        | RES  |       |
+| [Accuracy](../Agility#Accuracy) | AGI  |       | -   | [Channel](Channel)        | RES  |       |
 | [Subterfuge](Subterfuge)     | AGI  |       | -   | [Ritual](Ritual)          | RES  | 2     |
 | [Perform](../Perform)        | FEL  |       | -   | [Converse](../Converse)   | FEL  | 1     |
 | [Knowledge](Knowledge)       | INT  | 2     | -   | [Husbandry](../Husbandry) | FEL  | 1     |

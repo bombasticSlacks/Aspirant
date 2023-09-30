@@ -24,7 +24,7 @@ When you roll a 6 for damage, increase the severity of the injury by one level.
 If you have an available reaction, you can always attempt to avoid an incoming attack, even if it would seem impossible to evade.
 
 #### Fast Hands
-You may attempt to [Disarm](Combat#Disarm) someone with a [Subterfuge](Subterfuge) instead of [Strike](Strike) skill test.
+You may attempt to [Disarm](Combat#Disarm) someone with a [Subterfuge](Subterfuge) instead of [Strike](Strength#Strike) skill test.
 
 #### Juke
 As a free action once per round, you can exchange places with another character in melee. You receive a +1 to rolls against this person during this combat round. After you enter a melee, you can reposition all the characters in it as long as they all remain in melee range (2m).

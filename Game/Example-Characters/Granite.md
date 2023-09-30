@@ -24,10 +24,10 @@ Granite is a lean and fit [Face](../Classes#Face) [Brawler](../Classes#Brawler) 
 
 | Skill                        | Stat | Ranks | -   | Skill                     | Stat | Ranks |
 | ---------------------------- | ---- | ----- | --- | ------------------------- | ---- | ----- |
-| [Athletics](../Athletics)           | STR  | 1     | -   | [Perception](Perception)  | INT  | 1     |
-| [Strike](../Strike)               | STR  | 1     | -   | [Science](Science)        | INT  |       |
+| [Athletics](../Strength#Athletics)           | STR  | 1     | -   | [Perception](Perception)  | INT  | 1     |
+| [Strike](../Strength#Strike)               | STR  | 1     | -   | [Science](Science)        | INT  |       |
 | [Acrobatics](Acrobatics)     | AGI  |       | -   | [Composure](Composure)    | RES  | 1     |
-| [Accuracy](../Accuracy) | AGI  |       | -   | [Channel](Channel)        | RES  |       |
+| [Accuracy](../Agility#Accuracy) | AGI  |       | -   | [Channel](Channel)        | RES  |       |
 | [Subterfuge](Subterfuge)     | AGI  |       | -   | [Ritual](Ritual)          | RES  |       |
 | [Perform](../Perform)        | FEL  | 1      | -   | [Converse](../Converse)   | FEL  | 2     |
 | [Knowledge](Knowledge)       | INT  |       | -   | [Husbandry](../Husbandry) | FEL  | 1     |

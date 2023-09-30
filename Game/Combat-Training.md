@@ -26,7 +26,7 @@ Any specialist in one of the above schools can also teach any of the following t
 
 ### Basic Training
 #### Crossbow Expert
-You can reload a crossbow and fire it in the same turn at a -1 to the [Accuracy](Accuracy) skill test.  
+You can reload a crossbow and fire it in the same turn at a -1 to the [Accuracy](Agility#Accuracy) skill test.  
 
 #### Exotic Expert
 If you have [Martial Training](#Martial%20Training), you can use any [Exotic](Weapons#Exotic) weapon without penalty.   
@@ -53,10 +53,10 @@ You can use any artisan weapons without penalty.
 You get an additional 4 size worth of belt space.
 
 #### Resilient
-Your character may add their [Athletics](Athletics) skill to rolls for immediate effects of injuries, resist death from critical injuries to the chest, and to not collapse from being wounded.
+Your character may add their [Athletics](Strength#Athletics) skill to rolls for immediate effects of injuries, resist death from critical injuries to the chest, and to not collapse from being wounded.
 
 #### Bury Them
-If an enemy is on the ground, and you make a [Strike](Strike) attack against them, you receive a +4 to the skill test, and you add 3 to your [Damage Bonus](Weapons#Damage%20Bonus).
+If an enemy is on the ground, and you make a [Strike](Strength#Strike) attack against them, you receive a +4 to the skill test, and you add 3 to your [Damage Bonus](Weapons#Damage%20Bonus).
 
 ---
 
@@ -65,7 +65,7 @@ If an enemy is on the ground, and you make a [Strike](Strike) attack against the
 You can opt to make the damage type of any [Rending](Combat#Rending) or [Piercing](Combat#Piercing) weapon cause [Impact](Combat#Impact) injuries instead.
 
 #### Sweep
-As a [Special Manoeuvre](Combat#Special%20Manoeuvres), you may make a [Strike](Strike) skill test. If successful, all enemies in melee with you and within 3m of you need to dodge or be knocked prone.
+As a [Special Manoeuvre](Combat#Special%20Manoeuvres), you may make a [Strike](Strength#Strike) skill test. If successful, all enemies in melee with you and within 3m of you need to dodge or be knocked prone.
 
 #### Quick Draw
 If your weapon is sheathed, you can make an attack with +2 bonus to hit. When rolling damage, roll an extra d6 and take the highest roll.
