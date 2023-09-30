@@ -26,7 +26,7 @@ Any time you are doing something athletic, you should make an athletics [Skill](
 * [Attacking](Combat#Attacking)
 
 ---
-## Endurance
+### Endurance
 The act of enduring hardships, remaining steadfast in the face of adversity. This includes:
 * staying conscious from injuries.
 * Maintaining an action while under strain.
@@ -34,7 +34,7 @@ The act of enduring hardships, remaining steadfast in the face of adversity. Thi
 
 Any time you are striking something, you should make an endurance [Skill](Skills) test.
 
-### Relevant Activities
+#### Relevant Activities
 * [Injury](Injury)
 
 ---

@@ -25,7 +25,7 @@ Your character has 5 primary attributes the dictate what they can do:
 Measures physical power.
 - Melee Weapon Damage
 - Maximum Toxicity
-- [Athletics](Athletics), [Endurance](Endurance), and [Strike](Strike) [Skills](Skills)
+- [Athletics](Strength#Athletics), [Endurance](Strength#Endurance), and [Strike](Strength#Strike) [Skills](Skills)
 
 #### Agility
 Measures speed and dexterity

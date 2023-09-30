@@ -26,7 +26,7 @@ You receive a +1 to all skill tests related to surviving and navigating natural 
 You and those travelling with you cannot be tracked.
 
 #### Pin And Restrain
-While you are successfully grappling someone on your turn, you may as an action attempt to more permanently restrain them with [Manacles](Example-Gear#Manacles) or an equivalent item. This is a [Athletics](Athletics) [Opposed Difficulty](Skills#Opposed%20Difficulty) test opposed by the opponents [Athletics](Athletics).
+While you are successfully grappling someone on your turn, you may as an action attempt to more permanently restrain them with [Manacles](Example-Gear#Manacles) or an equivalent item. This is a [Athletics](Strength#Athletics) [Opposed Difficulty](Skills#Opposed%20Difficulty) test opposed by the opponents [Athletics](Strength#Athletics).
 
 #### Take Them Alive
 After injuring someone, you may always opt for them to go unconscious instead of dying.
