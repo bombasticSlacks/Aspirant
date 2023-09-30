@@ -16,9 +16,4 @@ The act of striking other things, inflicting immediate force on them. This inclu
 Any time you are striking something, you should make a strike skill test.
 
 ### Relevant Activities
-* [Attack of Opportunity](Combat#Attack%20of%20Opportunity)
-* [Parry](Combat#Parry)
-* [Shove](Combat#Shove)
-* [Disarm](Combat#Disarm)
-* [Grapple](Combat#Grapple)
-* [Avoiding Obstacles](Combat#Avoiding%20Obstacles)
+* [Attacking](Combat#Attacking)
