@@ -37,7 +37,7 @@ These are actions that a character can do while travelling somewhere, your spare
 Do everything required for some Production Work.
 #### On Watch
 *You organize watch for the team taking extra shifts when necessary*
-* When the GM rolls to determine if an [Ambush Encounter](Telling-The-Story#Ambush%20Encounter) occurs, you may have your [Subterfuge](Subterfuge) provide a penalty to the roll. 
+* When the GM rolls to determine if an [Ambush Encounter](Telling-The-Story#Ambush%20Encounter) occurs, you may have your [Subterfuge](Agility#Grace) provide a penalty to the roll. 
 * You receive a +3 on any [Perception](Perception) tests during [Ambush Encounter](Telling-The-Story#Ambush%20Encounter).
 * You are not surprised if ambushed. 
 #### Scavenge
@@ -45,7 +45,7 @@ Do everything required for some Production Work.
 No one needs to spend money on food during this [Travel Segment](Telling-The-Story#Travel%20Segment).
 #### Scout
 *You travel ahead, and plan the journey*
-* When your GM rolls to see if you have a [Travel Encounter](Telling-The-Story#Travel%20Encounter) you may have your [Subterfuge](Subterfuge) provide a penalty to the roll. 
+* When your GM rolls to see if you have a [Travel Encounter](Telling-The-Story#Travel%20Encounter) you may have your [Subterfuge](Agility#Grace) provide a penalty to the roll. 
 * The [GM](How-To-Play#GM) will describe any [Travel Encounter](Telling-The-Story#Travel%20Encounter) that occurs to you, before the scene begins. 
 * You also gain 1 [Influencing the Story](Telling-The-Story#Influencing%20the%20Story)
 #### Socialize

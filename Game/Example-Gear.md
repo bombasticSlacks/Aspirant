@@ -164,7 +164,7 @@ A collection of tools required to store and catalogue evidence from crime scenes
 *Size 2 Cost 30*
 A collection of stamps, plates, glossy paper and inks required to forge official documents.
 
-Creating a forgery is a [Subterfuge](Subterfuge) [Fixed Difficulty](Skills#Fixed%20Difficulty) skill test with a difficulty assigned based on the complexity of the forgery. The cost in silver for the forgery is equal to 2 * the difficulty modifier. 
+Creating a forgery is a [Accuracy](Agility#Accuracy) [Fixed Difficulty](Skills#Fixed%20Difficulty) skill test with a difficulty assigned based on the complexity of the forgery. The cost in silver for the forgery is equal to 2 * the difficulty modifier. 
 
 > So, a -4 difficulty test would result in a forgery costing 8 silver.
 

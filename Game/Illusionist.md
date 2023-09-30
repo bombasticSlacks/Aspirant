@@ -16,7 +16,7 @@ If your character has [Attuned](Magic-Training#Attuned), your character can [Cha
 * Produce something that isn’t there: noise, visuals, smell.
 
 #### Shadow Illusionist
-As long as you have a focus, you can perform [Channel](Channel) tests when you would perform a [Subterfuge](Subterfuge) skill test.
+As long as you have a focus, you can perform [Channel](Channel) tests when you would perform a [Subterfuge](Agility#Grace) skill test.
 
 ---
 ### Advanced

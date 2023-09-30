@@ -70,9 +70,9 @@ Aspirant has a prebuilt list of skills that should cover any activity a characte
 * [Strike](Strength#Strike)
 
 #### Agility Skills
-* [Acrobatics](Acrobatics)
+* [Acrobatics](Agility#Reflexes)
 * [Accuracy](Agility#Accuracy)
-* [Subterfuge](Subterfuge)
+* [Subterfuge](Agility#Grace)
 
 #### Intelligence Skills
 * [Knowledge](Knowledge)

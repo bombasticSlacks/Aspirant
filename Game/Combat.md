@@ -36,7 +36,7 @@ In general, your movement is as simple as going up to your [Move Speed](Stats#Mo
 If you are prone, it takes the entirety of your available movement to stand up. 
 
 #### Avoiding Obstacles
-If there are obstacles in the way of a movement, you can test [Acrobatics](Acrobatics) to attempt to ignore them. Otherwise, you must spend a full turn of movement getting over the obstacles.
+If there are obstacles in the way of a movement, you can perform a [Grace](Agility#Grace) skill test to attempt to ignore them. Otherwise, you must spend a full turn of movement getting over the obstacles.
 
 ### Attacking
 Usually, in combat, you will be trying to harm your opponents with the goal of killing or disabling them. Attacks will typically be 
@@ -111,7 +111,7 @@ before making a melee attack or manoeuvre, you can move to a different side of y
 ### Special Manoeuvres
 These are attacks or abilities that any trained fighter can use. This isn’t an exhaustive list of everything you can do in combat but includes some of the manoeuvres that tend to come up a lot. Any manoeuvre which affects an enemy combatant is considered an attack (such as for determining if you are in melee). A number of other powerful manoeuvres can be learned by taking specific combat training. When reasonable [Combat Modifiers](#Combat%20Modifiers) and [Combat Bonuses and Negatives](#Combat%20Bonuses%20and%20Negatives) are applied to these regularly.
 #### Back out
-You make an [Acrobatics](Acrobatics) skill test to step out of melee with an opponent. If you succeed, you can move agility * 2 meters and then perform an action at a -2 (as normal). If you fail, you provoke an attack of opportunity and then may do that anyway.
+You make a [Grace](Agility#Grace) skill test to step out of melee with an opponent. If you succeed, you can move agility * 2 meters and then perform an action at a -2 (as normal). If you fail, you provoke an attack of opportunity and then may do that anyway.
 #### Cautious Step
 You move out of melee with an enemy without provoking an attack of opportunity. You can move up to your agility * 2 meters, but no other actions.
 #### Disarm
@@ -120,7 +120,7 @@ With at least one free hand or a melee weapon, you can attempt to disarm someone
 Make an attack with the intent of getting control of your opponent. If you successfully hit, your opponent is in a grapple. 
 On their turn, they may:
 * Attempt an [Athletics](Strength#Athletics) [Opposed Difficulty](Skills#Opposed%20Difficulty) skill test to become the grappler, instead of the grappled. This test is opposed by the grapplers [Athletics](Strength#Athletics)
-* Attempt a #TODOSKILL [Opposed Difficulty](Skills#Opposed%20Difficulty) skill test to stop being grappled. This test is opposed by the grapplers [Athletics](Strength#Athletics).
+* Attempt a [Grace](Agility#Grace) [Opposed Difficulty](Skills#Opposed%20Difficulty) skill test to stop being grappled. This test is opposed by the grapplers [Athletics](Strength#Athletics).
 
 On your turn, you may:
 * Make an [Athletics](Strength#Athletics) test to inflict a severe injury to them, ignoring armour.
@@ -139,14 +139,11 @@ With at least one free hand, you can attempt to move someone. Make a [Strike](St
 ### Reacting to Attacks
 During each full turn of combat, each character gets a single reaction, which they can use when something else happens during combat. Your reaction refreshes on your turn. In general, these are used to avoid incoming attacks. The generally available reactions are:
 
-#### Block
-A melee skill test at (-2) where if you succeed, you ignore damage and other effects from a melee attack. The attack still counts as hitting you (this can be relevant for certain effects).
-
-#### Dodge
-An [Acrobatics](Acrobatics) skill test at (-2) where if you succeed then an enemy attack doesn’t hit you. You cannot dodge while prone.
+#### Avoid
+A [Reflexes](Agility#Reflexes) skill test at a -2 where if you succeed, you ignore the effects of the attack unless otherwise specified.
 
 #### Move to Cover
-An [Acrobatics](Acrobatics) skill test (0) where if you succeed then you may move to a piece of cover within agility meters before an enemy ranged attack is calculated. You cannot Move to Cover while prone.
+A [Grace](Agility#Grace) skill test where if you succeed then you may move to a piece of cover within agility meters before an enemy ranged attack is calculated. You cannot Move to Cover while prone.
 
 #### Attack of Opportunity
 A [Strike](Strength#Strike) skill test at (-2) which you may perform if someone moves while [in melee](#Being%20in%20Melee%20Combat) with you. If successful, you can resolve an attack against them, which they cannot dodge.

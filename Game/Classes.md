@@ -45,9 +45,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Athletics](Strength#Athletics)           | 1     |
 | [Strike](Strength#Strike)               | 2     |
 | [Sport](Sport)               | 1     |
-| [Acrobatics](Acrobatics)     | 1     |
+| [Acrobatics](Agility#Reflexes)     | 1     |
 | [Accuracy](Agility#Accuracy) |       |
-| [Subterfuge](Subterfuge)     |       |
+| [Subterfuge](Agility#Grace)     |       |
 | [Knowledge](Knowledge)       |       |
 | [Perception](Perception)     | 1     |
 | [Science](Science)           |       |
@@ -89,9 +89,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Athletics](Strength#Athletics)           | 1     |
 | [Strike](Strength#Strike)               | 2     |
 | [Sport](Sport)               |       |
-| [Acrobatics](Acrobatics)     |       |
+| [Acrobatics](Agility#Reflexes)     |       |
 | [Accuracy](Agility#Accuracy) | 1     |
-| [Subterfuge](Subterfuge)     |       |
+| [Subterfuge](Agility#Grace)     |       |
 | [Knowledge](Knowledge)       |       |
 | [Perception](Perception)     | 1     |
 | [Science](Science)           |       |
@@ -136,9 +136,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Athletics](Strength#Athletics)           |       |
 | [Strike](Strength#Strike)               |       |
 | [Sport](Sport)               |       |
-| [Acrobatics](Acrobatics)     | 2     |
+| [Acrobatics](Agility#Reflexes)     | 2     |
 | [Accuracy](Agility#Accuracy) |       |
-| [Subterfuge](Subterfuge)     |       |
+| [Subterfuge](Agility#Grace)     |       |
 | [Knowledge](Knowledge)       | 1     | 
 | [Perception](Perception)     | 1     |
 | [Science](Science)           |       |
@@ -183,9 +183,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Athletics](Strength#Athletics)           |       |
 | [Strike](Strength#Strike)               |       |
 | [Sport](Sport)               |       |
-| [Acrobatics](Acrobatics)     |       |
+| [Acrobatics](Agility#Reflexes)     |       |
 | [Accuracy](Agility#Accuracy) |       |
-| [Subterfuge](Subterfuge)     |       |
+| [Subterfuge](Agility#Grace)     |       |
 | [Knowledge](Knowledge)       | 2     |
 | [Perception](Perception)     | 2     |
 | [Science](Science)           |       |
@@ -227,9 +227,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Athletics](Strength#Athletics)           |       |
 | [Strike](Strength#Strike)               | 1     | 
 | [Sport](Sport)               |       |
-| [Acrobatics](Acrobatics)     |       |
+| [Acrobatics](Agility#Reflexes)     |       |
 | [Accuracy](Agility#Accuracy) |       |
-| [Subterfuge](Subterfuge)     |       |
+| [Subterfuge](Agility#Grace)     |       |
 | [Knowledge](Knowledge)       |       |
 | [Perception](Perception)     | 1     |
 | [Science](Science)           |       |
@@ -270,9 +270,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Athletics](Strength#Athletics)           | 1     |
 | [Strike](Strength#Strike)               | 1     |
 | [Sport](Sport)               |       |
-| [Acrobatics](Acrobatics)     |       |
+| [Acrobatics](Agility#Reflexes)     |       |
 | [Accuracy](Agility#Accuracy) |       |
-| [Subterfuge](Subterfuge)     |       |
+| [Subterfuge](Agility#Grace)     |       |
 | [Knowledge](Knowledge)       | 1     |
 | [Perception](Perception)     | 1     |
 | [Science](Science)           |  1     |
@@ -354,7 +354,7 @@ Your character's additional interest, things they do in their spare time.
 
 ##### Additional Skills (2 Ranks)
 * Add one rank to [Strike](Strength#Strike)
-* Add one rank to [Acrobatics](Acrobatics)
+* Add one rank to [Acrobatics](Agility#Reflexes)
 
 ##### Additional Trainings (2 Basic)
 * [Martial Training](Combat-Training#Martial%20Training)
@@ -371,7 +371,7 @@ Your character's additional interest, things they do in their spare time.
 
 ##### Additional Skills (2 Ranks)
 * Add one rank to [Knowledge](Knowledge)
-* Add one rank to [Subterfuge](Subterfuge)
+* Add one rank to [Subterfuge](Agility#Grace)
 
 ##### Additional Trainings (2 Basic)
 * [Travel the Shadows](Hunter#Travel%20the%20Shadows)
@@ -407,7 +407,7 @@ Your character's additional interest, things they do in their spare time.
 *You always knew how to take care of yourself, even at others expense*
 
 ##### Additional Skills (2 Ranks)
-* Add two ranks to [Subterfuge](Subterfuge)
+* Add two ranks to [Subterfuge](Agility#Grace)
 
 ##### Additional Trainings (2 Basic)
 * [Shadow Combatant](Shadow#Shadow%20Combatant)

@@ -26,9 +26,9 @@ Aaron is a stout [Fighter](../Classes#Fighter) [Healer](../Classes#Healer) with 
 | ---------------------------- | ---- | ----- | --- | ------------------------- | ---- | ----- |
 | [Athletics](../Strength#Athletics)           | STR  | 1     | -   | [Perception](Perception)  | INT  | 1     |
 | [Strike](../Strength#Strike)               | STR  | 2     | -   | [Science](Science)        | INT  | 2     |
-| [Acrobatics](Acrobatics)     | AGI  |       | -   | [Composure](Composure)    | RES  | 1     |
+| [Acrobatics](Agility#Reflexes)     | AGI  |       | -   | [Composure](Composure)    | RES  | 1     |
 | [Accuracy](../Agility#Accuracy) | AGI  | 1     | -   | [Channel](Channel)        | RES  |       |
-| [Subterfuge](Subterfuge)     | AGI  |       | -   | [Ritual](Ritual)          | RES  |       |
+| [Subterfuge](Agility#Grace)     | AGI  |       | -   | [Ritual](Ritual)          | RES  |       |
 | [Perform](../Perform)        | FEL  |       | -   | [Converse](../Converse)   | FEL  |       |
 | [Knowledge](Knowledge)       | INT  |       | -   | [Husbandry](../Husbandry) | FEL  |       |
 

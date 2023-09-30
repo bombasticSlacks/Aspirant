@@ -24,29 +24,29 @@ When you roll a 6 for damage, increase the severity of the injury by one level.
 If you have an available reaction, you can always attempt to avoid an incoming attack, even if it would seem impossible to evade.
 
 #### Fast Hands
-You may attempt to [Disarm](Combat#Disarm) someone with a [Subterfuge](Subterfuge) instead of [Strike](Strength#Strike) skill test.
+You may attempt to [Disarm](Combat#Disarm) someone with a [Subterfuge](Agility#Grace) instead of [Strike](Strength#Strike) skill test.
 
 #### Juke
 As a free action once per round, you can exchange places with another character in melee. You receive a +1 to rolls against this person during this combat round. After you enter a melee, you can reposition all the characters in it as long as they all remain in melee range (2m).
 
 #### Light Step
-You never trigger traps by moving over them. You also receive a +1 to [Subterfuge](Subterfuge) skill tests related to moving silently.
+You never trigger traps by moving over them. You also receive a +1 to [Subterfuge](Agility#Grace) skill tests related to moving silently.
 
 #### Lost in the Crowd
 #TODOcopy 
 Ranged attacks against you are at a -2 if you’ve been in melee until your next turn.
 
 #### Mage Assassin
-You can roll [Subterfuge](Subterfuge) to obfuscate the fact that a magical phenomenon has taken place.
+You can roll [Subterfuge](Agility#Grace) to obfuscate the fact that a magical phenomenon has taken place.
 
 #### Poisoner
 You can apply poison to a weapon during combat as a free action. It lasts until the end of combat.
 
 #### Shadow Combatant
-Your character's [Threat](Stats#Threat) is reduced by your ranks in [Subterfuge](Subterfuge).
+Your character's [Threat](Stats#Threat) is reduced by your ranks in [Subterfuge](Agility#Grace).
 
 #### Thievery
-As [Skilled Work](Activities#Skilled%20Work), you can pickpocket. Make a [Variable Difficulty](Skills#Variable%20Difficulty) [Subterfuge](Subterfuge) skill test, you receive settlement wealth - 1 silver per [Step Of Success](Skills#Step%20Of%20Success). If you fail this skill test you may be in trouble with the law.
+As [Skilled Work](Activities#Skilled%20Work), you can pickpocket. Make a [Variable Difficulty](Skills#Variable%20Difficulty) [Subterfuge](Agility#Grace) skill test, you receive settlement wealth - 1 silver per [Step Of Success](Skills#Step%20Of%20Success). If you fail this skill test you may be in trouble with the law.
 
 ---
 
@@ -61,7 +61,7 @@ Weapons of size 1 you wield count as having the penetrative trait.
 You can manoeuvre perfectly well in the dark or when your vision is otherwise impaired.
 
 #### Tour Guide
-When rolling [Subterfuge](Subterfuge) to hide, move silently etc. you can include a small group of people at no negative. They don't contribute [Hindrance](Skills#Aid%20and%20Hindrance). 
+When rolling [Subterfuge](Agility#Grace) to hide, move silently etc. you can include a small group of people at no negative. They don't contribute [Hindrance](Skills#Aid%20and%20Hindrance). 
 
 #### Vanish
 If within 3m of a piece of cover you can spend 3 [Power](Stats#Power) to lose all attention in the combat and act as though no one were aware of you until you draw attention to yourself. This can also be used out of combat for a similar effect, however out of combat it isn’t limited and requires a skill test.
@@ -74,4 +74,4 @@ If within 3m of a piece of cover you can spend 3 [Power](Stats#Power) to lose al
 You do not need an item or object to hide behind when attempting to hide.
 
 #### Master Thief
-You may roll [Subterfuge](Subterfuge) to immediately use items and equipment stored on other characters in combat. Using the equipment would take the action it normally would.
+You may roll [Subterfuge](Agility#Grace) to immediately use items and equipment stored on other characters in combat. Using the equipment would take the action it normally would.
