@@ -24,8 +24,8 @@ Tess is a [Barbarian](../Classes#Barbarian) [Fortune Teller](../Classes#Fortune%
 
 | Skill                        | Stat | Ranks | -   | Skill                     | Stat | Ranks |
 | ---------------------------- | ---- | ----- | --- | ------------------------- | ---- | ----- |
-| [Fitness](Fitness)           | STR  | 1     | -   | [Perception](Perception)  | INT  | 2     |
-| [Melee](Melee)               | STR  | 2     | -   | [Science](Science)        | INT  |       |
+| [Athletics](../Athletics.md)           | STR  | 1     | -   | [Perception](Perception)  | INT  | 2     |
+| [Strike](../Strike.md)               | STR  | 2     | -   | [Science](Science)        | INT  |       |
 | [Acrobatics](Acrobatics)     | AGI  | 1     | -   | [Composure](Composure)    | RES  | 1     | 
 | [Marksmanship](Marksmanship) | AGI  |       | -   | [Channel](Channel)        | RES  |       |
 | [Subterfuge](Subterfuge)     | AGI  |       | -   | [Ritual](Ritual)          | RES  | 1      |

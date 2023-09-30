@@ -36,13 +36,13 @@ In general, your movement is as simple as going up to your [Move Speed](Stats#Mo
 If you are prone, it takes the entirety of your available movement to stand up. 
 
 #### Avoiding Obstacles
-If there are obstacles in the way of a movement, you can test [Acrobatics](Acrobatics) or [Fitness](Fitness) to attempt to ignore them. Otherwise, you must spend a full turn of movement getting over the obstacles.
+If there are obstacles in the way of a movement, you can test [Acrobatics](Acrobatics) to attempt to ignore them. Otherwise, you must spend a full turn of movement getting over the obstacles.
 
 ### Attacking
 Usually, in combat, you will be trying to harm your opponents with the goal of killing or disabling them. Attacks will typically be 
-* Thrown attacks using [Sport](Sport)
+* Thrown attacks using [Athletics](Athletics)
 * Ranged attacks using [Marksmanship](Marksmanship)
-* Melee attacks using [Melee](Melee) 
+* Melee attacks using [Strike](Strike) 
 * Magic attacks using [Channel](Channel)
 
 #### Successful Attack
@@ -115,19 +115,19 @@ You make an [Acrobatics](Acrobatics) skill test to step out of melee with an opp
 #### Cautious Step
 You move out of melee with an enemy without provoking an attack of opportunity. You can move up to your agility * 2 meters, but no other actions.
 #### Disarm
-With at least one free hand or a melee weapon, you can attempt to disarm someone. Make a melee attack at -1 and if successful, your opponent drops their weapon (or it is now in your hands).
+With at least one free hand or a melee weapon, you can attempt to disarm someone. Make a [Strike](Strike) skill test at (-1) and if successful, your opponent drops their weapon (or it is now in your hands).
 #### Grapple
 Make an attack with the intent of getting control of your opponent. If you successfully hit, your opponent is in a grapple. They have to spend their turn succeeding an [Strength](Stats#Strength) + [Sport](Sport) or [Agility](Stats#Agility) + [Acrobatics](Acrobatics) test with a negative equal to your [Sport](Sport) skill, or remain grappled. On your turn, you may:
 * Make a [Strength](Stats#Strength) + [Sport](Sport) test to inflict a severe injury to them, ignoring armour.
 * Pin then completely skipping your turn and their next turn
 * Make an attack with a size 1 weapon with a -2 to hit that can’t be evaded
-* Make an [Strength](Stats#Strength) + [Fitness](Fitness) test to throw them strength + d3 meters in a direction of your choice
+* Make an [Strength](Stats#Strength) + [Athletics](Athletics) test to throw them strength + d3 meters in a direction of your choice
 #### Overwatch
 Declare a 45-degree cone in front of you. If anyone moves into that area, you make a ranged attack on them, and they take a -2 on their action. Your attack is at -2.
 #### Parry
-Which is a melee skill test at (-2) where if you succeed, then if an enemy attacks you in melee and succeeds, you ignore the attack. If they fail their skill test to attack, you deal damage to them.
+Which is a [Strike](Strike) skill test at (-2) where if you succeed, then if an enemy attacks you [in melee](#Being%20in%20Melee%20Combat) and succeeds, you ignore the attack. If they fail their skill test to attack, you deal damage to them.
 #### Shove
-With at least one free hand, you can attempt to move someone. Make a melee attack, and you can move them up to your strength in meters. If they hit something, they become knocked down.
+With at least one free hand, you can attempt to move someone. Make a [Strike](Strike) skill test, if you succeed, you can move them up to your strength in meters. If they hit something, they become knocked down.
 
 ---
 
@@ -144,7 +144,7 @@ An [Acrobatics](Acrobatics) skill test at (-2) where if you succeed then an enem
 An [Acrobatics](Acrobatics) skill test (0) where if you succeed then you may move to a piece of cover within agility meters before an enemy ranged attack is calculated. You cannot Move to Cover while prone.
 
 #### Attack of Opportunity
-A melee skill test at (-2) which you may perform if someone moves while in melee with you. If successful, you can resolve an attack against them, which they cannot dodge.
+A [Strike](Strike) skill test at (-2) which you may perform if someone moves while [in melee](#Being%20in%20Melee%20Combat) with you. If successful, you can resolve an attack against them, which they cannot dodge.
 
 #### All Out Attack
 Declare that you forgo your reaction for the turn to get a +2 on an action on your turn.

@@ -28,4 +28,4 @@ Some examples of things that shouldn't require a skill test would be.
 ### Relevant Activities
 * [Immediate Effects](Injury#Immediate%20Effects)
 * [Being on Fire](Injury#Being%20on%20Fire)
-* [Being Wounded](Injury#Being%20Wounded)
+* [Being Wounded](Injury#Wounded)

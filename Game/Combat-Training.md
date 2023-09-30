@@ -53,10 +53,10 @@ You can use any artisan weapons without penalty.
 You get an additional 4 size worth of belt space.
 
 #### Resilient
-Your character may add their [Fitness](Fitness) skill to rolls for immediate effects of injuries, resist death from critical injuries to the chest, and to not collapse from being wounded.
+Your character may add their [Athletics](Athletics.md) skill to rolls for immediate effects of injuries, resist death from critical injuries to the chest, and to not collapse from being wounded.
 
 #### Bury Them
-If an enemy is on the ground, and you make a [Melee](Melee) attack against them, you receive a +4 to the skill test, and you add 3 to your [Damage Bonus](Weapons#Damage%20Bonus).
+If an enemy is on the ground, and you make a [Strike](Strike.md) attack against them, you receive a +4 to the skill test, and you add 3 to your [Damage Bonus](Weapons#Damage%20Bonus).
 
 ---
 
@@ -65,7 +65,7 @@ If an enemy is on the ground, and you make a [Melee](Melee) attack against them,
 You can opt to make the damage type of any [Rending](Combat#Rending) or [Piercing](Combat#Piercing) weapon cause [Impact](Combat#Impact) injuries instead.
 
 #### Sweep
-As a [Special Manoeuvre](Combat#Special%20Manoeuvres), you may make a [Melee](Melee) skill test. If successful, all enemies in melee with you and within 3m of you need to dodge or be knocked prone.
+As a [Special Manoeuvre](Combat#Special%20Manoeuvres), you may make a [Strike](Strike.md) skill test. If successful, all enemies in melee with you and within 3m of you need to dodge or be knocked prone.
 
 #### Quick Draw
 If your weapon is sheathed, you can make an attack with +2 bonus to hit. When rolling damage, roll an extra d6 and take the highest roll.

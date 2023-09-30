@@ -42,8 +42,8 @@ The basis of your character, the skills and tools that help you when adventuring
 
 | Skill                        | Ranks |
 | ---------------------------- | ----- |
-| [Fitness](Fitness)           | 1     |
-| [Melee](Melee)               | 2     |
+| [Athletics](Athletics.md)           | 1     |
+| [Strike](Strike.md)               | 2     |
 | [Sport](Sport)               | 1     |
 | [Acrobatics](Acrobatics)     | 1     |
 | [Marksmanship](Marksmanship) |       |
@@ -86,8 +86,8 @@ The basis of your character, the skills and tools that help you when adventuring
 
 | Skill                        | Ranks |
 | ---------------------------- | ----- |
-| [Fitness](Fitness)           | 1     |
-| [Melee](Melee)               | 2     |
+| [Athletics](Athletics.md)           | 1     |
+| [Strike](Strike.md)               | 2     |
 | [Sport](Sport)               |       |
 | [Acrobatics](Acrobatics)     |       |
 | [Marksmanship](Marksmanship) | 1     |
@@ -133,8 +133,8 @@ The basis of your character, the skills and tools that help you when adventuring
 
 | Skill                        | Ranks |
 | ---------------------------- | ----- |
-| [Fitness](Fitness)           |       |
-| [Melee](Melee)               |       |
+| [Athletics](Athletics.md)           |       |
+| [Strike](Strike.md)               |       |
 | [Sport](Sport)               |       |
 | [Acrobatics](Acrobatics)     | 2     |
 | [Marksmanship](Marksmanship) |       |
@@ -180,8 +180,8 @@ The basis of your character, the skills and tools that help you when adventuring
 
 | Skill                        | Ranks |
 | ---------------------------- | ----- |
-| [Fitness](Fitness)           |       |
-| [Melee](Melee)               |       |
+| [Athletics](Athletics.md)           |       |
+| [Strike](Strike.md)               |       |
 | [Sport](Sport)               |       |
 | [Acrobatics](Acrobatics)     |       |
 | [Marksmanship](Marksmanship) |       |
@@ -224,8 +224,8 @@ The basis of your character, the skills and tools that help you when adventuring
 
 | Skill                        | Ranks |
 | ---------------------------- | ----- |
-| [Fitness](Fitness)           |       |
-| [Melee](Melee)               | 1     | 
+| [Athletics](Athletics.md)           |       |
+| [Strike](Strike.md)               | 1     | 
 | [Sport](Sport)               |       |
 | [Acrobatics](Acrobatics)     |       |
 | [Marksmanship](Marksmanship) |       |
@@ -267,8 +267,8 @@ The basis of your character, the skills and tools that help you when adventuring
 
 | Skill                        | Ranks |
 | ---------------------------- | ----- |
-| [Fitness](Fitness)           | 1     |
-| [Melee](Melee)               | 1     |
+| [Athletics](Athletics.md)           | 1     |
+| [Strike](Strike.md)               | 1     |
 | [Sport](Sport)               |       |
 | [Acrobatics](Acrobatics)     |       |
 | [Marksmanship](Marksmanship) |       |
@@ -335,7 +335,7 @@ Your character's additional interest, things they do in their spare time.
 *You seem to always be getting thrown out of bars*
 
 ##### Additional Skills (2 Ranks)
-* Add one rank to [Melee](Melee)
+* Add one rank to [Strike](Strike.md)
 * Add one rank to [Sport](Sport)
 
 ##### Additional Trainings (2 Basic)
@@ -353,7 +353,7 @@ Your character's additional interest, things they do in their spare time.
 *Your upbringing included learning to spar*
 
 ##### Additional Skills (2 Ranks)
-* Add one rank to [Melee](Melee)
+* Add one rank to [Strike](Strike.md)
 * Add one rank to [Acrobatics](Acrobatics)
 
 ##### Additional Trainings (2 Basic)

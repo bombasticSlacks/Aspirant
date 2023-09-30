@@ -24,8 +24,8 @@ Granite is a lean and fit [Face](../Classes#Face) [Brawler](../Classes#Brawler) 
 
 | Skill                        | Stat | Ranks | -   | Skill                     | Stat | Ranks |
 | ---------------------------- | ---- | ----- | --- | ------------------------- | ---- | ----- |
-| [Fitness](Fitness)           | STR  | 1     | -   | [Perception](Perception)  | INT  | 1     |
-| [Melee](Melee)               | STR  | 1     | -   | [Science](Science)        | INT  |       |
+| [Athletics](../Athletics.md)           | STR  | 1     | -   | [Perception](Perception)  | INT  | 1     |
+| [Strike](../Strike.md)               | STR  | 1     | -   | [Science](Science)        | INT  |       |
 | [Acrobatics](Acrobatics)     | AGI  |       | -   | [Composure](Composure)    | RES  | 1     |
 | [Marksmanship](Marksmanship) | AGI  |       | -   | [Channel](Channel)        | RES  |       |
 | [Subterfuge](Subterfuge)     | AGI  |       | -   | [Ritual](Ritual)          | RES  |       |

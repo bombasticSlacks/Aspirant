@@ -31,11 +31,11 @@ After taking an injury that would wound you, you immediately get to take a comba
 If you injure an enemy with a critical or lethal injury during an attack you may make an additional attack against another enemy in range with the same modifiers.
 
 #### Enrage
-When you make a [Melee](Melee) skill test, spend a [Power](Stats#Power) to become enraged. While enraged, you have: 
+When you make a [Strike](Strike.md) skill test, spend a [Power](Stats#Power) to become enraged. While enraged, you have: 
 * +1 [Strength](Stats#Strength) 
 * -1 [Intelligence](Stats#Intelligence)
 * +2 to [Composure](Composure) tests
-* Ignore [Being Wounded](Injury#Being%20Wounded)
+* Ignore [Being Wounded](Injury#Wounded)
 
 On any turn where you don't make a melee skill test, you must roll a d6, on a 1-3 you stop being enraged.
 

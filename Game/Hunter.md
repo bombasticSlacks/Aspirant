@@ -48,7 +48,7 @@ When collecting bits from creatures after an encounter, you may collect one addi
 If you have someone detained for any meaningful amount of time, they can hide nothing from you.
 
 #### Peacekeeper
-Your inflicted [Minimal Injury](Injury#Minimal%20Injury) cause opponents to become [Wounded](Injury#Being%20Wounded).
+Your inflicted [Minimal Injury](Injury#Minimal%20Injury) cause opponents to become [Wounded](Injury#Wounded).
 
 #### Ambusher
 If you are shadowing or otherwise not the centre of attention as a combat starts, you get an additional free turn before initiative starts.

@@ -20,7 +20,7 @@ affects different locations separately and is the maximum bonus you can have on 
 | Location | Skills effected                                |
 | -------- | ---------------------------------------------- |
 | Head     | [Perception](Perception), and [Converse](Converse)    |
-| Arms     | [Melee](Melee), [Marksmanship](Marksmanship), and [Channel](Channel)|
+| Arms     | [Strike](Strike.md), [Marksmanship](Marksmanship), and [Channel](Channel)|
 | Torso    | *No Penalties*                                 |
 | Legs     | [Acrobatics](Acrobatics), [Subterfuge](Subterfuge)                                               |
 
