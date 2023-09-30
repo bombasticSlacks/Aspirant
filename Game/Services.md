@@ -39,12 +39,8 @@ Aspirant is a world of tradespeople, experts with something to offer a prospecti
 
 | Name             | Max Craft Quality | Ratio        | Cost Per Size (S) |
 | ---------------- | ----------------- | ------------ | ----------------- |
-| Cheap Wine       | -                 | $1 \over 8$  | $1$               |
-| Expensive Wine   | -                 | $1 \over 2$  | $5$               |
 | Gold             | Exotic            | $4$          | $40$              |
 | Machinery        | Exotic            | $3 \over 2$  | $15$              | 
-| Oil              | -                 | $1 \over 4$  | $3$               |
-| Spirits          | -                 | $1$          | $10$              |
 | Water            | -                 | $1 \over 16$ | $1$               |
 | Basic Material   | Basic             | $1 \over 4$  | $3$               |
 | Artisan Material | Artisan           | $1 \over 2$  | $5$               |

@@ -15,7 +15,7 @@ One of the 8 [Trades Training](Trades-Training) disciplines.
 You automatically succeed on anything you do on a roll of double 1’s.
 
 #### Fast Learner
-After the [Travel Activity](Activities#Travel%20Activity) [Socialize](Activities#Socialize), you can attempt [Science](Science), [Perform](Perform), [Sport](Sport) skill tests with the same skill level as the person with the highest skill rank in your party who also socialized. 
+After the [Travel Activity](Activities#Travel%20Activity) [Socialize](Activities#Socialize), you can attempt [Science](Science), [Perform](Perform), skill tests with the same skill level as the person with the highest skill rank in your party who also socialized. 
 
 #### Intellectual Leap
 When you use [Knowledge](Knowledge) to gain information, you can spend 1 [Power](Stats#Power) to infer another useful fact about the thing. Ask another question and the [GM](How-To-Play#GM) should answer honestly.

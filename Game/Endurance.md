@@ -16,4 +16,3 @@ Any time you are striking something, you should make a strike skill test.
 
 ### Relevant Activities
 * [Injury](Injury)
-* 

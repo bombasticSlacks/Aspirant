@@ -66,7 +66,7 @@ Aspirant has a prebuilt list of skills that should cover any activity a characte
 
 #### Strength Skills
 * [Athletics](Athletics)
-* [Sport](Sport)
+* [Endurance](Endurance)
 * [Strike](Strike)
 
 #### Agility Skills

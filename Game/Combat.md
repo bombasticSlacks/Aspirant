@@ -117,11 +117,16 @@ You move out of melee with an enemy without provoking an attack of opportunity. 
 #### Disarm
 With at least one free hand or a melee weapon, you can attempt to disarm someone. Make a [Strike](Strike) skill test at (-1) and if successful, your opponent drops their weapon (or it is now in your hands).
 #### Grapple
-Make an attack with the intent of getting control of your opponent. If you successfully hit, your opponent is in a grapple. They have to spend their turn succeeding an [Strength](Stats#Strength) + [Sport](Sport) or [Agility](Stats#Agility) + [Acrobatics](Acrobatics) test with a negative equal to your [Sport](Sport) skill, or remain grappled. On your turn, you may:
-* Make a [Strength](Stats#Strength) + [Sport](Sport) test to inflict a severe injury to them, ignoring armour.
-* Pin then completely skipping your turn and their next turn
+Make an attack with the intent of getting control of your opponent. If you successfully hit, your opponent is in a grapple. 
+On their turn, they may:
+* Attempt an [Athletics](Athletics) [Opposed Difficulty](Skills#Opposed%20Difficulty) skill test to become the grappler, instead of the grappled. This test is opposed by the grapplers [Athletics](Athletics)
+* Attempt a #TODOSKILL [Opposed Difficulty](Skills#Opposed%20Difficulty) skill test to stop being grappled. This test is opposed by the grapplers [Athletics](Athletics).
+
+On your turn, you may:
+* Make an [Athletics](Athletics) test to inflict a severe injury to them, ignoring armour.
+* Pin then completely, causing them to take a -2 on any skill tests on their turn.
 * Make an attack with a size 1 weapon with a -2 to hit that can’t be evaded
-* Make an [Strength](Stats#Strength) + [Athletics](Athletics) test to throw them strength + d3 meters in a direction of your choice
+* Make an [Athletics](Athletics) skill test to throw them strength + d3 meters in a direction of your choice.
 #### Overwatch
 Declare a 45-degree cone in front of you. If anyone moves into that area, you make a ranged attack on them, and they take a -2 on their action. Your attack is at -2.
 #### Parry
