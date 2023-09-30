@@ -26,7 +26,7 @@ Any specialist in one of the above schools can also teach any of the following t
 
 ### Basic Training
 #### Crossbow Expert
-You can reload a crossbow and fire it in the same turn at a -1 to the [Marksmanship](Marksmanship) skill test.  
+You can reload a crossbow and fire it in the same turn at a -1 to the [Accuracy](Accuracy.md) skill test.  
 
 #### Exotic Expert
 If you have [Martial Training](#Martial%20Training), you can use any [Exotic](Weapons#Exotic) weapon without penalty.   
@@ -38,7 +38,7 @@ You can comfortably wield weapons one size larger in one hand or two.
 You receive a +1 on all combat skill tests, but can never attack an unarmed, unaware or unable to defend themselves opponent. 
 
 #### Pit Fighter
-You may substitute your [Strength](Stats#Strength) with [Agility](Stats#Agility) for combat skill tests where relevant.
+You may substitute your [Strength](Strength) with [Agility](Agility) for combat skill tests where relevant.
 
 #### Sunderer
 You have access to the combat modifier Sunder. Sunder can be applied to any damaging melee attack or manoeuvre. If you succeed at your attack and your opponent doesn’t evade, whether you injure your opponent, reduce your opponent’s armour integrity by one.

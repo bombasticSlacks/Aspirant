@@ -39,7 +39,7 @@ As a [Travel Activity](Activities#Travel%20Activity) you can attempt to manage y
 ### Advanced
 
 #### Do No Harm
-You receive a +1 to all non-combat skill tests, however to directly harm another thing, you need to first roll a [Resolve](Stats#Resolve) test.
+You receive a +1 to all non-combat skill tests, however to directly harm another thing, you need to first roll a [Resolve](Resolve) test.
 
 #### Surgeon
 You may perform surgery on someone who has suffered lasting injuries to treat them. Surgery, at a minimum, requires a flat surface and [Surgeons Tool Set](Example-Gear#Surgeons%20Tool%20Set). However, you receive a 

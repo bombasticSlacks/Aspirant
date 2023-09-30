@@ -11,11 +11,11 @@ Tess is a [Barbarian](../Classes#Barbarian) [Fortune Teller](../Classes#Fortune%
 
 | Attribute                             | Value | -   | Secondary Attribute                     | Value |
 | ------------------------------------- | ----- | --- | --------------------------------------- | ----- |
-| [Strength](../Stats#Strength)         | 4     | -   | [Total XP](../Stats#Total%20XP)         | 10    |
-| [Agility](../Stats#Agility)           | 2     | -   | [Spent XP](../Stats#Spent%20XP)         | 10    |
-| [Intelligence](../Stats#Intelligence) | 2     | -   | [Power](../Stats#Power)                 | 3     |
-| [Resolve](../Stats#Resolve)           | 3     | -   | [Move Speed](../Stats#Move%20Speed)     | 8     |
-| [Fellowship](../Stats#Fellowship)     | 2     | -   | [Initiative](../Stats#Initiative)       | 4     |
+| [Strength](../Strength)         | 4     | -   | [Total XP](../Stats#Total%20XP)         | 10    |
+| [Agility](../Agility)           | 2     | -   | [Spent XP](../Stats#Spent%20XP)         | 10    |
+| [Intelligence](../Intelligence) | 2     | -   | [Power](../Stats#Power)                 | 3     |
+| [Resolve](../Resolve)           | 3     | -   | [Move Speed](../Stats#Move%20Speed)     | 8     |
+| [Fellowship](../Fellowship)     | 2     | -   | [Initiative](../Stats#Initiative)       | 4     |
 |                                       |       | -   | [Threat](../Stats#Threat)               | 4     |
 |                                       |       | -   | [Max Toxicity](../Stats#Max%20Toxicity) | 7     |
 
@@ -27,7 +27,7 @@ Tess is a [Barbarian](../Classes#Barbarian) [Fortune Teller](../Classes#Fortune%
 | [Athletics](../Athletics.md)           | STR  | 1     | -   | [Perception](Perception)  | INT  | 2     |
 | [Strike](../Strike.md)               | STR  | 2     | -   | [Science](Science)        | INT  |       |
 | [Acrobatics](Acrobatics)     | AGI  | 1     | -   | [Composure](Composure)    | RES  | 1     | 
-| [Marksmanship](Marksmanship) | AGI  |       | -   | [Channel](Channel)        | RES  |       |
+| [Accuracy](../Accuracy.md) | AGI  |       | -   | [Channel](Channel)        | RES  |       |
 | [Subterfuge](Subterfuge)     | AGI  |       | -   | [Ritual](Ritual)          | RES  | 1      |
 | [Perform](../Perform)     | FEL  |       | -   | [Converse](../Converse)   | FEL  |       |
 | [Knowledge](Knowledge)       | INT  |       | -   | [Husbandry](../Husbandry) | FEL  |       |

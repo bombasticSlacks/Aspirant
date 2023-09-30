@@ -10,7 +10,7 @@ One of the [Skills](Skills) in Aspirant.
 Dodging, dancing, contortion, dexterous movement.
 
 ### Stat Used
-[Agility](Stats#Agility) skill.
+[Agility](Agility) skill.
 
 ### Mundane Activities
 Some examples of things that shouldn't require a skill test would be.

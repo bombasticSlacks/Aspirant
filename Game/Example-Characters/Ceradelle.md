@@ -11,11 +11,11 @@ Ceradelle is an elvish [Beast Master](../Classes#Beast%20Master) [Archer](../Cla
 
 | Attribute                             | Value | -   | Secondary Attribute                     | Value |
 | ------------------------------------- | ----- | --- | --------------------------------------- | ----- |
-| [Strength](../Stats#Strength)         | 2     | -   | [Total XP](../Stats#Total%20XP)         | 10    |
-| [Agility](../Stats#Agility)           | 3     | -   | [Spent XP](../Stats#Spent%20XP)         | 10    |
-| [Intelligence](../Stats#Intelligence) | 2     | -   | [Power](../Stats#Power)                 | 3     |
-| [Resolve](../Stats#Resolve)           | 2     | -   | [Move Speed](../Stats#Move%20Speed)     | 12    |
-| [Fellowship](../Stats#Fellowship)     | 4     | -   | [Initiative](../Stats#Initiative)       | 5     |
+| [Strength](../Strength)         | 2     | -   | [Total XP](../Stats#Total%20XP)         | 10    |
+| [Agility](../Agility)           | 3     | -   | [Spent XP](../Stats#Spent%20XP)         | 10    |
+| [Intelligence](../Intelligence) | 2     | -   | [Power](../Stats#Power)                 | 3     |
+| [Resolve](../Resolve)           | 2     | -   | [Move Speed](../Stats#Move%20Speed)     | 12    |
+| [Fellowship](../Fellowship)     | 4     | -   | [Initiative](../Stats#Initiative)       | 5     |
 |                                       |       | -   | [Threat](../Stats#Threat)               | 3     |
 |                                       |       | -   | [Max Toxicity](../Stats#Max%20Toxicity) | 4     | 
 
@@ -27,7 +27,7 @@ Ceradelle is an elvish [Beast Master](../Classes#Beast%20Master) [Archer](../Cla
 | [Athletics](../Athletics.md)           | STR  | 1     | -   | [Perception](Perception)  | INT  | 1     |
 | [Strike](../Strike.md)               | STR  | 1     | -   | [Science](Science)        | INT  |       |
 | [Acrobatics](Acrobatics)     | AGI  |       | -   | [Composure](Composure)    | RES  |       |
-| [Marksmanship](Marksmanship) | AGI  | 2     | -   | [Channel](Channel)        | RES  |       |
+| [Accuracy](../Accuracy.md) | AGI  | 2     | -   | [Channel](Channel)        | RES  |       |
 | [Subterfuge](Subterfuge)     | AGI  |       | -   | [Ritual](Ritual)          | RES  |       |
 | [Perform](../Perform)        | FEL  |       | -   | [Converse](../Converse)   | FEL  |       |
 | [Knowledge](Knowledge)       | INT  | 1     | -   | [Husbandry](../Husbandry) | FEL  | 2     |

@@ -39,13 +39,13 @@ nav_order: 2
 +1 to defensive skill tests using this weapon.
 
 #### Black Powder
-Your weapon fires balls of lead propelled by incendiary powder. It no longer can be used as a melee weapon and is instead a ranged weapon with a range equal to 10m x size. You don’t add your [Strength](Stats#Strength) to damage, but get an inherent +6 damage bonus. Reloading a black powder weapon takes 1 minute. 
+Your weapon fires balls of lead propelled by incendiary powder. It no longer can be used as a melee weapon and is instead a ranged weapon with a range equal to 10m x size. You don’t add your [Strength](Strength) to damage, but get an inherent +6 damage bonus. Reloading a black powder weapon takes 1 minute. 
 
 #### Bow
-This weapon fires arrows. It no longer can be used as a melee weapon and is instead a ranged weapon with a range equal to 10m x size. You can add [Strength](Stats#Strength) to damage up to a maximum of the size of the weapon. Readying an arrow and firing a bow in the same turn gives a -1 to the [Marksmanship](Marksmanship) test.
+This weapon fires arrows. It no longer can be used as a melee weapon and is instead a ranged weapon with a range equal to 10m x size. You can add [Strength](Strength) to damage up to a maximum of the size of the weapon. Readying an arrow and firing a bow in the same turn gives a -1 to the [Accuracy](Accuracy.md) test.
 
 #### Crossbow
-Your weapon fires bolts of metal. It no longer can be used as a melee weapon and is instead a ranged weapon with a range equal to 10m x size. You don’t add your [Strength](Stats#Strength) to damage, but get an inherent +1 damage bonus, and double the normal size bonus. After firing a crossbow, it takes a combat turn to reload.
+Your weapon fires bolts of metal. It no longer can be used as a melee weapon and is instead a ranged weapon with a range equal to 10m x size. You don’t add your [Strength](Strength) to damage, but get an inherent +1 damage bonus, and double the normal size bonus. After firing a crossbow, it takes a combat turn to reload.
 
 #### Deadly Draw
 This weapon is penetrative for your first attack in any combat.

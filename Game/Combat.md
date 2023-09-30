@@ -14,7 +14,7 @@ Initiative value is your [Initiative](Stats#Initiative)+ 1d6. Your initiative va
 ### Your Turn
 On Your turn in combat, you can do basically anything that can feasibly be done in 5 seconds. You are encouraged to get creative and talk to the GM; however, several common manoeuvres are listed in this chapter for you to use as examples. The simple way to think about it though is on your turn, you can either:
 - Do an Action (usually involves a skill test).
-- Move up to 2 * [Agility](Stats#Agility) meters, then do an action with all skill tests at -2.
+- Move up to 2 * [Agility](Agility) meters, then do an action with all skill tests at -2.
 - Delay your combat turn.
 
 When you delay your combat turn, you can instead choose to act after any other character has finished their combat turn. You need to use your delayed action before your next combat turn (this can lead to you taking back to back turns).
@@ -41,7 +41,7 @@ If there are obstacles in the way of a movement, you can test [Acrobatics](Acrob
 ### Attacking
 Usually, in combat, you will be trying to harm your opponents with the goal of killing or disabling them. Attacks will typically be 
 * Thrown attacks using [Athletics](Athletics)
-* Ranged attacks using [Marksmanship](Marksmanship)
+* Ranged attacks using [Accuracy](Accuracy.md)
 * Melee attacks using [Strike](Strike) 
 * Magic attacks using [Channel](Channel)
 
@@ -57,7 +57,7 @@ If you successfully cause an injury with an attack, that is an Injuring Attack.
 ### Attack Range
 When you attack something, your range is how far you can engage them from. With melee weapons, you need to be within 2m. With Range, Thrown, and Magic you have a range, but it is possible to attack up to 5x your range, but you will suffer [Distance Penalty](#Distance%20Penalty). 
 * Magic attacks have a range of 10m
-* Thrown have a range of 3 times your [Strength](Stats#Strength)
+* Thrown have a range of 3 times your [Strength](Strength)
 * Ranged attacks will be defined in the weapons [traits](Weapons#[Weapon-Traits](Weapon-Traits)).
 
 #### Attacking
@@ -191,7 +191,7 @@ Any time you would remove armour integrity, your armour isn't compromised, but y
 As an additional benefit, if you are resistant to an attack it always counts as a [Glancing Blow](#Glancing%20Blow).
 
 ### Dealing Damage
-When you or something else is attempting to injure someone you will in most cases roll 1d6 + damage modifier. Damage modifier is a combination of the weapons inherent lethality, size, any bonuses from your character and usually, your [Strength](Stats#Strength). 
+When you or something else is attempting to injure someone you will in most cases roll 1d6 + damage modifier. Damage modifier is a combination of the weapons inherent lethality, size, any bonuses from your character and usually, your [Strength](Strength). 
 
 This number is usually compared to the universal damage chart to determine the injury caused:
 
@@ -202,7 +202,7 @@ This number is usually compared to the universal damage chart to determine the i
 | 11-15 | Critical |
 | 16+   | Lethal   |
 
-> So, for example, a long sword (3 size artisan weapon) wielded by a character with 3 [Strength](Stats#Strength) would have a damage bonus of 7 (1 artisan + 3 size + 3 [Strength](Stats#Strength)). That means on a 1-3 it causes a severe injury, on a 4-6 it causes a critical injury. 
+> So, for example, a long sword (3 size artisan weapon) wielded by a character with 3 [Strength](Strength) would have a damage bonus of 7 (1 artisan + 3 size + 3 [Strength](Strength)). That means on a 1-3 it causes a severe injury, on a 4-6 it causes a critical injury. 
 
 #### Glancing Blow
 Sometimes your attacks will be partially mitigated by abilities or other circumstances. When this happens you reduce the severity of your injury by one.

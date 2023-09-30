@@ -10,7 +10,7 @@ One of the [Skills](Skills) in Aspirant.
 Dealing with mental and physical trauma, altering effects, keeping calm.
 
 ### Stat Used
-[Resolve](Stats#Resolve) skill.
+[Resolve](Resolve) skill.
 
 ### Mundane Activities
 Some examples of things that shouldn't require a skill test would be.

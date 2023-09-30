@@ -31,11 +31,11 @@ The basis of your character, the skills and tools that help you when adventuring
 *Using their fury as power, the barbarian is a powerful fighter and combatant*
 
 ##### Recommended Stats
-* [Strength](Stats#Strength) of 4
-* [Agility](Stats#Agility) of 3
-* [Intelligence](Stats#Intelligence) of 2
-* [Resolve](Stats#Resolve) of 2
-* [Fellowship](Stats#Fellowship) of 2
+* [Strength](Strength) of 4
+* [Agility](Agility) of 3
+* [Intelligence](Intelligence) of 2
+* [Resolve](Resolve) of 2
+* [Fellowship](Fellowship) of 2
 
 
 ##### Skills
@@ -46,7 +46,7 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Strike](Strike.md)               | 2     |
 | [Sport](Sport)               | 1     |
 | [Acrobatics](Acrobatics)     | 1     |
-| [Marksmanship](Marksmanship) |       |
+| [Accuracy](Accuracy.md) |       |
 | [Subterfuge](Subterfuge)     |       |
 | [Knowledge](Knowledge)       |       |
 | [Perception](Perception)     | 1     |
@@ -75,11 +75,11 @@ The basis of your character, the skills and tools that help you when adventuring
 *Someone trained in defence and controlling their opponents*
 
 ##### Recommended Stats
-* [Strength](Stats#Strength) of 4
-* [Agility](Stats#Agility) of 2
-* [Intelligence](Stats#Intelligence) of 2
-* [Resolve](Stats#Resolve) of 3
-* [Fellowship](Stats#Fellowship) of 2
+* [Strength](Strength) of 4
+* [Agility](Agility) of 2
+* [Intelligence](Intelligence) of 2
+* [Resolve](Resolve) of 3
+* [Fellowship](Fellowship) of 2
 
 
 ##### Skills
@@ -90,7 +90,7 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Strike](Strike.md)               | 2     |
 | [Sport](Sport)               |       |
 | [Acrobatics](Acrobatics)     |       |
-| [Marksmanship](Marksmanship) | 1     |
+| [Accuracy](Accuracy.md) | 1     |
 | [Subterfuge](Subterfuge)     |       |
 | [Knowledge](Knowledge)       |       |
 | [Perception](Perception)     | 1     |
@@ -122,11 +122,11 @@ The basis of your character, the skills and tools that help you when adventuring
 *Someone trained in channelling the magic all around them to do wonderful and powerful things*
 
 ##### Recommended Stats
-* [Strength](Stats#Strength) of 2
-* [Agility](Stats#Agility) of 3
-* [Intelligence](Stats#Intelligence) of 2
-* [Resolve](Stats#Resolve) of 4
-* [Fellowship](Stats#Fellowship) of 2
+* [Strength](Strength) of 2
+* [Agility](Agility) of 3
+* [Intelligence](Intelligence) of 2
+* [Resolve](Resolve) of 4
+* [Fellowship](Fellowship) of 2
 
 
 ##### Skills
@@ -137,7 +137,7 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Strike](Strike.md)               |       |
 | [Sport](Sport)               |       |
 | [Acrobatics](Acrobatics)     | 2     |
-| [Marksmanship](Marksmanship) |       |
+| [Accuracy](Accuracy.md) |       |
 | [Subterfuge](Subterfuge)     |       |
 | [Knowledge](Knowledge)       | 1     | 
 | [Perception](Perception)     | 1     |
@@ -169,11 +169,11 @@ The basis of your character, the skills and tools that help you when adventuring
 *Someone trained in performing powerful summoning rituals*
 
 ##### Recommended Stats
-* [Strength](Stats#Strength) of 2
-* [Agility](Stats#Agility) of 2
-* [Intelligence](Stats#Intelligence) of 3
-* [Resolve](Stats#Resolve) of 4
-* [Fellowship](Stats#Fellowship) of 2
+* [Strength](Strength) of 2
+* [Agility](Agility) of 2
+* [Intelligence](Intelligence) of 3
+* [Resolve](Resolve) of 4
+* [Fellowship](Fellowship) of 2
 
 
 ##### Skills
@@ -184,7 +184,7 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Strike](Strike.md)               |       |
 | [Sport](Sport)               |       |
 | [Acrobatics](Acrobatics)     |       |
-| [Marksmanship](Marksmanship) |       |
+| [Accuracy](Accuracy.md) |       |
 | [Subterfuge](Subterfuge)     |       |
 | [Knowledge](Knowledge)       | 2     |
 | [Perception](Perception)     | 2     |
@@ -213,11 +213,11 @@ The basis of your character, the skills and tools that help you when adventuring
 *Someone great at talking to others and negotiating*
 
 ##### Recommended Stats
-* [Strength](Stats#Strength) of 2
-* [Agility](Stats#Agility) of 3
-* [Intelligence](Stats#Intelligence) of 2
-* [Resolve](Stats#Resolve) of 2
-* [Fellowship](Stats#Fellowship) of 4
+* [Strength](Strength) of 2
+* [Agility](Agility) of 3
+* [Intelligence](Intelligence) of 2
+* [Resolve](Resolve) of 2
+* [Fellowship](Fellowship) of 4
 
 
 ##### Skills
@@ -228,7 +228,7 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Strike](Strike.md)               | 1     | 
 | [Sport](Sport)               |       |
 | [Acrobatics](Acrobatics)     |       |
-| [Marksmanship](Marksmanship) |       |
+| [Accuracy](Accuracy.md) |       |
 | [Subterfuge](Subterfuge)     |       |
 | [Knowledge](Knowledge)       |       |
 | [Perception](Perception)     | 1     |
@@ -256,11 +256,11 @@ The basis of your character, the skills and tools that help you when adventuring
 *A trainer of wild beasts and creatures*
 
 ##### Recommended Stats
-* [Strength](Stats#Strength) of 2
-* [Agility](Stats#Agility) of 3
-* [Intelligence](Stats#Intelligence) of 3
-* [Resolve](Stats#Resolve) of 2
-* [Fellowship](Stats#Fellowship) of 3
+* [Strength](Strength) of 2
+* [Agility](Agility) of 3
+* [Intelligence](Intelligence) of 3
+* [Resolve](Resolve) of 2
+* [Fellowship](Fellowship) of 3
 
 
 ##### Skills
@@ -271,7 +271,7 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Strike](Strike.md)               | 1     |
 | [Sport](Sport)               |       |
 | [Acrobatics](Acrobatics)     |       |
-| [Marksmanship](Marksmanship) |       |
+| [Accuracy](Accuracy.md) |       |
 | [Subterfuge](Subterfuge)     |       |
 | [Knowledge](Knowledge)       | 1     |
 | [Perception](Perception)     | 1     |
@@ -423,7 +423,7 @@ Your character's additional interest, things they do in their spare time.
 *From a young age, you practised with a bow*
 
 ##### Additional Skills (2 Ranks)
-* Add two ranks to [Marksmanship](Marksmanship)
+* Add two ranks to [Accuracy](Accuracy.md)
 
 ##### Additional Trainings (2 Basic)
 * [Bow Expert](Marksman#Bow%20Expert)

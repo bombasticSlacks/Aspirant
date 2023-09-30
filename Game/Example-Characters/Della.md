@@ -11,11 +11,11 @@ Della is a small [Conjurer](../Classes#Conjurer) [Tactician](../Classes#Tacticia
 
 | Attribute                             | Value | -   | Secondary Attribute                     | Value |
 | ------------------------------------- | ----- | --- | --------------------------------------- | ----- |
-| [Strength](../Stats#Strength)         | 2     | -   | [Total XP](../Stats#Total%20XP)         | 10    |
-| [Agility](../Stats#Agility)           | 2     | -   | [Spent XP](../Stats#Spent%20XP)         | 10    |
-| [Intelligence](../Stats#Intelligence) | 2     | -   | [Power](../Stats#Power)                 | 2     |
-| [Resolve](../Stats#Resolve)           | 4     | -   | [Move Speed](../Stats#Move%20Speed)     | 8     |
-| [Fellowship](../Stats#Fellowship)     | 3     | -   | [Initiative](../Stats#Initiative)       | 5     |
+| [Strength](../Strength)         | 2     | -   | [Total XP](../Stats#Total%20XP)         | 10    |
+| [Agility](../Agility)           | 2     | -   | [Spent XP](../Stats#Spent%20XP)         | 10    |
+| [Intelligence](../Intelligence) | 2     | -   | [Power](../Stats#Power)                 | 2     |
+| [Resolve](../Resolve)           | 4     | -   | [Move Speed](../Stats#Move%20Speed)     | 8     |
+| [Fellowship](../Fellowship)     | 3     | -   | [Initiative](../Stats#Initiative)       | 5     |
 |                                       |       | -   | [Threat](../Stats#Threat)               | 1     |
 |                                       |       | -   | [Max Toxicity](../Stats#Max%20Toxicity) | 6     |
 
@@ -27,7 +27,7 @@ Della is a small [Conjurer](../Classes#Conjurer) [Tactician](../Classes#Tacticia
 | [Athletics](../Athletics.md)           | STR  |       | -   | [Perception](Perception)  | INT  | 2     |
 | [Strike](../Strike.md)               | STR  |       | -   | [Science](Science)        | INT  |       |
 | [Acrobatics](Acrobatics)     | AGI  |       | -   | [Composure](Composure)    | RES  |       |
-| [Marksmanship](Marksmanship) | AGI  |       | -   | [Channel](Channel)        | RES  |       |
+| [Accuracy](../Accuracy.md) | AGI  |       | -   | [Channel](Channel)        | RES  |       |
 | [Subterfuge](Subterfuge)     | AGI  |       | -   | [Ritual](Ritual)          | RES  | 2     |
 | [Perform](../Perform)        | FEL  |       | -   | [Converse](../Converse)   | FEL  | 1     |
 | [Knowledge](Knowledge)       | INT  | 2     | -   | [Husbandry](../Husbandry) | FEL  | 1     |

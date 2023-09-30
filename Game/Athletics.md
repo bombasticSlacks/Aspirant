@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 ## Athletics
-One of the [Strength](Stats#Strength) [Skills](Skills) in Aspirant.
+One of the [Strength](Strength) [Skills](Skills) in Aspirant.
 
 Acts of fitness, and trained strength or power. This includes:
 * Lifting.

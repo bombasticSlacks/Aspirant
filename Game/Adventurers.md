@@ -24,7 +24,7 @@ Assign your [Attributes](Stats#Attributes) placing one of the two sets of values
 * 4,3,2,2,2
 * 3,3,3,2,2
 
-> So, 4 [Strength](Stats#Strength), 3 [Agility](Stats#Agility), 2 [Intelligence](Stats#Intelligence), 2 [Resolve](Stats#Resolve), 2 [Fellowship](Stats#Fellowship) is a valid stat line 
+> So, 4 [Strength](Strength), 3 [Agility](Agility), 2 [Intelligence](Intelligence), 2 [Resolve](Resolve), 2 [Fellowship](Fellowship) is a valid stat line 
 
 ### Determine Your Skills
 You can put 7 ranks into skills of your choice, no skill may go above rank 2.

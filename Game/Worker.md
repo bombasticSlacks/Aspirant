@@ -11,7 +11,7 @@ One of the 8 [Trades Training](Trades-Training) disciplines.
 
 ### Basic
 #### The Muscle
-You may perform [Converse](Converse) skill tests to interact with people using [Strength](Stats#Strength).
+You may perform [Converse](Converse) skill tests to interact with people using [Strength](Strength).
 
 #### Carrier
 You can perform actions while carrying large items. In combat, you can move a willing character with you as you move.

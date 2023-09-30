@@ -10,7 +10,7 @@ One of the [Skills](Skills) in Aspirant.
 Hiding, moving quietly, sleight of hand, theft.
 
 ### Stat Used
-[Agility](Stats#Agility) skill.
+[Agility](Agility) skill.
 
 ### Mundane Activities
 #TODOExamples 

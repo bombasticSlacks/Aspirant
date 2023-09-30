@@ -11,11 +11,11 @@ Scratch is a tall [Elementalist](../Classes#Elementalist) [Rogue](../Classes#Rog
 
 | Attribute                             | Value | -   | Secondary Attribute                     | Value |
 | ------------------------------------- | ----- | --- | --------------------------------------- | ----- |
-| [Strength](../Stats#Strength)         | 2     | -   | [Total XP](../Stats#Total%20XP)         | 10    |
-| [Agility](../Stats#Agility)           | 3     | -   | [Spent XP](../Stats#Spent%20XP)         | 10    |
-| [Intelligence](../Stats#Intelligence) | 2     | -   | [Power](../Stats#Power)                 | 2     |
-| [Resolve](../Stats#Resolve)           | 4     | -   | [Move Speed](../Stats#Move%20Speed)     | 12    |
-| [Fellowship](../Stats#Fellowship)     | 2     | -   | [Initiative](../Stats#Initiative)       | 5     |
+| [Strength](../Strength)         | 2     | -   | [Total XP](../Stats#Total%20XP)         | 10    |
+| [Agility](../Agility)           | 3     | -   | [Spent XP](../Stats#Spent%20XP)         | 10    |
+| [Intelligence](../Intelligence) | 2     | -   | [Power](../Stats#Power)                 | 2     |
+| [Resolve](../Resolve)           | 4     | -   | [Move Speed](../Stats#Move%20Speed)     | 12    |
+| [Fellowship](../Fellowship)     | 2     | -   | [Initiative](../Stats#Initiative)       | 5     |
 |                                       |       | -   | [Threat](../Stats#Threat)               | 0     |
 |                                       |       | -   | [Max Toxicity](../Stats#Max%20Toxicity) | 6     | 
 
@@ -27,7 +27,7 @@ Scratch is a tall [Elementalist](../Classes#Elementalist) [Rogue](../Classes#Rog
 | [Athletics](../Athletics.md)           | STR  |       | -   | [Perception](Perception)  | INT  | 1     |
 | [Strike](../Strike.md)               | STR  |       | -   | [Science](Science)        | INT  |       |
 | [Acrobatics](Acrobatics)     | AGI  | 2     | -   | [Composure](Composure)    | RES  | 1     |
-| [Marksmanship](Marksmanship) | AGI  |       | -   | [Channel](Channel)        | RES  | 2     |
+| [Accuracy](../Accuracy.md) | AGI  |       | -   | [Channel](Channel)        | RES  | 2     |
 | [Subterfuge](Subterfuge)     | AGI  | 2     | -   | [Ritual](Ritual)          | RES  |       |
 | [Perform](../Perform)         | FEL  |       | -   | [Converse](../Converse)   | FEL  |       |
 | [Knowledge](Knowledge)       | INT  |       | -   | [Husbandry](../Husbandry) | FEL  |       |

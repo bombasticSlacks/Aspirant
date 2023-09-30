@@ -96,7 +96,7 @@ The wood your armour is made of has extraordinary properties, giving it steel li
 
 #### Mechanical Strength
 Material: Machinery
-Your armour augments the users movements Count as having 4 [Strength](Stats#Strength) when [Dealing Damage](Combat#Dealing%20Damage) or performing a [Athletics](Athletics.md) skill test other than Swimming, but lower [Max Skill](Armour#Max%20Skill) by 2. If the character already has 4 [Strength](Stats#Strength) instead treat their [Strength](Stats#Strength) as 5.
+Your armour augments the users movements Count as having 4 [Strength](Strength) when [Dealing Damage](Combat#Dealing%20Damage) or performing a [Athletics](Athletics.md) skill test other than Swimming, but lower [Max Skill](Armour#Max%20Skill) by 2. If the character already has 4 [Strength](Strength) instead treat their [Strength](Strength) as 5.
 
 #### Natural Resilience
 Material: Leather

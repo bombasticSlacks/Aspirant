@@ -10,7 +10,7 @@ One of the [Skills](Skills) in Aspirant.
 Noticing things about your surroundings, inferring someone's mood, telling if someone is lying.
 
 ### Stat Used
-[Intelligence](Stats#Intelligence) skill.
+[Intelligence](Intelligence) skill.
 
 ### Mundane Activities
 Some examples of things that shouldn't require a skill test would be.

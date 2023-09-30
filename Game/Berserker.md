@@ -32,8 +32,8 @@ If you injure an enemy with a critical or lethal injury during an attack you may
 
 #### Enrage
 When you make a [Strike](Strike.md) skill test, spend a [Power](Stats#Power) to become enraged. While enraged, you have: 
-* +1 [Strength](Stats#Strength) 
-* -1 [Intelligence](Stats#Intelligence)
+* +1 [Strength](Strength) 
+* -1 [Intelligence](Intelligence)
 * +2 to [Composure](Composure) tests
 * Ignore [Being Wounded](Injury#Wounded)
 

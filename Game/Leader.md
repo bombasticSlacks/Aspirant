@@ -38,7 +38,7 @@ Spend a [Power](Stats#Power), you may designate a target as a heretic/enemy of t
 As an action, you can perform a speech in combat, no additional skill test. All your followers roll all combat skill tests, substituting your [Converse](Converse) for their skill until your next action.
 
 #### Conscription
-At the beginning of combat, you may opt to make neutral characters within [Fellowship](Stats#Fellowship) x 10m followers. They may become angry if put in suicidal situations.
+At the beginning of combat, you may opt to make neutral characters within [Fellowship](Fellowship) x 10m followers. They may become angry if put in suicidal situations.
 
 #### Inspiring Shout
 Spend 3 [Power](Stats#Power), you may as a free action cause one of your allies to regain consciousness. This ally retains all injuries and effects, but if it is during combat, does not need to roll to remain conscious until injured again.

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Strike
+title: Accuracy
 parent: Skills
 nav_order: 2
 ---
-## Strike
-One of the [Strength](Stats#Strength) [Skills](Skills) in Aspirant.
+## Accuracy
+One of the [Agility](Agility) [Skills](Skills) in Aspirant.
 
 The act of striking other things, inflicting immediate force on them. This includes:
 * Tackling.
@@ -20,3 +20,5 @@ Any time you are striking something, you should make a strike skill test.
 * [Parry](Combat#Parry)
 * [Shove](Combat#Shove)
 * [Disarm](Combat#Disarm)
+* [Grapple](Combat#Grapple)
+* [Avoiding Obstacles](Combat#Avoiding%20Obstacles)

@@ -27,31 +27,31 @@ Heritage is your family lineage. Who were the people who raised you? What did th
 ### Wealthy
 Your character grew up in a wealthy home. A parent was a merchant, extortionist, politician, or perhaps of old blood. You however yearned for more.
 
-* Your proper education and practice speaking gives +1 [Fellowship](Stats#Fellowship)   
+* Your proper education and practice speaking gives +1 [Fellowship](Fellowship)   
 * Start with a set of fancy clothing.
 
 ### Spiritual
 Your character grew up in a spiritual home. A parent was a priest, shaman, spiritual guide, or perhaps a mage's servant. You however yearned for more.
 
-* Your understanding of what lies beyond gives +1 [Resolve](Stats#Resolve)  
+* Your understanding of what lies beyond gives +1 [Resolve](Resolve)  
 * Start with a spiritual fetish or tattoo.
 
 ### Labour
 Your character grew up working hard. A parent was a guardsman, farmer, dock worker, or perhaps a local thug. You however yearned for more.
 
-* Your calluses and tireless work give +1 [Strength](Stats#Strength)  
+* Your calluses and tireless work give +1 [Strength](Strength)  
 * Start with hard worn clothes and healthy calluses.
 
 ### Scavenger
 Your character grew up fighting for scraps. A parent was a thief, beggar, survivalist, or perhaps you never knew your parents. You however yearned for more.
 
-* Your hard life and fast reflexes give +1 [Agility](Stats#Agility)  
+* Your hard life and fast reflexes give +1 [Agility](Agility)  
 * Start with scars or discarded clothes.
 
 ### Tradesman
 Your character grew up assisting with skilled work. A parent was a carpenter, blacksmith, baker, or perhaps a philosopher. You however yearned for more.
 
-* Your study and discipline give +1 [Intelligence](Stats#Intelligence)  
+* Your study and discipline give +1 [Intelligence](Intelligence)  
 * Start with a set of glasses or guild insignia.
 
 ## Aspiration

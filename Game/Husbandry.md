@@ -10,7 +10,7 @@ One of the [Skills](Skills) in Aspirant.
 Calming an animal, determining an animal's disposition/what it desires, controlling a mount, controlling a pet. 
 
 ### Stat Used
-[Fellowship](Stats#Fellowship) skill.
+[Fellowship](Fellowship) skill.
 
 ### Mundane Activities
 Some examples of things that shouldn't require a skill test would be.
