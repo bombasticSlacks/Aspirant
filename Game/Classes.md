@@ -48,9 +48,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Acrobatics](Agility#Reflexes)     | 1     |
 | [Accuracy](Agility#Accuracy) |       |
 | [Subterfuge](Agility#Grace)     |       |
-| [Knowledge](Knowledge)       |       |
-| [Perception](Perception)     | 1     |
-| [Science](Science)           |       |
+| [Memory](Intelligence#Memory)       |       |
+| [Insight](Intelligence#Insight)     | 1     |
+| [Application](Intelligence#Application)           |       |
 | [Composure](Composure)       | 1     |
 | [Channel](Channel)           |       |
 | [Ritual](Ritual)             |       |
@@ -92,9 +92,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Acrobatics](Agility#Reflexes)     |       |
 | [Accuracy](Agility#Accuracy) | 1     |
 | [Subterfuge](Agility#Grace)     |       |
-| [Knowledge](Knowledge)       |       |
-| [Perception](Perception)     | 1     |
-| [Science](Science)           |       |
+| [Memory](Intelligence#Memory)       |       |
+| [Insight](Intelligence#Insight)     | 1     |
+| [Application](Intelligence#Application)           |       |
 | [Composure](Composure)       | 1     |
 | [Channel](Channel)           |       |
 | [Ritual](Ritual)             |       |
@@ -139,9 +139,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Acrobatics](Agility#Reflexes)     | 2     |
 | [Accuracy](Agility#Accuracy) |       |
 | [Subterfuge](Agility#Grace)     |       |
-| [Knowledge](Knowledge)       | 1     | 
-| [Perception](Perception)     | 1     |
-| [Science](Science)           |       |
+| [Memory](Intelligence#Memory)       | 1     | 
+| [Insight](Intelligence#Insight)     | 1     |
+| [Application](Intelligence#Application)           |       |
 | [Composure](Composure)       | 1     |
 | [Channel](Channel)           | 2     |
 | [Ritual](Ritual)             |       |
@@ -186,9 +186,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Acrobatics](Agility#Reflexes)     |       |
 | [Accuracy](Agility#Accuracy) |       |
 | [Subterfuge](Agility#Grace)     |       |
-| [Knowledge](Knowledge)       | 2     |
-| [Perception](Perception)     | 2     |
-| [Science](Science)           |       |
+| [Memory](Intelligence#Memory)       | 2     |
+| [Insight](Intelligence#Insight)     | 2     |
+| [Application](Intelligence#Application)           |       |
 | [Composure](Composure)       |       |
 | [Channel](Channel)           |       |
 | [Ritual](Ritual)             | 2     |
@@ -230,9 +230,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Acrobatics](Agility#Reflexes)     |       |
 | [Accuracy](Agility#Accuracy) |       |
 | [Subterfuge](Agility#Grace)     |       |
-| [Knowledge](Knowledge)       |       |
-| [Perception](Perception)     | 1     |
-| [Science](Science)           |       |
+| [Memory](Intelligence#Memory)       |       |
+| [Insight](Intelligence#Insight)     | 1     |
+| [Application](Intelligence#Application)           |       |
 | [Composure](Composure)       | 1     |
 | [Channel](Channel)           |       |
 | [Ritual](Ritual)             |       |
@@ -273,9 +273,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Acrobatics](Agility#Reflexes)     |       |
 | [Accuracy](Agility#Accuracy) |       |
 | [Subterfuge](Agility#Grace)     |       |
-| [Knowledge](Knowledge)       | 1     |
-| [Perception](Perception)     | 1     |
-| [Science](Science)           |  1     |
+| [Memory](Intelligence#Memory)       | 1     |
+| [Insight](Intelligence#Insight)     | 1     |
+| [Application](Intelligence#Application)           |  1     |
 | [Composure](Composure)       |       |
 | [Channel](Channel)           |       |
 | [Ritual](Ritual)             |       |
@@ -302,7 +302,7 @@ Your character's additional interest, things they do in their spare time.
 *You've experience tending for harmed individuals and can easily help the sick and wounded*
 
 ##### Additional Skills (2 Ranks)
-* Add two ranks to [Science](Science)
+* Add two ranks to [Application](Intelligence#Application)
 
 ##### Additional Trainings (2 Basic)
 * [Doctors Eye](Doctor#Doctors%20Eye)
@@ -319,7 +319,7 @@ Your character's additional interest, things they do in their spare time.
 
 ##### Additional Skills (2 Ranks)
 * Add one rank to [Ritual](Ritual)
-* Add one rank to [Perception](Perception)
+* Add one rank to [Insight](Intelligence#Insight)
 
 ##### Additional Trainings (2 Basic)
 * [Attuned](Magic-Training#Attuned)
@@ -370,7 +370,7 @@ Your character's additional interest, things they do in their spare time.
 *You pride yourself on the knowledge you've amassed travelling*
 
 ##### Additional Skills (2 Ranks)
-* Add one rank to [Knowledge](Knowledge)
+* Add one rank to [Memory](Intelligence#Memory)
 * Add one rank to [Subterfuge](Agility#Grace)
 
 ##### Additional Trainings (2 Basic)

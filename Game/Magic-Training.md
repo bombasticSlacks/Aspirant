@@ -31,7 +31,7 @@ You may attempt a ritual without 1 of the requirements and replace it with an am
 #### Attuned
 Your character has a basic understanding of magic. 
 
-When wielding a [Focus](Example-Gear#Focus), your character can perform simple cantrips of magic and operate magical items using the [Channel](Channel) skill. When wielding a [Reagent Bag](Example-Gear#Reagent%20Bag), your character can aid in rituals of magic and operate magical structures and places of power using the [Ritual](Ritual) skill. Your [Knowledge](Knowledge) extends to magic. With further training, you could learn to do greater acts of magic.
+When wielding a [Focus](Example-Gear#Focus), your character can perform simple cantrips of magic and operate magical items using the [Channel](Channel) skill. When wielding a [Reagent Bag](Example-Gear#Reagent%20Bag), your character can aid in rituals of magic and operate magical structures and places of power using the [Ritual](Ritual) skill. Your [Memory](Intelligence#Memory) extends to magic. With further training, you could learn to do greater acts of magic.
 
 #### Distant Channelling
 You gain access to the Far magical trait for spell attacks. Your narrative magic abilities have double the range before they suffer negatives.

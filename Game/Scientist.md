@@ -28,20 +28,20 @@ Your far fetched theory can help progress [Projects](Skills#Project) only tangen
 As [Production Work](Activities#Production%20Work), using a [Tinkers Kit](Example-Gear#Tinkers%20Kit) you can create [Prosthetics](Character-Development#Prosthetics) that characters can use with ease.
 
 #### Kill Switch
-You can disable automata and machines that you are in melee with using a [Science](Science) skill test.
+You can disable automata and machines that you are in melee with using a [Application](Intelligence#Application) skill test.
 
 #### Parabolic Targeting
-You can make ranged attack skill tests using the [Science](Science) skill.
+You can make ranged attack skill tests using the [Application](Intelligence#Application) skill.
 
 #### Scientific Activation
-You can attempt to activate magical items using the [Science](Science) skill.
+You can attempt to activate magical items using the [Application](Intelligence#Application) skill.
 
 #### Alchemy
 #TODOcopy 
 As [Production Work](Activities#Production%20Work), using an [Alchemists Tool Set](Example-Gear#Alchemists%20Tool%20Set) you can craft an alchemical potion, medicine or other mixture.
 
 #### Gatherer
-As [Skilled Work](Activities#Skilled%20Work), you can harvest [Basic Flora](Flora#Basic%20Flora). Perform a [Variable Difficulty](Skills#Variable%20Difficulty) [Science](Science) skill test to look for [Basic Flora](Flora#Basic%20Flora) or [Artisan Flora](Flora#Artisan%20Flora). The test for artisan flora is at a -2. If you succeed, you receive 1 size of [Materials](Materials) plus 1 additional per 2 [Steps Of Success](Skills#Step%20Of%20Success).
+As [Skilled Work](Activities#Skilled%20Work), you can harvest [Basic Flora](Flora#Basic%20Flora). Perform a [Variable Difficulty](Skills#Variable%20Difficulty) [Application](Intelligence#Application) skill test to look for [Basic Flora](Flora#Basic%20Flora) or [Artisan Flora](Flora#Artisan%20Flora). The test for artisan flora is at a -2. If you succeed, you receive 1 size of [Materials](Materials) plus 1 additional per 2 [Steps Of Success](Skills#Step%20Of%20Success).
 
 #### Visual Calculus
 You can visualize what nearby characters are doing even if you can’t directly see them. This also means you can attack them through cover and other similar situations.
@@ -50,7 +50,7 @@ You can visualize what nearby characters are doing even if you can’t directly 
 ### Advanced
 
 #### Alchemical Traps
-If your character has a [Trap Kit](Example-Gear#Trap%20Kit), your payloads can be much more exotic, but the skill test becomes [Science](Science), and they take longer to prepare. They can include things like:
+If your character has a [Trap Kit](Example-Gear#Trap%20Kit), your payloads can be much more exotic, but the skill test becomes [Application](Intelligence#Application), and they take longer to prepare. They can include things like:
 Gravity destabilize: Everything in the trap area loses gravity for 1d3 rounds. Or gravity shifts in a direction for the same duration.
 Stasis discharge: Everything in the area is stunned for a turn.
 Magnesium Bomb: Everything in the area suffers an [Hot](Combat#Hot) attack that causes a critical injury to a location and is on fire.

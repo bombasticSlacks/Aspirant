@@ -12,4 +12,4 @@ Alchemy, otherwise known as pharmacy, is the act of preparing plants, animal bit
 Remember that Aspirant is a magical world and medicine should be similarly magical. Even compounds resembling real-world effects should work faster, with less side effects, and provide more effective solutions.
 
 ### Enchanting
-Similarly to the above, enchanters can produce similar items with similar effects using [Ritual](Ritual) instead of [Science](Science).
+Similarly to the above, enchanters can produce similar items with similar effects using [Ritual](Ritual) instead of [Application](Intelligence#Application).

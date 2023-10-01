@@ -53,7 +53,7 @@ If you are caught on fire, you are at immediate risk of severe complications. On
 After 2 combat turns of being on fire, you take an immediate [Severe Injury](#Severe%20Injury) to the body part that’s on fire. After 4 turns (20 seconds) you take a critical injury to the original body part that’s on fire and the fire spreads to your entire body. After 6 turns (30 seconds) on fire you take a critical injury to the chest on each of your turns until either dead or no longer on fire.
 
 #### Stop Drop And Roll
-Make an [Science](Science) skill test at a -3 if you succeed you are no longer on fire. For each consecutive turn you stop, drop and roll this test is at a +1. It is important to note some forms of militarized fire are sticky and impossible to put out without help or tools.
+Make an [Application](Intelligence#Application) skill test at a -3 if you succeed you are no longer on fire. For each consecutive turn you stop, drop and roll this test is at a +1. It is important to note some forms of militarized fire are sticky and impossible to put out without help or tools.
 
 ### Wounded
 If your character is injured, they only have so long before they pass out/collapse. In general on each combat turn you are wounded after you have performed your action you make a [Composure](Composure) [Fixed Difficulty](Skills#Fixed%20Difficulty) skill test to see if you can continue to fight at a reasonable level (the use of medication and stabilization can cause you to ignore this). If you fail this test you fall unconscious. For every severe injury after the first add a -1 to the test for every critical injury add -2 to the test.
@@ -64,7 +64,7 @@ After someone is wounded, whether they pass out or stay conscious, they will suf
 ### Managing Injuries
 Aside from the trauma of being injured in the field, there are other immediate risks to a person who has been injured, and they will need treatment to stay healthy or remain alive (depending on severity).
 
-When determining difficulty of [Science](Science) skill tests and negatives for any injuries, you just count the injury that would give you the largest negative/penalty. Multiple injuries don’t provide cumulative negatives.
+When determining difficulty of [Application](Intelligence#Application) skill tests and negatives for any injuries, you just count the injury that would give you the largest negative/penalty. Multiple injuries don’t provide cumulative negatives.
 
 #### Stabilization
-Even if you aren’t trained in [Science](Science) and don't have the proper tools you may still attempt to stabilize someone's injuries. This is a very basic test which means they are no longer bleeding, their burns have been covered, etc. This is a [Science](Science) test with a modifier of 0. No matter the result of the skill test the person is no longer at risk of immediately dying, but they get an additional -1 to their [injury penalty](#Lingering%20Pain). 
+Even if you aren’t trained in [Application](Intelligence#Application) and don't have the proper tools you may still attempt to stabilize someone's injuries. This is a very basic test which means they are no longer bleeding, their burns have been covered, etc. This is a [Application](Intelligence#Application) test with a modifier of 0. No matter the result of the skill test the person is no longer at risk of immediately dying, but they get an additional -1 to their [injury penalty](#Lingering%20Pain). 

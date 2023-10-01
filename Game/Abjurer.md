@@ -18,7 +18,7 @@ If your character has [Attuned](Magic-Training#Attuned), your character can [Cha
 * Create a shield against a specific element around yourself.
 
 #### Magic Perception
-You can detect magic passively using [Perception](Perception).
+You can detect magic passively using [Insight](Intelligence#Insight).
 
 #### Magical Dulling
 All magical abilities used near you, excluding your own, are at a -1.

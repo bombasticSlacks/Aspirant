@@ -24,13 +24,13 @@ Della is a small [Conjurer](../Classes#Conjurer) [Tactician](../Classes#Tacticia
 
 | Skill                        | Stat | Ranks | -   | Skill                     | Stat | Ranks |
 | ---------------------------- | ---- | ----- | --- | ------------------------- | ---- | ----- |
-| [Athletics](../Strength#Athletics)           | STR  |       | -   | [Perception](Perception)  | INT  | 2     |
-| [Strike](../Strength#Strike)               | STR  |       | -   | [Science](Science)        | INT  |       |
+| [Athletics](../Strength#Athletics)           | STR  |       | -   | [Insight](Intelligence#Insight)  | INT  | 2     |
+| [Strike](../Strength#Strike)               | STR  |       | -   | [Application](Intelligence#Application)        | INT  |       |
 | [Acrobatics](Agility#Reflexes)     | AGI  |       | -   | [Composure](Composure)    | RES  |       |
 | [Accuracy](../Agility#Accuracy) | AGI  |       | -   | [Channel](Channel)        | RES  |       |
 | [Subterfuge](Agility#Grace)     | AGI  |       | -   | [Ritual](Ritual)          | RES  | 2     |
 | [Perform](../Perform)        | FEL  |       | -   | [Converse](../Converse)   | FEL  | 1     |
-| [Knowledge](Knowledge)       | INT  | 2     | -   | [Husbandry](../Husbandry) | FEL  | 1     |
+| [Memory](Intelligence#Memory)       | INT  | 2     | -   | [Husbandry](../Husbandry) | FEL  | 1     |
 
 ### Training
 * [Attuned](../Magic-Training#Attuned)

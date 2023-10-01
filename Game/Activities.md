@@ -38,7 +38,7 @@ Do everything required for some Production Work.
 #### On Watch
 *You organize watch for the team taking extra shifts when necessary*
 * When the GM rolls to determine if an [Ambush Encounter](Telling-The-Story#Ambush%20Encounter) occurs, you may have your [Subterfuge](Agility#Grace) provide a penalty to the roll. 
-* You receive a +3 on any [Perception](Perception) tests during [Ambush Encounter](Telling-The-Story#Ambush%20Encounter).
+* You receive a +3 on any [Insight](Intelligence#Insight) tests during [Ambush Encounter](Telling-The-Story#Ambush%20Encounter).
 * You are not surprised if ambushed. 
 #### Scavenge
 *You hunt, forage, and provide for the group*

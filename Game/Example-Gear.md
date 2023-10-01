@@ -253,7 +253,7 @@ A Tinkers Kit has 5 uses, and replenishing a use costs 1 silver.
 *Size 3 Cost 35*
 A collection of materials, triggers, sensors and payloads that can be used to create and customize traps on the go. A trap kit can store up to 3 payloads and triggers, and a new kit starts with that. Usually, you will want to set a trap to trigger a payload, but if you have access to a chemical, grenade, explosive, weapon or other tool you want to trigger, you may use that instead. 
 
-Creating a trap is a [Science](Science) test. You may add 2 payloads or triggers to a single trap but the [Science](Science) test is at a -3, a standard trap affects at most a 3x3 meter square however you can triple the size by doubling the number of payloads used (and giving the test an additional -2). Your GM may also assign a greater negative for more complex/exotic traps or triggers. Once you have decided on when you want your trap to trigger, you choose an effect for the payload:
+Creating a trap is a [Application](Intelligence#Application) test. You may add 2 payloads or triggers to a single trap but the [Application](Intelligence#Application) test is at a -3, a standard trap affects at most a 3x3 meter square however you can triple the size by doubling the number of payloads used (and giving the test an additional -2). Your GM may also assign a greater negative for more complex/exotic traps or triggers. Once you have decided on when you want your trap to trigger, you choose an effect for the payload:
 
 * Concussive: Everyone makes a resolve test or is stunned. Even if they succeed, they are at a -2 until their action on the following turn.
 * Shrapnel: Everyone who is in the trap suffers a penetrative [Rending](Combat#Rending) damage attack with a damage bonus of 4
@@ -265,7 +265,7 @@ Creating a trap is a [Science](Science) test. You may add 2 payloads or triggers
 *Size 2 Cost 30*
 A collection of simple medicines, bandages, synthetic skin, coagulating powder, splints, and other things required to keep people alive after a severe or critical injury and treat the issues. A trauma kit provides you with a +1 to [stabilization](Injury#Stabilization) and [Surgery](Injury#Surgery). 
 
-A trained medical professional with a trauma kit can perform first aid to alleviate the immediate effects of injuries. This is a [Science](Science) skill test at an additional negative equal to the character's injury penalty. If you succeed, reduce their injury penalty by 1. If you fail a first aid test, the person still counts as [stabilized](Injury#Stabilization).
+A trained medical professional with a trauma kit can perform first aid to alleviate the immediate effects of injuries. This is a [Application](Intelligence#Application) skill test at an additional negative equal to the character's injury penalty. If you succeed, reduce their injury penalty by 1. If you fail a first aid test, the person still counts as [stabilized](Injury#Stabilization).
 
 A trauma kit has 5 uses, and replenishing a use costs 1 silver.
 

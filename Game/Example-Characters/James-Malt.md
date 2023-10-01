@@ -24,13 +24,13 @@ Scratch is a tall [Elementalist](../Classes#Elementalist) [Rogue](../Classes#Rog
 
 | Skill                        | Stat | Ranks | -   | Skill                     | Stat | Ranks |
 | ---------------------------- | ---- | ----- | --- | ------------------------- | ---- | ----- |
-| [Athletics](../Strength#Athletics)           | STR  |       | -   | [Perception](Perception)  | INT  | 1     |
-| [Strike](../Strength#Strike)               | STR  |       | -   | [Science](Science)        | INT  |       |
+| [Athletics](../Strength#Athletics)           | STR  |       | -   | [Insight](Intelligence#Insight)  | INT  | 1     |
+| [Strike](../Strength#Strike)               | STR  |       | -   | [Application](Intelligence#Application)        | INT  |       |
 | [Acrobatics](Agility#Reflexes)     | AGI  | 2     | -   | [Composure](Composure)    | RES  | 1     |
 | [Accuracy](../Agility#Accuracy) | AGI  |       | -   | [Channel](Channel)        | RES  | 2     |
 | [Subterfuge](Agility#Grace)     | AGI  | 2     | -   | [Ritual](Ritual)          | RES  |       |
 | [Perform](../Perform)         | FEL  |       | -   | [Converse](../Converse)   | FEL  |       |
-| [Knowledge](Knowledge)       | INT  |       | -   | [Husbandry](../Husbandry) | FEL  |       |
+| [Memory](Intelligence#Memory)       | INT  |       | -   | [Husbandry](../Husbandry) | FEL  |       |
 
 
 ### Training

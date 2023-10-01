@@ -19,7 +19,7 @@ affects different locations separately and is the maximum bonus you can have on 
 
 | Location | Skills effected                                |
 | -------- | ---------------------------------------------- |
-| Head     | [Perception](Perception), and [Converse](Converse)    |
+| Head     | [Insight](Intelligence#Insight), and [Converse](Converse)    |
 | Arms     | [Strike](Strength#Strike), [Accuracy](Agility#Accuracy), and [Channel](Channel)|
 | Torso    | *No Penalties*                                 |
 | Legs     | [Acrobatics](Agility#Reflexes), [Subterfuge](Agility#Grace)                                               |

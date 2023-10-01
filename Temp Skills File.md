@@ -89,13 +89,13 @@ This includes:
 * Learning more about an environment
 
 ## Fellowship
-### Communication
+### Speaking
 Identical to converse, just interfacing also would include one - way conversation, or written word
 
-### Husbandry
+### Body Language
 Exact same
 
-### Duplicity
+### Confidence
 Exact same as perform, however this tends to be used in more direct "lying" situations so duplicity includes that more directly.
 
 No longer includes instrumental performance, which is better covered with Accuracy
