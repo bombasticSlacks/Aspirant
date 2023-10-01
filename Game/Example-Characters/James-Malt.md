@@ -26,9 +26,9 @@ Scratch is a tall [Elementalist](../Classes#Elementalist) [Rogue](../Classes#Rog
 | ---------------------------- | ---- | ----- | --- | ------------------------- | ---- | ----- |
 | [Athletics](../Strength#Athletics)           | STR  |       | -   | [Insight](Intelligence#Insight)  | INT  | 1     |
 | [Strike](../Strength#Strike)               | STR  |       | -   | [Application](Intelligence#Application)        | INT  |       |
-| [Acrobatics](Agility#Reflexes)     | AGI  | 2     | -   | [Composure](Composure)    | RES  | 1     |
+| [reflexes](Agility#Reflexes)     | AGI  | 2     | -   | [Composure](Composure)    | RES  | 1     |
 | [Accuracy](../Agility#Accuracy) | AGI  |       | -   | [Channel](Channel)        | RES  | 2     |
-| [Subterfuge](Agility#Grace)     | AGI  | 2     | -   | [Ritual](Ritual)          | RES  |       |
+| [Grace](Agility#Grace)     | AGI  | 2     | -   | [Ritual](Ritual)          | RES  |       |
 | [Perform](../Perform)         | FEL  |       | -   | [Converse](../Converse)   | FEL  |       |
 | [Memory](Intelligence#Memory)       | INT  |       | -   | [Husbandry](../Husbandry) | FEL  |       |
 

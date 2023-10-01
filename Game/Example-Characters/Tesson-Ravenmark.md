@@ -26,9 +26,9 @@ Tess is a [Barbarian](../Classes#Barbarian) [Fortune Teller](../Classes#Fortune%
 | ---------------------------- | ---- | ----- | --- | ------------------------- | ---- | ----- |
 | [Athletics](../Strength#Athletics)           | STR  | 1     | -   | [Insight](Intelligence#Insight)  | INT  | 2     |
 | [Strike](../Strength#Strike)               | STR  | 2     | -   | [Application](Intelligence#Application)        | INT  |       |
-| [Acrobatics](Agility#Reflexes)     | AGI  | 1     | -   | [Composure](Composure)    | RES  | 1     | 
+| [reflexes](Agility#Reflexes)     | AGI  | 1     | -   | [Composure](Composure)    | RES  | 1     | 
 | [Accuracy](../Agility#Accuracy) | AGI  |       | -   | [Channel](Channel)        | RES  |       |
-| [Subterfuge](Agility#Grace)     | AGI  |       | -   | [Ritual](Ritual)          | RES  | 1      |
+| [Grace](Agility#Grace)     | AGI  |       | -   | [Ritual](Ritual)          | RES  | 1      |
 | [Perform](../Perform)     | FEL  |       | -   | [Converse](../Converse)   | FEL  |       |
 | [Memory](Intelligence#Memory)       | INT  |       | -   | [Husbandry](../Husbandry) | FEL  |       |
 

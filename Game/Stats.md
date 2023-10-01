@@ -31,7 +31,7 @@ Measures physical power.
 Measures speed and dexterity
 - How far you can move in combat
 - Initiative
-- [Acrobatics](Agility#Reflexes), [Accuracy](Agility#Accuracy) and [Subterfuge](Agility#Grace) [Skills](Skills)
+- [reflexes](Agility#Reflexes), [Accuracy](Agility#Accuracy) and [Grace](Agility#Grace) [Skills](Skills)
 
 #### Intelligence
 Measures mental acuity and knowledge

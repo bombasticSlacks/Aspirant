@@ -44,10 +44,10 @@ The basis of your character, the skills and tools that help you when adventuring
 | ---------------------------- | ----- |
 | [Athletics](Strength#Athletics)           | 1     |
 | [Strike](Strength#Strike)               | 2     |
-| [Sport](Sport)               | 1     |
-| [Acrobatics](Agility#Reflexes)     | 1     |
+| #TODOSKILL               | 1     |
+| [reflexes](Agility#Reflexes)     | 1     |
 | [Accuracy](Agility#Accuracy) |       |
-| [Subterfuge](Agility#Grace)     |       |
+| [Grace](Agility#Grace)     |       |
 | [Memory](Intelligence#Memory)       |       |
 | [Insight](Intelligence#Insight)     | 1     |
 | [Application](Intelligence#Application)           |       |
@@ -88,10 +88,10 @@ The basis of your character, the skills and tools that help you when adventuring
 | ---------------------------- | ----- |
 | [Athletics](Strength#Athletics)           | 1     |
 | [Strike](Strength#Strike)               | 2     |
-| [Sport](Sport)               |       |
-| [Acrobatics](Agility#Reflexes)     |       |
+| #TODOSKILL               |       |
+| [reflexes](Agility#Reflexes)     |       |
 | [Accuracy](Agility#Accuracy) | 1     |
-| [Subterfuge](Agility#Grace)     |       |
+| [Grace](Agility#Grace)     |       |
 | [Memory](Intelligence#Memory)       |       |
 | [Insight](Intelligence#Insight)     | 1     |
 | [Application](Intelligence#Application)           |       |
@@ -135,10 +135,10 @@ The basis of your character, the skills and tools that help you when adventuring
 | ---------------------------- | ----- |
 | [Athletics](Strength#Athletics)           |       |
 | [Strike](Strength#Strike)               |       |
-| [Sport](Sport)               |       |
-| [Acrobatics](Agility#Reflexes)     | 2     |
+| #TODOSKILL               |       |
+| [reflexes](Agility#Reflexes)     | 2     |
 | [Accuracy](Agility#Accuracy) |       |
-| [Subterfuge](Agility#Grace)     |       |
+| [Grace](Agility#Grace)     |       |
 | [Memory](Intelligence#Memory)       | 1     | 
 | [Insight](Intelligence#Insight)     | 1     |
 | [Application](Intelligence#Application)           |       |
@@ -182,10 +182,10 @@ The basis of your character, the skills and tools that help you when adventuring
 | ---------------------------- | ----- |
 | [Athletics](Strength#Athletics)           |       |
 | [Strike](Strength#Strike)               |       |
-| [Sport](Sport)               |       |
-| [Acrobatics](Agility#Reflexes)     |       |
+| #TODOSKILL               |       |
+| [reflexes](Agility#Reflexes)     |       |
 | [Accuracy](Agility#Accuracy) |       |
-| [Subterfuge](Agility#Grace)     |       |
+| [Grace](Agility#Grace)     |       |
 | [Memory](Intelligence#Memory)       | 2     |
 | [Insight](Intelligence#Insight)     | 2     |
 | [Application](Intelligence#Application)           |       |
@@ -226,10 +226,10 @@ The basis of your character, the skills and tools that help you when adventuring
 | ---------------------------- | ----- |
 | [Athletics](Strength#Athletics)           |       |
 | [Strike](Strength#Strike)               | 1     | 
-| [Sport](Sport)               |       |
-| [Acrobatics](Agility#Reflexes)     |       |
+| #TODOSKILL               |       |
+| [reflexes](Agility#Reflexes)     |       |
 | [Accuracy](Agility#Accuracy) |       |
-| [Subterfuge](Agility#Grace)     |       |
+| [Grace](Agility#Grace)     |       |
 | [Memory](Intelligence#Memory)       |       |
 | [Insight](Intelligence#Insight)     | 1     |
 | [Application](Intelligence#Application)           |       |
@@ -269,10 +269,10 @@ The basis of your character, the skills and tools that help you when adventuring
 | ---------------------------- | ----- |
 | [Athletics](Strength#Athletics)           | 1     |
 | [Strike](Strength#Strike)               | 1     |
-| [Sport](Sport)               |       |
-| [Acrobatics](Agility#Reflexes)     |       |
+| #TODOSKILL               |       |
+| [reflexes](Agility#Reflexes)     |       |
 | [Accuracy](Agility#Accuracy) |       |
-| [Subterfuge](Agility#Grace)     |       |
+| [Grace](Agility#Grace)     |       |
 | [Memory](Intelligence#Memory)       | 1     |
 | [Insight](Intelligence#Insight)     | 1     |
 | [Application](Intelligence#Application)           |  1     |
@@ -336,7 +336,7 @@ Your character's additional interest, things they do in their spare time.
 
 ##### Additional Skills (2 Ranks)
 * Add one rank to [Strike](Strength#Strike)
-* Add one rank to [Sport](Sport)
+* Add one rank to #TODOSKILL
 
 ##### Additional Trainings (2 Basic)
 * [Black Belt](Pugilist#Black%20Belt)
@@ -354,7 +354,7 @@ Your character's additional interest, things they do in their spare time.
 
 ##### Additional Skills (2 Ranks)
 * Add one rank to [Strike](Strength#Strike)
-* Add one rank to [Acrobatics](Agility#Reflexes)
+* Add one rank to [reflexes](Agility#Reflexes)
 
 ##### Additional Trainings (2 Basic)
 * [Martial Training](Combat-Training#Martial%20Training)
@@ -371,7 +371,7 @@ Your character's additional interest, things they do in their spare time.
 
 ##### Additional Skills (2 Ranks)
 * Add one rank to [Memory](Intelligence#Memory)
-* Add one rank to [Subterfuge](Agility#Grace)
+* Add one rank to [Grace](Agility#Grace)
 
 ##### Additional Trainings (2 Basic)
 * [Travel the Shadows](Hunter#Travel%20the%20Shadows)
@@ -407,7 +407,7 @@ Your character's additional interest, things they do in their spare time.
 *You always knew how to take care of yourself, even at others expense*
 
 ##### Additional Skills (2 Ranks)
-* Add two ranks to [Subterfuge](Agility#Grace)
+* Add two ranks to [Grace](Agility#Grace)
 
 ##### Additional Trainings (2 Basic)
 * [Shadow Combatant](Shadow#Shadow%20Combatant)

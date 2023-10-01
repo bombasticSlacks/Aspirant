@@ -26,9 +26,9 @@ Granite is a lean and fit [Face](../Classes#Face) [Brawler](../Classes#Brawler) 
 | ---------------------------- | ---- | ----- | --- | ------------------------- | ---- | ----- |
 | [Athletics](../Strength#Athletics)           | STR  | 1     | -   | [Insight](Intelligence#Insight)  | INT  | 1     |
 | [Strike](../Strength#Strike)               | STR  | 1     | -   | [Application](Intelligence#Application)        | INT  |       |
-| [Acrobatics](Agility#Reflexes)     | AGI  |       | -   | [Composure](Composure)    | RES  | 1     |
+| [reflexes](Agility#Reflexes)     | AGI  |       | -   | [Composure](Composure)    | RES  | 1     |
 | [Accuracy](../Agility#Accuracy) | AGI  |       | -   | [Channel](Channel)        | RES  |       |
-| [Subterfuge](Agility#Grace)     | AGI  |       | -   | [Ritual](Ritual)          | RES  |       |
+| [Grace](Agility#Grace)     | AGI  |       | -   | [Ritual](Ritual)          | RES  |       |
 | [Perform](../Perform)        | FEL  | 1      | -   | [Converse](../Converse)   | FEL  | 2     |
 | [Memory](Intelligence#Memory)       | INT  |       | -   | [Husbandry](../Husbandry) | FEL  | 1     |
 
