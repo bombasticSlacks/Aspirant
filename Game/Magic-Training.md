@@ -55,7 +55,7 @@ You may use any [Artisan](Materials#Artisan) or greater [Quality](Weapons#Qualit
 You do not need to move your hands to [Channel](Channel).
 
 #### Vibe Casting
-When performing [Channel](Channel) skill tests, you may count your [Resolve](Resolve) as the same value as your [Fellowship](Fellowship).
+When performing [Channel](Channel) skill tests, you may count your [Resolve](Resolve) as the same value as your [Communication](Communication).
 
 ---
 ### Advanced

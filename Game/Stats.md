@@ -19,7 +19,7 @@ Your character has 5 primary attributes the dictate what they can do:
 * [Strength](Strength)
 * [Agility](Agility)
 * [Intelligence](Intelligence)
-* [Fellowship](Fellowship)
+* [Communication](Communication)
 * [Resolve](Resolve)
 #### Strength
 Measures physical power.

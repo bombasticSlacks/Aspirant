@@ -10,7 +10,7 @@ One of the [Skills](Skills) in Aspirant.
 Talking to people, intimidating them, trying to get a good deal or bargain.
 
 ### Stat Used
-[Fellowship](Fellowship) skill.
+[Communication](Communication) skill.
 
 ### Mundane Activities
 Some examples of things that shouldn't require a skill test would be.

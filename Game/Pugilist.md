@@ -36,7 +36,7 @@ Overwatch attacks always miss you. You can move out of melee without triggering 
 As a [Reaction](Combat#Reacting%20to%20Attacks), if an opponent is [Charging](Combat#Charging) you, you may make an unarmed attack that if successful causes their attack to fail and knocks them prone.
 
 #### Drunk Boxing
-A [Special Manoeuvre](Combat#Special%20Manoeuvres) where you make a [Fellowship](Fellowship) + [reflexes](Agility#Reflexes) test at -2. If you succeed, then if an enemy attacks you in melee and succeeds, you ignore the attack. If they fail the attack, you make an attack that is a guaranteed hit against your opponent.
+A [Special Manoeuvre](Combat#Special%20Manoeuvres) where you make a [Communication](Communication) + [reflexes](Agility#Reflexes) test at -2. If you succeed, then if an enemy attacks you in melee and succeeds, you ignore the attack. If they fail the attack, you make an attack that is a guaranteed hit against your opponent.
 
 #### Dragon Rush
 While unarmed, you can as [Reacting to Attacks](Combat#Reacting%20to%20Attacks), after making an unarmed attack or manoeuvre, if you haven’t already used this ability this turn, you may expend your reaction to attack again.

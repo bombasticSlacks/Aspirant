@@ -40,7 +40,7 @@ You may use converse to attempt to get better deals when commissioning items. Th
 You can buy any item, even a person's personal equipment.
 
 #### Promissory Note
-You can go into debt an amount of silver equal to 10 x [Fellowship](Fellowship) by writing promissory notes to merchants. You need to pay this off before you can use this ability again.
+You can go into debt an amount of silver equal to 10 x [Communication](Communication) by writing promissory notes to merchants. You need to pay this off before you can use this ability again.
 
 #### Suburbanite
 You receive a +1 to all skill tests related to surviving and navigating urban areas.

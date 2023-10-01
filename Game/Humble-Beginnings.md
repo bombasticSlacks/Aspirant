@@ -27,7 +27,7 @@ Heritage is your family lineage. Who were the people who raised you? What did th
 ### Wealthy
 Your character grew up in a wealthy home. A parent was a merchant, extortionist, politician, or perhaps of old blood. You however yearned for more.
 
-* Your proper education and practice speaking gives +1 [Fellowship](Fellowship)   
+* Your proper education and practice speaking gives +1 [Communication](Communication)   
 * Start with a set of fancy clothing.
 
 ### Spiritual

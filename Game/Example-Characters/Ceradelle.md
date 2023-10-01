@@ -15,7 +15,7 @@ Ceradelle is an elvish [Beast Master](../Classes#Beast%20Master) [Archer](../Cla
 | [Agility](../Agility)           | 3     | -   | [Spent XP](../Stats#Spent%20XP)         | 10    |
 | [Intelligence](../Intelligence) | 2     | -   | [Power](../Stats#Power)                 | 3     |
 | [Resolve](../Resolve)           | 2     | -   | [Move Speed](../Stats#Move%20Speed)     | 12    |
-| [Fellowship](../Fellowship)     | 4     | -   | [Initiative](../Stats#Initiative)       | 5     |
+| [Communication](../Communication)     | 4     | -   | [Initiative](../Stats#Initiative)       | 5     |
 |                                       |       | -   | [Threat](../Stats#Threat)               | 3     |
 |                                       |       | -   | [Max Toxicity](../Stats#Max%20Toxicity) | 4     | 
 

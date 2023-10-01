@@ -15,7 +15,7 @@ Tess is a [Barbarian](../Classes#Barbarian) [Fortune Teller](../Classes#Fortune%
 | [Agility](../Agility)           | 2     | -   | [Spent XP](../Stats#Spent%20XP)         | 10    |
 | [Intelligence](../Intelligence) | 2     | -   | [Power](../Stats#Power)                 | 3     |
 | [Resolve](../Resolve)           | 3     | -   | [Move Speed](../Stats#Move%20Speed)     | 8     |
-| [Fellowship](../Fellowship)     | 2     | -   | [Initiative](../Stats#Initiative)       | 4     |
+| [Communication](../Communication)     | 2     | -   | [Initiative](../Stats#Initiative)       | 4     |
 |                                       |       | -   | [Threat](../Stats#Threat)               | 4     |
 |                                       |       | -   | [Max Toxicity](../Stats#Max%20Toxicity) | 7     |
 

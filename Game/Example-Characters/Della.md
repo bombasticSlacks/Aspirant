@@ -15,7 +15,7 @@ Della is a small [Conjurer](../Classes#Conjurer) [Tactician](../Classes#Tacticia
 | [Agility](../Agility)           | 2     | -   | [Spent XP](../Stats#Spent%20XP)         | 10    |
 | [Intelligence](../Intelligence) | 2     | -   | [Power](../Stats#Power)                 | 2     |
 | [Resolve](../Resolve)           | 4     | -   | [Move Speed](../Stats#Move%20Speed)     | 8     |
-| [Fellowship](../Fellowship)     | 3     | -   | [Initiative](../Stats#Initiative)       | 5     |
+| [Communication](../Communication)     | 3     | -   | [Initiative](../Stats#Initiative)       | 5     |
 |                                       |       | -   | [Threat](../Stats#Threat)               | 1     |
 |                                       |       | -   | [Max Toxicity](../Stats#Max%20Toxicity) | 6     |
 

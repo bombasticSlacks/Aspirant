@@ -15,7 +15,7 @@ Aaron is a stout [Fighter](../Classes#Fighter) [Healer](../Classes#Healer) with 
 | [Agility](../Agility)           | 3     | -   | [Spent XP](../Stats#Spent%20XP)         | 10    |
 | [Intelligence](../Intelligence) | 3     | -   | [Power](../Stats#Power)                 | 2     |
 | [Resolve](../Resolve)           | 2     | -   | [Move Speed](../Stats#Move%20Speed)     | 12    |
-| [Fellowship](../Fellowship)     | 2     | -   | [Initiative](../Stats#Initiative)       | 6     |
+| [Communication](../Communication)     | 2     | -   | [Initiative](../Stats#Initiative)       | 6     |
 |                                       |       | -   | [Threat](../Stats#Threat)               | 1     |
 |                                       |       | -   | [Max Toxicity](../Stats#Max%20Toxicity) | 5     | 
 
