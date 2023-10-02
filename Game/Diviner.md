@@ -23,7 +23,7 @@ If your character has [Attuned](Magic-Training#Attuned), your character can perf
 As a [reaction](Combat#Reacting%20to%20Attacks), you may [Dodge](Combat#Dodge) using a divination skill test.
 
 #### True Sight
-You can perceive things supernaturally within [Resolve](Resolve) x 10m.
+You can perceive things supernaturally within [Spirit](Spirit) x 10m.
 
 ---
 ### Advanced

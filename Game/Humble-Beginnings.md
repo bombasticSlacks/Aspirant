@@ -33,7 +33,7 @@ Your character grew up in a wealthy home. A parent was a merchant, extortionist,
 ### Spiritual
 Your character grew up in a spiritual home. A parent was a priest, shaman, spiritual guide, or perhaps a mage's servant. You however yearned for more.
 
-* Your understanding of what lies beyond gives +1 [Resolve](Resolve)  
+* Your understanding of what lies beyond gives +1 [Spirit](Spirit)  
 * Start with a spiritual fetish or tattoo.
 
 ### Labour

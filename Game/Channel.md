@@ -10,7 +10,7 @@ One of the [Skills](Skills) in Aspirant.
 Invoking the power of magical items, channeling [Abjurer](Abjurer), [Evoker](Evoker), [Illusionist](Illusionist), or [Transmuter](Transmuter) power. Creates immediate effects by pulling energy or manipulating magic in the world around you.
 
 ### Stat Used
-[Resolve](Resolve) skill.
+[Spirit](Spirit) skill.
 
 ### Mundane Activities
 There are no mundane channel actions there should always be a chance to fail.
@@ -95,7 +95,7 @@ These are traits that magical attacks can have applied to them. Adding them incr
 | Lethal        | -2             | This attack has +2 damage bonus.                                                                                                                                              |
 | Painless      | 0              | This attack doesn’t cause any injuries directly.                                                                                                                              |
 | Penetrating   | -2             | This attack has the penetrative trait.                                                                                                                                        |
-| Resolve       | 0              | This attacks adds [Resolve](Resolve) to damage instead of [Strength](Strength)                                                                                                                                |
+| Resolve       | 0              | This attacks adds [Spirit](Spirit) to damage instead of [Strength](Strength)                                                                                                                                |
 | Shredding     | -1             | Reduce the hp of any armour damaged by this attack by 4.                                                                                                                      |
 | Slowing       | -1             | This attack slows the target significantly; they cannot sprint or charge on their next turn.                                                                                  |
 | Stunning      | -1             | When struck the enemy must make a resolve test or be completely stunned until their next turn. If they pass they still take a -2 to all actions until your next turn.         |

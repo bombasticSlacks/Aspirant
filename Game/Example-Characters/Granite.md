@@ -14,7 +14,7 @@ Granite is a lean and fit [Face](../Classes#Face) [Brawler](../Classes#Brawler) 
 | [Strength](../Strength)         | 3     | -   | [Total XP](../Stats#Total%20XP)         | 10    |
 | [Agility](../Agility)           | 2     | -   | [Spent XP](../Stats#Spent%20XP)         | 10    |
 | [Intelligence](../Intelligence) | 2     | -   | [Power](../Stats#Power)                 | 2     |
-| [Resolve](../Resolve)           | 2     | -   | [Move Speed](../Stats#Move%20Speed)     | 8    |
+| [Spirit](../Spirit)           | 2     | -   | [Move Speed](../Stats#Move%20Speed)     | 8    |
 | [Communication](../Communication)     | 4     | -   | [Initiative](../Stats#Initiative)       | 4     |
 |                                       |       | -   | [Threat](../Stats#Threat)               | 1     |
 |                                       |       | -   | [Max Toxicity](../Stats#Max%20Toxicity) | 6     | 

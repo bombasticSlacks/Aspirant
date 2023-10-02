@@ -32,7 +32,7 @@ While you are successfully grappling someone on your turn, you may as an action 
 After injuring someone, you may always opt for them to go unconscious instead of dying.
 
 #### Terrify
-After inflicting an injury in melee, you can spend your [Reaction](Combat#Reacting%20to%20Attacks) to intimidate an enemy with a [Connection](Communication#Connection) skill test with difficulty equal to their [Resolve](Resolve). If you succeed, they surrender; otherwise, they take a -2 to all actions until your next turn.
+After inflicting an injury in melee, you can spend your [Reaction](Combat#Reacting%20to%20Attacks) to intimidate an enemy with a [Connection](Communication#Connection) skill test with difficulty equal to their [Spirit](Spirit). If you succeed, they surrender; otherwise, they take a -2 to all actions until your next turn.
 
 Some enemies are not intelligent enough or just refuse to surrender under any circumstances.
 

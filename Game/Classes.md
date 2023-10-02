@@ -34,7 +34,7 @@ The basis of your character, the skills and tools that help you when adventuring
 * [Strength](Strength) of 4
 * [Agility](Agility) of 3
 * [Intelligence](Intelligence) of 2
-* [Resolve](Resolve) of 2
+* [Spirit](Spirit) of 2
 * [Communication](Communication) of 2
 
 
@@ -78,7 +78,7 @@ The basis of your character, the skills and tools that help you when adventuring
 * [Strength](Strength) of 4
 * [Agility](Agility) of 2
 * [Intelligence](Intelligence) of 2
-* [Resolve](Resolve) of 3
+* [Spirit](Spirit) of 3
 * [Communication](Communication) of 2
 
 
@@ -125,7 +125,7 @@ The basis of your character, the skills and tools that help you when adventuring
 * [Strength](Strength) of 2
 * [Agility](Agility) of 3
 * [Intelligence](Intelligence) of 2
-* [Resolve](Resolve) of 4
+* [Spirit](Spirit) of 4
 * [Communication](Communication) of 2
 
 
@@ -172,7 +172,7 @@ The basis of your character, the skills and tools that help you when adventuring
 * [Strength](Strength) of 2
 * [Agility](Agility) of 2
 * [Intelligence](Intelligence) of 3
-* [Resolve](Resolve) of 4
+* [Spirit](Spirit) of 4
 * [Communication](Communication) of 2
 
 
@@ -216,7 +216,7 @@ The basis of your character, the skills and tools that help you when adventuring
 * [Strength](Strength) of 2
 * [Agility](Agility) of 3
 * [Intelligence](Intelligence) of 2
-* [Resolve](Resolve) of 2
+* [Spirit](Spirit) of 2
 * [Communication](Communication) of 4
 
 
@@ -259,7 +259,7 @@ The basis of your character, the skills and tools that help you when adventuring
 * [Strength](Strength) of 2
 * [Agility](Agility) of 3
 * [Intelligence](Intelligence) of 3
-* [Resolve](Resolve) of 2
+* [Spirit](Spirit) of 2
 * [Communication](Communication) of 3
 
 

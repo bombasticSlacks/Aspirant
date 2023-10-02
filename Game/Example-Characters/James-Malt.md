@@ -14,7 +14,7 @@ Scratch is a tall [Elementalist](../Classes#Elementalist) [Rogue](../Classes#Rog
 | [Strength](../Strength)         | 2     | -   | [Total XP](../Stats#Total%20XP)         | 10    |
 | [Agility](../Agility)           | 3     | -   | [Spent XP](../Stats#Spent%20XP)         | 10    |
 | [Intelligence](../Intelligence) | 2     | -   | [Power](../Stats#Power)                 | 2     |
-| [Resolve](../Resolve)           | 4     | -   | [Move Speed](../Stats#Move%20Speed)     | 12    |
+| [Spirit](../Spirit)           | 4     | -   | [Move Speed](../Stats#Move%20Speed)     | 12    |
 | [Communication](../Communication)     | 2     | -   | [Initiative](../Stats#Initiative)       | 5     |
 |                                       |       | -   | [Threat](../Stats#Threat)               | 0     |
 |                                       |       | -   | [Max Toxicity](../Stats#Max%20Toxicity) | 6     | 

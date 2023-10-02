@@ -17,7 +17,7 @@ If your character has [Attuned](Magic-Training#Attuned), your character can [Cha
 * Alter yourself in simple ways.
 
 #### Wire Fight
-You Can Use [Resolve](Resolve) instead of Agility to Calculate Movement distance.
+You Can Use [Spirit](Spirit) instead of Agility to Calculate Movement distance.
 
 #### Wild Casting
 You can cast spells normally while transformed into a non-humanoid creature. You can also speak normally.
@@ -33,7 +33,7 @@ If your character has [Amateur Transmutation](#Amateur%20Transmutation) training
 * Alter others in simple ways.
 
 #### Kinetic Monk
-If your character has [Black Belt](Pugilist#Black%20Belt) Training, while using a [Focus](Example-Gear#Focus) you can substitute your [Resolve](Resolve) for [Strength](Strength) when performing melee attacks and [Special Manoeuvres](Combat#Special%20Manoeuvres). You can also perform unarmed melee attacks and [Special Manoeuvres](Combat#Special%20Manoeuvres) at a range of double your [Resolve](Resolve)
+If your character has [Black Belt](Pugilist#Black%20Belt) Training, while using a [Focus](Example-Gear#Focus) you can substitute your [Spirit](Spirit) for [Strength](Strength) when performing melee attacks and [Special Manoeuvres](Combat#Special%20Manoeuvres). You can also perform unarmed melee attacks and [Special Manoeuvres](Combat#Special%20Manoeuvres) at a range of double your [Spirit](Spirit)
 
 ---
 ### Master
