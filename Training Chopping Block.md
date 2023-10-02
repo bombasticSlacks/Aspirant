@@ -10,3 +10,6 @@ You may opt to take a negative on an attack to get an equivalent bonus to damage
 
 #### Greater Cleave
 If you have [Cleave](#Cleave) training, when making a charge you may target anyone with cleave who was in weapon range along the path.
+
+#### Heavy Hitter
+While wearing metal arm armour, you can parry and block using your arms and all of your attacks may knock back enemies [Strength](Strength) meters.

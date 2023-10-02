@@ -22,6 +22,19 @@ They can generally teach the following training:
 #### Bushwhacker
 Whenever someone performs a [Mitigated Attack](Terminology#Mitigated%20Attack) against you in melee, you may spend a [Reaction](Terminology#Reaction) to make an [Attack](Terminology#Attack) with a hit location of the limb they attacked with.
 
+#### Black Belt
+When not holding anything can perform a [Melee Attack](Terminology#Melee%20Attack) as though you had a melee weapon with a damage value #TODODamage of $2 \times Strength$ 
+
+#### Flesh Prison
+When you are controlling a [Grapple](Combat#Grapple), you always count as pinning the person being grappled.
+
+#### Living Weapon
+Your character always counts as armed and can, as long as they are conscious, always fight as though their hands were unbound.
+
+#### Throw
+Your [Shoves](Combat#Shove) make people travel twice the distance.
+
+
 ---
 
 ### Advanced
