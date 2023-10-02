@@ -8,7 +8,7 @@ nav_order: 2
 ## Resonant
 One of the [Materials](Materials) used for crafting and trading.
 
-Items with a clear magical attunement, pieces of magical items, mundane items collected from places of power and rare gemstones. Useful in powering [Focus](Example-Gear#Focus), [Ritual](Ritual), and advanced crafting.
+Items with a clear magical attunement, pieces of magical items, mundane items collected from places of power and rare gemstones. Useful in powering [Focus](Example-Gear#Focus), [Attunement](Spirit#Attunement), and advanced crafting.
 
 ### Basic Resonant
 Otherwise unusable pieces of damaged artifacts, fetishes, and other superstitious items.

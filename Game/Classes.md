@@ -51,9 +51,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Memory](Intelligence#Memory)       |       |
 | [Insight](Intelligence#Insight)     | 1     |
 | [Application](Intelligence#Application)           |       |
-| [Composure](Composure)       | 1     |
-| [Channel](Channel)           |       |
-| [Ritual](Ritual)             |       |
+| [Identity](Spirit#Identity)       | 1     |
+| [Will](Spirit#Will)           |       |
+| [Attunement](Spirit#Attunement)             |       |
 | [Connection](Communication#Connection)         |       |
 | [Mannerism](Communication#Mannerism)       |       |
 | [Confidence](Communication#Confidence)           |       |
@@ -95,9 +95,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Memory](Intelligence#Memory)       |       |
 | [Insight](Intelligence#Insight)     | 1     |
 | [Application](Intelligence#Application)           |       |
-| [Composure](Composure)       | 1     |
-| [Channel](Channel)           |       |
-| [Ritual](Ritual)             |       |
+| [Identity](Spirit#Identity)       | 1     |
+| [Will](Spirit#Will)           |       |
+| [Attunement](Spirit#Attunement)             |       |
 | [Connection](Communication#Connection)         |       |
 | [Mannerism](Communication#Mannerism)       | 1     | 
 | [Confidence](Communication#Confidence)           |       |
@@ -142,9 +142,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Memory](Intelligence#Memory)       | 1     | 
 | [Insight](Intelligence#Insight)     | 1     |
 | [Application](Intelligence#Application)           |       |
-| [Composure](Composure)       | 1     |
-| [Channel](Channel)           | 2     |
-| [Ritual](Ritual)             |       |
+| [Identity](Spirit#Identity)       | 1     |
+| [Will](Spirit#Will)           | 2     |
+| [Attunement](Spirit#Attunement)             |       |
 | [Connection](Communication#Connection)         |       |
 | [Mannerism](Communication#Mannerism)       |       |
 | [Confidence](Communication#Confidence)           |       |
@@ -189,9 +189,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Memory](Intelligence#Memory)       | 2     |
 | [Insight](Intelligence#Insight)     | 2     |
 | [Application](Intelligence#Application)           |       |
-| [Composure](Composure)       |       |
-| [Channel](Channel)           |       |
-| [Ritual](Ritual)             | 2     |
+| [Identity](Spirit#Identity)       |       |
+| [Will](Spirit#Will)           |       |
+| [Attunement](Spirit#Attunement)             | 2     |
 | [Connection](Communication#Connection)         | 1     | 
 | [Mannerism](Communication#Mannerism)       |       |
 | [Confidence](Communication#Confidence)           |       |
@@ -233,9 +233,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Memory](Intelligence#Memory)       |       |
 | [Insight](Intelligence#Insight)     | 1     |
 | [Application](Intelligence#Application)           |       |
-| [Composure](Composure)       | 1     |
-| [Channel](Channel)           |       |
-| [Ritual](Ritual)             |       |
+| [Identity](Spirit#Identity)       | 1     |
+| [Will](Spirit#Will)           |       |
+| [Attunement](Spirit#Attunement)             |       |
 | [Connection](Communication#Connection)         | 2     |
 | [Mannerism](Communication#Mannerism)       | 1     |
 | [Confidence](Communication#Confidence)           | 1     |
@@ -276,9 +276,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Memory](Intelligence#Memory)       | 1     |
 | [Insight](Intelligence#Insight)     | 1     |
 | [Application](Intelligence#Application)           |  1     |
-| [Composure](Composure)       |       |
-| [Channel](Channel)           |       |
-| [Ritual](Ritual)             |       |
+| [Identity](Spirit#Identity)       |       |
+| [Will](Spirit#Will)           |       |
+| [Attunement](Spirit#Attunement)             |       |
 | [Connection](Communication#Connection)         |       |
 | [Mannerism](Communication#Mannerism)       | 2     |
 | [Confidence](Communication#Confidence)           |       |
@@ -318,7 +318,7 @@ Your character's additional interest, things they do in their spare time.
 *You've a small amount of experience with divining the fates*
 
 ##### Additional Skills (2 Ranks)
-* Add one rank to [Ritual](Ritual)
+* Add one rank to [Attunement](Spirit#Attunement)
 * Add one rank to [Insight](Intelligence#Insight)
 
 ##### Additional Trainings (2 Basic)

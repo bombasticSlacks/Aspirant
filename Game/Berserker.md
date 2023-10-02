@@ -34,7 +34,7 @@ If you injure an enemy with a critical or lethal injury during an attack you may
 When you make a [Strike](Strength#Strike) skill test, spend a [Power](Stats#Power) to become enraged. While enraged, you have: 
 * +1 [Strength](Strength) 
 * -1 [Intelligence](Intelligence)
-* +2 to [Composure](Composure) tests
+* +2 to [Identity](Spirit#Identity) tests
 * Ignore [Being Wounded](Injury#Wounded)
 
 On any turn where you don't make a melee skill test, you must roll a d6, on a 1-3 you stop being enraged.

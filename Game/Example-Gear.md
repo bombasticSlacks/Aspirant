@@ -59,7 +59,7 @@ A folded up cloth stretcher used for transporting individuals who have suffered 
 
 #### Crystallized Magic
 *Size $1\over5$ Cost 1*
-Crystallized magic is an infused or naturally magically resonant material that allows a channeler to transform pure magic into effects on the material world. Crystallized magic is necessary to [Channel](Channel) any meaningful magical effect, it can be purchased like any other equipment. When casting a spell, you need to expend a unit of crystallized magic per level of the spell, so amateur spells require 1 unit, expert 2, and master 3. If you do not succeed, there is a 50% chance that the crystallized magic is not expended. 
+Crystallized magic is an infused or naturally magically resonant material that allows a channeler to transform pure magic into effects on the material world. Crystallized magic is necessary to [Will](Spirit#Will) any meaningful magical effect, it can be purchased like any other equipment. When casting a spell, you need to expend a unit of crystallized magic per level of the spell, so amateur spells require 1 unit, expert 2, and master 3. If you do not succeed, there is a 50% chance that the crystallized magic is not expended. 
 
 ---
 
@@ -71,7 +71,7 @@ A small, hard container that can hold a liquid for drinking. Holds up to a half 
 
 #### Focus
 *Size 2 Cost 35*
-A wand, pendant or other item that allows you to [Channel](Channel) magic.
+A wand, pendant or other item that allows you to [Will](Spirit#Will) magic.
 
 ---
 
@@ -200,7 +200,7 @@ A patching kit has 5 uses, and replenishing a use costs 1 silver.
 
 #### Reagent Bag
 *Size 2 Cost 30*
-A well constructed satchel of elixirs, dried powdered items, and other small bits of magic that can be used to perform [Rituals](Ritual). When you go to perform a ritual, you must expend a charge from your reagent bag. 
+A well constructed satchel of elixirs, dried powdered items, and other small bits of magic that can be used to perform [Rituals](Spirit#Attunement). When you go to perform a ritual, you must expend a charge from your reagent bag. 
 
 A reagent bag contains 5 uses, and replenishing a use costs 2 silver.
 

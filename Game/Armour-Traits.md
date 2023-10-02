@@ -74,7 +74,7 @@ Your armour utilizes additional banded plates, rivets, latches, or planks to rei
 
 #### Runic
 Material: Metal, Wood
-Through arcane ritual and carefully handiwork, your armour has had runes chiselled into its structure. This armour counts as a Focus for [Channel](Channel) skill tests.    
+Through arcane ritual and carefully handiwork, your armour has had runes chiselled into its structure. This armour counts as a Focus for [Will](Spirit#Will) skill tests.    
 
 #### Spiked
 Material: Metal, Wood

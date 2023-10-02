@@ -26,9 +26,9 @@ Scratch is a tall [Elementalist](../Classes#Elementalist) [Rogue](../Classes#Rog
 | ---------------------------- | ---- | ----- | --- | ------------------------- | ---- | ----- |
 | [Athletics](../Strength#Athletics)           | STR  |       | -   | [Insight](Intelligence#Insight)  | INT  | 1     |
 | [Strike](../Strength#Strike)               | STR  |       | -   | [Application](Intelligence#Application)        | INT  |       |
-| [reflexes](Agility#Reflexes)     | AGI  | 2     | -   | [Composure](Composure)    | RES  | 1     |
-| [Accuracy](../Agility#Accuracy) | AGI  |       | -   | [Channel](Channel)        | RES  | 2     |
-| [Grace](Agility#Grace)     | AGI  | 2     | -   | [Ritual](Ritual)          | RES  |       |
+| [reflexes](Agility#Reflexes)     | AGI  | 2     | -   | [Identity](Spirit#Identity)    | RES  | 1     |
+| [Accuracy](../Agility#Accuracy) | AGI  |       | -   | [Will](Spirit#Will)        | RES  | 2     |
+| [Grace](Agility#Grace)     | AGI  | 2     | -   | [Attunement](Spirit#Attunement)          | RES  |       |
 | [Confidence](../Communication#Confidence)         | FEL  |       | -   | [Connection](../Communication#Connection)   | FEL  |       |
 | [Memory](Intelligence#Memory)       | INT  |       | -   | [Mannerism](../Communication#Mannerism) | FEL  |       |
 

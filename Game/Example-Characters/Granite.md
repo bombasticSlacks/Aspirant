@@ -26,9 +26,9 @@ Granite is a lean and fit [Face](../Classes#Face) [Brawler](../Classes#Brawler) 
 | ---------------------------- | ---- | ----- | --- | ------------------------- | ---- | ----- |
 | [Athletics](../Strength#Athletics)           | STR  | 1     | -   | [Insight](Intelligence#Insight)  | INT  | 1     |
 | [Strike](../Strength#Strike)               | STR  | 1     | -   | [Application](Intelligence#Application)        | INT  |       |
-| [reflexes](Agility#Reflexes)     | AGI  |       | -   | [Composure](Composure)    | RES  | 1     |
-| [Accuracy](../Agility#Accuracy) | AGI  |       | -   | [Channel](Channel)        | RES  |       |
-| [Grace](Agility#Grace)     | AGI  |       | -   | [Ritual](Ritual)          | RES  |       |
+| [reflexes](Agility#Reflexes)     | AGI  |       | -   | [Identity](Spirit#Identity)    | RES  | 1     |
+| [Accuracy](../Agility#Accuracy) | AGI  |       | -   | [Will](Spirit#Will)        | RES  |       |
+| [Grace](Agility#Grace)     | AGI  |       | -   | [Attunement](Spirit#Attunement)          | RES  |       |
 | [Confidence](../Communication#Confidence)        | FEL  | 1      | -   | [Connection](../Communication#Connection)   | FEL  | 2     |
 | [Memory](Intelligence#Memory)       | INT  |       | -   | [Mannerism](../Communication#Mannerism) | FEL  | 1     |
 

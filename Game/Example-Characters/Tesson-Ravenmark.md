@@ -26,9 +26,9 @@ Tess is a [Barbarian](../Classes#Barbarian) [Fortune Teller](../Classes#Fortune%
 | ---------------------------- | ---- | ----- | --- | ------------------------- | ---- | ----- |
 | [Athletics](../Strength#Athletics)           | STR  | 1     | -   | [Insight](Intelligence#Insight)  | INT  | 2     |
 | [Strike](../Strength#Strike)               | STR  | 2     | -   | [Application](Intelligence#Application)        | INT  |       |
-| [reflexes](Agility#Reflexes)     | AGI  | 1     | -   | [Composure](Composure)    | RES  | 1     | 
-| [Accuracy](../Agility#Accuracy) | AGI  |       | -   | [Channel](Channel)        | RES  |       |
-| [Grace](Agility#Grace)     | AGI  |       | -   | [Ritual](Ritual)          | RES  | 1      |
+| [reflexes](Agility#Reflexes)     | AGI  | 1     | -   | [Identity](Spirit#Identity)    | RES  | 1     | 
+| [Accuracy](../Agility#Accuracy) | AGI  |       | -   | [Will](Spirit#Will)        | RES  |       |
+| [Grace](Agility#Grace)     | AGI  |       | -   | [Attunement](Spirit#Attunement)          | RES  | 1      |
 | [Confidence](../Communication#Confidence)     | FEL  |       | -   | [Connection](../Communication#Connection)   | FEL  |       |
 | [Memory](Intelligence#Memory)       | INT  |       | -   | [Mannerism](../Communication#Mannerism) | FEL  |       |
 

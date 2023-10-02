@@ -48,7 +48,7 @@ A person will die of blood loss if they don’t receive first aid or stabilizati
 Assuming you have been put out, burns will not immediately kill you, but are a potential infection risk narratively.
 
 ### Being on Fire
-If you are caught on fire, you are at immediate risk of severe complications. On each of your turns, unless you are already doing a [Stop Drop And Roll](#Stop%20Drop%20And%20Roll) you must make a [Composure](Composure) [Fixed Difficulty](Skills#Fixed%20Difficulty) skill test to not panic, skipping your turn. You receive a +4 to this test if you are going to [Stop Drop And Roll](#Stop%20Drop%20And%20Roll) during your turn.
+If you are caught on fire, you are at immediate risk of severe complications. On each of your turns, unless you are already doing a [Stop Drop And Roll](#Stop%20Drop%20And%20Roll) you must make a [Identity](Spirit#Identity) [Fixed Difficulty](Skills#Fixed%20Difficulty) skill test to not panic, skipping your turn. You receive a +4 to this test if you are going to [Stop Drop And Roll](#Stop%20Drop%20And%20Roll) during your turn.
 
 After 2 combat turns of being on fire, you take an immediate [Severe Injury](#Severe%20Injury) to the body part that’s on fire. After 4 turns (20 seconds) you take a critical injury to the original body part that’s on fire and the fire spreads to your entire body. After 6 turns (30 seconds) on fire you take a critical injury to the chest on each of your turns until either dead or no longer on fire.
 
@@ -56,7 +56,7 @@ After 2 combat turns of being on fire, you take an immediate [Severe Injury](#Se
 Make an [Application](Intelligence#Application) skill test at a -3 if you succeed you are no longer on fire. For each consecutive turn you stop, drop and roll this test is at a +1. It is important to note some forms of militarized fire are sticky and impossible to put out without help or tools.
 
 ### Wounded
-If your character is injured, they only have so long before they pass out/collapse. In general on each combat turn you are wounded after you have performed your action you make a [Composure](Composure) [Fixed Difficulty](Skills#Fixed%20Difficulty) skill test to see if you can continue to fight at a reasonable level (the use of medication and stabilization can cause you to ignore this). If you fail this test you fall unconscious. For every severe injury after the first add a -1 to the test for every critical injury add -2 to the test.
+If your character is injured, they only have so long before they pass out/collapse. In general on each combat turn you are wounded after you have performed your action you make a [Identity](Spirit#Identity) [Fixed Difficulty](Skills#Fixed%20Difficulty) skill test to see if you can continue to fight at a reasonable level (the use of medication and stabilization can cause you to ignore this). If you fail this test you fall unconscious. For every severe injury after the first add a -1 to the test for every critical injury add -2 to the test.
 
 ### Lingering Pain
 After someone is wounded, whether they pass out or stay conscious, they will suffer long-term effects. Once the combat ends, you will take negatives to any skill tests. Critical injuries give a -3 to all tests, and Severe injuries give a -2 to all tests. This lasts until your characters gets to [rest](Telling-The-Story#Resting).

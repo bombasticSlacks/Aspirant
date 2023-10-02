@@ -12,7 +12,7 @@ The process of affecting people and things. A character could use enchanting to 
 
 ### Basic
 #### Amateur Enchanting
-If your character has [Attuned](Magic-Training#Attuned), your character can perform [Ritual](Ritual) to:
+If your character has [Attuned](Magic-Training#Attuned), your character can perform [Attunement](Spirit#Attunement) to:
 * Imbue magic into items of a temporary nature (comestibles, munitions).
 * Imbue single use magic into a permanent item.
 
@@ -25,7 +25,7 @@ You can enchant places as you can permanent items.
 ---
 ### Advanced
 #### Expert Enchanting
-If your character has [Amateur Enchanting](#Amateur%20Enchanting) training, your character can perform [Ritual](Ritual) to:
+If your character has [Amateur Enchanting](#Amateur%20Enchanting) training, your character can perform [Attunement](Spirit#Attunement) to:
 * Imbue magic into permanent items. The magics effect must be aligned with the item in question.
 
 #### Invigorated Enchantment
@@ -34,5 +34,5 @@ You can enchant an item twice.
 ### Master
 
 #### Master Enchanting
-If your character has [Expert Enchanting](#Expert%20Enchanting) training, your character can perform [Ritual](Ritual) to:
+If your character has [Expert Enchanting](#Expert%20Enchanting) training, your character can perform [Attunement](Spirit#Attunement) to:
 * When imbuing things with magic, the enchantments do not need to be related to the items' function.

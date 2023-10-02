@@ -26,9 +26,9 @@ Aaron is a stout [Fighter](../Classes#Fighter) [Healer](../Classes#Healer) with 
 | ---------------------------- | ---- | ----- | --- | ------------------------- | ---- | ----- |
 | [Athletics](../Strength#Athletics)           | STR  | 1     | -   | [Insight](Intelligence#Insight)  | INT  | 1     |
 | [Strike](../Strength#Strike)               | STR  | 2     | -   | [Application](Intelligence#Application)        | INT  | 2     |
-| [reflexes](Agility#Reflexes)     | AGI  |       | -   | [Composure](Composure)    | RES  | 1     |
-| [Accuracy](../Agility#Accuracy) | AGI  | 1     | -   | [Channel](Channel)        | RES  |       |
-| [Grace](Agility#Grace)     | AGI  |       | -   | [Ritual](Ritual)          | RES  |       |
+| [reflexes](Agility#Reflexes)     | AGI  |       | -   | [Identity](Spirit#Identity)    | RES  | 1     |
+| [Accuracy](../Agility#Accuracy) | AGI  | 1     | -   | [Will](Spirit#Will)        | RES  |       |
+| [Grace](Agility#Grace)     | AGI  |       | -   | [Attunement](Spirit#Attunement)          | RES  |       |
 | [Confidence](../Communication#Confidence)        | FEL  |       | -   | [Connection](../Communication#Connection)   | FEL  |       |
 | [Memory](Intelligence#Memory)       | INT  |       | -   | [Mannerism](../Communication#Mannerism) | FEL  |       |
 

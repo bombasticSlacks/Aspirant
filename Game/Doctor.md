@@ -27,7 +27,7 @@ You have twice as long to perform medical skill tests on characters before it be
 You count as having a [Trauma Kit](Example-Gear#Trauma%20Kit) even if not carrying one. However, any related medical skill tests are performed at a -2.
 
 #### Speculative Medicine
-At the beginning of any combat encounter, you can name a character who you think will be injured during the encounter. Any medical tests you make on that person during and after this combat gets a +3. The person you select also gets +1 to [Composure](Composure) skill tests for the duration of the encounter.
+At the beginning of any combat encounter, you can name a character who you think will be injured during the encounter. Any medical tests you make on that person during and after this combat gets a +3. The person you select also gets +1 to [Identity](Spirit#Identity) skill tests for the duration of the encounter.
 
 #### Sword Surgeon
 When making skill tests with a [Rending](Combat#Rending) weapon, you may substitute your [Application](Intelligence#Application) skill for melee skill.

@@ -25,7 +25,7 @@ Even with training you still need:
 * [Focus](Example-Gear#Focus)
 
 #### Maintaining Focus
-Some channelled abilities will require you to remain focused on them. A character can focus on 1 channelled spell at a time and while focusing any additional channels performed are at a -2. Generally, after an hour of channelling a spell, a character needs to make an athletics test or become exhausted and be forced to end the [Channel](Channel). This test repeats every hour.
+Some channelled abilities will require you to remain focused on them. A character can focus on 1 channelled spell at a time and while focusing any additional channels performed are at a -2. Generally, after an hour of channelling a spell, a character needs to make an athletics test or become exhausted and be forced to end the [Will](Spirit#Will). This test repeats every hour.
 
 ### Example Activities
 

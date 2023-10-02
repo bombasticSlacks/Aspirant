@@ -26,9 +26,9 @@ Ceradelle is an elvish [Beast Master](../Classes#Beast%20Master) [Archer](../Cla
 | ---------------------------- | ---- | ----- | --- | ------------------------- | ---- | ----- |
 | [Athletics](../Strength#Athletics)           | STR  | 1     | -   | [Insight](Intelligence#Insight)  | INT  | 1     |
 | [Strike](../Strength#Strike)               | STR  | 1     | -   | [Application](Intelligence#Application)        | INT  |       |
-| [reflexes](Agility#Reflexes)     | AGI  |       | -   | [Composure](Composure)    | RES  |       |
-| [Accuracy](../Agility#Accuracy) | AGI  | 2     | -   | [Channel](Channel)        | RES  |       |
-| [Grace](Agility#Grace)     | AGI  |       | -   | [Ritual](Ritual)          | RES  |       |
+| [reflexes](Agility#Reflexes)     | AGI  |       | -   | [Identity](Spirit#Identity)    | RES  |       |
+| [Accuracy](../Agility#Accuracy) | AGI  | 2     | -   | [Will](Spirit#Will)        | RES  |       |
+| [Grace](Agility#Grace)     | AGI  |       | -   | [Attunement](Spirit#Attunement)          | RES  |       |
 | [Confidence](../Communication#Confidence)        | FEL  |       | -   | [Connection](../Communication#Connection)   | FEL  |       |
 | [Memory](Intelligence#Memory)       | INT  | 1     | -   | [Mannerism](../Communication#Mannerism) | FEL  | 2     |
 

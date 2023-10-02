@@ -12,7 +12,7 @@ The process of controlling life itself. A character could use vitomancy to resur
 
 ### Basic
 #### Amateur Necromancy
-If your character has [Attuned](Magic-Training#Attuned), your character can perform [Ritual](Ritual) to:
+If your character has [Attuned](Magic-Training#Attuned), your character can perform [Attunement](Spirit#Attunement) to:
 * Command and manipulate unintelligent spirits and undead.
 
 #### Army Of The Dead
@@ -24,12 +24,12 @@ You can speak to spirits and undead even if you wouldn't otherwise share a langu
 ---
 ### Advanced
 #### Expert Necromancy
-If your character has [Amateur Necromancy](#Amateur%20Necromancy) training, your character can [Ritual](Ritual) to:
+If your character has [Amateur Necromancy](#Amateur%20Necromancy) training, your character can [Attunement](Spirit#Attunement) to:
 * Create undead of your own, and transplant souls between vessels.
 
 ---
 ### Master
 
 #### Master Necromancy
-If your character has [Expert Necromancy](#Expert%20Necromancy) training, your character can [Ritual](Ritual) to:
+If your character has [Expert Necromancy](#Expert%20Necromancy) training, your character can [Attunement](Spirit#Attunement) to:
 * Manipulate life itself and control intelligent undead.

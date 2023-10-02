@@ -1,45 +1,43 @@
 ---
 layout: default
-title: Resolve
+title: Spirit
 parent: Stats
 nav_order: 2
 grand_parent: How To Play
 ---
-## Resolve
+## Spirit
 
-Measures your resolve. Influences your toxicity #TODO.
+Measures your spirit, your sense of self and the world around you. Influences your toxicity #TODO.
 
 It can be honed to better perform the [Skills](Skills):
 ### Attunement
-The action of showing confidence, making others believe it. This includes:
-* Acting as a role.
-* Lying to someone.
-* Convincing someone of something true, that appears to be a lie.
-* Inspiring a person or group.
+The action of being attuned to the world around you. This includes:
+* Feeling like something is wrong.
+* Identifying magic, or otherworldly influence.
+* Performing magical rituals.
+* Interfacing with magical locations or structures.
 
-Any time you are communicating and trying to show your confidence, you should make a confidence [Skill](Skills) test.
-
----
-
-### Connection
-The act of connecting with other people, and making them do what you want. This includes:
-* Convincing someone to help you.
-* Getting a good deal on a trade.
-* Seeing if someone trusts you enough to share useful information.
-
-Any time you are communicating and need to see if you've connected with the other entity, you should make a connection [Skill](Skills) test.
+Any time you are trying to connect to the world around you, you should make an attunement [Skill](Skills) test.
 
 ---
-### Mannerism
-The action of showing your intent with body language. This includes:
-* Calming an animal.
-* Directing something that you don't share language with.
-* Training a creature to better follow commands.
-* Communicating non-verbally with visual cues.
 
-Any time you are using your body to communicate, you should make a mannerism [Skill](Skills) test.
+### Identity
+The act of maintaining your sense of self, no matter what happens to you. This includes:
+* Not being afraid.
+* Resisting attacks on your mind.
+* Not being influenced by chemicals, or magic.
+* Resisting torture.
 
-#### Relevant Activities
-* [Mounts](Mounts)
+Any time you are trying to maintain who you are, you should make an identity [Skill](Skills) test.
+
+---
+### Will
+The action of imbuing your will on the world around you. This includes:
+* Psychic powers.
+* Instantaneous magic.
+* Using magic items.
+* Performing interrogation / torture.
+
+Any time you are using your spirit to bend something to your will, you should make a will [Skill](Skills) test.
 
 ---

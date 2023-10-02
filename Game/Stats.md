@@ -21,33 +21,6 @@ Your character has 5 primary attributes the dictate what they can do:
 * [Intelligence](Intelligence)
 * [Communication](Communication)
 * [Spirit](Spirit)
-#### Strength
-Measures physical power.
-- Melee Weapon Damage
-- Maximum Toxicity
-- [Athletics](Strength#Athletics), [Endurance](Strength#Endurance), and [Strike](Strength#Strike) [Skills](Skills)
-
-#### Agility
-Measures speed and dexterity
-- How far you can move in combat
-- Initiative
-- [reflexes](Agility#Reflexes), [Accuracy](Agility#Accuracy) and [Grace](Agility#Grace) [Skills](Skills)
-
-#### Intelligence
-Measures mental acuity and knowledge
-- Initiative
-- [Application](Intelligence#Application), [Insight](Intelligence#Insight) and [Memory](Intelligence#Memory) [Skills](Skills)
-
-#### Fellowship
-Measures charm and how well-spoken you are
-- The number of characters you can control in combat (with training)
-- [Connection](Communication#Connection), [Mannerism](Communication#Mannerism) and [Confidence](Communication#Confidence) [Skills](Skills)
-
-#### Resolve
-Measures your resilience and willpower
-- Maximum Toxicity
-- Damage with psychic and magical abilities
-- [Channel](Channel), [Composure](Composure) and [Ritual](Ritual) [Skills](Skills)
 
 ### Additional Attributes
 On top of the above attributes, your character also has a few additional values:

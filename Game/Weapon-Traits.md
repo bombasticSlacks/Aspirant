@@ -63,7 +63,7 @@ If your weapon requires ammo, it can be reloaded in half the time. Reloads that 
 If this weapon is otherwise usable in one hand, the weapon counts as 1 size larger while wielded in two hands. The weapon receives one additional trait that only applies when used in two hands.
 
 #### Inscribed
-This weapon counts as a Focus for [Channel](Channel) skill tests.    
+This weapon counts as a Focus for [Will](Spirit#Will) skill tests.    
 
 #### Lethal
 This weapon deals 1 additional damage.

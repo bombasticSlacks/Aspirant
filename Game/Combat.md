@@ -43,7 +43,7 @@ Usually, in combat, you will be trying to harm your opponents with the goal of k
 * Thrown attacks using [Athletics](Strength#Athletics)
 * Ranged attacks using [Accuracy](Agility#Accuracy)
 * Melee attacks using [Strike](Strength#Strike) 
-* Magic attacks using [Channel](Channel)
+* Magic attacks using [Will](Spirit#Will)
 
 #### Successful Attack
 If you succeed on your attack roll, that is considered a Successful Attack

@@ -26,9 +26,9 @@ Della is a small [Conjurer](../Classes#Conjurer) [Tactician](../Classes#Tacticia
 | ---------------------------- | ---- | ----- | --- | ------------------------- | ---- | ----- |
 | [Athletics](../Strength#Athletics)           | STR  |       | -   | [Insight](Intelligence#Insight)  | INT  | 2     |
 | [Strike](../Strength#Strike)               | STR  |       | -   | [Application](Intelligence#Application)        | INT  |       |
-| [reflexes](Agility#Reflexes)     | AGI  |       | -   | [Composure](Composure)    | RES  |       |
-| [Accuracy](../Agility#Accuracy) | AGI  |       | -   | [Channel](Channel)        | RES  |       |
-| [Grace](Agility#Grace)     | AGI  |       | -   | [Ritual](Ritual)          | RES  | 2     |
+| [reflexes](Agility#Reflexes)     | AGI  |       | -   | [Identity](Spirit#Identity)    | RES  |       |
+| [Accuracy](../Agility#Accuracy) | AGI  |       | -   | [Will](Spirit#Will)        | RES  |       |
+| [Grace](Agility#Grace)     | AGI  |       | -   | [Attunement](Spirit#Attunement)          | RES  | 2     |
 | [Confidence](../Communication#Confidence)        | FEL  |       | -   | [Connection](../Communication#Connection)   | FEL  | 1     |
 | [Memory](Intelligence#Memory)       | INT  | 2     | -   | [Mannerism](../Communication#Mannerism) | FEL  | 1     |
 

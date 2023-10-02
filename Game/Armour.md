@@ -20,7 +20,7 @@ affects different locations separately and is the maximum bonus you can have on 
 | Location | Skills effected                                |
 | -------- | ---------------------------------------------- |
 | Head     | [Insight](Intelligence#Insight), and [Connection](Communication#Connection)    |
-| Arms     | [Strike](Strength#Strike), [Accuracy](Agility#Accuracy), and [Channel](Channel)|
+| Arms     | [Strike](Strength#Strike), [Accuracy](Agility#Accuracy), and [Will](Spirit#Will)|
 | Torso    | *No Penalties*                                 |
 | Legs     | [reflexes](Agility#Reflexes), [Grace](Agility#Grace)                                               |
 

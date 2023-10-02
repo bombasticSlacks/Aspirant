@@ -12,7 +12,7 @@ The process of revealing information. A character could use divination to attemp
 
 ### Basic
 #### Amateur Divination
-If your character has [Attuned](Magic-Training#Attuned), your character can perform [Ritual](Ritual) to:
+If your character has [Attuned](Magic-Training#Attuned), your character can perform [Attunement](Spirit#Attunement) to:
 * Detect the unseen.
 * Gather information about things you could not otherwise know.
 
@@ -28,7 +28,7 @@ You can perceive things supernaturally within [Spirit](Spirit) x 10m.
 ---
 ### Advanced
 #### Expert Divination
-If your character has [Amateur Divination](#Amateur%20Divination) training, your character can perform [Ritual](Ritual) to:
+If your character has [Amateur Divination](#Amateur%20Divination) training, your character can perform [Attunement](Spirit#Attunement) to:
 * See into the future what may happen.
 * See into the past what has happened.
 
@@ -38,6 +38,6 @@ During [Meditate](Activities#Meditate) roll 2d6. At any point before the next me
 ### Master
 
 #### Master Divination
-If your character has [Expert Divination](#Expert%20Divination) training, your character can perform [Ritual](Ritual) to:
+If your character has [Expert Divination](#Expert%20Divination) training, your character can perform [Attunement](Spirit#Attunement) to:
 * Effect what has already happened.
 * Get accurate information about the state of something.

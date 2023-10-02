@@ -12,7 +12,7 @@ The act of manipulating energy. A character could use evocation to start a fire,
 
 ### Basic
 #### Amateur Evocation
-If your character has [Attuned](Magic-Training#Attuned), your character can [Channel](Channel) to:
+If your character has [Attuned](Magic-Training#Attuned), your character can [Will](Spirit#Will) to:
 * Attack with [Combat](Channel#Combat) magic
 * Change the temperature of an item abruptly.
 
@@ -23,7 +23,7 @@ Anyone targeted by an evocation magic attack you perform is at a -1 to all actio
 ### Advanced
 
 #### Expert Evocation
-If your character has [Amateur Evocation](#Amateur%20Evocation) training, your character can [Channel](Channel) to:
+If your character has [Amateur Evocation](#Amateur%20Evocation) training, your character can [Will](Spirit#Will) to:
 * Change the temperature of a creature abruptly
 * Change the weather and environment.
 
@@ -33,5 +33,5 @@ You may have weapons you attack with count as having the [Hot](Combat#Hot) or [C
 ### Master
 
 #### Master Evocation
-If your character has [Expert Evocation](#Expert%20Evocation) training, your character can [Channel](Channel) to:
+If your character has [Expert Evocation](#Expert%20Evocation) training, your character can [Will](Spirit#Will) to:
 * Change the environment and weather in unnatural and unbelievable ways.

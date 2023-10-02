@@ -80,9 +80,9 @@ Aspirant has a prebuilt list of skills that should cover any activity a characte
 * [Application](Intelligence#Application)
 
 #### Resolve Skills
-* [Channel](Channel)
-* [Ritual](Ritual)
-* [Composure](Composure)
+* [Will](Spirit#Will)
+* [Attunement](Spirit#Attunement)
+* [Identity](Spirit#Identity)
 
 #### Fellowship Skills
 * [Connection](Communication#Connection)

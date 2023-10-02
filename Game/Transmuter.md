@@ -12,7 +12,7 @@ The act of manipulating matter. A character could use transmutation to alter the
 
 ### Basic
 #### Amateur Transmutation
-If your character has [Attuned](Magic-Training#Attuned), your character can [Channel](Channel) to:
+If your character has [Attuned](Magic-Training#Attuned), your character can [Will](Spirit#Will) to:
 * Change a comestible into something more useful. 
 * Alter yourself in simple ways.
 
@@ -26,7 +26,7 @@ You can cast spells normally while transformed into a non-humanoid creature. You
 ### Advanced
 
 #### Expert Transmutation
-If your character has [Amateur Transmutation](#Amateur%20Transmutation) training, your character can [Channel](Channel) to:
+If your character has [Amateur Transmutation](#Amateur%20Transmutation) training, your character can [Will](Spirit#Will) to:
 * Change a tool, weapon, or armour into something more useful. 
 * Alter the world around you.
 * Alter yourself in meaningful ways, including transforming into animals. 
@@ -39,7 +39,7 @@ If your character has [Black Belt](Pugilist#Black%20Belt) Training, while using 
 ### Master
 
 #### Master Transmutation
-If your character has [Expert Transmutation](#Expert%20Transmutation) training, your character can [Channel](Channel) to:
+If your character has [Expert Transmutation](#Expert%20Transmutation) training, your character can [Will](Spirit#Will) to:
 
 * Change yourself into incredible forms, including magical creatures.
 * Alter others in meaningful ways. 
