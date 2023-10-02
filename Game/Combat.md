@@ -5,11 +5,10 @@ parent: Telling The Story
 nav_order: 2
 ---
 ## Combat
-### Combat Turns
-Combat in Aspirant is more structured than standard narrative time, since it is also more high stakes. Combat is broken up into combat turns. During each 5 second combat turn, you get a personal turn to take an action.
+Combat in Aspirant is more structured than standard narrative time, since it is also more high stakes. Combat is broken up into [Combat Rounds](Terminology#Combat%20Round). During each 5 second combat turn, you will get a [Combat Turn](Terminology#Combat%20Turn) to take an action.
 
 ### Initiative Value
-Initiative value is your [Initiative](Stats#Initiative)+ 1d6. Your initiative value determines what order people will act in when combat happens. So even though all characters are acting simultaneously in combat, as an abstraction, people still go in a specific order.
+Initiative value is your [Initiative](Stats#Initiative)+ 1d6. Your initiative value determines what order people will perform their [Combat Turn](Terminology#Combat%20Turn) during the [Combat Round](Terminology#Combat%20Round). So even though all characters are acting simultaneously in combat, as an abstraction, people still go in a specific order.
 
 ### Your Turn
 On Your turn in combat, you can do basically anything that can feasibly be done in 5 seconds. You are encouraged to get creative and talk to the GM; however, several common manoeuvres are listed in this chapter for you to use as examples. The simple way to think about it though is on your turn, you can either:
@@ -44,15 +43,6 @@ Usually, in combat, you will be trying to harm your opponents with the goal of k
 * Ranged attacks using [Accuracy](Agility#Accuracy)
 * Melee attacks using [Strike](Strength#Strike) 
 * Magic attacks using [Will](Spirit#Will)
-
-#### Successful Attack
-If you succeed on your attack roll, that is considered a Successful Attack
-
-#### Non-mitigated Attack
-If you succeed on your attack roll and your opponent doesn't stop the attack with a reaction that is a Non-mitigated Attack.
-
-#### Injuring Attack
-If you successfully cause an injury with an attack, that is an Injuring Attack.
 
 ### Attack Range
 When you attack something, your range is how far you can engage them from. With melee weapons, you need to be within 2m. With Range, Thrown, and Magic you have a range, but it is possible to attack up to 5x your range, but you will suffer [Distance Penalty](#Distance%20Penalty). 
@@ -137,7 +127,7 @@ With at least one free hand, you can attempt to move someone. Make a [Strike](St
 ---
 
 ### Reacting to Attacks
-During each full turn of combat, each character gets a single reaction, which they can use when something else happens during combat. Your reaction refreshes on your turn. In general, these are used to avoid incoming attacks. The generally available reactions are:
+During each full turn of combat, each character gets a single , which they can use when something else happens during combat. Your reaction refreshes on your turn. In general, these are used to avoid incoming attacks. The generally available reactions are:
 
 #### Avoid
 A [Reflexes](Agility#Reflexes) skill test at a -2 where if you succeed, you ignore the effects of the attack unless otherwise specified.
