@@ -34,7 +34,7 @@ nav_order: 2
 
 #### Fine
 Material: Textile
-Your armour incorporates fine linens, silks, furs or other more exotic fibers, which impress and captivate with their dazzling colours and flowing motions. You add +1 to [Converse](Converse) and [Perform](Perform) skill tests when more than half of your armour pieces have the Fine Trait.
+Your armour incorporates fine linens, silks, furs or other more exotic fibers, which impress and captivate with their dazzling colours and flowing motions. You add +1 to [Connection](Communication#Connection) and [Confidence](Communication#Confidence) skill tests when more than half of your armour pieces have the Fine Trait.
 
 #### Fortified
 Material: Metal
@@ -58,7 +58,7 @@ Your armour is constructed of distinct interlocking rings or scales, reducing we
 
 #### Ornate
 Material: Any
-Your armour includes ornate details such as elaborate patterns, intricate engravings, or precise coloration that makes it impressive to behold. You add +1 to [Converse](Converse) skill tests when more than half of your armour pieces have the Ornate Trait.
+Your armour includes ornate details such as elaborate patterns, intricate engravings, or precise coloration that makes it impressive to behold. You add +1 to [Connection](Communication#Connection) skill tests when more than half of your armour pieces have the Ornate Trait.
 
 #### Padded
 Material: Textile

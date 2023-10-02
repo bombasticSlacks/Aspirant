@@ -35,7 +35,7 @@ You can directly control 2 followers in combat.
 Spend a [Power](Stats#Power), you may designate a target as a heretic/enemy of the cause. They receive a -1 to all skill tests that they make. Any skill tests allies make against that character receive a +1.
 
 #### Grand Leadership
-As an action, you can perform a speech in combat, no additional skill test. All your followers roll all combat skill tests, substituting your [Converse](Converse) for their skill until your next action.
+As an action, you can perform a speech in combat, no additional skill test. All your followers roll all combat skill tests, substituting your [Connection](Communication#Connection) for their skill until your next action.
 
 #### Conscription
 At the beginning of combat, you may opt to make neutral characters within [Communication](Communication) x 10m followers. They may become angry if put in suicidal situations.

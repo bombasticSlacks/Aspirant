@@ -134,7 +134,7 @@ A comfort kit has 3 uses, cost 1 silver to replenish.
 
 #### Complex Instrument
 *Size 3 Cost 30*
-A musical tool of complex design. Complex instruments are expensive and produce nuanced and complex sounds. A complex instrument provides a +2 to [Perform](Perform) checks to use it, assuming you are trained.
+A musical tool of complex design. Complex instruments are expensive and produce nuanced and complex sounds. A complex instrument provides a +2 to [Confidence](Communication#Confidence) checks to use it, assuming you are trained.
 
 > Examples would include: Bagpipes, Dulcimer, Lute, Viol.
 

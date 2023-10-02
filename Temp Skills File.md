@@ -89,7 +89,7 @@ This includes:
 * Learning more about an environment
 
 ## Fellowship
-### Speaking
+### Connection
 Identical to converse, just interfacing also would include one - way conversation, or written word
 
 ### Body Language
@@ -107,7 +107,10 @@ The Same as channelling, inflicting your will on the world around you.
 ### Attunement
 Exact same as ritual, but it's a less clunky word, and also I think better clarifies that rituals are about connecting to the world around you and influencing it, rather than changing it completely.
 
-### Composure
+Creating art
+
+
+### Identity
 Partially the same, composure only includes the mental portion of the old composure.
 
 This includes:

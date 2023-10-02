@@ -7,51 +7,39 @@ grand_parent: How To Play
 ---
 ## Communication
 
-Measures how strong your character is. Influences [Max Toxicity](Stats#Max%20Toxicity) and melee weapon damage.
+Measures how well you communicate. Influences the number of people who will follow you.
 
 It can be honed to better perform the [Skills](Skills):
-### Athletics
-The action of applying fitness, and trained strength or power. This includes:
-* Lifting.
-* Jumping.
-* Pushing.
-* Carrying.
-* Throwing.
-* Wrestling.
+### Confidence
+The action of showing confidence, making others believe it. This includes:
+* Acting as a role.
+* Lying to someone.
+* Convincing someone of something true, that appears to be a lie.
+* Inspiring a person or group.
 
-Any time you are doing something athletic, you should make an athletics [Skill](Skills) test.
-
-#### Relevant Activities
-* [Grapple](Combat#Grapple)
-* [Attacking](Combat#Attacking)
-
----
-### Endurance
-The action of enduring hardships, remaining steadfast in the face of adversity. This includes:
-* staying conscious from injuries.
-* Maintaining an action while under strain.
-* Dealing with immediate injury effects.
-
-Any time you are striking something, you should make an endurance [Skill](Skills) test.
-
-#### Relevant Activities
-* [Injury](Injury)
-
----
-### Strike
-The action of striking other things, inflicting immediate force on them. This includes:
-* Tackling.
-* Hitting an object to damage it.
-* Striking with a weapon.
-* Striking with your fists.
-
-Any time you are striking something, you should make a strike [Skill](Skills) test.
-
-#### Relevant Activities
-* [Attack of Opportunity](Combat#Attack%20of%20Opportunity)
-* [Parry](Combat#Parry)
-* [Shove](Combat#Shove)
-* [Disarm](Combat#Disarm)
+Any time you are communicating and trying to show your confidence, you should make a confidence [Skill](Skills) test.
 
 ---
 
+### Connection
+The act of connecting with other people, and making them do what you want. This includes:
+* Convincing someone to help you.
+* Getting a good deal on a trade.
+* Seeing if someone trusts you enough to share useful information.
+
+Any time you are communicating and need to see if you've connected with the other entity, you should make a connection [Skill](Skills) test.
+
+---
+### Mannerism
+The action of showing your intent with body language. This includes:
+* Calming an animal.
+* Directing something that you don't share language with.
+* Training a creature to better follow commands.
+* Communicating non-verbally with visual cues.
+
+Any time you are using your body to communicate, you should make a mannerism [Skill](Skills) test.
+
+#### Relevant Activities
+* [Mounts](Mounts)
+
+---

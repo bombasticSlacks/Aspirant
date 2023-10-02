@@ -41,7 +41,7 @@ Measures mental acuity and knowledge
 #### Fellowship
 Measures charm and how well-spoken you are
 - The number of characters you can control in combat (with training)
-- [Converse](Converse), [Husbandry](Husbandry) and [Perform](Perform) [Skills](Skills)
+- [Connection](Communication#Connection), [Mannerism](Communication#Mannerism) and [Confidence](Communication#Confidence) [Skills](Skills)
 
 #### Resolve
 Measures your resilience and willpower

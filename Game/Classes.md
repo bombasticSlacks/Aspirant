@@ -54,9 +54,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Composure](Composure)       | 1     |
 | [Channel](Channel)           |       |
 | [Ritual](Ritual)             |       |
-| [Converse](Converse)         |       |
-| [Husbandry](Husbandry)       |       |
-| [Perform](Perform)           |       |
+| [Connection](Communication#Connection)         |       |
+| [Mannerism](Communication#Mannerism)       |       |
+| [Confidence](Communication#Confidence)           |       |
 
 ##### Training
 * [Martial Training](Combat-Training#Martial%20Training)
@@ -98,9 +98,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Composure](Composure)       | 1     |
 | [Channel](Channel)           |       |
 | [Ritual](Ritual)             |       |
-| [Converse](Converse)         |       |
-| [Husbandry](Husbandry)       | 1     | 
-| [Perform](Perform)           |       |
+| [Connection](Communication#Connection)         |       |
+| [Mannerism](Communication#Mannerism)       | 1     | 
+| [Confidence](Communication#Confidence)           |       |
 
 ##### Training
 * [Martial Training](Combat-Training#Martial%20Training)
@@ -145,9 +145,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Composure](Composure)       | 1     |
 | [Channel](Channel)           | 2     |
 | [Ritual](Ritual)             |       |
-| [Converse](Converse)         |       |
-| [Husbandry](Husbandry)       |       |
-| [Perform](Perform)           |       |
+| [Connection](Communication#Connection)         |       |
+| [Mannerism](Communication#Mannerism)       |       |
+| [Confidence](Communication#Confidence)           |       |
 
 ##### Training
 * [Attuned](Magic-Training#Attuned)
@@ -192,9 +192,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Composure](Composure)       |       |
 | [Channel](Channel)           |       |
 | [Ritual](Ritual)             | 2     |
-| [Converse](Converse)         | 1     | 
-| [Husbandry](Husbandry)       |       |
-| [Perform](Perform)           |       |
+| [Connection](Communication#Connection)         | 1     | 
+| [Mannerism](Communication#Mannerism)       |       |
+| [Confidence](Communication#Confidence)           |       |
 
 ##### Training
 * [Attuned](Magic-Training#Attuned)
@@ -236,9 +236,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Composure](Composure)       | 1     |
 | [Channel](Channel)           |       |
 | [Ritual](Ritual)             |       |
-| [Converse](Converse)         | 2     |
-| [Husbandry](Husbandry)       | 1     |
-| [Perform](Perform)           | 1     |
+| [Connection](Communication#Connection)         | 2     |
+| [Mannerism](Communication#Mannerism)       | 1     |
+| [Confidence](Communication#Confidence)           | 1     |
 
 ##### Training
 * [Haggling](Trades-Training#Haggling)
@@ -279,9 +279,9 @@ The basis of your character, the skills and tools that help you when adventuring
 | [Composure](Composure)       |       |
 | [Channel](Channel)           |       |
 | [Ritual](Ritual)             |       |
-| [Converse](Converse)         |       |
-| [Husbandry](Husbandry)       | 2     |
-| [Perform](Perform)           |       |
+| [Connection](Communication#Connection)         |       |
+| [Mannerism](Communication#Mannerism)       | 2     |
+| [Confidence](Communication#Confidence)           |       |
 
 ##### Training
 * [Mounted Expert](Keeper#Mounted%20Expert)
@@ -390,7 +390,7 @@ Your character's additional interest, things they do in their spare time.
 ##### Additional Skills (2 Ranks)
 > depending on what you are controlling, you could take husbandry instead
 
-* Add two ranks to [Converse](Converse)
+* Add two ranks to [Connection](Communication#Connection)
 
 ##### Additional Trainings (2 Basic)
 * [With Me](Leader#With%20Me)

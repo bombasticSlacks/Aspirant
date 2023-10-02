@@ -13,7 +13,7 @@ Mounts provide a few core benefits
 - Additional storage
 - Potential combat use   
 
-Mounts of all kinds have 3 primary stats. When you need to make a skill test on behalf of your mount, you will generally roll Relevant Stat + [Husbandry](Husbandry)
+Mounts of all kinds have 3 primary stats. When you need to make a skill test on behalf of your mount, you will generally roll Relevant Stat + [Mannerism](Communication#Mannerism)
 
 ### Mobility
 How well your mount moves. Any time your mount needs to avoid something, jump, rush to a location, this is the relevant attribute.
@@ -50,11 +50,11 @@ A mount's value in [Currency](Equipment#Currency) is determined by its stats.
 
 ### Exotic Mounts
 Sometimes something other than a horse is used. 
-* An exotic mount requires [Husbandry](Husbandry) to be trained as a [Skills](Skills) to be able to ride at all.
+* An exotic mount requires [Mannerism](Communication#Mannerism) to be trained as a [Skills](Skills) to be able to ride at all.
 * Exotic mounts can have additional [Creature-Traits](Creature-Traits) which will cost between 10-50 silver.
 * Exotic mounts attributes can be determined from their [Creatures](Running-The-Game#Creatures) attributes.
 
 ### Acquiring Mounts
 * Purchased from a merchant [Mount Prices](#Mount%20Prices)
 * [Found through play](Equipment#Looting)
-* Training with [Husbandry](Husbandry)
+* Training with [Mannerism](Communication#Mannerism)

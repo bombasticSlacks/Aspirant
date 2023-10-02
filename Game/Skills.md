@@ -85,6 +85,6 @@ Aspirant has a prebuilt list of skills that should cover any activity a characte
 * [Composure](Composure)
 
 #### Fellowship Skills
-* [Converse](Converse)
-* [Husbandry](Husbandry)
-* [Perform](Perform)
+* [Connection](Communication#Connection)
+* [Mannerism](Communication#Mannerism)
+* [Confidence](Communication#Confidence)
