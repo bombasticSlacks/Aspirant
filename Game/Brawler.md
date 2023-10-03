@@ -42,10 +42,19 @@ Your [Shoves](Combat#Shove) make people travel twice the distance.
 When making an [All Out Attack](Combat#All%20Out%20Attack), if it is an [Injuring Attack](Terminology#Injuring%20Attack) you deal the next more severe type of [Injury](Injury#Injury).
 
 #### Adrenaline Response
-After suffering an [Injury](Injury) that would make you [Wounded](Injury#Wounded), you immediately get to take an additional [Combat Turn](Terminology#Combat%20Turn) (in addition to your regular turn). After this [Combat Turn](Terminology#Combat%20Turn), you then return to the standard [Combat Round](Terminology#Combat%20Round) order including resolving the results of your injuries.
+After suffering an [Injury](Injury) that would make you [Wounded](Injury#Wounded), you immediately get to take an additional [Combat Turn](Terminology#Combat%20Turn) (in addition to your regular turn). After this [Combat Turn](Terminology#Combat%20Turn), you then return to the standard [Combat Round](Terminology#Combat%20Round) order, including resolving the results of your injuries.
 
 #### Cleave
 If you cause an [Injuring Attack](Terminology#Injuring%20Attack) on a [Character](Terminology#Character) you are [In Melee](Terminology#In%20Melee) with that causes a [Critical Injury](Injury#Critical%20Injury) or more severe, you may make an additional [Attack](Terminology#Attack) against another enemy with the same weapon and [Combat Modifiers](Combat#Combat%20Modifiers).
+
+#### Clothesline
+As a [Reaction](Combat#Reacting%20to%20Attacks), if an opponent is [Charging](Combat#Charging) you, you may make a [Strike](Strength#Strike) [Opposed Difficulty(Strike)](Skills#Opposed%20Difficulty), that if successful causes their attack to fail and knocks them prone.
+
+#### Dragon Rush
+After doing an [Attack](Terminology#Attack) while unarmed, if you haven’t already used this training this [Combat Turn](Terminology#Combat%20Turn), you may use a [Reaction](Terminology#Reaction) to perform another attack or manoeuvre.
+
+#### Drunk Boxing
+You may [Parry](Combat#Parry) with a [Mannerism](Communication#Mannerism) [Fixed Difficulty(-2)](Skills#Fixed%20Difficulty).
 
 #### Enrage
 When you make a [Strike](Strength#Strike) skill test, spend a [Power](Stats#Power) to become enraged. While enraged, you have: 
@@ -65,3 +74,9 @@ Your [Charging](Combat#Charging) attacks have the [Penetrating](Weapon-Traits#Pe
 
 #### Vivisector
 When you make a [Melee Attack](Terminology#Melee%20Attack), if you [Injury](Injury) an arm or leg #TODOLocations, the person also takes an equivalent severity [Injury](Injury) to the chest.
+
+#### Rip and Tear
+Your [Attacks](Terminology#Attack) while unarmed get the [Penetrating](Weapon-Traits#Penetrating) quality, and +2 damage. #TODODamage
+
+#### Bone Crushing
+When in a [Grapple](Combat#Grapple) with an opponent, and you opt to inflict an injury, it is a [Critical Injury](Injury#Critical%20Injury).

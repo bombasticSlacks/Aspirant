@@ -7,7 +7,7 @@ title: Terminology
 This page consists of all terms and keywords a player may come into contact with while playing the game.
 
 ### Attack
-Any skill test where a [Character](#Character) is attempting to harm another. 
+Any skill test where a [Character](#Character) is attempting to harm or disrupt another. 
 ### Successful Attack
 If a [Character](#Character) succeeds on an [Attack](#Attack) skill test, that is considered a Successful Attack
 
@@ -40,3 +40,9 @@ References a player character, NPC, creature, or other entity that might perform
 
 ### Melee Attack
 An [Attack](#Attack) with a weapon with no otherwise specified range. You can generally make a melee attack within 2m of your opponent.
+
+### Trained
+A [Character](#Character) is trained in something if they either have the relevant training, or at least 1 rank in the skill.
+
+### Most Skilled
+The [Character](#Character) with the highest bonus on a specific skill test.

@@ -98,12 +98,8 @@ before making a melee attack or manoeuvre, you can move to a different side of y
 
 ---
 
-### Special Manoeuvres
-These are attacks or abilities that any trained fighter can use. This isn’t an exhaustive list of everything you can do in combat but includes some of the manoeuvres that tend to come up a lot. Any manoeuvre which affects an enemy combatant is considered an attack (such as for determining if you are in melee). A number of other powerful manoeuvres can be learned by taking specific combat training. When reasonable [Combat Modifiers](#Combat%20Modifiers) and [Combat Bonuses and Negatives](#Combat%20Bonuses%20and%20Negatives) are applied to these regularly.
-#### Back out
-You make a [Grace](Agility#Grace) skill test to step out of melee with an opponent. If you succeed, you can move agility * 2 meters and then perform an action at a -2 (as normal). If you fail, you provoke an attack of opportunity and then may do that anyway.
-#### Cautious Step
-You move out of melee with an enemy without provoking an attack of opportunity. You can move up to your agility * 2 meters, but no other actions.
+### Special Attacks
+Any time you are trying to disrupt or harm someone, it is considered an attack, this doesn't always need to require injuring your opponent. Some examples of non-harming attacks are provided.
 #### Disarm
 With at least one free hand or a melee weapon, you can attempt to disarm someone. Make a [Strike](Strength#Strike) skill test at (-1) and if successful, your opponent drops their weapon (or it is now in your hands).
 #### Grapple
@@ -117,12 +113,21 @@ On your turn, you may:
 * Pin then completely, causing them to take a -2 on any skill tests on their turn.
 * Make an attack with a size 1 weapon with a -2 to hit that can’t be evaded
 * Make an [Athletics](Strength#Athletics) skill test to throw them strength + d3 meters in a direction of your choice.
+#### Shove
+With at least one free hand, you can attempt to move someone. Make a [Strike](Strength#Strike) skill test, if you succeed, you can move them up to your strength in meters. If they hit something, they become knocked down.
+
+---
+
+### Special Manoeuvres
+These are attacks or abilities that any trained fighter can use. This isn’t an exhaustive list of everything you can do in combat but includes some of the manoeuvres that tend to come up a lot. Any manoeuvre which affects an enemy combatant is considered an attack (such as for determining if you are in melee). A number of other powerful manoeuvres can be learned by taking specific combat training. When reasonable [Combat Modifiers](#Combat%20Modifiers) and [Combat Bonuses and Negatives](#Combat%20Bonuses%20and%20Negatives) are applied to these regularly.
+#### Back out
+You make a [Grace](Agility#Grace) skill test to step out of melee with an opponent. If you succeed, you can move agility * 2 meters and then perform an action at a -2 (as normal). If you fail, you provoke an attack of opportunity and then may do that anyway.
+#### Cautious Step
+You move out of melee with an enemy without provoking an attack of opportunity. You can move up to your agility * 2 meters, but no other actions.
 #### Overwatch
 Declare a 45-degree cone in front of you. If anyone moves into that area, you make a ranged attack on them, and they take a -2 on their action. Your attack is at -2.
 #### Parry
-Which is a [Strike](Strength#Strike) skill test at (-2) where if you succeed, then if an enemy attacks you [in melee](#Being%20in%20Melee%20Combat) and succeeds, you ignore the attack. If they fail their skill test to attack, you deal damage to them.
-#### Shove
-With at least one free hand, you can attempt to move someone. Make a [Strike](Strength#Strike) skill test, if you succeed, you can move them up to your strength in meters. If they hit something, they become knocked down.
+Which is a [Strike](Strength#Strike) skill test at (-2) where if you succeed, then if an enemy attacks you [in melee](#Being%20in%20Melee%20Combat) and succeeds, you ignore the attack. If they fail their skill test to attack, you may make an attack on them without requiring a skill test.
 
 ---
 

@@ -26,6 +26,9 @@ They can generally teach the following training:
 #### Meat Shield
 If you [Avoid](Combat#Avoid) an [Attack](Terminology#Attack) while [In Melee](Terminology#In%20Melee), you may have that [Attack](Terminology#Attack) target someone, other than yourself or the attacker, [In Melee](Terminology#In%20Melee). The new target may use [Reactions](Terminology#Reaction) as normal.
 
+#### Fleet Footed
+[Overwatch](Combat#Overwatch) [Attacks](Terminology#Attack) against you are at an additional -2. You can get out of being [In Melee](Terminology#In%20Melee) without triggering any [Reactions](Terminology#Reaction).
+
 ---
 
 ### Master
