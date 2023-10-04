@@ -41,6 +41,9 @@ References a player character, NPC, creature, or other entity that might perform
 ### Melee Attack
 An [Attack](#Attack) with a weapon with no otherwise specified range. You can generally make a melee attack within 2m of your opponent.
 
+### Thrown Attack
+An [Attack](#Attack) with a weapon which is thrown at the target. Things like bows and crossbows are not thrown attacks.
+
 ### Trained
 A [Character](#Character) is trained in something if they either have the relevant training, or at least 1 rank in the skill.
 
@@ -61,3 +64,9 @@ A character who is an [Ally](#Ally) but also is willing to be directly commanded
 
 ### Mounted
 A [Character](#Character) is mounted if they are currently riding on another tamed creature which they are in control of. This usually means a horse, but could be another creature.
+
+### Combat Skill Test
+Any skill test related to combat.
+
+### Action
+Something that a [Character](#Character) does, usually requires a skill test and time.

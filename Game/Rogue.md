@@ -19,6 +19,9 @@ They can generally teach the following training:
 
 ### Basic
 
+#### Multitasking
+On your [Combat Turn](Terminology#Combat%20Turn), you may make an [Attack](Terminology#Attack) at (-2) additional penalty, and then perform a non-attack action or movement.
+
 ---
 
 ### Advanced
