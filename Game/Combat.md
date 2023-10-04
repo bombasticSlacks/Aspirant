@@ -23,7 +23,7 @@ There are some advanced things that may become available to you as your characte
 
 Free actions such as imbibing medicine, declaring combat stances, talking, etc. These free actions need to (unless otherwise specified) be performed before your action.
 
-Control Allies or other characters. If you have allies or other characters they will usually act on your turn and during your turn you can select in what order you all act. However, after starting a character's turn you must finish it before moving on to another character.
+Control followers. If you have followers they will usually act on your turn and during your turn you can select in what order you all act. However, after starting a character's turn you must finish it before moving on to another character.
 
 ### Drawing Equipment and Weapons
 Your character typically has 3 types of storage: [belt](Storage#Belt), [Backpack](Storage#Backpack), [Saddlebag](Storage#Saddlebag). These all have different costs for drawing.

@@ -46,3 +46,18 @@ A [Character](#Character) is trained in something if they either have the releva
 
 ### Most Skilled
 The [Character](#Character) with the highest bonus on a specific skill test.
+
+### Ally
+A character who is friendly and aiding a [Character](#Character).
+
+### Free Action
+An action that can be done in parallel with other actions during a [Combat Turn](#Combat%20Turn).
+
+#### Shield
+Any [Weapons](Weapons) with the [Shield](Weapon-Traits#Shield) trait.
+
+### Follower
+A character who is an [Ally](#Ally) but also is willing to be directly commanded.
+
+### Mounted
+A [Character](#Character) is mounted if they are currently riding on another tamed creature which they are in control of. This usually means a horse, but could be another creature.
