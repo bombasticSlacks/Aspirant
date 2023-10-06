@@ -10,6 +10,8 @@ Magic in aspirant is free flowing and should be created during the scene. Certai
 ## Channelled Magic
 which is performed on the spot and manipulates the world using [Resonant](Resonant) material to cause temporary changes. Its effects should be instant and related to the moment in which it happens.
 
+Channelling magic is a [Will](Spirit#Will) [Fixed Difficulty](Skills#Fixed%20Difficulty) skill test with a difficulty based on circumstances. 
+
 Channelled Magic requires:
 * A [Focus](Example-Gear#Focus).
 * [Resonant](Resonant) [Materials](Materials) to power it.
@@ -22,6 +24,8 @@ Examples of channelled magic effects would be:
 * Disrupting a troll's magic healing. 
 ## Ritual Magic
 Which is performed using advanced rituals, rites, and performances along with specific materials to permanently change the world or perceive the flow of magic itself. 
+
+Ritual magic is a [Attunement](Spirit#Attunement) [Fixed Difficulty](Skills#Fixed%20Difficulty) skill test with a difficulty based on circumstances. 
 
 Ritual Magic requires:
 * A [Reagent Bag](Example-Gear#Reagent%20Bag).

@@ -73,3 +73,9 @@ Something that a [Character](#Character) does, usually requires a skill test and
 
 ### Ranged Attack
 Any [Attack](#Attack) that isn't a [Melee Attack](#Melee%20Attack).
+
+### Obey Conservation Of Mass
+When you craft or otherwise create something, you need to be mindful that something cannot come from nothing. So a size 3 item requires at least 3 size of materials if not otherwise specified to create.
+
+### Crafting Cost
+The general requirement to craft, create, or perform a [Ritual Magic](Magic#Ritual%20Magic). If not otherwise specified the crafting cost for something is to [Obey Conservation Of Mass](#Obey%20Conservation%20Of%20Mass).
