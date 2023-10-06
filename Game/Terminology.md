@@ -39,7 +39,7 @@ A character is considered in melee if they are actively fighting another charact
 References a player character, NPC, creature, or other entity that might perform an action, or have an action performed on them.
 
 ### Melee Attack
-An [Attack](#Attack) with a weapon with no otherwise specified range. You can generally make a melee attack within 2m of your opponent.
+An [Attack](#Attack) with a weapon with no otherwise specified range that is not thrown. You can generally make a melee attack within 2m of your opponent.
 
 ### Thrown Attack
 An [Attack](#Attack) with a weapon which is thrown at the target. Things like bows and crossbows are not thrown attacks.
@@ -70,3 +70,6 @@ Any skill test related to combat.
 
 ### Action
 Something that a [Character](#Character) does, usually requires a skill test and time.
+
+### Ranged Attack
+Any [Attack](#Attack) that isn't a [Melee Attack](#Melee%20Attack).

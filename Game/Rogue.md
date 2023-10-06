@@ -19,19 +19,84 @@ They can generally teach the following training:
 
 ### Basic
 
+#### Armed To The Teeth
+You can carry twice the [Comestibles](Comestibles) in the same amount of size on your [Belt](Storage#Belt). 
+
+> if 10 arrows are 2 size, you may carry 20 arrows as 2 size.
+
+#### Bow Expert
+When using a weapon with the [Bow](Weapon-Traits#Bow) [Weapon Trait](Weapons#[Weapon-Traits](Weapon-Traits)) you no longer receive a -1 to readying and firing the weapon in the same turn.
+#### Disarming Shot
+You can [Disarm](Combat#Disarm) someone at range, using a ranged weapon, expending 1 ammunition in the process.
+#### Efficient Rounds
+When you perform a [Mitigated Attack](Terminology#Mitigated%20Attack) with [Comestibles](Comestibles) , it is always [salvageable](Comestibles#Salvaging)
 #### Multitasking
 On your [Combat Turn](Terminology#Combat%20Turn), you may make an [Attack](Terminology#Attack) at (-2) additional penalty, and then perform a non-attack action or movement.
+
+#### Olympian
+You can make a [Thrown Attack](Terminology#Thrown%20Attack) at the end of [Charging](Combat#Charging), receiving the bonuses. 
+
+#### Pin Down
+After performing a [Ranged Attack](Terminology#Ranged%20Attack), the target must pass a [Identity](Spirit#Identity) [Fixed Difficulty(+0)](Skills#Fixed%20Difficulty) or be unable to move until your next [Combat Turn](Terminology#Combat%20Turn).
+
+#### Defy Death
+You can [Avoid](Combat#Avoid) anything, even if it would seem impossible.
+
+#### Fast Hands
+You may [Disarm](Combat#Disarm) using a [Reflexes](Agility#Reflexes) [Fixed Difficulty(-1)](Skills#Fixed%20Difficulty).
+
+#### Light Step
+You never trigger traps by moving over them. You also receive a +1 to [Grace](Agility#Grace) skill tests related to moving silently.
+
+#### Long Shot
+When making a [Ranged Attack](Terminology#Ranged%20Attack), you may spend a [Power](Stats#Power) to ignore any [Distance Penalty](Combat#Distance%20Penalty).
+
+#### Lost in the Crowd
+If you are [In Melee](Terminology#In%20Melee) you have a [Threat](Stats#Threat) of 0 to [Characters](Terminology#Character) not [In Melee](Terminology#In%20Melee) with you.
+
+#### Poisoner
+You can apply poisons and oils to a weapon during your [Combat Turn](Terminology#Combat%20Turn) as a [Free Action](Terminology#Free%20Action).
 
 ---
 
 ### Advanced
 
+#### Assassination
+While not in combat, you can make a [Grace](Agility#Grace) [Opposed Difficulty](Skills#Opposed%20Difficulty)([Insight](Intelligence#Insight)) test against a [Character](Terminology#Character) that is unaware of you, if you succeed, they either receive a [Lethal Injury](Injury#Lethal%20Injury) to the torso, or fall unconscious.
+
+#### Cold Steel
+If you have a [Threat](Stats#Threat) of 0, your attacks have the [Penetrating](Weapon-Traits#Penetrating) trait.
+
 #### Meat Shield
 If you [Avoid](Combat#Avoid) an [Attack](Terminology#Attack) while [In Melee](Terminology#In%20Melee), you may have that [Attack](Terminology#Attack) target someone, other than yourself or the attacker, [In Melee](Terminology#In%20Melee). The new target may use [Reactions](Terminology#Reaction) as normal.
+
+#### Preternatural Senses
+You can manoeuvre perfectly well in the dark or when your vision is otherwise impaired.
 
 #### Fleet Footed
 [Overwatch](Combat#Overwatch) [Attacks](Terminology#Attack) against you are at an additional -2. You can get out of being [In Melee](Terminology#In%20Melee) without triggering any [Reactions](Terminology#Reaction).
 
+#### Point Man
+You have no penalty on [Overwatch](Combat#Overwatch) attacks, receive no negative for delaying your action, and can perform a number of [Overwatch](Combat#Overwatch) attacks on a number of enemies in a turn up to your [Agility](Agility).
+
+#### Shadow Combatant
+Your character's [Threat](Stats#Threat) is reduced by your ranks in [Grace](Agility#Grace).
+
+#### Vanish
+If within 3m #TODOMovement of something you could use to hide, as a [Free Action](Terminology#Free%20Action) you can spend 3 [Power](Stats#Power) to lose all attention. If you perform any [Action](Terminology#Action) you will need to continue to hide, move silently, etc. to remain hidden.
+
 ---
 
 ### Master
+
+#### Hide in Plain Sight
+You do not need an item or object to hide behind when attempting to hide.
+
+#### Master Thief
+In combat you can perform a [Grace](Agility#Grace) [Opposed Difficulty](Skills#Opposed%20Difficulty)([Reflexes](Agility#Reflexes)) to immediately use a piece of [Equipment](Equipment) stored on another character [In Melee](Terminology#In%20Melee). You still need to perform any additional skill checks to use the item.
+
+#### Marksman
+No negative on [Called Shot](Combat#Called%20Shot) with [Ranged Attack](Terminology#Ranged%20Attack) if you do nothing else during your [Combat Turn](Terminology#Combat%20Turn).
+
+#### Fan Fire
+A [Special Manoeuvres](Combat#Special%20Manoeuvres) where you may make a [Ranged Attack](Terminology#Ranged%20Attack) on any number of targets within a 45-degree cone. For each target beyond the first, each attack is at a -2 to hit.

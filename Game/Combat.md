@@ -101,7 +101,7 @@ before making a melee attack or manoeuvre, you can move to a different side of y
 ### Special Attacks
 Any time you are trying to disrupt or harm someone, it is considered an attack, this doesn't always need to require injuring your opponent. Some examples of non-harming attacks are provided.
 #### Disarm
-With at least one free hand or a melee weapon, you can attempt to disarm someone. Make a [Strike](Strength#Strike) skill test at (-1) and if successful, your opponent drops their weapon (or it is now in your hands).
+With at least one free hand or a melee weapon, you can attempt to disarm a [Character](Terminology#Character) [In Melee](Terminology#In%20Melee) with you. Make a [Strike](Strength#Strike) skill test at (-1) and if successful, your opponent drops their weapon (or it is now in your hands).
 #### Grapple
 Make an attack with the intent of getting control of your opponent. If you successfully hit, your opponent is in a grapple. 
 On their turn, they may:

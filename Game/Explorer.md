@@ -25,9 +25,14 @@ Your saddlebags can hold an additional 6 size of items.
 
 
 
+
+
 ---
 
 ### Advanced
+
+#### Tour Guide
+You ignore [Hindrance](Skills#Aid%20and%20Hindrance) when performing skill tests.
 
 
 ---

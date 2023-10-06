@@ -33,3 +33,28 @@ Other Dual Wielding training can be used with any size weapon.
 
 #### Battle Step
 Each round of combat, you receive 1 additional reaction that can only be used to dodge.
+
+#### Bloody Mess
+When you roll a 6 for damage, increase the severity of the injury by one level.
+
+### Specialize Further
+#### Blank Slate
+When caught doing something illegal, as long as you are not captured, it won’t be tied back to you (though may otherwise raise suspicion).
+
+#### Obfuscate
+Spend 2 [Power](Stats#Power), you can make any character/settlement re-roll a skill test related to discovering the party or their involvement in something.
+
+#### Juke
+As a free action once per round, you can exchange places with another character in melee. You receive a +1 to rolls against this person during this combat round. After you enter a melee, you can reposition all the characters in it as long as they all remain in melee range (2m).
+
+#### Thievery
+As [Skilled Work](Activities#Skilled%20Work), you can pickpocket. Make a [Variable Difficulty](Skills#Variable%20Difficulty) [Grace](Agility#Grace) skill test, you receive settlement wealth - 1 silver per [Step Of Success](Skills#Step%20Of%20Success). If you fail this skill test you may be in trouble with the law.
+
+#### Improvised Munitions
+As an [evening activities](Activities#Travel%20Activity), you can scavenge 1d6 ammunition for a ranged weapon. This ammo makes the weapon deal 2 less damage, and may potentially remove traits, though that is at the discretion of the GM. 
+
+#### Double Tap
+As a [Special Manoeuvre](Combat#Special%20Manoeuvres), make two ranged attacks on the same person at a -2 to each. The enemy can as a single reaction attempt to avoid both attacks. 
+
+#### Eradicate
+As a [Special Manoeuvre](Combat#Special%20Manoeuvres) you can make a ranged attack that costs 3 ammo is at a -2 for the skill test, can’t be combined with any other special manoeuvres, you can’t apply the called shot combat modifier to it, and you always count as rolling a 6 on the damage for this attack. 

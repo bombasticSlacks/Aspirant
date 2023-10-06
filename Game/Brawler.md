@@ -28,6 +28,9 @@ When not holding anything can perform a [Melee Attack](Terminology#Melee%20Attac
 #### Flesh Prison
 When you are controlling a [Grapple](Combat#Grapple), you always count as pinning the person being grappled.
 
+#### Quarterback
+You can throw weapons and objects designed to be thrown twice the normal range. You can throw any object not designed to be thrown your normal thrown range with no penalty.
+
 #### Living Weapon
 Your character always counts as armed and can, as long as they are conscious, always fight as though their hands were unbound.
 
