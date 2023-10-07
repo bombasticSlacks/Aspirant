@@ -58,3 +58,9 @@ As a [Special Manoeuvre](Combat#Special%20Manoeuvres), make two ranged attacks o
 
 #### Eradicate
 As a [Special Manoeuvre](Combat#Special%20Manoeuvres) you can make a ranged attack that costs 3 ammo is at a -2 for the skill test, can’t be combined with any other special manoeuvres, you can’t apply the called shot combat modifier to it, and you always count as rolling a 6 on the damage for this attack. 
+
+#### Bound Summon
+You can maintain one summoned creature long term without requiring skill tests or active focus.
+
+#### Lead To Gold
+As [Production Work](Activities#Production%20Work), you can transform matter into gold. Perform a [[]] with a difficulty of your choice, if successful, you receive gold nuggets worth 3 times the difficulty in silver. This requires an [Alchemists Tool Set](Example-Gear#Alchemists%20Tool%20Set).

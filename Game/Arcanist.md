@@ -47,10 +47,18 @@ Places count as Size 5
 ### Expert Arcana
 If your character has [Amateur Arcana](#Amateur%20Arcana) training, Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 * Imbue magic into permanent items. The magics effect must be aligned with the item's purpose.
+* Summon an animal that obeys.
+* Conjure more complex items that will be missed.
+* Teleport an exact item to yourself.
 
  [Crafting Cost](Terminology#Crafting%20Cost): Size of target item in [Exotic](Materials#Exotic) [Materials](Materials) + Size of target item in [Artisan](Materials#Artisan) [Materials](Materials) + a [Reagent Bag](Example-Gear#Reagent%20Bag) charge.
 #### Invigorated Enchantment
 You can imbue two separate magical effects into an item.
+
+#### Pocket Dimension
+You can hold an additional $2 \times Spirit$ Size of items. These items can be accessed like they are on a [Belt](Storage#Belt), but are not detectable by anything but magic.
+
+
 
 ---
 
@@ -59,6 +67,8 @@ You can imbue two separate magical effects into an item.
 ### Master Arcana
 If your character has [Expert Arcana](#Expert%20Arcana) training, Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 * When imbuing things with magic, the enchantments do not need to be related to the items' purpose.
+* Summon a magical creature that obeys.
+* Conjure an exact item of need (the owner may be angry about this).
 
  [Crafting Cost](Terminology#Crafting%20Cost): Size of target item in [Exotic](Materials#Exotic) [Materials](Materials) + Size of target item in [Artisan](Materials#Artisan) [Materials](Materials) + a [Reagent Bag](Example-Gear#Reagent%20Bag) charge.
 
