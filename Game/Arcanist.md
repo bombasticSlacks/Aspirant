@@ -45,7 +45,8 @@ Places count as Size 5
 ### Advanced
 
 ### Expert Arcana
-If your character has [Amateur Arcana](#Amateur%20Arcana) training, Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
+*[Requirement](Terminology#Requirement): [Amateur Arcana](#Amateur%20Arcana)*
+Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 * Imbue magic into permanent items. The magics effect must be aligned with the item's purpose.
 * Summon an animal that obeys.
 * Conjure more complex items that will be missed.
@@ -65,7 +66,8 @@ You can hold an additional $2 \times Spirit$ Size of items. These items can be a
 ### Master
 
 ### Master Arcana
-If your character has [Expert Arcana](#Expert%20Arcana) training, Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
+*[Requirement](Terminology#Requirement): [Expert Arcana](#Expert%20Arcana)*
+Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 * When imbuing things with magic, the enchantments do not need to be related to the items' purpose.
 * Summon a magical creature that obeys.
 * Conjure an exact item of need (the owner may be angry about this).

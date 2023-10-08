@@ -12,7 +12,12 @@
     "grappler",
     "grapplers",
     "Scrying",
-    "Arcanists"
+    "Arcanists",
+    "Elementalists",
+    "Pyromancers",
+    "Dynamancy",
+    "Dynamist",
+    "Elementalist"
   ],
   "showLineNumber": false,
   "newLinkFormat": "relative",

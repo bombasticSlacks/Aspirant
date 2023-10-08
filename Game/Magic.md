@@ -18,6 +18,9 @@ Channelled Magic requires:
 * Training in [Will](Spirit#Will).
 * Additional training to do more than simple parlour tricks.
 
+### Magical Energy
+Channelled magic requires magical energy. Focused magic that can be expended to temporarily shape the world around you. [Resonant](Resonant) material has inherent magical energy based on it's quality. A [Focus](Example-Gear#Focus) can be used to convert this magical energy into effects.
+
 Examples of channelled magic effects would be:
 * Throwing a fireball.
 * Creating a cloud of smoke.

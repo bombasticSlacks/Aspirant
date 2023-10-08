@@ -79,3 +79,6 @@ When you craft or otherwise create something, you need to be mindful that someth
 
 ### Crafting Cost
 The general requirement to craft, create, or perform a [Ritual Magic](Magic#Ritual%20Magic). If not otherwise specified the crafting cost for something is to [Obey Conservation Of Mass](#Obey%20Conservation%20Of%20Mass).
+
+### Requirement
+This training requires something else before it can be used.

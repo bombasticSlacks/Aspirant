@@ -50,7 +50,8 @@ You can perceive things supernaturally within [Spirit](Spirit) x 10m.
 ### Advanced
 
 #### Expert Mysticism
-If your character has [Amateur Mysticism](#Amateur%20Mysticism) training, your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
+*[Requirement](Terminology#Requirement): [Amateur Mysticism](#Amateur%20Mysticism)*
+Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 * See into the future what may happen.
 * See into the past what has happened.
 * Create undead, and transplant souls between vessels.
@@ -65,7 +66,8 @@ During [Good Night's Rest](Activities#Good%20Night's%20Rest) roll 2d6. At any po
 ### Master
 
 #### Master Mysticism
-If your character has [Expert Mysticism](#Expert%20Mysticism) training, your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
+*[Requirement](Terminology#Requirement): [Expert Mysticism](#Expert%20Mysticism)*
+Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 * Effect what has already happened.
 * Get accurate information about the state of something.
 * Manipulate life itself and control intelligent undead.
