@@ -22,5 +22,5 @@ Want to cut down on training disciplines slightly, move to 4, 4, 4 with a genera
 | ------------ | ------------------------ |
 | Mystic | Div + Vito |
 | Arcanist | Ench + Conjure |
-| Elementalist | Evocation + Abjuration |
-| Magician | Illusion + Transmutation |
+| Dynamist | Evocation + Abjuration |
+| Shaper | Illusion + Transmutation |
