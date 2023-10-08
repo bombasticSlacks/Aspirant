@@ -64,3 +64,9 @@ You can maintain one summoned creature long term without requiring skill tests o
 
 #### Lead To Gold
 As [Production Work](Activities#Production%20Work), you can transform matter into gold. Perform a [[]] with a difficulty of your choice, if successful, you receive gold nuggets worth 3 times the difficulty in silver. This requires an [Alchemists Tool Set](Example-Gear#Alchemists%20Tool%20Set).
+
+#### Bedside Manner
+You receive a +2 on all social interactions with people you have treated since last downtime, and a +1 on all medical tests with people that like you.
+
+#### Shaman
+You count as having a [Trauma Kit](Example-Gear#Trauma%20Kit) even if not carrying one. However, any related medical skill tests are performed at a -2.

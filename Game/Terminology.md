@@ -78,7 +78,13 @@ Any [Attack](#Attack) that isn't a [Melee Attack](#Melee%20Attack).
 When you craft or otherwise create something, you need to be mindful that something cannot come from nothing. So a size 3 item requires at least 3 size of materials if not otherwise specified to create.
 
 ### Crafting Cost
-The general requirement to craft, create, or perform a [Ritual Magic](Magic#Ritual%20Magic). If not otherwise specified the crafting cost for something is to [Obey Conservation Of Mass](#Obey%20Conservation%20Of%20Mass).
+The general requirement to craft, create, or perform a [Ritual Magic](Magic#Ritual%20Magic). If not otherwise specified, the crafting cost for something is to [Obey Conservation Of Mass](#Obey%20Conservation%20Of%20Mass).
 
 ### Requirement
 This training requires something else before it can be used.
+
+### Substitute
+You may when expected to perform one type of skill test, you may instead perform the substitute.
+
+### Non-Combat
+An [Action](#Action) that isn't related to combat, and does not happen during combat.

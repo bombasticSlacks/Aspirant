@@ -62,7 +62,15 @@ When multiple characters are all attempting to perform the same task together, i
 > If 5 characters are attempting to sneak past a guard and 2 are trained and 3 are not, then the skill test is at an additional -2 (+1, -3).
 
 #### Untrained
-Generally you cannot perform a skill without [Training](Character-Development#Training), however in some cases a skill test will be forced or simple enough the character could feasibly attempt it anyway. This means that even though you are untrained, you or the game state is forcing your character to try anyway. Examples would be trying to spot enemies with [Insight](Intelligence#Insight), or jumping across a ledge with [Athletics](Strength#Athletics). Any untrained skill test is at an additional -2.
+Generally you cannot perform a skill without [Training](Character-Development#Training), however in some cases a skill test will be forced or simple enough the character could feasibly attempt it anyway. This means that even though you are untrained, you or the game state is forcing your character to try anyway. Any untrained skill test is at an additional -2.
+
+> Examples would be trying to spot enemies with [Insight](Intelligence#Insight), or jumping across a ledge with [Athletics](Strength#Athletics). 
+
+#### Critical Failure
+Rolling double ones on a skill test is always considered a failure.
+
+#### Critical Success
+Rolling double 6's on a skill test is always considered a success.
 
 ### Character Skills
 Aspirant has a prebuilt list of skills that should cover any activity a character would be expected to do related to their primary attributes.

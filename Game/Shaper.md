@@ -63,7 +63,7 @@ Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 
 #### Kinetic Monk
 *[Requirement](Terminology#Requirement): [Black Belt](Brawler#Black%20Belt)*
-While holding nothing but a [Focus](Example-Gear#Focus) you can replace [Will](Spirit#Will) for [Strike](Strength#Strike) [Actions](Terminology#Action). While doing this your [Melee Attacks](Terminology#Melee%20Attack) have a damage value of $2 \times Spirit$ and you can attack at a range of $2 \times Spirit$ meters. #TODOMovement #TODODamage 
+While holding nothing but a [Focus](Example-Gear#Focus) you can [Substitute](Terminology#Substitute) [Will](Spirit#Will) for [Strike](Strength#Strike). While doing this, your [Melee Attacks](Terminology#Melee%20Attack) have a damage value of $2 \times Spirit$ and you can attack at a range of $2 \times Spirit$ meters. #TODOMovement #TODODamage 
 
 
 ---

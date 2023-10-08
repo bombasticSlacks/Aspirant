@@ -56,10 +56,12 @@ After 2 combat turns of being on fire, you take an immediate [Severe Injury](#Se
 Make an [Application](Intelligence#Application) skill test at a -3 if you succeed you are no longer on fire. For each consecutive turn you stop, drop and roll this test is at a +1. It is important to note some forms of militarized fire are sticky and impossible to put out without help or tools.
 
 ### Wounded
-If your character is injured, they only have so long before they pass out/collapse. In general on each combat turn you are wounded after you have performed your action you make a [Identity](Spirit#Identity) [Fixed Difficulty](Skills#Fixed%20Difficulty) skill test to see if you can continue to fight at a reasonable level (the use of medication and stabilization can cause you to ignore this). If you fail this test you fall unconscious. For every severe injury after the first add a -1 to the test for every critical injury add -2 to the test.
+If your character is injured, they only have so long before they pass out/collapse. In general, on each combat turn you are wounded, after you have performed your action, you make an [Endurance](Strength#Endurance) [Fixed Difficulty](Skills#Fixed%20Difficulty)([Injury Penalty](#Injury%20Penalty)) to see if you can continue to fight at a reasonable level (the use of medication and stabilization can cause you to ignore this). For every severe injury after the first add a (-1) to the test for every critical injury add (-2) to the test.
 
-### Lingering Pain
-After someone is wounded, whether they pass out or stay conscious, they will suffer long-term effects. Once the combat ends, you will take negatives to any skill tests. Critical injuries give a -3 to all tests, and Severe injuries give a -2 to all tests. This lasts until your characters gets to [rest](Telling-The-Story#Resting).
+If you fail, you fall unconscious, or collapse unable to continue fighting, though no longer considered a threat. 
+
+### Injury Penalty
+After someone is wounded, whether they pass out or stay conscious, they will suffer long-term effects. Once the combat ends, you will take negatives to any skill tests. Critical injuries give a -3 to all tests, and Severe injuries give a -2 to all tests. This lasts until your characters does [Injury Recovery](Activities#Injury%20Recovery).
 
 ### Managing Injuries
 Aside from the trauma of being injured in the field, there are other immediate risks to a person who has been injured, and they will need treatment to stay healthy or remain alive (depending on severity).
