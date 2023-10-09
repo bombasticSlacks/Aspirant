@@ -18,6 +18,11 @@ They can generally teach the following training:
 
 ### Basic
 
+#### Apophenia
+Spend a [Power](Stats#Power), you can declare your far-fetched theory about what is really going on. Rolls you make which help confirm or refute your theory receive +1.
+
+Your far fetched theory can help progress [Projects](Skills#Project) only tangentially related.
+
 #### Autodoc
 You can perform invasive [Surgeon](#Surgeon) work on yourself and ignore your own [Injury Penalty](Injury#Injury%20Penalty) when performing [Application](Intelligence#Application) skill tests.
 
@@ -30,11 +35,28 @@ You have twice as long to perform [Managing Injuries](Injury#Managing%20Injuries
 #### Holistic Tools
 You can perform [Application](Intelligence#Application) skill tests without needing any tools or kits; however, you receive a (-2) to related [Action](Terminology#Action) while not having appropriate gear.
 
+#### Scientific Activation
+You can attempt to activate magical items using the [Application](Intelligence#Application) skill.
+
+#### Macguffin
+You know just the thing to solve this problem. It might take time to find or build, but once per session you know just the thing to resolve an issue and the answer will be relatively on hand.
+
+Start a [Project](Skills#Project) with a number of steps required by the GM, this project doesn't require an initial skill test to work towards a solution to the problem.
+
 #### Speculative Medicine
 At the beginning of any combat encounter, you can name a character who you think will be injured during the encounter. Any medical tests you make on that person during and after this combat gets a +3. The person you select also gets +1 to [Identity](Spirit#Identity) skill tests for the duration of the encounter.
 
+#### Parabolic Targeting
+You can make ranged attack skill tests using the [Application](Intelligence#Application) skill.
+
+#### Kill Switch
+While controlling a [Grapple](Combat#Grapple) you can perform an [Application](Intelligence#Application) skill test to disable automata and machines.
+
 #### Sword Surgeon
 While holding a rending weapon you can [Substitute](Terminology#Substitute) [Application](Intelligence#Application) for [Strike](Strength#Strike).
+
+#### Problem Solver
+You receive a +2 to all skill tests to start a [Project](Skills#Project)
 
 #### Long Term Care
 As a [Travel Activity](Activities#Travel%20Activity) you can declare you are going to heal peoples wounds. Your [Allies](Terminology#Ally) traveling with you can perform the [Injury Recovery](Activities#Injury%20Recovery) action.
@@ -59,6 +81,9 @@ Surgery takes 20 minutes per [Injury](Injury) the person has sustained, with tor
 
 Surgery can only be attempted once, per person, per downtime.
 
+#### Exact Dosage
+Whenever you administer an alchemical solution with a duration, if the duration is rolled for in rounds, roll twice and take the result of your choice. If the solution's duration is not rolled for, you can choose for it to last either half or twice as long. If the solution's effect is immediate, you can choose to use only half the amount.
+
 ---
 
 ### Master
@@ -71,3 +96,10 @@ You can also attempt to bring someone who has died from either a critical chest 
 
 #### Trauma Doc
 If you successfully use a [Trauma Kit](Example-Gear#Trauma%20Kit) on someone, their [Injury Penalty](Injury#Injury%20Penalty) goes away. You can also make a medical test to treat ongoing negatives that were caused by someone else's medical work.
+
+#### Multitasker
+Once per downtime, you can opt to take a second combat action after your first or expedite / multitask two narrative actions.
+
+#### Vitruvian
+#TODOcopy 
+Your body is perfect and loses all scarring. You become immune to poison, and mutations you have don’t have any obvious signs. Going above your Max Toxicity temporarily doesn’t cause injury (though you still can’t take more modifications than that).

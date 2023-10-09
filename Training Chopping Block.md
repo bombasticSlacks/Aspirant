@@ -70,3 +70,14 @@ You receive a +2 on all social interactions with people you have treated since l
 
 #### Shaman
 You count as having a [Trauma Kit](Example-Gear#Trauma%20Kit) even if not carrying one. However, any related medical skill tests are performed at a -2.
+
+#### Visual Calculus
+You can visualize what nearby characters are doing even if you can’t directly see them. This also means you can attack them through cover and other similar situations.
+
+
+#### Alchemical Traps
+If your character has a [Trap Kit](Example-Gear#Trap%20Kit), your payloads can be much more exotic, but the skill test becomes [Application](Intelligence#Application), and they take longer to prepare. They can include things like:
+Gravity destabilize: Everything in the trap area loses gravity for 1d3 rounds. Or gravity shifts in a direction for the same duration.
+Stasis discharge: Everything in the area is stunned for a turn.
+Magnesium Bomb: Everything in the area suffers an [Hot](Combat#Hot) attack that causes a critical injury to a location and is on fire.
+Corrosive Gas: Everything in the area loses all resistance for its armour
