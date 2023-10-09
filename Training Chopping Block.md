@@ -37,13 +37,6 @@ Each round of combat, you receive 1 additional reaction that can only be used to
 #### Bloody Mess
 When you roll a 6 for damage, increase the severity of the injury by one level.
 
-### Specialize Further
-#### Blank Slate
-When caught doing something illegal, as long as you are not captured, it won’t be tied back to you (though may otherwise raise suspicion).
-
-#### Obfuscate
-Spend 2 [Power](Stats#Power), you can make any character/settlement re-roll a skill test related to discovering the party or their involvement in something.
-
 #### Juke
 As a free action once per round, you can exchange places with another character in melee. You receive a +1 to rolls against this person during this combat round. After you enter a melee, you can reposition all the characters in it as long as they all remain in melee range (2m).
 
@@ -81,3 +74,32 @@ Gravity destabilize: Everything in the trap area loses gravity for 1d3 rounds. O
 Stasis discharge: Everything in the area is stunned for a turn.
 Magnesium Bomb: Everything in the area suffers an [Hot](Combat#Hot) attack that causes a critical injury to a location and is on fire.
 Corrosive Gas: Everything in the area loses all resistance for its armour
+
+
+#### Naturalist
+*moved to hollistic tools*
+You don’t need a tool kit to do [Production Work](Activities#Production%20Work), however any skill tests are at a -1.
+
+#### Recycler
+When crafting a weapon, instead of providing materials, you may provide another weapon of equivalent size and materials to transform into the new weapon.
+
+#### Simple Repairs
+As [Production Work](Activities#Production%20Work), you can repair a damaged item or up to 5 rounds of ammunition. This requires a [Weapons Tool Set](Example-Gear#Weapons%20Tool%20Set), but no additional materials or currency.
+
+#### The Muscle
+You may perform [Connection](Communication#Connection) skill tests to interact with people using [Strength](Strength).
+
+### Specialize Further
+#### Blank Slate
+When caught doing something illegal, as long as you are not captured, it won’t be tied back to you (though may otherwise raise suspicion).
+
+#### Obfuscate
+Spend 2 [Power](Stats#Power), you can make any character/settlement re-roll a skill test related to discovering the party or their involvement in something.
+
+#### Driver
+You can drive a [Cart](Example-Infrastructure#Cart) alone.
+
+#### Vitruvian
+#TODOcopy 
+Your body is perfect and loses all scarring. You become immune to poison, and mutations you have don’t have any obvious signs. Going above your Max Toxicity temporarily doesn’t cause injury (though you still can’t take more modifications than that).
+

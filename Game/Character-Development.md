@@ -85,6 +85,7 @@ There are 24 traditional trainers in Aspirant. These are spread evenly over thre
 	* [Worker](Worker)
 
 ### Transhumanism
+#TODOtranshumanism 
 Aside from development of skills and training, a character may also as a game progresses gain abilities from elsewhere. These can take the form of enchantments/blessings, alchemical mutations, and powerful prosthetics.
 
 Mutations/enchantments are strange processes that warp the body and in some cases corrupt the mind. A character can undergo a transhumanist process during downtime.

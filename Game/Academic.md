@@ -99,7 +99,3 @@ If you successfully use a [Trauma Kit](Example-Gear#Trauma%20Kit) on someone, th
 
 #### Multitasker
 Once per downtime, you can opt to take a second combat action after your first or expedite / multitask two narrative actions.
-
-#### Vitruvian
-#TODOcopy 
-Your body is perfect and loses all scarring. You become immune to poison, and mutations you have don’t have any obvious signs. Going above your Max Toxicity temporarily doesn’t cause injury (though you still can’t take more modifications than that).
