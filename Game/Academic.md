@@ -21,19 +21,25 @@ They can generally teach the following training:
 #### Apophenia
 Spend a [Power](Stats#Power), you can declare your far-fetched theory about what is really going on. Rolls you make which help confirm or refute your theory receive +1.
 
-Your far fetched theory can help progress [Projects](Skills#Project) only tangentially related.
+Your far-fetched theory can help progress [Projects](Skills#Project) only tangentially related.
+
+#### Intellectual Leap
+When you use [Insight](Intelligence#Insight) to gain information, you can spend 1 [Power](Stats#Power) to infer another useful fact about the thing. Ask another question and the [GM](How-To-Play#GM) should answer honestly.
 
 #### Autodoc
 You can perform invasive [Surgeon](#Surgeon) work on yourself and ignore your own [Injury Penalty](Injury#Injury%20Penalty) when performing [Application](Intelligence#Application) skill tests.
+
+#### Photographic Memory
+Your character memorizes any document you get to see.
+
+#### Brilliant Bastard
+You automatically succeed on anything you do on a roll of double 1’s.
 
 #### Doctors Eye
 You can always tell how injured a person is (and where). When starting a health/medicine related [Project](Skills#Project) you always succeed with at least 1 [Step Of Success](Skills#Step%20Of%20Success).
 
 #### On Ice
 You have twice as long to perform [Managing Injuries](Injury#Managing%20Injuries) skill tests on characters before it becomes impossible.
-
-#### Holistic Tools
-You can perform [Application](Intelligence#Application) skill tests without needing any tools or kits; however, you receive a (-2) to related [Action](Terminology#Action) while not having appropriate gear.
 
 #### Scientific Activation
 You can attempt to activate magical items using the [Application](Intelligence#Application) skill.
@@ -60,6 +66,27 @@ You receive a +2 to all skill tests to start a [Project](Skills#Project)
 
 #### Long Term Care
 As a [Travel Activity](Activities#Travel%20Activity) you can declare you are going to heal peoples wounds. Your [Allies](Terminology#Ally) traveling with you can perform the [Injury Recovery](Activities#Injury%20Recovery) action.
+
+#### Knowledgeable Geographer
+You're knowledgeable about all geography and can make [Memory](Intelligence#Memory) tests to know about them.
+
+#### Knowledgeable Historian
+You're knowledgeable about all history and can make [Memory](Intelligence#Memory) tests to know about them.
+
+#### Knowledgeable Interpreter
+You're knowledgeable about all religious groups, otherworldly entities and superstitions and can make [Memory](Intelligence#Memory) tests to know about them.
+
+#### Knowledgeable Cryptozoologist
+You're knowledgeable about all animals and monsters and can make [Memory](Intelligence#Memory) tests to know about them.
+
+#### Knowledgeable Materialist
+You're knowledgeable about all [Materials](Materials) and can make [Memory](Intelligence#Memory) tests to know about them.
+
+#### Knowledgeable Laws and Customs
+You're knowledgeable about the nuanced laws and customs of areas and can make [Memory](Intelligence#Memory) tests to know about them.
+
+#### Knowledgeable Tactician
+You're knowledgeable about historical and strategic military knowledge and can make [Memory](Intelligence#Memory) tests to know about them.
 
 
 ---

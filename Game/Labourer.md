@@ -6,7 +6,7 @@ grand_parent: Character Development
 nav_order: 2
 ---
 ## Labourer
-One of the [Trades-Training](Trades-Training) disciplines. Character who specializes in working for a living. Whether it be a trade, or service there labour is what they provide.
+One of the [Trades-Training](Trades-Training) disciplines. Character who specializes in working for a living. Whether it be a trade, or service, their labour is what they provide.
 
 Labourers are: 
 * Manual Workers

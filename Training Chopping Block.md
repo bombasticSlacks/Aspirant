@@ -1,7 +1,7 @@
 Trainings that were removed from the game
 
-## H2
-### H3
+## Chopping Block
+### Cut
 #### Monstrous Leap
 You calculate your movement distance based on strength instead of agility if you end your movement with a melee attack. 
 
@@ -89,6 +89,13 @@ As [Production Work](Activities#Production%20Work), you can repair a damaged ite
 #### The Muscle
 You may perform [Connection](Communication#Connection) skill tests to interact with people using [Strength](Strength).
 
+#### Explorer
+You ignore terrain effects and obstacles in combat.
+
+#### Babble
+You may keep someone's attention and interest, even in a topic you know nothing about by using the perform skill.
+
+---
 ### Specialize Further
 #### Blank Slate
 When caught doing something illegal, as long as you are not captured, it won’t be tied back to you (though may otherwise raise suspicion).
@@ -102,4 +109,9 @@ You can drive a [Cart](Example-Infrastructure#Cart) alone.
 #### Vitruvian
 #TODOcopy 
 Your body is perfect and loses all scarring. You become immune to poison, and mutations you have don’t have any obvious signs. Going above your Max Toxicity temporarily doesn’t cause injury (though you still can’t take more modifications than that).
+
+#### Certified Murderer
+#TODODamage 
+When you roll for damage, roll 2 dice and take the higher roll.
+
 

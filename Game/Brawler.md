@@ -37,6 +37,11 @@ Your character always counts as armed and can, as long as they are conscious, al
 #### Throw
 Your [Shoves](Combat#Shove) make people travel twice the distance.
 
+#### Terrify
+After a [Successful Attack](Terminology#Successful%20Attack) [In Melee](Terminology#In%20Melee), you can spend a [Reaction](Terminology#Reaction) to intimidate an enemy with a [Mannerism](Communication#Mannerism) [Opposed Difficulty](Skills#Opposed%20Difficulty)([Identity](Spirit#Identity)). If you succeed, they surrender; otherwise, they take a -2 to all actions until your next turn.
+
+Some enemies are not intelligent enough or just refuse to surrender under any circumstances.
+
 
 ---
 

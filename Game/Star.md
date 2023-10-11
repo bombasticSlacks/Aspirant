@@ -21,6 +21,9 @@ They can generally teach the following training:
 
 ### Advanced
 
+#### Contacts
+As a downtime action, you can spend a day setting up contacts in any location. This contact network can be queried for information and will send relevant info your way.
+
 
 ---
 
