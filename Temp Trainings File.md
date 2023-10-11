@@ -13,7 +13,7 @@ Want to cut down on training disciplines slightly, move to 4, 4, 4 with a genera
 | -------- | ------------------------ |
 | Academic | Scientist + Doctor |
 | Labourer | Craftsman + Worker |
-| Explorer | Hunter + Chronicler |
+| Wanderer | Hunter + Chronicler |
 | Star | Leader + Performer |
 
 ---

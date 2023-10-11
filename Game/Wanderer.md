@@ -36,6 +36,9 @@ While you are successfully grappling someone on your turn, you may as an action 
 #### Hound Master
 You can consider tamed animals to be [Followers](Terminology#Follower).
 
+#### Contortionist
+You can fit into impractically small spaces comfortably.
+
 #### Take Them Alive
 After [Injuring](Injury) someone, if they would die, you may opt for them to go unconscious. #TODODamage 
 

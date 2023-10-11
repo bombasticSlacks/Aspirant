@@ -60,13 +60,19 @@ An action that can be done in parallel with other actions during a [Combat Turn]
 Any [Weapons](Weapons) with the [Shield](Weapon-Traits#Shield) trait.
 
 ### Follower
+#TODOFollowers
 A character who is an [Ally](#Ally) but also is willing to be directly commanded.
 
 ### Mounted
 A [Character](#Character) is mounted if they are currently riding on another tamed creature which they are in control of. This usually means a horse, but could be another creature.
 
 ### Combat Skill Test
+#TODORename Action
 Any skill test related to combat.
+
+### Social Skill Test
+#TODORename Action
+Any skill test related to communicating or interacting non-violently with another character.
 
 ### Action
 Something that a [Character](#Character) does, usually requires a skill test and time.
@@ -88,3 +94,6 @@ You may when expected to perform one type of skill test, you may instead perform
 
 ### Non-Combat
 An [Action](#Action) that isn't related to combat, and does not happen during combat.
+
+### Re-roll
+A re-roll is when a character rerolls all dice they just rolled and recalculates the results based on the new numbers.

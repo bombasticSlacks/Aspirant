@@ -11,6 +11,9 @@ You may opt to take a negative on an attack to get an equivalent bonus to damage
 #### Greater Cleave
 If you have [Cleave](#Cleave) training, when making a charge you may target anyone with cleave who was in weapon range along the path.
 
+#### Tumbling
+As skilled work, you can do acrobatic routines / dance. Make a [Variable Difficulty](Skills#Variable%20Difficulty) [reflexes](Agility#Reflexes) skill test, you receive 2 silver per [Step Of Success](Skills#Step%20Of%20Success).
+
 #### Heavy Hitter
 While wearing metal arm armour, you can parry and block using your arms and all of your attacks may knock back enemies [Strength](Strength) meters.
 
@@ -114,4 +117,12 @@ Your body is perfect and loses all scarring. You become immune to poison, and mu
 #TODODamage 
 When you roll for damage, roll 2 dice and take the higher roll.
 
+#### Sanctuary
+During rest, if you are somewhere that shares your faith or believes in your cause, you do not need to spend currency per day to live.
 
+#### Writer Of History
+When an ally would be assigned a nickname, or a legend would be written, you can influence how it is recorded.
+
+#### Performance Of Glory
+#TODOcopy 
+You may, as an action in combat, perform on your instrument to provide bonuses to allies. The difficulty of this test will vary based on the bonus you want to provide.

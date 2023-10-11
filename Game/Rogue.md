@@ -62,7 +62,7 @@ You can apply poisons and oils to a weapon during your [Combat Turn](Terminology
 ### Advanced
 
 #### Assassination
-While not in combat, you can make a [Grace](Agility#Grace) [Opposed Difficulty](Skills#Opposed%20Difficulty)([Insight](Intelligence#Insight)) test against a [Character](Terminology#Character) that is unaware of you, if you succeed, they either receive a [Lethal Injury](Injury#Lethal%20Injury) to the torso, or fall unconscious.
+While not in combat, you can make a [Grace](Agility#Grace) [Opposed Difficulty](Skills#Opposed%20Difficulty)([Insight](Intelligence#Insight)) test against a [Character](Terminology#Character) that is unaware of you, if you succeed, they either receive a [Lethal Injury](Injury#Lethal%20Injury) to the torso, or fall [Unconscious](Effects#Unconscious).
 
 #### Cold Steel
 If you have a [Threat](Stats#Threat) of 0, your attacks have the [Penetrating](Weapon-Traits#Penetrating) trait.
