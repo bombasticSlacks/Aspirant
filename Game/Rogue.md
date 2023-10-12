@@ -57,6 +57,12 @@ If you are [In Melee](Terminology#In%20Melee) you have a [Threat](Stats#Threat) 
 #### Poisoner
 You can apply poisons and oils to a weapon during your [Combat Turn](Terminology#Combat%20Turn) as a [Free Action](Terminology#Free%20Action).
 
+#### Crossbow Expert
+You can reload a crossbow and fire it in the same turn at a -1 to the [Accuracy](Agility#Accuracy) skill test.  
+
+#### Exotic Expert
+If you have [Martial Training](#Martial%20Training), you can use any [Exotic](Weapons#Exotic) weapon without penalty.   
+
 ---
 
 ### Advanced

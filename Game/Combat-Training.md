@@ -25,11 +25,6 @@ Combat is further separated into 8 specialized schools:
 Any specialist in one of the above schools can also teach any of the following trainings:
 
 ### Basic Training
-#### Crossbow Expert
-You can reload a crossbow and fire it in the same turn at a -1 to the [Accuracy](Agility#Accuracy) skill test.  
-
-#### Exotic Expert
-If you have [Martial Training](#Martial%20Training), you can use any [Exotic](Weapons#Exotic) weapon without penalty.   
 
 #### Giants Hands
 You can comfortably wield weapons one size larger in one hand or two.
