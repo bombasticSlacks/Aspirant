@@ -20,7 +20,7 @@ They can generally teach the following training:
 ### Basic
 
 #### Mage Assassin
-When you perform a magical feat you can roll [Grace](Agility#Grace) [Opposed Difficulty](Skills#Opposed%20Difficulty)([Insight](Intelligence#Insight)) to make it seem like no magic took place.
+When you perform a magical effect you can roll [Grace](Agility#Grace) [Opposed Difficulty](Skills#Opposed%20Difficulty)([Insight](Intelligence#Insight)) to make it seem like no magic took place.
 
 #### Mage Hand
 You can levitate things up to your [Spirit](Spirit) in size and [Spirit](Spirit) x 2 meters away #TODOMovement as naturally as picking them up normally.
@@ -43,6 +43,18 @@ You Can Use [Spirit](Spirit) instead of Agility to Calculate Movement distance. 
 #### Wild Casting
 You can cast spells normally while transformed into a non-humanoid creature, even if you couldn't hold a [Focus](Example-Gear#Focus). You can also speak normally.
 
+#### Focus Trap
+You can set magical abilities you are focussed on to trigger in response to something (a person walking through a door, saying a word etc.) if you are knocked unconscious or distracted, your traps fail. This gives you access to the Trap magical trait for spell attacks.
+
+#### Silent Channelling
+You do not need to speak to perform [Channelled Magic](Magic#Channelled%20Magic).
+
+#### Still Channelling
+You do not need to move your hands to perform [Channelled Magic](Magic#Channelled%20Magic).
+
+
+
+
 
 ---
 
@@ -64,6 +76,9 @@ Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 #### Kinetic Monk
 *[Requirement](Terminology#Requirement): [Black Belt](Brawler#Black%20Belt)*
 While holding nothing but a [Focus](Example-Gear#Focus) you can [Substitute](Terminology#Substitute) [Will](Spirit#Will) for [Strike](Strength#Strike). While doing this, your [Melee Attacks](Terminology#Melee%20Attack) have a damage value of $2 \times Spirit$ and you can attack at a range of $2 \times Spirit$ meters. #TODOMovement #TODODamage 
+
+#### Powerful Mind
+You can [Concentrate](Magic#Concentration) on two spells simultaneously.
 
 
 ---

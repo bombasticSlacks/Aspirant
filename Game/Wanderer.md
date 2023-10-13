@@ -60,6 +60,12 @@ You receive hints and tips from the GM in the form of an internal monologue. Spe
 #### Holistic Tools
 You can perform [Application](Intelligence#Application) skill tests without needing any tools or kits; however, you receive a (-2) to related [Action](Terminology#Action) while not having appropriate gear.
 
+#### Clever Packer
+Your [Backpack](Storage#Backpack) can hold an additional 6 size worth of items.
+
+#### Promissory Note
+You can go into debt an amount of silver equal to 10 x [Communication](Communication) by writing promissory notes to merchants. You need to pay this off before you can use this ability again.
+
 
 
 
@@ -94,6 +100,9 @@ During [Meditate](Activities#Meditate), you can select any one of your skills th
 
 #### Kryptonite
 If you succeed on a [Memory](Intelligence#Memory) skill test to know about an enemy animal or monster, you also know about how to defeat them. Your [Allies](Terminology#Ally) gain a (+1) to all combat [Actions](Terminology#Action) targeting the enemy.
+
+#### Non-Target
+As long as you have a [Threat](Stats#Threat) value of 0 or less, enemies don’t consider you a threat until you attack.
 
 
 ---

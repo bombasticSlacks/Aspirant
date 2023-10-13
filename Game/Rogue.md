@@ -6,7 +6,7 @@ grand_parent: Character Development
 nav_order: 2
 ---
 ## Rogue
-One of the [Combat-Training](Combat-Training) disciplines. Character who specializes in outwitting opponents with tools, positioning, and equipment.
+A character who specializes in outwitting opponents with tools, positioning, and equipment.
 
 Rogues are: 
 * Thieves
@@ -32,6 +32,9 @@ You can [Disarm](Combat#Disarm) someone at range, using a ranged weapon, expendi
 When you perform a [Mitigated Attack](Terminology#Mitigated%20Attack) with [Comestibles](Comestibles) , it is always [salvageable](Comestibles#Salvaging)
 #### Multitasking
 On your [Combat Turn](Terminology#Combat%20Turn), you may make an [Attack](Terminology#Attack) at (-2) additional penalty, and then perform a non-attack action or movement.
+
+#### Strapped
+You get an additional 4 size worth of [Belt](Storage#Belt) space.
 
 #### Olympian
 You can make a [Thrown Attack](Terminology#Thrown%20Attack) at the end of [Charging](Combat#Charging), receiving the bonuses. 
@@ -91,6 +94,9 @@ Your character's [Threat](Stats#Threat) is reduced by your ranks in [Grace](Agil
 #### Vanish
 If within 3m #TODOMovement of something you could use to hide, as a [Free Action](Terminology#Free%20Action) you can spend 3 [Power](Stats#Power) to lose all attention. If you perform any [Action](Terminology#Action) you will need to continue to hide, move silently, etc. to remain hidden.
 
+#### Constant Movement
+You can perform reactions during your own turn.
+
 ---
 
 ### Master
@@ -106,3 +112,4 @@ No negative on [Called Shot](Combat#Called%20Shot) with [Ranged Attack](Terminol
 
 #### Fan Fire
 A [Special Manoeuvres](Combat#Special%20Manoeuvres) where you may make a [Ranged Attack](Terminology#Ranged%20Attack) on any number of targets within a 45-degree cone. For each target beyond the first, each attack is at a -2 to hit.
+

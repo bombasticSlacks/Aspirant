@@ -58,6 +58,12 @@ You know the [Armour Integrity](Armour#Armour%20Integrity), and [Weakness and Re
 #### Tool Master
 Whenever performing an [Action](Terminology#Action) that requires tools of some kind, you receive a (+1).
 
+#### Haggling
+You may use converse to attempt to get better deals when commissioning items. This is an opposed [Connection](Communication#Connection) test against the craftsman. For every [Step Of Success](Skills#Step%20Of%20Success) you receive 1 silver off the asking price.
+
+#### Suburbanite
+You receive a +1 to all skill tests related to surviving and navigating urban areas.
+
 
 
 

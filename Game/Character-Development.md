@@ -32,7 +32,7 @@ Different trainings cost a different amount of XP as follows:
 | Master Training   | 6 XP | 
 
 ### Restrictions
-A character can’t learn from nothing. When your character desires to learn / improve a skill or gain training, they need to either learn from someone who already has that qualification or have a well-written manual providing details on their person. 
+A character can’t learn from nothing. When your character desires to learn / improve a skill or gain training, they need to either learn from someone who already has that qualification or have a well-written manual providing details to study. 
 
 You only need guidance to start training. If you begin training with someone but then part ways, you can on your own time finish the training. 
 
@@ -42,8 +42,6 @@ Basic, advanced, and master training represents powerful new abilities that your
 * Elective - gives you a new ability/option you can use at will.
 * Power Based - Requires spending [Power](Stats#Power) to activate.
 * Per Downtime - Very powerful abilities that can only be used once before resting in a city.
-
-Training is split into 24 separate specialized schools over 3 disciplines. Cities, heroes, and ancient tomes will be able to provide access to training.
 
 #### Basic Level Training
 Basic training should fundamentally be known by any practitioners of the training school.
@@ -55,22 +53,19 @@ Advanced training should be known only be those with experience, but should stil
 Master level trainers should be rare and not readily available. A master should be a person of notoriety, and gaining training from them should require more than just an exchange of [Currency](Equipment#Currency).
 
 #### Types Of Training
-There are 24 traditional trainers in Aspirant. These are spread evenly over three disciplines, with 8 sub-disciplines each:
-* [Combat-Training](Combat-Training)
-	* [Mercenary](Mercenary)
-	* [Rogue](Rogue)
-	* [Knight](Knight)
-	* [Brawler](Brawler)
-* [Magic-Training](Magic-Training)
-	* [Arcanist](Arcanist)
-	* [Shaper](Shaper)
-	* [Dynamist](Dynamist)
-	* [Mystic](Mystic)
-* [Trades-Training](Trades-Training)
-	* [Academic](Academic)
-	* [Labourer](Labourer)
-	* [Wanderer](Wanderer)
-	* [Star](Star)
+There are a number of standard character archetypes and group archetypes you will run into in Aspirant. These will make up the bulk of training you can learn and have available. Some characters and groups will notably fit into more than one of these archetypes, in that case they could teach trainings from any school they fit into.
+* [Academic](Academic)
+* [Arcanist](Arcanist)
+* [Brawler](Brawler)
+* [Dynamist](Dynamist)
+* [Knight](Knight)
+* [Labourer](Labourer)
+* [Mercenary](Mercenary)
+* [Mystic](Mystic)
+* [Rogue](Rogue)
+* [Shaper](Shaper)
+* [Star](Star)
+* [Wanderer](Wanderer)
 
 ### Transhumanism
 #TODOtranshumanism 

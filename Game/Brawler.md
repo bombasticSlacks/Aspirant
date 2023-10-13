@@ -6,7 +6,7 @@ grand_parent: Character Development
 nav_order: 2
 ---
 ## Brawler
-One of the [Combat-Training](Combat-Training) disciplines. Character who specializes in overwhelming opponents with power.
+A character who specializes in overwhelming opponents with power.
 
 Brawlers are: 
 * Wrestlers
@@ -27,6 +27,9 @@ When not holding anything can perform a [Melee Attack](Terminology#Melee%20Attac
 
 #### Flesh Prison
 When you are controlling a [Grapple](Combat#Grapple), you always count as pinning the person being grappled.
+
+#### Giants Hands
+You can comfortably wield weapons one size larger in one hand or two.
 
 #### Quarterback
 You can throw weapons and objects designed to be thrown twice the normal range. You can throw any object not designed to be thrown your normal thrown range with no penalty.
@@ -88,3 +91,6 @@ Your [Attacks](Terminology#Attack) while unarmed get the [Penetrating](Weapon-Tr
 
 #### Bone Crushing
 When in a [Grapple](Combat#Grapple) with an opponent, and you opt to inflict an injury, it is a [Critical Injury](Injury#Critical%20Injury).
+
+#### Shake it off
+Whenever a negative [Effect](Effects) happens to you, roll 1d6 on a roll of 4-6 you ignore the effect.

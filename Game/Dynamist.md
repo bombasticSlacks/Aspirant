@@ -38,6 +38,12 @@ You can detect magic without needing to look for it with [Insight](Intelligence#
 #### Magical Dulling
 All magical abilities used near you #TODOMovement , including your own, are at a -1.
 
+#### Spell Sword
+You may use any [Artisan](Materials#Artisan) or greater [Quality](Weapons#Quality) weapon as a [Focus](Example-Gear#Focus).
+
+#### Vibe Casting
+[Will](Spirit#Will) is a [Communication](Communication) skill for you.
+
 
 ---
 
@@ -62,6 +68,10 @@ Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 
 #### Elemental Strike
 You may have weapons you [Attack](Terminology#Attack) with have the [Hot](Combat#Hot) or [Cold](Combat#Cold) [Types of Damage](Combat#Types%20of%20Damage).
+
+#### Overcharge
+*You can pull a dangerous amount of magical energy into yourself.* 
+You may suffer a [Severe Injury](Injury#Severe%20Injury) #TODODamage to automatically succeed on any [Will](Spirit#Will) [Action](Terminology#Action).
 
 ---
 

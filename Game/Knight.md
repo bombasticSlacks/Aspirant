@@ -6,7 +6,7 @@ grand_parent: Character Development
 nav_order: 2
 ---
 ## Knight
-One of the [Combat-Training](Combat-Training) disciplines. Character who specializes in heavy armour, and mounted combat.
+A character who specializes in heavy armour, and mounted combat.
 
 Knights are: 
 * Nobles.
@@ -23,6 +23,9 @@ No penalties for performing [Character Activity On Mount](Mounts#Character%20Act
 
 #### Perfect Fit
 You have 1 additional [Armour Integrity](Armour#Armour%20Integrity).
+
+#### Knight's Vow
+You receive a (+1) on all [Combat Skill Test](Terminology#Combat%20Skill%20Test), but can never attack an unarmed, unaware or unable to defend themselves [Opponent](Terminology#Opponent). 
 
 #### Phalanx
 When wielding a [Shield](Terminology#Shield), and [In Melee](Terminology#In%20Melee) with an [Ally](Terminology#Ally), you and [Allies](Terminology#Ally) you are in melee with get a +1 to [Reflexes](Agility#Reflexes) skill tests.
@@ -46,7 +49,10 @@ While [Mounted](Terminology#Mounted) when [Charging](Combat#Charging), you can c
 You may declare you are fighting in a defensive stance as a [Free Action](Terminology#Free%20Action) at the beginning of your [Combat Turn](Terminology#Combat%20Turn), you remain in a defensive stance until the start of your next [Combat Turn](Terminology#Combat%20Turn). While fighting defensively, you receive a +2 to all skill tests that are [Reaction](Terminology#Reaction), and a -2 to all attack skill tests.
 
 #### Quick Saddles
-While [Mounted](Terminology#Mounted), you may draw from your [Saddlebag](Storage#Saddlebag) as you would draw from your [Belt](Storage#Belt)
+While [Mounted](Terminology#Mounted), you may draw from your [Saddlebag](Storage#Saddlebag) as you would draw from your [Belt](Storage#Belt).
+
+#### Bury Them
+If an enemy is on the ground, and you make a [Strike](Strength#Strike) attack against them, you receive a +4 to the skill test, and you add 3 to your [Damage Bonus](Weapons#Damage%20Bonus).
 
 ---
 
@@ -74,6 +80,9 @@ You ignore [Max Skill](Armour#Max%20Skill) for any [Armour](Armour) you wear.
 Your [Mounted Expert](#Mounted%20Expert) training applies to exotic forms of travel while [Mounted](Terminology#Mounted).
 
 > Flight, Swimming, Teleporting, Scaling Walls, Burrowing
+
+#### Sweep
+As a [Special Manoeuvre](Combat#Special%20Manoeuvres), you may make a [Strike](Strength#Strike) skill test. If successful, all enemies in melee with you and within 3m of you need to dodge or be knocked prone.
 
 ---
 

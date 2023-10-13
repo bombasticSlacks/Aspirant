@@ -88,6 +88,12 @@ You're knowledgeable about the nuanced laws and customs of areas and can make [M
 #### Knowledgeable Tactician
 You're knowledgeable about historical and strategic military knowledge and can make [Memory](Intelligence#Memory) tests to know about them.
 
+#### Knowledgeable Magi
+You're knowledgeable about all magic, spells, rituals, and places of power and can make [Memory](Intelligence#Memory) tests to know about them.
+
+#### Your Money Is Good Here
+You always receive full value when exchanging currency.
+
 
 ---
 
@@ -110,6 +116,11 @@ Surgery can only be attempted once, per person, per downtime.
 
 #### Exact Dosage
 Whenever you administer an alchemical solution with a duration, if the duration is rolled for in rounds, roll twice and take the result of your choice. If the solution's duration is not rolled for, you can choose for it to last either half or twice as long. If the solution's effect is immediate, you can choose to use only half the amount.
+
+#### I Packed It
+Once per downtime, you can declare after the fact that you purchased an item while you were last resting in a settlement. The item would have to have been available, and you need to spend the equivalent currency it would have cost.
+
+You also count as having an [Explorers Kit](Example-Gear#Explorers%20Kit), you can use it for [Power](Stats#Power) instead of silver.
 
 ---
 

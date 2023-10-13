@@ -50,6 +50,12 @@ You don’t need to roll [Confidence](Communication#Confidence) to lie about sma
 #### Second Identity
 You have a second identity which you can assume at any time. You don't need to make [Confidence](Communication#Confidence) skill tests to pretend to be them.
 
+#### Decadent
+You never suffer penalties due to intoxication and your [Max Toxicity](Stats#Max%20Toxicity) is increased by 2.
+
+#### Name Your Price
+You can buy any item, even a person's personal equipment.
+
 
 ---
 
@@ -78,6 +84,9 @@ At the beginning of combat, you may opt to make neutral characters within [Commu
 
 #### Inspiring Shout
 Spend 3 [Power](Stats#Power), you may as a [Free Action](Terminology#Free%20Action) cause one of your [Allies](Terminology#Ally) to stop being [Unconscious](Effects#Unconscious). The target retains all injuries and effects, but no longer counts as [Wounded](Injury#Wounded) until they suffer another [Injury](Injury).
+
+#### Hard Sell
+A merchant will never refuse to buy items from you, even if they have no interest in them.
 
 
 

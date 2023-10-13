@@ -98,6 +98,11 @@ You ignore terrain effects and obstacles in combat.
 #### Babble
 You may keep someone's attention and interest, even in a topic you know nothing about by using the perform skill.
 
+
+#### Resilient
+Your character may add their [Athletics](Strength#Athletics) skill to rolls for immediate effects of injuries, resist death from critical injuries to the chest, and to not collapse from being wounded.
+
+
 ---
 ### Specialize Further
 #### Blank Slate
@@ -126,3 +131,19 @@ When an ally would be assigned a nickname, or a legend would be written, you can
 #### Performance Of Glory
 #TODOcopy 
 You may, as an action in combat, perform on your instrument to provide bonuses to allies. The difficulty of this test will vary based on the bonus you want to provide.
+
+#### Sunderer
+You have access to the combat modifier Sunder. Sunder can be applied to any damaging melee attack or manoeuvre. If you succeed at your attack and your opponent doesn’t evade, whether you injure your opponent, reduce your opponent’s armour integrity by one.
+
+#### Quick Draw
+If your weapon is sheathed, you can make an attack with +2 bonus to hit. When rolling damage, roll an extra d6 and take the highest roll.
+
+#### Distant Channelling
+You gain access to the Far magical trait for spell attacks. Your narrative magic abilities have double the range before they suffer negatives.
+
+#### Human Spellbook
+You are an expert in a specific ritual of your choice, which you can perform at will. If this ritual is simple enough, you may also not need the reagents.
+
+#### Find A Buyer
+As a [Downtime Activities](Activities#Downtime%20Activity), you can spend a day finding someone interested in purchasing an item for full price (materials + labour). This is a skill test based on the settlement's Wealth + your [Connection](Communication#Connection), and a difficulty based on the rarity of the item.
+

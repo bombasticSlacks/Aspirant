@@ -22,7 +22,7 @@ Basic weapons are simple tools, improvised items, rudimentary weapons or other i
 *All basic weapons have a -1 damage bonus and 0 traits.*
 
 #### Artisan
-Artisan weapons are properly built tools of war. They require some training to use properly and have unique advantages over using a basic weapon. To wield an artisan weapon you need [Martial Training](Combat-Training#Martial%20Training).
+Artisan weapons are properly built tools of war. They require some training to use properly and have unique advantages over using a basic weapon.
 
 *All artisan weapons have a +1 damage bonus and 1 traits.*
 

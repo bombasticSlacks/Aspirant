@@ -38,6 +38,12 @@ You can imbue magic into places as you can permanent [Equipment](Equipment).
 
 Places count as Size 5
 
+#### Blood Rituals
+You may attempt a ritual without 1 of the requirements and replace it with an amount of blood.
+
+#### Intellectual Methods
+[Attunement](Spirit#Attunement) is an [Intelligence](Intelligence) skill for you.
+
 
 
 ---

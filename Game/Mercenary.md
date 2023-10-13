@@ -6,7 +6,7 @@ grand_parent: Character Development
 nav_order: 2
 ---
 ## Mercenary
-One of the [Combat-Training](Combat-Training) disciplines. Character who specialize in fighting targets using their mastery of weapons.
+A character who specialize in fighting targets using their mastery of weapons.
 
 Mercenaries are: 
 * Swords for hire.
@@ -23,6 +23,12 @@ During your [Combat Turn](Terminology#Combat%20Turn) you can perform an [Action]
 
 #### Defensive Combatant
 You receive a (+1) to [Avoid](Combat#Avoid) and [Parry](Combat#Parry) skill tests.
+
+#### Pit Fighter
+You may count your [Strength](Strength) as equivalent to [Agility](Agility) for [Combat Skill Test](Terminology#Combat%20Skill%20Test) and damage calculations #TODODamage .
+
+#### Weapon Expert
+You receive a (+1) to all [Actions](Terminology#Action) involving weapons. 
 
 #### Defensive Offhand
 When wielding two weapons of [Size](Weapons#Size) 2 or less, the smaller of the two counts as having the [Balanced](Weapon-Traits#Balanced) trait.
@@ -65,6 +71,9 @@ You may change the [Hit Locations](Combat#Hit%20Locations) of any attack from th
 #### Quick Draw
 During your [Combat Turn](Terminology#Combat%20Turn) you may spend 2 [Power](Stats#Power) to make an attack with a [Size](Weapons#Size) 1 [Weapon](Weapons) as a [Free Action](Terminology#Free%20Action).
 
+#### Bashing
+You can opt to make the damage type of any [Rending](Combat#Rending) or [Piercing](Combat#Piercing) weapon cause [Impact](Combat#Impact) injuries instead.
+
 ---
 
 ### Master
@@ -85,6 +94,9 @@ Dance of death lasts until your next [Combat Turn](Terminology#Combat%20Turn).
 
 #### Whirlwind
 On your [Combat Turn](Terminology#Combat%20Turn) can make an attack against a number of [Characters](Terminology#Character) you are [In Melee](Terminology#In%20Melee) with, up to your [Agility](Agility) in total characters.
+
+#### Master Of Arms
+You can declare a weapon you are using has an additional trait worth up to 2 trait points. It has that trait for the rest of an encounter. Using this ability costs [Power](Stats#Power) equal to the trait value. If this is used additional times in a single encounter only the most recently declared Master Of Arms trait counts. 
 
 ---
 
