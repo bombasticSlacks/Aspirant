@@ -39,7 +39,6 @@ nav_exclude: true
 * Town hall is called the "house of decisions", the archivist here has a typewriter fueled with a scroll.
 * Casey, notices that there is an emergency session ongoing at the house of decisions, also got address, body was taken by the military
 * Session talking about military escalation, trying to maybe declare martial law.
-* Jarl invisions having a 
 
 
 ### Rewards
