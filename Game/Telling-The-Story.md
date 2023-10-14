@@ -2,6 +2,7 @@
 layout: default
 title: Telling The Story
 has_children: true
+nav_order: 0
 ---
 ## Telling The Story
 Gameplay in Aspirant is generally split into a few different types of gameplay: Combat, Narrative Time, Travelling, Resting.

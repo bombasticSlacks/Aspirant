@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Terminology
-nav_order: 1
+nav_order: 2
+parent: How To Play
 ---
 ## Terminology
 

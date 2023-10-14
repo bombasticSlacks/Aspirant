@@ -3,7 +3,7 @@ layout: default
 title: Injury
 parent: Telling The Story
 nav_order: 2
-has_children: true
+has_children: false
 ---
 ## Injury
 

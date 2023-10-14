@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Running The Game
+nav_order: 0
 ---
 ## Running The Game
 Rules primarily for the GM related to running a game of Aspirant.

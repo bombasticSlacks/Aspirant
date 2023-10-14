@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Effects
-parent: Injury
+parent: How To Play
 nav_order: 2
-grand_parent: Telling The Story
 ---
 ## Effects
 Effects are temporary things that can be applied to a character. They will effect your [Action](Terminology#Action) and the [Action](Terminology#Action) of others.

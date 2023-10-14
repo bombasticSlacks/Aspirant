@@ -2,6 +2,7 @@
 layout: default
 title: How To Play
 has_children: true
+nav_order: 0
 ---
 ## How To Play
 ### The Players
