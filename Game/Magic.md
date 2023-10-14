@@ -3,6 +3,7 @@ layout: default
 title: Magic
 parent: Telling The Story
 nav_order: 2
+has_children: true
 ---
 ## Magic
 Magic in aspirant is free flowing and should be created during the scene. Certain trainings will explain broadly the sort of effects a magic wielder can perform, but there is no explicit spell list. Generally, magic comes in two broad categories:

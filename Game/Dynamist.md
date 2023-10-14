@@ -26,6 +26,8 @@ Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 * Disrupt a spell of an amateur level. 
 * Weaken the abilities or powers of a character/creature.
 * Create a shield against a specific element around yourself.
+* Attack with magical energy. This attack deals an [Heat](Combat#Heat)/[Cold](Combat#Cold) [Severe Injury](Injury#Severe%20Injury), with [Magic Attack](Magic-Modifiers#Magic%20Attack), and [Multiple Damage Types](Weapon-Traits#Multiple%20Damage%20Types).
+* When attacking with a [Magic Attack](Magic-Modifiers#Magic%20Attack) you can use the: [Burning](Magic-Modifiers#Burning), [Lethal](Magic-Modifiers#Lethal), and [Slowing](Magic-Modifiers#Slowing) [Magic-Modifiers](Magic-Modifiers).
 
  Requires 1 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Example-Gear#Focus)
 
@@ -63,6 +65,7 @@ Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 * Disable the abilities or powers of a character/creature.
 * Create a shield against a specific element around an area.
 * Create a simple rule that manipulates reality near you.
+* When attacking with a [Magic Attack](Magic-Modifiers#Magic%20Attack) you can use the: [Area](Magic-Modifiers#Area), and [EMP](Magic-Modifiers#EMP) [Magic-Modifiers](Magic-Modifiers).
 
  Requires 2 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Example-Gear#Focus)
 
@@ -86,6 +89,7 @@ Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 * Reverse the abilities or powers of a character/creature making it a weakness.
 * Create more general wards of protection. 
 * Create a complex / powerful rule that manipulates reality near you.
+* When attacking with a [Magic Attack](Magic-Modifiers#Magic%20Attack) you can use the: [Explosion](Magic-Modifiers#Explosion) [Magic-Modifiers](Magic-Modifiers).
 
  Requires 3 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Example-Gear#Focus)
 

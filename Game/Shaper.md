@@ -27,10 +27,11 @@ You can levitate things up to your [Spirit](Spirit) in size and [Spirit](Spirit)
 
 #### Amateur Shaping
 Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
-* Attack with [Combat](Channel#Combat) magic #TODO
 * Create the illusion of something that isn’t there: noise, visuals, smell.
 * Change a comestible into something more useful. 
 * Alter yourself in simple ways.
+* Attack with magical energy. This attack deals an [Impact](Combat#Impact)/[Rending](Combat#Rending) [Severe Injury](Injury#Severe%20Injury), with [Magic Attack](Magic-Modifiers#Magic%20Attack), and [Multiple Damage Types](Weapon-Traits#Multiple%20Damage%20Types).
+* When attacking with a [Magic Attack](Magic-Modifiers#Magic%20Attack) you can use the: [Concussive](Magic-Modifiers#Concussive), [Painless](Magic-Modifiers#Painless), and [Surprising](Magic-Modifiers#Surprising) [Magic-Modifiers](Magic-Modifiers)
 
  Requires 1 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Example-Gear#Focus)
 
@@ -70,6 +71,7 @@ Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 * Alter the world around you.
 * Alter yourself in meaningful ways, including transforming into animals. 
 * Alter others in simple ways.
+* When attacking with a [Magic Attack](Magic-Modifiers#Magic%20Attack) you can use the: [Cone](Magic-Modifiers#Cone), and [Stunning](Magic-Modifiers#Stunning) [Magic-Modifiers](Magic-Modifiers)
 
  Requires 2 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Example-Gear#Focus)
 
@@ -93,5 +95,6 @@ Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 * Change yourself into incredible forms, including magical creatures.
 * Alter others in meaningful ways. 
 * Transform an item into something completely unrelated.
+* When attacking with a [Magic Attack](Magic-Modifiers#Magic%20Attack) you can use the: [Unavoidable](Magic-Modifiers#Unavoidable) [Magic-Modifiers](Magic-Modifiers)
 
  Requires 3 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Example-Gear#Focus)
