@@ -26,25 +26,18 @@ You can carry twice the [Comestibles](Comestibles) in the same amount of size on
 
 #### Bow Expert
 When using a weapon with the [Bow](Weapon-Traits#Bow) [Weapon Trait](Weapons#[Weapon-Traits](Weapon-Traits)) you no longer receive a -1 to readying and firing the weapon in the same turn.
-#### Disarming Shot
-You can [Disarm](Combat#Disarm) someone at range, using a ranged weapon, expending 1 ammunition in the process.
-#### Efficient Rounds
-When you perform a [Mitigated Attack](Terminology#Mitigated%20Attack) with [Comestibles](Comestibles) , it is always [salvageable](Comestibles#Salvaging)
-#### Multitasking
-On your [Combat Turn](Terminology#Combat%20Turn), you may make an [Attack](Terminology#Attack) at (-2) additional penalty, and then perform a non-attack action or movement.
-
-#### Strapped
-You get an additional 4 size worth of [Belt](Storage#Belt) space.
-
-#### Olympian
-You can make a [Thrown Attack](Terminology#Thrown%20Attack) at the end of [Charging](Combat#Charging), receiving the bonuses. 
-
-#### Pin Down
-After performing a [Ranged Attack](Terminology#Ranged%20Attack), the target must pass a [Identity](Spirit#Identity) [Fixed Difficulty(+0)](Skills#Fixed%20Difficulty) or be unable to move until your next [Combat Turn](Terminology#Combat%20Turn).
+#### Crossbow Expert
+You can reload a crossbow and fire it in the same turn at a -1 to the [Accuracy](Agility#Accuracy) skill test.  
 
 #### Defy Death
 You can [Avoid](Combat#Avoid) anything, even if it would seem impossible.
 
+#### Disarming Shot
+You can [Disarm](Combat#Disarm) someone at range, using a ranged weapon, expending 1 ammunition in the process.
+#### Efficient Rounds
+When you perform a [Mitigated Attack](Terminology#Mitigated%20Attack) with [Comestibles](Comestibles) , it is always [salvageable](Comestibles#Salvaging)
+#### Exotic Expert
+If you have [Martial Training](#Martial%20Training), you can use any [Exotic](Weapons#Exotic) weapon without penalty.   
 #### Fast Hands
 You may [Disarm](Combat#Disarm) using a [Reflexes](Agility#Reflexes) [Fixed Difficulty(-1)](Skills#Fixed%20Difficulty).
 
@@ -57,14 +50,21 @@ When making a [Ranged Attack](Terminology#Ranged%20Attack), you may spend a [Pow
 #### Lost in the Crowd
 If you are [In Melee](Terminology#In%20Melee) you have a [Threat](Stats#Threat) of 0 to [Characters](Terminology#Character) not [In Melee](Terminology#In%20Melee) with you.
 
+#### Multitasking
+On your [Combat Turn](Terminology#Combat%20Turn), you may make an [Attack](Terminology#Attack) at (-2) additional penalty, and then perform a non-attack action or movement.
+
+#### Olympian
+You can make a [Thrown Attack](Terminology#Thrown%20Attack) at the end of [Charging](Combat#Charging), receiving the bonuses. 
+
+#### Pin Down
+After performing a [Ranged Attack](Terminology#Ranged%20Attack), the target must pass a [Identity](Spirit#Identity) [Fixed Difficulty(+0)](Skills#Fixed%20Difficulty) or be unable to move until your next [Combat Turn](Terminology#Combat%20Turn).
+
 #### Poisoner
 You can apply poisons and oils to a weapon during your [Combat Turn](Terminology#Combat%20Turn) as a [Free Action](Terminology#Free%20Action).
 
-#### Crossbow Expert
-You can reload a crossbow and fire it in the same turn at a -1 to the [Accuracy](Agility#Accuracy) skill test.  
+#### Strapped
+You get an additional 4 size worth of [Belt](Storage#Belt) space.
 
-#### Exotic Expert
-If you have [Martial Training](#Martial%20Training), you can use any [Exotic](Weapons#Exotic) weapon without penalty.   
 
 ---
 
@@ -76,17 +76,19 @@ While not in combat, you can make a [Grace](Agility#Grace) [Opposed Difficulty](
 #### Cold Steel
 If you have a [Threat](Stats#Threat) of 0, your attacks have the [Penetrating](Weapon-Traits#Penetrating) trait.
 
-#### Meat Shield
-If you [Avoid](Combat#Avoid) an [Attack](Terminology#Attack) while [In Melee](Terminology#In%20Melee), you may have that [Attack](Terminology#Attack) target someone, other than yourself or the attacker, [In Melee](Terminology#In%20Melee). The new target may use [Reactions](Terminology#Reaction) as normal.
-
-#### Preternatural Senses
-You can manoeuvre perfectly well in the dark or when your vision is otherwise impaired.
-
+#### Constant Movement
+You can perform reactions during your own turn.
 #### Fleet Footed
 [Overwatch](Combat#Overwatch) [Attacks](Terminology#Attack) against you are at an additional -2. You can get out of being [In Melee](Terminology#In%20Melee) without triggering any [Reactions](Terminology#Reaction).
 
+#### Meat Shield
+If you [Avoid](Combat#Avoid) an [Attack](Terminology#Attack) while [In Melee](Terminology#In%20Melee), you may have that [Attack](Terminology#Attack) target someone, other than yourself or the attacker, [In Melee](Terminology#In%20Melee). The new target may use [Reactions](Terminology#Reaction) as normal.
+
 #### Point Man
 You have no penalty on [Overwatch](Combat#Overwatch) attacks, receive no negative for delaying your action, and can perform a number of [Overwatch](Combat#Overwatch) attacks on a number of enemies in a turn up to your [Agility](Agility).
+
+#### Preternatural Senses
+You can manoeuvre perfectly well in the dark or when your vision is otherwise impaired.
 
 #### Shadow Combatant
 Your character's [Threat](Stats#Threat) is reduced by your ranks in [Grace](Agility#Grace).
@@ -94,22 +96,20 @@ Your character's [Threat](Stats#Threat) is reduced by your ranks in [Grace](Agil
 #### Vanish
 If within 3m #TODOMovement of something you could use to hide, as a [Free Action](Terminology#Free%20Action) you can spend 3 [Power](Stats#Power) to lose all attention. If you perform any [Action](Terminology#Action) you will need to continue to hide, move silently, etc. to remain hidden.
 
-#### Constant Movement
-You can perform reactions during your own turn.
 
 ---
 
 ### Master
 
+#### Fan Fire
+A [Special Manoeuvres](Combat#Special%20Manoeuvres) where you may make a [Ranged Attack](Terminology#Ranged%20Attack) on up to an [Agility](Agility) number of targets within a 45-degree cone. Each action suffers a (-2).
 #### Hide in Plain Sight
 You do not need an item or object to hide behind when attempting to hide.
-
-#### Master Thief
-In combat you can perform a [Grace](Agility#Grace) [Opposed Difficulty](Skills#Opposed%20Difficulty)([Reflexes](Agility#Reflexes)) to immediately use a piece of [Equipment](Equipment) stored on another character [In Melee](Terminology#In%20Melee). You still need to perform any additional skill checks to use the item.
 
 #### Marksman
 No negative on [Called Shot](Combat#Called%20Shot) with [Ranged Attack](Terminology#Ranged%20Attack) if you do nothing else during your [Combat Turn](Terminology#Combat%20Turn).
 
-#### Fan Fire
-A [Special Manoeuvres](Combat#Special%20Manoeuvres) where you may make a [Ranged Attack](Terminology#Ranged%20Attack) on any number of targets within a 45-degree cone. For each target beyond the first, each attack is at a -2 to hit.
+#### Master Thief
+In combat you can perform a [Grace](Agility#Grace) [Opposed Difficulty](Skills#Opposed%20Difficulty)([Reflexes](Agility#Reflexes)) to immediately use a piece of [Equipment](Equipment) stored on another character [In Melee](Terminology#In%20Melee). You still need to perform any additional skill checks to use the item.
+
 

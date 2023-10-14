@@ -6,7 +6,7 @@ grand_parent: Character Development
 nav_order: 2
 ---
 ## Mystic
-One of the [Magic-Training](Magic-Training) disciplines. Character who specializes in understanding and manipulating the underlying magic and flow of the universe. Scrying what has and could happen, and manipulating the life force and fate of the living.
+Character who specializes in understanding and manipulating the underlying magic and flow of the universe. Scrying what has and could happen, and manipulating the life force and fate of the living.
 
 Mystics are: 
 * Shamans

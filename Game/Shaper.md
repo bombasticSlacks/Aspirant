@@ -6,7 +6,7 @@ grand_parent: Character Development
 nav_order: 2
 ---
 ## Shaper
-One of the [Magic-Training](Magic-Training) disciplines. Character who specializes in shifting reality temporarily. Creating illusions, transforming objects, and manipulating perception.
+Character who specializes in shifting reality temporarily. Creating illusions, transforming objects, and manipulating perception.
 
 Magicians are: 
 * Illusionists
@@ -19,12 +19,6 @@ They can generally teach the following training:
 
 ### Basic
 
-#### Mage Assassin
-When you perform a magical effect you can roll [Grace](Agility#Grace) [Opposed Difficulty](Skills#Opposed%20Difficulty)([Insight](Intelligence#Insight)) to make it seem like no magic took place.
-
-#### Mage Hand
-You can levitate things up to your [Spirit](Spirit) in size and [Spirit](Spirit) x 2 meters away #TODOMovement as naturally as picking them up normally.
-
 #### Amateur Shaping
 Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 * Create the illusion of something that isn’t there: noise, visuals, smell.
@@ -35,27 +29,28 @@ Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 
  Requires 1 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Example-Gear#Focus)
 
-#### Shadow Illusionist
-As long as you have a focus, you can perform [Will](Spirit#Will) tests to sneak, move silently, hide and do other duplicitous acts.
-
-#### Wire Fight
-You Can Use [Spirit](Spirit) instead of Agility to Calculate Movement distance. #TODOMovement 
-
-#### Wild Casting
-You can cast spells normally while transformed into a non-humanoid creature, even if you couldn't hold a [Focus](Example-Gear#Focus). You can also speak normally.
-
 #### Focus Trap
 You can set magical abilities you are focussed on to trigger in response to something (a person walking through a door, saying a word etc.) if you are knocked unconscious or distracted, your traps fail.
+
+#### Mage Assassin
+When you perform a magical effect you can roll [Grace](Agility#Grace) [Opposed Difficulty](Skills#Opposed%20Difficulty)([Insight](Intelligence#Insight)) to make it seem like no magic took place.
+
+#### Mage Hand
+You can levitate things up to your [Spirit](Spirit) in size and [Spirit](Spirit) x 2 meters away #TODOMovement as naturally as picking them up normally.
+
+#### Shadow Illusionist
+As long as you have a focus, you can perform [Will](Spirit#Will) tests to sneak, move silently, hide and do other duplicitous acts.
 
 #### Silent Channelling
 You do not need to speak to perform [Channelled Magic](Magic#Channelled%20Magic).
 
 #### Still Channelling
 You do not need to move your hands to perform [Channelled Magic](Magic#Channelled%20Magic).
+#### Wild Casting
+You can cast spells normally while transformed into a non-humanoid creature, even if you couldn't hold a [Focus](Example-Gear#Focus). You can also speak normally.
 
-
-
-
+#### Wire Fight
+You Can Use [Spirit](Spirit) instead of Agility to Calculate Movement distance. #TODOMovement 
 
 ---
 

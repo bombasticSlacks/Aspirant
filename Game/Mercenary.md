@@ -24,12 +24,6 @@ During your [Combat Turn](Terminology#Combat%20Turn) you can perform an [Action]
 #### Defensive Combatant
 You receive a (+1) to [Avoid](Combat#Avoid) and [Parry](Combat#Parry) skill tests.
 
-#### Pit Fighter
-You may count your [Strength](Strength) as equivalent to [Agility](Agility) for [Combat Skill Test](Terminology#Combat%20Action) and damage calculations #TODODamage .
-
-#### Weapon Expert
-You receive a (+1) to all [Actions](Terminology#Action) involving weapons. 
-
 #### Defensive Offhand
 When wielding two weapons of [Size](Weapons#Size) 2 or less, the smaller of the two counts as having the [Balanced](Weapon-Traits#Balanced) trait.
 
@@ -45,15 +39,21 @@ You may substitute your [Strength](Strength) with [Intelligence](Intelligence) f
 #### Flowing Defence
 You receive a (+1) to [Reaction](Terminology#Reaction) skill tests per [Mitigated Attack](Terminology#Mitigated%20Attack) targeting you this [Combat Round](Terminology#Combat%20Round).
 
-#### Sole Combatant
-You receive a (+1) to all [Combat Skill Test](Terminology#Combat%20Action) when [In Melee](Terminology#In%20Melee) with only 1 other [Character](Terminology#Character).
-Enemies don’t receive benefits for [Outnumbering](Combat#Outnumbered) you.
-
 #### Head Down
 If you move during your [Combat Turn](Terminology#Combat%20Turn), [Characters](Terminology#Character) suffer a (-2) to skill tests for ranged attacks targeting you until your next [Combat Turn](Terminology#Combat%20Turn).
 
 #### Lash Out
 After performing a [Melee Attack](Terminology#Melee%20Attack) you may perform a [Thrown Attack](Terminology#Thrown%20Attack). 
+#### Pit Fighter
+You may count your [Strength](Strength) as equivalent to [Agility](Agility) for [Combat Skill Test](Terminology#Combat%20Action) and damage calculations #TODODamage .
+
+#### Sole Combatant
+You receive a (+1) to all [Combat Skill Test](Terminology#Combat%20Action) when [In Melee](Terminology#In%20Melee) with only 1 other [Character](Terminology#Character).
+Enemies don’t receive benefits for [Outnumbering](Combat#Outnumbered) you.
+
+#### Weapon Expert
+You receive a (+1) to all [Actions](Terminology#Action) involving weapons. 
+
 
 
 ---
@@ -62,6 +62,10 @@ After performing a [Melee Attack](Terminology#Melee%20Attack) you may perform a 
 
 #### Ambidextrous
 When holding two weapons/items during combat, you can take a single [Action](Terminology#Action) with each weapon, though any skill test suffers a (-1).
+
+#### Bashing
+You can opt to make the damage type of any [Rending](Combat#Rending) or [Piercing](Combat#Piercing) weapon cause [Impact](Combat#Impact) injuries instead.
+
 #### Circle Parry
 A [Special Manoeuvre](Combat#Special%20Manoeuvres) that behaves like [Parry](Combat#Parry) with the addition that your [Opponent](Terminology#Opponent) receives a -2 to [Attack](Terminology#Attack) you. If your [Opponent](Terminology#Opponent) does not have a [Successful Attack](Terminology#Successful%20Attack), they drop their weapon.
 
@@ -71,18 +75,10 @@ You may change the [Hit Locations](Combat#Hit%20Locations) of any attack from th
 #### Quick Draw
 During your [Combat Turn](Terminology#Combat%20Turn) you may spend 2 [Power](Stats#Power) to make an attack with a [Size](Weapons#Size) 1 [Weapon](Weapons) as a [Free Action](Terminology#Free%20Action).
 
-#### Bashing
-You can opt to make the damage type of any [Rending](Combat#Rending) or [Piercing](Combat#Piercing) weapon cause [Impact](Combat#Impact) injuries instead.
 
 ---
 
 ### Master
-
-#### Riposte
-After an [Opponent](Terminology#Opponent) [In Melee](Terminology#In%20Melee) with you, makes a [Mitigated Attack](Terminology#Mitigated%20Attack) against you, you may make an [Attack](Terminology#Attack) against them.
-
-#### Strike True
-No negative for [Called Shot](Combat#Called%20Shot) with [Melee Attacks](Terminology#Melee%20Attack).
 
 #### Dance Of Death
 While armed with only a one-handed [Weapon](Weapons), you can Dance Of Death.
@@ -92,11 +88,18 @@ Dance Of Death - On your [Combat Turn](Terminology#Combat%20Turn), as a [Free Ac
 * If they fail, they suffer a [Severe Injury](Injury#Severe%20Injury) to the legs. 
 Dance of death lasts until your next [Combat Turn](Terminology#Combat%20Turn).
 
+#### Master Of Arms
+You can declare a weapon you are using has an additional trait worth up to 2 trait points. It has that trait for the rest of an encounter. Using this ability costs [Power](Stats#Power) equal to the trait value. If this is used additional times in a single encounter only the most recently declared Master Of Arms trait counts. 
+
+#### Riposte
+After an [Opponent](Terminology#Opponent) [In Melee](Terminology#In%20Melee) with you, makes a [Mitigated Attack](Terminology#Mitigated%20Attack) against you, you may make an [Attack](Terminology#Attack) against them.
+
+#### Strike True
+No negative for [Called Shot](Combat#Called%20Shot) with [Melee Attacks](Terminology#Melee%20Attack).
+
 #### Whirlwind
 On your [Combat Turn](Terminology#Combat%20Turn) can make an attack against a number of [Characters](Terminology#Character) you are [In Melee](Terminology#In%20Melee) with, up to your [Agility](Agility) in total characters.
 
-#### Master Of Arms
-You can declare a weapon you are using has an additional trait worth up to 2 trait points. It has that trait for the rest of an encounter. Using this ability costs [Power](Stats#Power) equal to the trait value. If this is used additional times in a single encounter only the most recently declared Master Of Arms trait counts. 
 
 ---
 

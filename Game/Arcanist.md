@@ -6,7 +6,7 @@ grand_parent: Character Development
 nav_order: 2
 ---
 ## Arcanist
-One of the [Magic-Training](Magic-Training) disciplines. Character who specializes in manipulating the physical world around them. Imbuing things with strange magical properties, and conjuring new things and creatures out of thin air.
+Character who specializes in manipulating the physical world around them. Imbuing things with strange magical properties, and conjuring new things and creatures out of thin air.
 
 Arcanists are: 
 * Summoners
@@ -19,7 +19,7 @@ They can generally teach the following training:
 
 ### Basic
 
-### Amateur Arcana
+#### Amateur Arcana
 Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 * Imbue magic into [Comestibles](Comestibles)
 * Imbue single use magic into other [Equipment](Equipment).
@@ -33,13 +33,13 @@ You can imbue magic into people as you can permanent [Equipment](Equipment).
 
 People count as Size 5, body parts as size 2
 
+#### Blood Rituals
+You may attempt a ritual without 1 of the requirements and replace it with an amount of blood.
+
 #### Hallowed Ground
 You can imbue magic into places as you can permanent [Equipment](Equipment).
 
 Places count as Size 5
-
-#### Blood Rituals
-You may attempt a ritual without 1 of the requirements and replace it with an amount of blood.
 
 #### Intellectual Methods
 [Attunement](Spirit#Attunement) is an [Intelligence](Intelligence) skill for you.
@@ -50,7 +50,7 @@ You may attempt a ritual without 1 of the requirements and replace it with an am
 
 ### Advanced
 
-### Expert Arcana
+#### Expert Arcana
 *[Requirement](Terminology#Requirement): [Amateur Arcana](#Amateur%20Arcana)*
 Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 * Imbue magic into permanent items. The magics effect must be aligned with the item's purpose.
@@ -71,7 +71,7 @@ You can hold an additional $2 \times Spirit$ Size of items. These items can be a
 
 ### Master
 
-### Master Arcana
+#### Master Arcana
 *[Requirement](Terminology#Requirement): [Expert Arcana](#Expert%20Arcana)*
 Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 * When imbuing things with magic, the enchantments do not need to be related to the items' purpose.
