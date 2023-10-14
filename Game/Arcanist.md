@@ -78,5 +78,5 @@ Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 * Summon a magical creature that obeys.
 * Conjure an exact item of need (the owner may be angry about this).
 
- [Crafting Cost](Terminology#Crafting%20Cost): Size of target item in [Exotic](Materials#Exotic) [Materials](Materials), but must be two seperate [Materials](Materials) + Size of target item in [Artisan](Materials#Artisan) [Materials](Materials) + a [Reagent Bag](Example-Gear#Reagent%20Bag) charge.
+ [Crafting Cost](Terminology#Crafting%20Cost): Size of target item in [Exotic](Materials#Exotic) [Materials](Materials), but must be two separate [Materials](Materials) + Size of target item in [Artisan](Materials#Artisan) [Materials](Materials) + a [Reagent Bag](Example-Gear#Reagent%20Bag) charge.
 

@@ -65,7 +65,7 @@ While holding a rending weapon you can [Substitute](Terminology#Substitute) [App
 You receive a +2 to all skill tests to start a [Project](Skills#Project)
 
 #### Long Term Care
-As a [Travel Activity](Activities#Travel%20Activity) you can declare you are going to heal peoples wounds. Your [Allies](Terminology#Ally) traveling with you can perform the [Injury Recovery](Activities#Injury%20Recovery) action.
+As a [Travel Activity](Activities#Travel%20Activity) you can declare you are going to heal peoples wounds. Your [Allies](Terminology#Ally) travelling with you can perform the [Injury Recovery](Activities#Injury%20Recovery) action.
 
 #### Knowledgeable Geographer
 You're knowledgeable about all geography and can make [Memory](Intelligence#Memory) tests to know about them.

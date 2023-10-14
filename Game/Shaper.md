@@ -12,7 +12,7 @@ Magicians are:
 * Illusionists
 * Tricksters
 * Magic Assassins
-* Shape-shifters
+* Shapeshifters
 * Magicians
 
 They can generally teach the following training:
@@ -45,7 +45,7 @@ You Can Use [Spirit](Spirit) instead of Agility to Calculate Movement distance. 
 You can cast spells normally while transformed into a non-humanoid creature, even if you couldn't hold a [Focus](Example-Gear#Focus). You can also speak normally.
 
 #### Focus Trap
-You can set magical abilities you are focussed on to trigger in response to something (a person walking through a door, saying a word etc.) if you are knocked unconscious or distracted, your traps fail. This gives you access to the Trap magical trait for spell attacks.
+You can set magical abilities you are focussed on to trigger in response to something (a person walking through a door, saying a word etc.) if you are knocked unconscious or distracted, your traps fail.
 
 #### Silent Channelling
 You do not need to speak to perform [Channelled Magic](Magic#Channelled%20Magic).

@@ -80,7 +80,7 @@ Corrosive Gas: Everything in the area loses all resistance for its armour
 
 
 #### Naturalist
-*moved to hollistic tools*
+*moved to holistic tools*
 You don’t need a tool kit to do [Production Work](Activities#Production%20Work), however any skill tests are at a -1.
 
 #### Recycler
