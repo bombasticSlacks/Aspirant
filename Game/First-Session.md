@@ -1,8 +1,8 @@
 ---
 layout: default
 title: First Session
-parent: How To Play
-nav_order: 2
+parent: Telling The Story
+nav_order: 0
 ---
 ## First Session
 ![House](Content/House.svg)

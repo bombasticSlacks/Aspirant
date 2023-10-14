@@ -3,6 +3,7 @@ layout: default
 title: Skills
 has_children: false
 parent: How To Play
+nav_order: 0
 ---
 ## Skills
 Things your character can do. In general, if you don’t have any levels in a skill, you can’t attempt to make a skill test. If it seems possible, or you must make the test, you count your skill value as -2.

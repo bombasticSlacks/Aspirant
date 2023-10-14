@@ -2,7 +2,7 @@
 layout: default
 title: Effects
 parent: How To Play
-nav_order: 2
+nav_order: 0
 ---
 ## Effects
 Effects are temporary things that can be applied to a character. They will effect your [Action](Terminology#Action) and the [Action](Terminology#Action) of others.

@@ -3,6 +3,7 @@ layout: default
 title: Stats
 parent: How To Play
 has_children: true
+nav_order: 0
 ---
 ## Stats
 Values your character should track related to the game.
