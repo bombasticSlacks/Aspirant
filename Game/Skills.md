@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Skills
-has_children: true
+has_children: false
+parent: How To Play
 ---
 ## Skills
 Things your character can do. In general, if you don’t have any levels in a skill, you can’t attempt to make a skill test. If it seems possible, or you must make the test, you count your skill value as -2.
@@ -81,21 +82,21 @@ Aspirant has a prebuilt list of skills that should cover any activity a characte
 * [Strike](Strength#Strike)
 
 #### Agility Skills
-* [reflexes](Agility#Reflexes)
 * [Accuracy](Agility#Accuracy)
 * [Grace](Agility#Grace)
+* [Reflexes](Agility#Reflexes)
 
 #### Intelligence Skills
-* [Memory](Intelligence#Memory)
-* [Insight](Intelligence#Insight)
 * [Application](Intelligence#Application)
+* [Insight](Intelligence#Insight)
+* [Memory](Intelligence#Memory)
 
 #### Resolve Skills
-* [Will](Spirit#Will)
 * [Attunement](Spirit#Attunement)
 * [Identity](Spirit#Identity)
+* [Will](Spirit#Will)
 
 #### Fellowship Skills
+* [Confidence](Communication#Confidence)
 * [Connection](Communication#Connection)
 * [Mannerism](Communication#Mannerism)
-* [Confidence](Communication#Confidence)

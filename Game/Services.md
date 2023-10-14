@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Services
-has_children: true
+has_children: false
+parent: Telling The Story
 ---
 ## Services
 ![Market](Content/Market.svg)
