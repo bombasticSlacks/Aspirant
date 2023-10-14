@@ -2,7 +2,7 @@
 layout: default
 title: Worlds
 has_children: true
-nav_order: 9
+nav_order: 0
 ---
 ## Worlds
 

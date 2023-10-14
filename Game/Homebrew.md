@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Homebrew
-nav_order: 8
+nav_order: 0
 ---
 ## Homebrew
 
