@@ -22,7 +22,7 @@ Basic weapons are simple tools, improvised items, rudimentary weapons or other i
 *All basic weapons have a -1 damage bonus and 0 traits.*
 
 #### Artisan
-Artisan weapons are properly built tools of war. They require some training to use properly and have unique advantages over using a basic weapon. To wield an artisan weapon you need [Martial Training](Combat-Training#Martial%20Training).
+Artisan weapons are properly built tools of war. They require some training to use properly and have unique advantages over using a basic weapon.
 
 *All artisan weapons have a +1 damage bonus and 1 traits.*
 
@@ -44,7 +44,7 @@ A character looking to craft a specific weapon first requires 2x the size worth 
 
 > So, a silver sword of size 3 would require 6 size worth of pure silver, or 60 silver coins. 
 
-Other bits, unless narratively relevant, are a negligible portion of the cost. Then, the character, as a downtime activity, may spend a day crafting. If they succeed on the [Application](Intelligence#Application) test, the item is created successfully. If not, they must try again in the future, however materials are not lost, just time. 
+Other bits, unless narratively relevant, are a negligible portion of the cost. Then, the character, as [Production Work](Activities#Production%20Work), may spend a day crafting. If they succeed on the [Application](Intelligence#Application) test, the item is created successfully. If not, they must try again in the future, however materials are not lost, just time. 
 
 The difficulty of the test is modified as follows:
 * Traits -1 per each

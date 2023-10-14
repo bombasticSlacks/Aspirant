@@ -53,7 +53,7 @@ Your characters can only handle a certain amount of foreign material in your bod
 
 Characters have a Max Toxicity equal to their [Strength](Strength) + [Spirit](Spirit) attributes. Your max toxicity is reduced by 1 for any permanent enchantment, prosthetic with additional abilities, and mutation your character possesses. Whenever you imbibe an alchemical elixir or are positively affected by some form of magic your character marks a level of Toxicity when your characters Toxicity level is equal to or greater than your Max Toxicity you are considered injured.
 
-Toxicity resets to 0 during downtime.
+Toxicity resets to 0 during [Downtime](Telling-The-Story#Downtime).
 
 #### Influence
 A measure of the influence you as a player have over the story. See [Influencing the Story](Telling-The-Story#Influencing%20the%20Story) for more details.

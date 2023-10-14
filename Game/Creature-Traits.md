@@ -9,4 +9,4 @@ nav_order: 2
 ### Maul
 *Worth 20 silver for mounts*
 
-When this creature makes a [Non-mitigated Attack](Combat#Non-mitigated%20Attack) the target is knocked prone.
+When this creature makes a [Non-mitigated Attack](Terminology#Non-mitigated%20Attack) the target is knocked prone.

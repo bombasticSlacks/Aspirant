@@ -4,7 +4,7 @@ title: Character Development
 has_children: true
 ---
 ## Character Development
-As you adventure, your character will become stronger. This can happen in a number of ways. When completing quests, you will gain XP. XP in this game stands for “Experience Potential”. During downtime, you can convert XP into character development, whether it be increased skills or new training.
+As you adventure, your character will become stronger. This can happen in a number of ways. When completing quests, you will gain XP. XP in this game stands for “Experience Potential”. During [Downtime](Telling-The-Story#Downtime), you can convert XP into character development, whether it be increased skills or new training.
 
 When you rest, based on the length of the rest, you will have time which could be spent training. Spending XP to train is either a [downtime activity](Activities#Downtime%20Activity) or [travel activity](Activities#Travel%20Activity).
 
@@ -32,7 +32,7 @@ Different trainings cost a different amount of XP as follows:
 | Master Training   | 6 XP | 
 
 ### Restrictions
-A character can’t learn from nothing. When your character desires to learn / improve a skill or gain training, they need to either learn from someone who already has that qualification or have a well-written manual providing details on their person. 
+A character can’t learn from nothing. When your character desires to learn / improve a skill or gain training, they need to either learn from someone who already has that qualification or have a well-written manual providing details to study. 
 
 You only need guidance to start training. If you begin training with someone but then part ways, you can on your own time finish the training. 
 
@@ -41,9 +41,7 @@ Basic, advanced, and master training represents powerful new abilities that your
 * Passive - just does something all the time for you.
 * Elective - gives you a new ability/option you can use at will.
 * Power Based - Requires spending [Power](Stats#Power) to activate.
-* Per Downtime - Very powerful abilities that can only be used once before resting in a city.
-
-Training is split into 24 separate specialized schools over 3 disciplines. Cities, heroes, and ancient tomes will be able to provide access to training.
+* Once Per Downtime - Very powerful abilities that can only be used once before resting in a city.
 
 #### Basic Level Training
 Basic training should fundamentally be known by any practitioners of the training school.
@@ -55,36 +53,22 @@ Advanced training should be known only be those with experience, but should stil
 Master level trainers should be rare and not readily available. A master should be a person of notoriety, and gaining training from them should require more than just an exchange of [Currency](Equipment#Currency).
 
 #### Types Of Training
-There are 24 traditional trainers in Aspirant. These are spread evenly over three disciplines, with 8 sub-disciplines each:
-* [Combat-Training](Combat-Training)
-	* [Bastion](Bastion)
-	* [Berserker](Berserker)
-	* [Duelist](Duelist)
-	* [Flurry](Flurry)
-	* [Keeper](Keeper)
-	* [Marksman](Marksman)
-	* [Pugilist](Pugilist)
-	* [Shadow](Shadow)
-* [Magic-Training](Magic-Training)
-	* [Abjurer](Abjurer)
-	* [Conjurer](Conjurer)
-	* [Diviner](Diviner)
-	* [Enchanter](Enchanter)
-	* [Evoker](Evoker)
-	* [Illusionist](Illusionist)
-	* [Transmuter](Transmuter)
-	* [Vitomancer](Vitomancer)
-* [Trades-Training](Trades-Training)
-	* [Chronicler](Chronicler)
-	* [Craftsman](Craftsman)
-	* [Doctor](Doctor)
-	* [Hunter](Hunter)
-	* [Leader](Leader)
-	* [Performer](Performer)
-	* [Scientist](Scientist)
-	* [Worker](Worker)
+There are a number of standard character archetypes and group archetypes you will run into in Aspirant. These will make up the bulk of training you can learn and have available. Some characters and groups will notably fit into more than one of these archetypes, in that case they could teach trainings from any school they fit into.
+* [Academic](Academic)
+* [Arcanist](Arcanist)
+* [Brawler](Brawler)
+* [Dynamist](Dynamist)
+* [Knight](Knight)
+* [Labourer](Labourer)
+* [Mercenary](Mercenary)
+* [Mystic](Mystic)
+* [Rogue](Rogue)
+* [Shaper](Shaper)
+* [Star](Star)
+* [Wanderer](Wanderer)
 
 ### Transhumanism
+#TODOtranshumanism 
 Aside from development of skills and training, a character may also as a game progresses gain abilities from elsewhere. These can take the form of enchantments/blessings, alchemical mutations, and powerful prosthetics.
 
 Mutations/enchantments are strange processes that warp the body and in some cases corrupt the mind. A character can undergo a transhumanist process during downtime.
