@@ -35,10 +35,10 @@ You can directly control 2 followers in combat.
 Spend a [Power](Stats#Power), you may designate a target as a heretic/enemy of the cause. They receive a -1 to all skill tests that they make. Any skill tests allies make against that character receive a +1.
 
 #### Grand Leadership
-As an action, you can perform a speech in combat, no additional skill test. All your followers roll all combat skill tests, substituting your [Converse](Converse) for their skill until your next action.
+As an action, you can perform a speech in combat, no additional skill test. All your followers roll all combat skill tests, substituting your [Connection](Communication#Connection) for their skill until your next action.
 
 #### Conscription
-At the beginning of combat, you may opt to make neutral characters within [Fellowship](Stats#Fellowship) x 10m followers. They may become angry if put in suicidal situations.
+At the beginning of combat, you may opt to make neutral characters within [Communication](Communication) x 10m followers. They may become angry if put in suicidal situations.
 
 #### Inspiring Shout
 Spend 3 [Power](Stats#Power), you may as a free action cause one of your allies to regain consciousness. This ally retains all injuries and effects, but if it is during combat, does not need to roll to remain conscious until injured again.
@@ -50,4 +50,4 @@ Spend 3 [Power](Stats#Power), you may as a free action cause one of your allies 
 Your character is partially controlled by another force, which helps you out with multitasking. You have an additional reaction you can use to avoid attacks or anything else a reaction is used for. As well, if you are stunned or knocked unconscious, you may opt to continue fighting or acting with the spirit controlling your body. You count as having 2 in each attribute and 1 in each skill while the force is in control or performing a reaction.
 
 #### Unending Fury
-You and your followers never collapse from injuries, they will fight until dead. Other allies get a +2 to [Composure](Composure) skill tests.
+You and your followers never collapse from injuries, they will fight until dead. Other allies get a +2 to [Identity](Spirit#Identity) skill tests.

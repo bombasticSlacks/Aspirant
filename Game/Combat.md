@@ -14,7 +14,7 @@ Initiative value is your [Initiative](Stats#Initiative)+ 1d6. Your initiative va
 ### Your Turn
 On Your turn in combat, you can do basically anything that can feasibly be done in 5 seconds. You are encouraged to get creative and talk to the GM; however, several common manoeuvres are listed in this chapter for you to use as examples. The simple way to think about it though is on your turn, you can either:
 - Do an Action (usually involves a skill test).
-- Move up to 2 * [Agility](Stats#Agility) meters, then do an action with all skill tests at -2.
+- Move up to 2 * [Agility](Agility) meters, then do an action with all skill tests at -2.
 - Delay your combat turn.
 
 When you delay your combat turn, you can instead choose to act after any other character has finished their combat turn. You need to use your delayed action before your next combat turn (this can lead to you taking back to back turns).
@@ -36,14 +36,14 @@ In general, your movement is as simple as going up to your [Move Speed](Stats#Mo
 If you are prone, it takes the entirety of your available movement to stand up. 
 
 #### Avoiding Obstacles
-If there are obstacles in the way of a movement, you can test [Acrobatics](Acrobatics) or [Fitness](Fitness) to attempt to ignore them. Otherwise, you must spend a full turn of movement getting over the obstacles.
+If there are obstacles in the way of a movement, you can perform a [Grace](Agility#Grace) skill test to attempt to ignore them. Otherwise, you must spend a full turn of movement getting over the obstacles.
 
 ### Attacking
 Usually, in combat, you will be trying to harm your opponents with the goal of killing or disabling them. Attacks will typically be 
-* Thrown attacks using [Sport](Sport)
-* Ranged attacks using [Marksmanship](Marksmanship)
-* Melee attacks using [Melee](Melee) 
-* Magic attacks using [Channel](Channel)
+* Thrown attacks using [Athletics](Strength#Athletics)
+* Ranged attacks using [Accuracy](Agility#Accuracy)
+* Melee attacks using [Strike](Strength#Strike) 
+* Magic attacks using [Will](Spirit#Will)
 
 #### Successful Attack
 If you succeed on your attack roll, that is considered a Successful Attack
@@ -57,7 +57,7 @@ If you successfully cause an injury with an attack, that is an Injuring Attack.
 ### Attack Range
 When you attack something, your range is how far you can engage them from. With melee weapons, you need to be within 2m. With Range, Thrown, and Magic you have a range, but it is possible to attack up to 5x your range, but you will suffer [Distance Penalty](#Distance%20Penalty). 
 * Magic attacks have a range of 10m
-* Thrown have a range of 3 times your [Strength](Stats#Strength)
+* Thrown have a range of 3 times your [Strength](Strength)
 * Ranged attacks will be defined in the weapons [traits](Weapons#[Weapon-Traits](Weapon-Traits)).
 
 #### Attacking
@@ -111,40 +111,42 @@ before making a melee attack or manoeuvre, you can move to a different side of y
 ### Special Manoeuvres
 These are attacks or abilities that any trained fighter can use. This isn’t an exhaustive list of everything you can do in combat but includes some of the manoeuvres that tend to come up a lot. Any manoeuvre which affects an enemy combatant is considered an attack (such as for determining if you are in melee). A number of other powerful manoeuvres can be learned by taking specific combat training. When reasonable [Combat Modifiers](#Combat%20Modifiers) and [Combat Bonuses and Negatives](#Combat%20Bonuses%20and%20Negatives) are applied to these regularly.
 #### Back out
-You make an [Acrobatics](Acrobatics) skill test to step out of melee with an opponent. If you succeed, you can move agility * 2 meters and then perform an action at a -2 (as normal). If you fail, you provoke an attack of opportunity and then may do that anyway.
+You make a [Grace](Agility#Grace) skill test to step out of melee with an opponent. If you succeed, you can move agility * 2 meters and then perform an action at a -2 (as normal). If you fail, you provoke an attack of opportunity and then may do that anyway.
 #### Cautious Step
 You move out of melee with an enemy without provoking an attack of opportunity. You can move up to your agility * 2 meters, but no other actions.
 #### Disarm
-With at least one free hand or a melee weapon, you can attempt to disarm someone. Make a melee attack at -1 and if successful, your opponent drops their weapon (or it is now in your hands).
+With at least one free hand or a melee weapon, you can attempt to disarm someone. Make a [Strike](Strength#Strike) skill test at (-1) and if successful, your opponent drops their weapon (or it is now in your hands).
 #### Grapple
-Make an attack with the intent of getting control of your opponent. If you successfully hit, your opponent is in a grapple. They have to spend their turn succeeding an [Strength](Stats#Strength) + [Sport](Sport) or [Agility](Stats#Agility) + [Acrobatics](Acrobatics) test with a negative equal to your [Sport](Sport) skill, or remain grappled. On your turn, you may:
-* Make a [Strength](Stats#Strength) + [Sport](Sport) test to inflict a severe injury to them, ignoring armour.
-* Pin then completely skipping your turn and their next turn
+Make an attack with the intent of getting control of your opponent. If you successfully hit, your opponent is in a grapple. 
+On their turn, they may:
+* Attempt an [Athletics](Strength#Athletics) [Opposed Difficulty](Skills#Opposed%20Difficulty) skill test to become the grappler, instead of the grappled. This test is opposed by the grapplers [Athletics](Strength#Athletics)
+* Attempt a [Grace](Agility#Grace) [Opposed Difficulty](Skills#Opposed%20Difficulty) skill test to stop being grappled. This test is opposed by the grapplers [Athletics](Strength#Athletics).
+
+On your turn, you may:
+* Make an [Athletics](Strength#Athletics) test to inflict a severe injury to them, ignoring armour.
+* Pin then completely, causing them to take a -2 on any skill tests on their turn.
 * Make an attack with a size 1 weapon with a -2 to hit that can’t be evaded
-* Make an [Strength](Stats#Strength) + [Fitness](Fitness) test to throw them strength + d3 meters in a direction of your choice
+* Make an [Athletics](Strength#Athletics) skill test to throw them strength + d3 meters in a direction of your choice.
 #### Overwatch
 Declare a 45-degree cone in front of you. If anyone moves into that area, you make a ranged attack on them, and they take a -2 on their action. Your attack is at -2.
 #### Parry
-Which is a melee skill test at (-2) where if you succeed, then if an enemy attacks you in melee and succeeds, you ignore the attack. If they fail their skill test to attack, you deal damage to them.
+Which is a [Strike](Strength#Strike) skill test at (-2) where if you succeed, then if an enemy attacks you [in melee](#Being%20in%20Melee%20Combat) and succeeds, you ignore the attack. If they fail their skill test to attack, you deal damage to them.
 #### Shove
-With at least one free hand, you can attempt to move someone. Make a melee attack, and you can move them up to your strength in meters. If they hit something, they become knocked down.
+With at least one free hand, you can attempt to move someone. Make a [Strike](Strength#Strike) skill test, if you succeed, you can move them up to your strength in meters. If they hit something, they become knocked down.
 
 ---
 
 ### Reacting to Attacks
 During each full turn of combat, each character gets a single reaction, which they can use when something else happens during combat. Your reaction refreshes on your turn. In general, these are used to avoid incoming attacks. The generally available reactions are:
 
-#### Block
-A melee skill test at (-2) where if you succeed, you ignore damage and other effects from a melee attack. The attack still counts as hitting you (this can be relevant for certain effects).
-
-#### Dodge
-An [Acrobatics](Acrobatics) skill test at (-2) where if you succeed then an enemy attack doesn’t hit you. You cannot dodge while prone.
+#### Avoid
+A [Reflexes](Agility#Reflexes) skill test at a -2 where if you succeed, you ignore the effects of the attack unless otherwise specified.
 
 #### Move to Cover
-An [Acrobatics](Acrobatics) skill test (0) where if you succeed then you may move to a piece of cover within agility meters before an enemy ranged attack is calculated. You cannot Move to Cover while prone.
+A [Grace](Agility#Grace) skill test where if you succeed then you may move to a piece of cover within agility meters before an enemy ranged attack is calculated. You cannot Move to Cover while prone.
 
 #### Attack of Opportunity
-A melee skill test at (-2) which you may perform if someone moves while in melee with you. If successful, you can resolve an attack against them, which they cannot dodge.
+A [Strike](Strength#Strike) skill test at (-2) which you may perform if someone moves while [in melee](#Being%20in%20Melee%20Combat) with you. If successful, you can resolve an attack against them, which they cannot dodge.
 
 #### All Out Attack
 Declare that you forgo your reaction for the turn to get a +2 on an action on your turn.
@@ -186,7 +188,7 @@ Any time you would remove armour integrity, your armour isn't compromised, but y
 As an additional benefit, if you are resistant to an attack it always counts as a [Glancing Blow](#Glancing%20Blow).
 
 ### Dealing Damage
-When you or something else is attempting to injure someone you will in most cases roll 1d6 + damage modifier. Damage modifier is a combination of the weapons inherent lethality, size, any bonuses from your character and usually, your [Strength](Stats#Strength). 
+When you or something else is attempting to injure someone you will in most cases roll 1d6 + damage modifier. Damage modifier is a combination of the weapons inherent lethality, size, any bonuses from your character and usually, your [Strength](Strength). 
 
 This number is usually compared to the universal damage chart to determine the injury caused:
 
@@ -197,7 +199,7 @@ This number is usually compared to the universal damage chart to determine the i
 | 11-15 | Critical |
 | 16+   | Lethal   |
 
-> So, for example, a long sword (3 size artisan weapon) wielded by a character with 3 [Strength](Stats#Strength) would have a damage bonus of 7 (1 artisan + 3 size + 3 [Strength](Stats#Strength)). That means on a 1-3 it causes a severe injury, on a 4-6 it causes a critical injury. 
+> So, for example, a long sword (3 size artisan weapon) wielded by a character with 3 [Strength](Strength) would have a damage bonus of 7 (1 artisan + 3 size + 3 [Strength](Strength)). That means on a 1-3 it causes a severe injury, on a 4-6 it causes a critical injury. 
 
 #### Glancing Blow
 Sometimes your attacks will be partially mitigated by abilities or other circumstances. When this happens you reduce the severity of your injury by one.

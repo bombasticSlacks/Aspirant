@@ -47,7 +47,7 @@ When wielding a shield, if you successfully mitigate an enemy melee attack, as 
 If you have not made a melee attack in a round and are wielding a shield, you may parry as a free action as your turn ends.
 
 #### Roll With The Punches
-After suffering an injury, test [Strength](Stats#Strength) with a -1 difficulty for a severe injury, -2 for critical and -3 for lethal. If you succeed, the attack is a [Glancing Blow](Combat#Glancing%20Blow).
+After suffering an injury, test [Strength](Strength) with a -1 difficulty for a severe injury, -2 for critical and -3 for lethal. If you succeed, the attack is a [Glancing Blow](Combat#Glancing%20Blow).
 
 #### Second Skin
 You ignore max skill for any armour you use.

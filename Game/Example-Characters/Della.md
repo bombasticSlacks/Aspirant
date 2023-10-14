@@ -11,11 +11,11 @@ Della is a small [Conjurer](../Classes#Conjurer) [Tactician](../Classes#Tacticia
 
 | Attribute                             | Value | -   | Secondary Attribute                     | Value |
 | ------------------------------------- | ----- | --- | --------------------------------------- | ----- |
-| [Strength](../Stats#Strength)         | 2     | -   | [Total XP](../Stats#Total%20XP)         | 10    |
-| [Agility](../Stats#Agility)           | 2     | -   | [Spent XP](../Stats#Spent%20XP)         | 10    |
-| [Intelligence](../Stats#Intelligence) | 2     | -   | [Power](../Stats#Power)                 | 2     |
-| [Resolve](../Stats#Resolve)           | 4     | -   | [Move Speed](../Stats#Move%20Speed)     | 8     |
-| [Fellowship](../Stats#Fellowship)     | 3     | -   | [Initiative](../Stats#Initiative)       | 5     |
+| [Strength](../Strength)         | 2     | -   | [Total XP](../Stats#Total%20XP)         | 10    |
+| [Agility](../Agility)           | 2     | -   | [Spent XP](../Stats#Spent%20XP)         | 10    |
+| [Intelligence](../Intelligence) | 2     | -   | [Power](../Stats#Power)                 | 2     |
+| [Spirit](../Spirit)           | 4     | -   | [Move Speed](../Stats#Move%20Speed)     | 8     |
+| [Communication](../Communication)     | 3     | -   | [Initiative](../Stats#Initiative)       | 5     |
 |                                       |       | -   | [Threat](../Stats#Threat)               | 1     |
 |                                       |       | -   | [Max Toxicity](../Stats#Max%20Toxicity) | 6     |
 
@@ -24,14 +24,13 @@ Della is a small [Conjurer](../Classes#Conjurer) [Tactician](../Classes#Tacticia
 
 | Skill                        | Stat | Ranks | -   | Skill                     | Stat | Ranks |
 | ---------------------------- | ---- | ----- | --- | ------------------------- | ---- | ----- |
-| [Fitness](Fitness)           | STR  |       | -   | [Perception](Perception)  | INT  | 2     |
-| [Melee](Melee)               | STR  |       | -   | [Science](Science)        | INT  |       |
-| [Acrobatics](Acrobatics)     | AGI  |       | -   | [Composure](Composure)    | RES  |       |
-| [Marksmanship](Marksmanship) | AGI  |       | -   | [Channel](Channel)        | RES  |       |
-| [Subterfuge](Subterfuge)     | AGI  |       | -   | [Ritual](Ritual)          | RES  | 2     |
-| [Crafting](Crafting)         | INT  |       | -   | [Converse](../Converse)   | FEL  | 1     |
-| [Knowledge](Knowledge)       | INT  | 2     | -   | [Husbandry](../Husbandry) | FEL  | 1     | 
-| [Medicine](Medicine)         | INT  |       | -   | [Perform](../Perform)     | FEL  |       |
+| [Athletics](../Strength#Athletics)           | STR  |       | -   | [Insight](Intelligence#Insight)  | INT  | 2     |
+| [Strike](../Strength#Strike)               | STR  |       | -   | [Application](Intelligence#Application)        | INT  |       |
+| [reflexes](Agility#Reflexes)     | AGI  |       | -   | [Identity](Spirit#Identity)    | RES  |       |
+| [Accuracy](../Agility#Accuracy) | AGI  |       | -   | [Will](Spirit#Will)        | RES  |       |
+| [Grace](Agility#Grace)     | AGI  |       | -   | [Attunement](Spirit#Attunement)          | RES  | 2     |
+| [Confidence](../Communication#Confidence)        | FEL  |       | -   | [Connection](../Communication#Connection)   | FEL  | 1     |
+| [Memory](Intelligence#Memory)       | INT  | 2     | -   | [Mannerism](../Communication#Mannerism) | FEL  | 1     |
 
 ### Training
 * [Attuned](../Magic-Training#Attuned)

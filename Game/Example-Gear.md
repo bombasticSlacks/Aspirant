@@ -59,7 +59,7 @@ A folded up cloth stretcher used for transporting individuals who have suffered 
 
 #### Crystallized Magic
 *Size $1\over5$ Cost 1*
-Crystallized magic is an infused or naturally magically resonant material that allows a channeler to transform pure magic into effects on the material world. Crystallized magic is necessary to [Channel](Channel) any meaningful magical effect, it can be purchased like any other equipment. When casting a spell, you need to expend a unit of crystallized magic per level of the spell, so amateur spells require 1 unit, expert 2, and master 3. If you do not succeed, there is a 50% chance that the crystallized magic is not expended. 
+Crystallized magic is an infused or naturally magically resonant material that allows a channeler to transform pure magic into effects on the material world. Crystallized magic is necessary to [Will](Spirit#Will) any meaningful magical effect, it can be purchased like any other equipment. When casting a spell, you need to expend a unit of crystallized magic per level of the spell, so amateur spells require 1 unit, expert 2, and master 3. If you do not succeed, there is a 50% chance that the crystallized magic is not expended. 
 
 ---
 
@@ -71,7 +71,7 @@ A small, hard container that can hold a liquid for drinking. Holds up to a half 
 
 #### Focus
 *Size 2 Cost 35*
-A wand, pendant or other item that allows you to [Channel](Channel) magic.
+A wand, pendant or other item that allows you to [Will](Spirit#Will) magic.
 
 ---
 
@@ -134,7 +134,7 @@ A comfort kit has 3 uses, cost 1 silver to replenish.
 
 #### Complex Instrument
 *Size 3 Cost 30*
-A musical tool of complex design. Complex instruments are expensive and produce nuanced and complex sounds. A complex instrument provides a +2 to [Perform](Perform) checks to use it, assuming you are trained.
+A musical tool of complex design. Complex instruments are expensive and produce nuanced and complex sounds. A complex instrument provides a +2 to [Confidence](Communication#Confidence) checks to use it, assuming you are trained.
 
 > Examples would include: Bagpipes, Dulcimer, Lute, Viol.
 
@@ -164,7 +164,7 @@ A collection of tools required to store and catalogue evidence from crime scenes
 *Size 2 Cost 30*
 A collection of stamps, plates, glossy paper and inks required to forge official documents.
 
-Creating a forgery is a [Subterfuge](Subterfuge) [Fixed Difficulty](Skills#Fixed%20Difficulty) skill test with a difficulty assigned based on the complexity of the forgery. The cost in silver for the forgery is equal to 2 * the difficulty modifier. 
+Creating a forgery is a [Accuracy](Agility#Accuracy) [Fixed Difficulty](Skills#Fixed%20Difficulty) skill test with a difficulty assigned based on the complexity of the forgery. The cost in silver for the forgery is equal to 2 * the difficulty modifier. 
 
 > So, a -4 difficulty test would result in a forgery costing 8 silver.
 
@@ -200,7 +200,7 @@ A patching kit has 5 uses, and replenishing a use costs 1 silver.
 
 #### Reagent Bag
 *Size 2 Cost 30*
-A well constructed satchel of elixirs, dried powdered items, and other small bits of magic that can be used to perform [Rituals](Ritual). When you go to perform a ritual, you must expend a charge from your reagent bag. 
+A well constructed satchel of elixirs, dried powdered items, and other small bits of magic that can be used to perform [Rituals](Spirit#Attunement). When you go to perform a ritual, you must expend a charge from your reagent bag. 
 
 A reagent bag contains 5 uses, and replenishing a use costs 2 silver.
 
@@ -253,7 +253,7 @@ A Tinkers Kit has 5 uses, and replenishing a use costs 1 silver.
 *Size 3 Cost 35*
 A collection of materials, triggers, sensors and payloads that can be used to create and customize traps on the go. A trap kit can store up to 3 payloads and triggers, and a new kit starts with that. Usually, you will want to set a trap to trigger a payload, but if you have access to a chemical, grenade, explosive, weapon or other tool you want to trigger, you may use that instead. 
 
-Creating a trap is a [Crafting](Crafting) test. You may add 2 payloads or triggers to a single trap but the [Crafting](Crafting) test is at a -3, a standard trap affects at most a 3x3 meter square however you can triple the size by doubling the number of payloads used (and giving the test an additional -2). Your GM may also assign a greater negative for more complex/exotic traps or triggers. Once you have decided on when you want your trap to trigger, you choose an effect for the payload:
+Creating a trap is a [Application](Intelligence#Application) test. You may add 2 payloads or triggers to a single trap but the [Application](Intelligence#Application) test is at a -3, a standard trap affects at most a 3x3 meter square however you can triple the size by doubling the number of payloads used (and giving the test an additional -2). Your GM may also assign a greater negative for more complex/exotic traps or triggers. Once you have decided on when you want your trap to trigger, you choose an effect for the payload:
 
 * Concussive: Everyone makes a resolve test or is stunned. Even if they succeed, they are at a -2 until their action on the following turn.
 * Shrapnel: Everyone who is in the trap suffers a penetrative [Rending](Combat#Rending) damage attack with a damage bonus of 4
@@ -265,7 +265,7 @@ Creating a trap is a [Crafting](Crafting) test. You may add 2 payloads or trigge
 *Size 2 Cost 30*
 A collection of simple medicines, bandages, synthetic skin, coagulating powder, splints, and other things required to keep people alive after a severe or critical injury and treat the issues. A trauma kit provides you with a +1 to [stabilization](Injury#Stabilization) and [Surgery](Injury#Surgery). 
 
-A trained medical professional with a trauma kit can perform first aid to alleviate the immediate effects of injuries. This is a [Medicine](Medicine) skill test at an additional negative equal to the character's injury penalty. If you succeed, reduce their injury penalty by 1. If you fail a first aid test, the person still counts as [stabilized](Injury#Stabilization).
+A trained medical professional with a trauma kit can perform first aid to alleviate the immediate effects of injuries. This is a [Application](Intelligence#Application) skill test at an additional negative equal to the character's injury penalty. If you succeed, reduce their injury penalty by 1. If you fail a first aid test, the person still counts as [stabilized](Injury#Stabilization).
 
 A trauma kit has 5 uses, and replenishing a use costs 1 silver.
 

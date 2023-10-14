@@ -31,16 +31,16 @@ Your backpack can hold an additional 6 size worth of items.
 You never suffer penalties due to intoxication or exotic comestibles.
 
 #### Find A Buyer
-As a [Downtime Activities](Activities#Downtime%20Activity), you can spend a day finding someone interested in purchasing an item for full price (materials + labour). This is a skill test based on the settlement's Wealth + your [Converse](Converse), and a difficulty based on the rarity of the item.
+As a [Downtime Activities](Activities#Downtime%20Activity), you can spend a day finding someone interested in purchasing an item for full price (materials + labour). This is a skill test based on the settlement's Wealth + your [Connection](Communication#Connection), and a difficulty based on the rarity of the item.
 
 #### Haggling
-You may use converse to attempt to get better deals when commissioning items. This is an opposed [Converse](Converse) test against the craftsman. For every [Step Of Success](Skills#Step%20Of%20Success) you receive 1 silver off the asking price.
+You may use converse to attempt to get better deals when commissioning items. This is an opposed [Connection](Communication#Connection) test against the craftsman. For every [Step Of Success](Skills#Step%20Of%20Success) you receive 1 silver off the asking price.
 
 #### Name Your Price
 You can buy any item, even a person's personal equipment.
 
 #### Promissory Note
-You can go into debt an amount of silver equal to 10 x [Fellowship](Stats#Fellowship) by writing promissory notes to merchants. You need to pay this off before you can use this ability again.
+You can go into debt an amount of silver equal to 10 x [Communication](Communication) by writing promissory notes to merchants. You need to pay this off before you can use this ability again.
 
 #### Suburbanite
 You receive a +1 to all skill tests related to surviving and navigating urban areas.

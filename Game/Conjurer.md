@@ -12,7 +12,7 @@ The process of creating matter. A character could use conjuration to summon a fa
 
 ### Basic
 #### Amateur Conjuration
-If your character has [Attuned](Magic-Training#Attuned), your character can perform [Ritual](Ritual) to:
+If your character has [Attuned](Magic-Training#Attuned), your character can perform [Attunement](Spirit#Attunement) to:
 * Teleport a nearby item to yourself.
 * Summon a familiar that obeys
 * Conjure simple items that won't be missed (from wherever you take them).
@@ -21,12 +21,12 @@ If your character has [Attuned](Magic-Training#Attuned), your character can perf
 You can maintain one summoned creature long term without requiring skill tests or active focus.
 
 #### Mage Hand
-You can levitate things up to your [Resolve](Stats#Resolve) in size and [Resolve](Stats#Resolve) x 2 meters away as naturally as picking them up normally.
+You can levitate things up to your [Spirit](Spirit) in size and [Spirit](Spirit) x 2 meters away as naturally as picking them up normally.
 
 ---
 ### Advanced
 #### Expert Conjuration
-If your character has [Amateur Conjuration](#Amateur%20Conjuration) training, your character can perform [Ritual](Ritual) to:
+If your character has [Amateur Conjuration](#Amateur%20Conjuration) training, your character can perform [Attunement](Spirit#Attunement) to:
 * Summon an animal companion that obeys.
 * Conjure more complex items that will be missed.
 * Teleport an exact item to yourself.
@@ -37,7 +37,7 @@ As [Production Work](Activities#Production%20Work), you can transform matter int
 ### Master
 
 #### Master Conjuration
-If your character has [Expert Conjuration](#Expert%20Conjuration) training, your character can perform [Ritual](Ritual) to:
+If your character has [Expert Conjuration](#Expert%20Conjuration) training, your character can perform [Attunement](Spirit#Attunement) to:
 * Summon a magical creature that obeys.
 * Conjure an exact item of need (the owner may be angry about this).
 * Teleport yourself and others.

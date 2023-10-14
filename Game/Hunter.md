@@ -26,13 +26,13 @@ You receive a +1 to all skill tests related to surviving and navigating natural 
 You and those travelling with you cannot be tracked.
 
 #### Pin And Restrain
-While you are successfully grappling someone on your turn, you may as an action attempt to more permanently restrain them with [Manacles](Example-Gear#Manacles) or an equivalent item. This is a [Sport](Sport) [Opposed Difficulty](Skills#Opposed%20Difficulty) test opposed by the opponents [Sport](Sport).
+While you are successfully grappling someone on your turn, you may as an action attempt to more permanently restrain them with [Manacles](Example-Gear#Manacles) or an equivalent item. This is a [Athletics](Strength#Athletics) [Opposed Difficulty](Skills#Opposed%20Difficulty) test opposed by the opponents [Athletics](Strength#Athletics).
 
 #### Take Them Alive
 After injuring someone, you may always opt for them to go unconscious instead of dying.
 
 #### Terrify
-After inflicting an injury in melee, you can spend your [Reaction](Combat#Reacting%20to%20Attacks) to intimidate an enemy with a [Converse](Converse) skill test with difficulty equal to their [Resolve](Stats#Resolve). If you succeed, they surrender; otherwise, they take a -2 to all actions until your next turn.
+After inflicting an injury in melee, you can spend your [Reaction](Combat#Reacting%20to%20Attacks) to intimidate an enemy with a [Connection](Communication#Connection) skill test with difficulty equal to their [Spirit](Spirit). If you succeed, they surrender; otherwise, they take a -2 to all actions until your next turn.
 
 Some enemies are not intelligent enough or just refuse to surrender under any circumstances.
 
@@ -48,7 +48,7 @@ When collecting bits from creatures after an encounter, you may collect one addi
 If you have someone detained for any meaningful amount of time, they can hide nothing from you.
 
 #### Peacekeeper
-Your inflicted [Minimal Injury](Injury#Minimal%20Injury) cause opponents to become [Wounded](Injury#Being%20Wounded).
+Your inflicted [Minimal Injury](Injury#Minimal%20Injury) cause opponents to become [Wounded](Injury#Wounded).
 
 #### Ambusher
 If you are shadowing or otherwise not the centre of attention as a combat starts, you get an additional free turn before initiative starts.

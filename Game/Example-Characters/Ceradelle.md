@@ -11,11 +11,11 @@ Ceradelle is an elvish [Beast Master](../Classes#Beast%20Master) [Archer](../Cla
 
 | Attribute                             | Value | -   | Secondary Attribute                     | Value |
 | ------------------------------------- | ----- | --- | --------------------------------------- | ----- |
-| [Strength](../Stats#Strength)         | 2     | -   | [Total XP](../Stats#Total%20XP)         | 10    |
-| [Agility](../Stats#Agility)           | 3     | -   | [Spent XP](../Stats#Spent%20XP)         | 10    |
-| [Intelligence](../Stats#Intelligence) | 2     | -   | [Power](../Stats#Power)                 | 3     |
-| [Resolve](../Stats#Resolve)           | 2     | -   | [Move Speed](../Stats#Move%20Speed)     | 12    |
-| [Fellowship](../Stats#Fellowship)     | 4     | -   | [Initiative](../Stats#Initiative)       | 5     |
+| [Strength](../Strength)         | 2     | -   | [Total XP](../Stats#Total%20XP)         | 10    |
+| [Agility](../Agility)           | 3     | -   | [Spent XP](../Stats#Spent%20XP)         | 10    |
+| [Intelligence](../Intelligence) | 2     | -   | [Power](../Stats#Power)                 | 3     |
+| [Spirit](../Spirit)           | 2     | -   | [Move Speed](../Stats#Move%20Speed)     | 12    |
+| [Communication](../Communication)     | 4     | -   | [Initiative](../Stats#Initiative)       | 5     |
 |                                       |       | -   | [Threat](../Stats#Threat)               | 3     |
 |                                       |       | -   | [Max Toxicity](../Stats#Max%20Toxicity) | 4     | 
 
@@ -24,14 +24,13 @@ Ceradelle is an elvish [Beast Master](../Classes#Beast%20Master) [Archer](../Cla
 
 | Skill                        | Stat | Ranks | -   | Skill                     | Stat | Ranks |
 | ---------------------------- | ---- | ----- | --- | ------------------------- | ---- | ----- |
-| [Fitness](Fitness)           | STR  | 1     | -   | [Perception](Perception)  | INT  | 1     |
-| [Melee](Melee)               | STR  | 1     | -   | [Science](Science)        | INT  |       |
-| [Acrobatics](Acrobatics)     | AGI  |       | -   | [Composure](Composure)    | RES  |       |
-| [Marksmanship](Marksmanship) | AGI  | 2     | -   | [Channel](Channel)        | RES  |       |
-| [Subterfuge](Subterfuge)     | AGI  |       | -   | [Ritual](Ritual)          | RES  |       |
-| [Crafting](Crafting)         | INT  |       | -   | [Converse](../Converse)   | FEL  |       |
-| [Knowledge](Knowledge)       | INT  | 1     | -   | [Husbandry](../Husbandry) | FEL  | 2     |
-| [Medicine](Medicine)         | INT  |       | -   | [Perform](../Perform)     | FEL  |       |
+| [Athletics](../Strength#Athletics)           | STR  | 1     | -   | [Insight](Intelligence#Insight)  | INT  | 1     |
+| [Strike](../Strength#Strike)               | STR  | 1     | -   | [Application](Intelligence#Application)        | INT  |       |
+| [reflexes](Agility#Reflexes)     | AGI  |       | -   | [Identity](Spirit#Identity)    | RES  |       |
+| [Accuracy](../Agility#Accuracy) | AGI  | 2     | -   | [Will](Spirit#Will)        | RES  |       |
+| [Grace](Agility#Grace)     | AGI  |       | -   | [Attunement](Spirit#Attunement)          | RES  |       |
+| [Confidence](../Communication#Confidence)        | FEL  |       | -   | [Connection](../Communication#Connection)   | FEL  |       |
+| [Memory](Intelligence#Memory)       | INT  | 1     | -   | [Mannerism](../Communication#Mannerism) | FEL  | 2     |
 
 ### Training
 * [Mounted Expert](../Keeper#Mounted%20Expert)

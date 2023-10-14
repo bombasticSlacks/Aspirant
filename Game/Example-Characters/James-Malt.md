@@ -11,11 +11,11 @@ Scratch is a tall [Elementalist](../Classes#Elementalist) [Rogue](../Classes#Rog
 
 | Attribute                             | Value | -   | Secondary Attribute                     | Value |
 | ------------------------------------- | ----- | --- | --------------------------------------- | ----- |
-| [Strength](../Stats#Strength)         | 2     | -   | [Total XP](../Stats#Total%20XP)         | 10    |
-| [Agility](../Stats#Agility)           | 3     | -   | [Spent XP](../Stats#Spent%20XP)         | 10    |
-| [Intelligence](../Stats#Intelligence) | 2     | -   | [Power](../Stats#Power)                 | 2     |
-| [Resolve](../Stats#Resolve)           | 4     | -   | [Move Speed](../Stats#Move%20Speed)     | 12    |
-| [Fellowship](../Stats#Fellowship)     | 2     | -   | [Initiative](../Stats#Initiative)       | 5     |
+| [Strength](../Strength)         | 2     | -   | [Total XP](../Stats#Total%20XP)         | 10    |
+| [Agility](../Agility)           | 3     | -   | [Spent XP](../Stats#Spent%20XP)         | 10    |
+| [Intelligence](../Intelligence) | 2     | -   | [Power](../Stats#Power)                 | 2     |
+| [Spirit](../Spirit)           | 4     | -   | [Move Speed](../Stats#Move%20Speed)     | 12    |
+| [Communication](../Communication)     | 2     | -   | [Initiative](../Stats#Initiative)       | 5     |
 |                                       |       | -   | [Threat](../Stats#Threat)               | 0     |
 |                                       |       | -   | [Max Toxicity](../Stats#Max%20Toxicity) | 6     | 
 
@@ -24,14 +24,14 @@ Scratch is a tall [Elementalist](../Classes#Elementalist) [Rogue](../Classes#Rog
 
 | Skill                        | Stat | Ranks | -   | Skill                     | Stat | Ranks |
 | ---------------------------- | ---- | ----- | --- | ------------------------- | ---- | ----- |
-| [Fitness](Fitness)           | STR  |       | -   | [Perception](Perception)  | INT  | 1     |
-| [Melee](Melee)               | STR  |       | -   | [Science](Science)        | INT  |       |
-| [Acrobatics](Acrobatics)     | AGI  | 2     | -   | [Composure](Composure)    | RES  | 1     |
-| [Marksmanship](Marksmanship) | AGI  |       | -   | [Channel](Channel)        | RES  | 2     |
-| [Subterfuge](Subterfuge)     | AGI  | 2     | -   | [Ritual](Ritual)          | RES  |       |
-| [Crafting](Crafting)         | INT  |       | -   | [Converse](../Converse)   | FEL  |       |
-| [Knowledge](Knowledge)       | INT  |       | -   | [Husbandry](../Husbandry) | FEL  |       |
-| [Medicine](Medicine)         | INT  |       | -   | [Perform](../Perform)     | FEL  |       |
+| [Athletics](../Strength#Athletics)           | STR  |       | -   | [Insight](Intelligence#Insight)  | INT  | 1     |
+| [Strike](../Strength#Strike)               | STR  |       | -   | [Application](Intelligence#Application)        | INT  |       |
+| [reflexes](Agility#Reflexes)     | AGI  | 2     | -   | [Identity](Spirit#Identity)    | RES  | 1     |
+| [Accuracy](../Agility#Accuracy) | AGI  |       | -   | [Will](Spirit#Will)        | RES  | 2     |
+| [Grace](Agility#Grace)     | AGI  | 2     | -   | [Attunement](Spirit#Attunement)          | RES  |       |
+| [Confidence](../Communication#Confidence)         | FEL  |       | -   | [Connection](../Communication#Connection)   | FEL  |       |
+| [Memory](Intelligence#Memory)       | INT  |       | -   | [Mannerism](../Communication#Mannerism) | FEL  |       |
+
 
 ### Training
 * [Attuned](../Magic-Training#Attuned)

@@ -31,34 +31,32 @@ The basis of your character, the skills and tools that help you when adventuring
 *Using their fury as power, the barbarian is a powerful fighter and combatant*
 
 ##### Recommended Stats
-* [Strength](Stats#Strength) of 4
-* [Agility](Stats#Agility) of 3
-* [Intelligence](Stats#Intelligence) of 2
-* [Resolve](Stats#Resolve) of 2
-* [Fellowship](Stats#Fellowship) of 2
+* [Strength](Strength) of 4
+* [Agility](Agility) of 3
+* [Intelligence](Intelligence) of 2
+* [Spirit](Spirit) of 2
+* [Communication](Communication) of 2
 
 
 ##### Skills
 
 | Skill                        | Ranks |
 | ---------------------------- | ----- |
-| [Fitness](Fitness)           | 1     |
-| [Melee](Melee)               | 2     |
-| [Sport](Sport)               | 1     |
-| [Acrobatics](Acrobatics)     | 1     |
-| [Marksmanship](Marksmanship) |       |
-| [Subterfuge](Subterfuge)     |       |
-| [Crafting](Crafting)         |       |
-| [Knowledge](Knowledge)       |       |
-| [Medicine](Medicine)         |       |
-| [Perception](Perception)     | 1     |
-| [Science](Science)           |       |
-| [Composure](Composure)       | 1     |
-| [Channel](Channel)           |       |
-| [Ritual](Ritual)             |       |
-| [Converse](Converse)         |       |
-| [Husbandry](Husbandry)       |       |
-| [Perform](Perform)           |       |
+| [Athletics](Strength#Athletics)           | 1     |
+| [Strike](Strength#Strike)               | 2     |
+| #TODOSKILL               | 1     |
+| [reflexes](Agility#Reflexes)     | 1     |
+| [Accuracy](Agility#Accuracy) |       |
+| [Grace](Agility#Grace)     |       |
+| [Memory](Intelligence#Memory)       |       |
+| [Insight](Intelligence#Insight)     | 1     |
+| [Application](Intelligence#Application)           |       |
+| [Identity](Spirit#Identity)       | 1     |
+| [Will](Spirit#Will)           |       |
+| [Attunement](Spirit#Attunement)             |       |
+| [Connection](Communication#Connection)         |       |
+| [Mannerism](Communication#Mannerism)       |       |
+| [Confidence](Communication#Confidence)           |       |
 
 ##### Training
 * [Martial Training](Combat-Training#Martial%20Training)
@@ -77,34 +75,32 @@ The basis of your character, the skills and tools that help you when adventuring
 *Someone trained in defence and controlling their opponents*
 
 ##### Recommended Stats
-* [Strength](Stats#Strength) of 4
-* [Agility](Stats#Agility) of 2
-* [Intelligence](Stats#Intelligence) of 2
-* [Resolve](Stats#Resolve) of 3
-* [Fellowship](Stats#Fellowship) of 2
+* [Strength](Strength) of 4
+* [Agility](Agility) of 2
+* [Intelligence](Intelligence) of 2
+* [Spirit](Spirit) of 3
+* [Communication](Communication) of 2
 
 
 ##### Skills
 
 | Skill                        | Ranks |
 | ---------------------------- | ----- |
-| [Fitness](Fitness)           | 1     |
-| [Melee](Melee)               | 2     |
-| [Sport](Sport)               |       |
-| [Acrobatics](Acrobatics)     |       |
-| [Marksmanship](Marksmanship) | 1     |
-| [Subterfuge](Subterfuge)     |       |
-| [Crafting](Crafting)         |       |
-| [Knowledge](Knowledge)       |       |
-| [Medicine](Medicine)         |       |
-| [Perception](Perception)     | 1     |
-| [Science](Science)           |       |
-| [Composure](Composure)       | 1     |
-| [Channel](Channel)           |       |
-| [Ritual](Ritual)             |       |
-| [Converse](Converse)         |       |
-| [Husbandry](Husbandry)       | 1     | 
-| [Perform](Perform)           |       |
+| [Athletics](Strength#Athletics)           | 1     |
+| [Strike](Strength#Strike)               | 2     |
+| #TODOSKILL               |       |
+| [reflexes](Agility#Reflexes)     |       |
+| [Accuracy](Agility#Accuracy) | 1     |
+| [Grace](Agility#Grace)     |       |
+| [Memory](Intelligence#Memory)       |       |
+| [Insight](Intelligence#Insight)     | 1     |
+| [Application](Intelligence#Application)           |       |
+| [Identity](Spirit#Identity)       | 1     |
+| [Will](Spirit#Will)           |       |
+| [Attunement](Spirit#Attunement)             |       |
+| [Connection](Communication#Connection)         |       |
+| [Mannerism](Communication#Mannerism)       | 1     | 
+| [Confidence](Communication#Confidence)           |       |
 
 ##### Training
 * [Martial Training](Combat-Training#Martial%20Training)
@@ -126,34 +122,32 @@ The basis of your character, the skills and tools that help you when adventuring
 *Someone trained in channelling the magic all around them to do wonderful and powerful things*
 
 ##### Recommended Stats
-* [Strength](Stats#Strength) of 2
-* [Agility](Stats#Agility) of 3
-* [Intelligence](Stats#Intelligence) of 2
-* [Resolve](Stats#Resolve) of 4
-* [Fellowship](Stats#Fellowship) of 2
+* [Strength](Strength) of 2
+* [Agility](Agility) of 3
+* [Intelligence](Intelligence) of 2
+* [Spirit](Spirit) of 4
+* [Communication](Communication) of 2
 
 
 ##### Skills
 
 | Skill                        | Ranks |
 | ---------------------------- | ----- |
-| [Fitness](Fitness)           |       |
-| [Melee](Melee)               |       |
-| [Sport](Sport)               |       |
-| [Acrobatics](Acrobatics)     | 2     |
-| [Marksmanship](Marksmanship) |       |
-| [Subterfuge](Subterfuge)     |       |
-| [Crafting](Crafting)         |       |
-| [Knowledge](Knowledge)       | 1     | 
-| [Medicine](Medicine)         |       |
-| [Perception](Perception)     | 1     |
-| [Science](Science)           |       |
-| [Composure](Composure)       | 1     |
-| [Channel](Channel)           | 2     |
-| [Ritual](Ritual)             |       |
-| [Converse](Converse)         |       |
-| [Husbandry](Husbandry)       |       |
-| [Perform](Perform)           |       |
+| [Athletics](Strength#Athletics)           |       |
+| [Strike](Strength#Strike)               |       |
+| #TODOSKILL               |       |
+| [reflexes](Agility#Reflexes)     | 2     |
+| [Accuracy](Agility#Accuracy) |       |
+| [Grace](Agility#Grace)     |       |
+| [Memory](Intelligence#Memory)       | 1     | 
+| [Insight](Intelligence#Insight)     | 1     |
+| [Application](Intelligence#Application)           |       |
+| [Identity](Spirit#Identity)       | 1     |
+| [Will](Spirit#Will)           | 2     |
+| [Attunement](Spirit#Attunement)             |       |
+| [Connection](Communication#Connection)         |       |
+| [Mannerism](Communication#Mannerism)       |       |
+| [Confidence](Communication#Confidence)           |       |
 
 ##### Training
 * [Attuned](Magic-Training#Attuned)
@@ -175,34 +169,32 @@ The basis of your character, the skills and tools that help you when adventuring
 *Someone trained in performing powerful summoning rituals*
 
 ##### Recommended Stats
-* [Strength](Stats#Strength) of 2
-* [Agility](Stats#Agility) of 2
-* [Intelligence](Stats#Intelligence) of 3
-* [Resolve](Stats#Resolve) of 4
-* [Fellowship](Stats#Fellowship) of 2
+* [Strength](Strength) of 2
+* [Agility](Agility) of 2
+* [Intelligence](Intelligence) of 3
+* [Spirit](Spirit) of 4
+* [Communication](Communication) of 2
 
 
 ##### Skills
 
 | Skill                        | Ranks |
 | ---------------------------- | ----- |
-| [Fitness](Fitness)           |       |
-| [Melee](Melee)               |       |
-| [Sport](Sport)               |       |
-| [Acrobatics](Acrobatics)     |       |
-| [Marksmanship](Marksmanship) |       |
-| [Subterfuge](Subterfuge)     |       |
-| [Crafting](Crafting)         |       |
-| [Knowledge](Knowledge)       | 2     |
-| [Medicine](Medicine)         |       |
-| [Perception](Perception)     | 2     |
-| [Science](Science)           |       |
-| [Composure](Composure)       |       |
-| [Channel](Channel)           |       |
-| [Ritual](Ritual)             | 2     |
-| [Converse](Converse)         | 1     | 
-| [Husbandry](Husbandry)       |       |
-| [Perform](Perform)           |       |
+| [Athletics](Strength#Athletics)           |       |
+| [Strike](Strength#Strike)               |       |
+| #TODOSKILL               |       |
+| [reflexes](Agility#Reflexes)     |       |
+| [Accuracy](Agility#Accuracy) |       |
+| [Grace](Agility#Grace)     |       |
+| [Memory](Intelligence#Memory)       | 2     |
+| [Insight](Intelligence#Insight)     | 2     |
+| [Application](Intelligence#Application)           |       |
+| [Identity](Spirit#Identity)       |       |
+| [Will](Spirit#Will)           |       |
+| [Attunement](Spirit#Attunement)             | 2     |
+| [Connection](Communication#Connection)         | 1     | 
+| [Mannerism](Communication#Mannerism)       |       |
+| [Confidence](Communication#Confidence)           |       |
 
 ##### Training
 * [Attuned](Magic-Training#Attuned)
@@ -221,34 +213,32 @@ The basis of your character, the skills and tools that help you when adventuring
 *Someone great at talking to others and negotiating*
 
 ##### Recommended Stats
-* [Strength](Stats#Strength) of 2
-* [Agility](Stats#Agility) of 3
-* [Intelligence](Stats#Intelligence) of 2
-* [Resolve](Stats#Resolve) of 2
-* [Fellowship](Stats#Fellowship) of 4
+* [Strength](Strength) of 2
+* [Agility](Agility) of 3
+* [Intelligence](Intelligence) of 2
+* [Spirit](Spirit) of 2
+* [Communication](Communication) of 4
 
 
 ##### Skills
 
 | Skill                        | Ranks |
 | ---------------------------- | ----- |
-| [Fitness](Fitness)           |       |
-| [Melee](Melee)               | 1     | 
-| [Sport](Sport)               |       |
-| [Acrobatics](Acrobatics)     |       |
-| [Marksmanship](Marksmanship) |       |
-| [Subterfuge](Subterfuge)     |       |
-| [Crafting](Crafting)         |       |
-| [Knowledge](Knowledge)       |       |
-| [Medicine](Medicine)         |       |
-| [Perception](Perception)     | 1     |
-| [Science](Science)           |       |
-| [Composure](Composure)       | 1     |
-| [Channel](Channel)           |       |
-| [Ritual](Ritual)             |       |
-| [Converse](Converse)         | 2     |
-| [Husbandry](Husbandry)       | 1     |
-| [Perform](Perform)           | 1     |
+| [Athletics](Strength#Athletics)           |       |
+| [Strike](Strength#Strike)               | 1     | 
+| #TODOSKILL               |       |
+| [reflexes](Agility#Reflexes)     |       |
+| [Accuracy](Agility#Accuracy) |       |
+| [Grace](Agility#Grace)     |       |
+| [Memory](Intelligence#Memory)       |       |
+| [Insight](Intelligence#Insight)     | 1     |
+| [Application](Intelligence#Application)           |       |
+| [Identity](Spirit#Identity)       | 1     |
+| [Will](Spirit#Will)           |       |
+| [Attunement](Spirit#Attunement)             |       |
+| [Connection](Communication#Connection)         | 2     |
+| [Mannerism](Communication#Mannerism)       | 1     |
+| [Confidence](Communication#Confidence)           | 1     |
 
 ##### Training
 * [Haggling](Trades-Training#Haggling)
@@ -266,34 +256,32 @@ The basis of your character, the skills and tools that help you when adventuring
 *A trainer of wild beasts and creatures*
 
 ##### Recommended Stats
-* [Strength](Stats#Strength) of 2
-* [Agility](Stats#Agility) of 3
-* [Intelligence](Stats#Intelligence) of 3
-* [Resolve](Stats#Resolve) of 2
-* [Fellowship](Stats#Fellowship) of 3
+* [Strength](Strength) of 2
+* [Agility](Agility) of 3
+* [Intelligence](Intelligence) of 3
+* [Spirit](Spirit) of 2
+* [Communication](Communication) of 3
 
 
 ##### Skills
 
 | Skill                        | Ranks |
 | ---------------------------- | ----- |
-| [Fitness](Fitness)           | 1     |
-| [Melee](Melee)               | 1     |
-| [Sport](Sport)               |       |
-| [Acrobatics](Acrobatics)     |       |
-| [Marksmanship](Marksmanship) |       |
-| [Subterfuge](Subterfuge)     |       |
-| [Crafting](Crafting)         |       |
-| [Knowledge](Knowledge)       | 1     |
-| [Medicine](Medicine)         | 1     | 
-| [Perception](Perception)     | 1     |
-| [Science](Science)           |       |
-| [Composure](Composure)       |       |
-| [Channel](Channel)           |       |
-| [Ritual](Ritual)             |       |
-| [Converse](Converse)         |       |
-| [Husbandry](Husbandry)       | 2     |
-| [Perform](Perform)           |       |
+| [Athletics](Strength#Athletics)           | 1     |
+| [Strike](Strength#Strike)               | 1     |
+| #TODOSKILL               |       |
+| [reflexes](Agility#Reflexes)     |       |
+| [Accuracy](Agility#Accuracy) |       |
+| [Grace](Agility#Grace)     |       |
+| [Memory](Intelligence#Memory)       | 1     |
+| [Insight](Intelligence#Insight)     | 1     |
+| [Application](Intelligence#Application)           |  1     |
+| [Identity](Spirit#Identity)       |       |
+| [Will](Spirit#Will)           |       |
+| [Attunement](Spirit#Attunement)             |       |
+| [Connection](Communication#Connection)         |       |
+| [Mannerism](Communication#Mannerism)       | 2     |
+| [Confidence](Communication#Confidence)           |       |
 
 ##### Training
 * [Mounted Expert](Keeper#Mounted%20Expert)
@@ -314,7 +302,7 @@ Your character's additional interest, things they do in their spare time.
 *You've experience tending for harmed individuals and can easily help the sick and wounded*
 
 ##### Additional Skills (2 Ranks)
-* Add two ranks to [Medicine](Medicine)
+* Add two ranks to [Application](Intelligence#Application)
 
 ##### Additional Trainings (2 Basic)
 * [Doctors Eye](Doctor#Doctors%20Eye)
@@ -330,8 +318,8 @@ Your character's additional interest, things they do in their spare time.
 *You've a small amount of experience with divining the fates*
 
 ##### Additional Skills (2 Ranks)
-* Add one rank to [Ritual](Ritual)
-* Add one rank to [Perception](Perception)
+* Add one rank to [Attunement](Spirit#Attunement)
+* Add one rank to [Insight](Intelligence#Insight)
 
 ##### Additional Trainings (2 Basic)
 * [Attuned](Magic-Training#Attuned)
@@ -347,8 +335,8 @@ Your character's additional interest, things they do in their spare time.
 *You seem to always be getting thrown out of bars*
 
 ##### Additional Skills (2 Ranks)
-* Add one rank to [Melee](Melee)
-* Add one rank to [Sport](Sport)
+* Add one rank to [Strike](Strength#Strike)
+* Add one rank to #TODOSKILL
 
 ##### Additional Trainings (2 Basic)
 * [Black Belt](Pugilist#Black%20Belt)
@@ -365,8 +353,8 @@ Your character's additional interest, things they do in their spare time.
 *Your upbringing included learning to spar*
 
 ##### Additional Skills (2 Ranks)
-* Add one rank to [Melee](Melee)
-* Add one rank to [Acrobatics](Acrobatics)
+* Add one rank to [Strike](Strength#Strike)
+* Add one rank to [reflexes](Agility#Reflexes)
 
 ##### Additional Trainings (2 Basic)
 * [Martial Training](Combat-Training#Martial%20Training)
@@ -382,8 +370,8 @@ Your character's additional interest, things they do in their spare time.
 *You pride yourself on the knowledge you've amassed travelling*
 
 ##### Additional Skills (2 Ranks)
-* Add one rank to [Knowledge](Knowledge)
-* Add one rank to [Subterfuge](Subterfuge)
+* Add one rank to [Memory](Intelligence#Memory)
+* Add one rank to [Grace](Agility#Grace)
 
 ##### Additional Trainings (2 Basic)
 * [Travel the Shadows](Hunter#Travel%20the%20Shadows)
@@ -402,7 +390,7 @@ Your character's additional interest, things they do in their spare time.
 ##### Additional Skills (2 Ranks)
 > depending on what you are controlling, you could take husbandry instead
 
-* Add two ranks to [Converse](Converse)
+* Add two ranks to [Connection](Communication#Connection)
 
 ##### Additional Trainings (2 Basic)
 * [With Me](Leader#With%20Me)
@@ -419,7 +407,7 @@ Your character's additional interest, things they do in their spare time.
 *You always knew how to take care of yourself, even at others expense*
 
 ##### Additional Skills (2 Ranks)
-* Add two ranks to [Subterfuge](Subterfuge)
+* Add two ranks to [Grace](Agility#Grace)
 
 ##### Additional Trainings (2 Basic)
 * [Shadow Combatant](Shadow#Shadow%20Combatant)
@@ -435,7 +423,7 @@ Your character's additional interest, things they do in their spare time.
 *From a young age, you practised with a bow*
 
 ##### Additional Skills (2 Ranks)
-* Add two ranks to [Marksmanship](Marksmanship)
+* Add two ranks to [Accuracy](Agility#Accuracy)
 
 ##### Additional Trainings (2 Basic)
 * [Bow Expert](Marksman#Bow%20Expert)

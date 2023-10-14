@@ -19,10 +19,10 @@ affects different locations separately and is the maximum bonus you can have on 
 
 | Location | Skills effected                                |
 | -------- | ---------------------------------------------- |
-| Head     | [Perception](Perception), and [Converse](Converse)    |
-| Arms     | [Melee](Melee), [Marksmanship](Marksmanship), and [Channel](Channel)|
+| Head     | [Insight](Intelligence#Insight), and [Connection](Communication#Connection)    |
+| Arms     | [Strike](Strength#Strike), [Accuracy](Agility#Accuracy), and [Will](Spirit#Will)|
 | Torso    | *No Penalties*                                 |
-| Legs     | [Acrobatics](Acrobatics), [Subterfuge](Subterfuge)                                               |
+| Legs     | [reflexes](Agility#Reflexes), [Grace](Agility#Grace)                                               |
 
 #### Weakness and Resistance
 Changes how certain [types of damage](Combat#Types%20of%20Damage) effect you. If a piece of armour would gain a resistance or weakness complementary to an existing Resistance or Weakness on the armour through [Armour-Traits](Armour-Traits), the two cancel out resulting in no effect. If a piece of armour would gain a resistance or weakness it already has through [Armour-Traits](Armour-Traits), there is no effect. See [Armour and Penetration](Combat#Armour%20and%20Penetration) for details. 

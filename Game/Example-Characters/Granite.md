@@ -11,11 +11,11 @@ Granite is a lean and fit [Face](../Classes#Face) [Brawler](../Classes#Brawler) 
 
 | Attribute                             | Value | -   | Secondary Attribute                     | Value |
 | ------------------------------------- | ----- | --- | --------------------------------------- | ----- |
-| [Strength](../Stats#Strength)         | 3     | -   | [Total XP](../Stats#Total%20XP)         | 10    |
-| [Agility](../Stats#Agility)           | 2     | -   | [Spent XP](../Stats#Spent%20XP)         | 10    |
-| [Intelligence](../Stats#Intelligence) | 2     | -   | [Power](../Stats#Power)                 | 2     |
-| [Resolve](../Stats#Resolve)           | 2     | -   | [Move Speed](../Stats#Move%20Speed)     | 8    |
-| [Fellowship](../Stats#Fellowship)     | 4     | -   | [Initiative](../Stats#Initiative)       | 4     |
+| [Strength](../Strength)         | 3     | -   | [Total XP](../Stats#Total%20XP)         | 10    |
+| [Agility](../Agility)           | 2     | -   | [Spent XP](../Stats#Spent%20XP)         | 10    |
+| [Intelligence](../Intelligence) | 2     | -   | [Power](../Stats#Power)                 | 2     |
+| [Spirit](../Spirit)           | 2     | -   | [Move Speed](../Stats#Move%20Speed)     | 8    |
+| [Communication](../Communication)     | 4     | -   | [Initiative](../Stats#Initiative)       | 4     |
 |                                       |       | -   | [Threat](../Stats#Threat)               | 1     |
 |                                       |       | -   | [Max Toxicity](../Stats#Max%20Toxicity) | 6     | 
 
@@ -24,14 +24,13 @@ Granite is a lean and fit [Face](../Classes#Face) [Brawler](../Classes#Brawler) 
 
 | Skill                        | Stat | Ranks | -   | Skill                     | Stat | Ranks |
 | ---------------------------- | ---- | ----- | --- | ------------------------- | ---- | ----- |
-| [Fitness](Fitness)           | STR  | 1     | -   | [Perception](Perception)  | INT  | 1     |
-| [Melee](Melee)               | STR  | 1     | -   | [Science](Science)        | INT  |       |
-| [Acrobatics](Acrobatics)     | AGI  |       | -   | [Composure](Composure)    | RES  | 1     |
-| [Marksmanship](Marksmanship) | AGI  |       | -   | [Channel](Channel)        | RES  |       |
-| [Subterfuge](Subterfuge)     | AGI  |       | -   | [Ritual](Ritual)          | RES  |       |
-| [Crafting](Crafting)         | INT  |       | -   | [Converse](../Converse)   | FEL  | 2     |
-| [Knowledge](Knowledge)       | INT  |       | -   | [Husbandry](../Husbandry) | FEL  | 1     |
-| [Medicine](Medicine)         | INT  |       | -   | [Perform](../Perform)     | FEL  | 1     |
+| [Athletics](../Strength#Athletics)           | STR  | 1     | -   | [Insight](Intelligence#Insight)  | INT  | 1     |
+| [Strike](../Strength#Strike)               | STR  | 1     | -   | [Application](Intelligence#Application)        | INT  |       |
+| [reflexes](Agility#Reflexes)     | AGI  |       | -   | [Identity](Spirit#Identity)    | RES  | 1     |
+| [Accuracy](../Agility#Accuracy) | AGI  |       | -   | [Will](Spirit#Will)        | RES  |       |
+| [Grace](Agility#Grace)     | AGI  |       | -   | [Attunement](Spirit#Attunement)          | RES  |       |
+| [Confidence](../Communication#Confidence)        | FEL  | 1      | -   | [Connection](../Communication#Connection)   | FEL  | 2     |
+| [Memory](Intelligence#Memory)       | INT  |       | -   | [Mannerism](../Communication#Mannerism) | FEL  | 1     |
 
 ### Training
 * [Haggling](../Trades-Training#Haggling)

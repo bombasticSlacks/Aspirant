@@ -34,7 +34,7 @@ nav_order: 2
 
 #### Fine
 Material: Textile
-Your armour incorporates fine linens, silks, furs or other more exotic fibers, which impress and captivate with their dazzling colours and flowing motions. You add +1 to [Converse](Converse) and [Perform](Perform) skill tests when more than half of your armour pieces have the Fine Trait.
+Your armour incorporates fine linens, silks, furs or other more exotic fibers, which impress and captivate with their dazzling colours and flowing motions. You add +1 to [Connection](Communication#Connection) and [Confidence](Communication#Confidence) skill tests when more than half of your armour pieces have the Fine Trait.
 
 #### Fortified
 Material: Metal
@@ -58,7 +58,7 @@ Your armour is constructed of distinct interlocking rings or scales, reducing we
 
 #### Ornate
 Material: Any
-Your armour includes ornate details such as elaborate patterns, intricate engravings, or precise coloration that makes it impressive to behold. You add +1 to [Converse](Converse) skill tests when more than half of your armour pieces have the Ornate Trait.
+Your armour includes ornate details such as elaborate patterns, intricate engravings, or precise coloration that makes it impressive to behold. You add +1 to [Connection](Communication#Connection) skill tests when more than half of your armour pieces have the Ornate Trait.
 
 #### Padded
 Material: Textile
@@ -74,11 +74,11 @@ Your armour utilizes additional banded plates, rivets, latches, or planks to rei
 
 #### Runic
 Material: Metal, Wood
-Through arcane ritual and carefully handiwork, your armour has had runes chiselled into its structure. This armour counts as a Focus for [Channel](Channel) skill tests.    
+Through arcane ritual and carefully handiwork, your armour has had runes chiselled into its structure. This armour counts as a Focus for [Will](Spirit#Will) skill tests.    
 
 #### Spiked
 Material: Metal, Wood
-Your armour includes spines, brambles, or razor sharp edges which may be used to perform an unarmed [Melee](Melee) attack that deals Piercing damage. This attack occurs automatically when a [Grapple](Combat#Grapple) is initiated involving the character wearing this armour.
+Your armour includes spines, brambles, or razor sharp edges which may be used to perform an unarmed [Strike](Strength#Strike) attack that deals Piercing damage. This attack occurs automatically when a [Grapple](Combat#Grapple) is initiated involving the character wearing this armour.
 
 #### Well-fitted
 Material: Any
@@ -96,7 +96,7 @@ The wood your armour is made of has extraordinary properties, giving it steel li
 
 #### Mechanical Strength
 Material: Machinery
-Your armour augments the users movements Count as having 4 [Strength](Stats#Strength) when [Dealing Damage](Combat#Dealing%20Damage) or performing a [Fitness](Fitness) skill test other than Swimming, but lower [Max Skill](Armour#Max%20Skill) by 2. If the character already has 4 [Strength](Stats#Strength) instead treat their [Strength](Stats#Strength) as 5.
+Your armour augments the users movements Count as having 4 [Strength](Strength) when [Dealing Damage](Combat#Dealing%20Damage) or performing a [Athletics](Strength#Athletics) skill test other than Swimming, but lower [Max Skill](Armour#Max%20Skill) by 2. If the character already has 4 [Strength](Strength) instead treat their [Strength](Strength) as 5.
 
 #### Natural Resilience
 Material: Leather
