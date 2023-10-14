@@ -112,13 +112,13 @@ A successful surgery removes the person's [Injury Penalty](Injury#Injury%20Penal
 
 Surgery takes 20 minutes per [Injury](Injury) the person has sustained, with torso injuries #TODODamage taking 2 times as long and head injuries taking 3 times as long. The total time in surgery is equal to the sum of all injuries. 
 
-Surgery can only be attempted once, per person, per downtime.
+Surgery can only be attempted once, per person, per [Downtime](Telling-The-Story#Downtime).
 
 #### Exact Dosage
 Whenever you administer an alchemical solution with a duration, if the duration is rolled for in rounds, roll twice and take the result of your choice. If the solution's duration is not rolled for, you can choose for it to last either half or twice as long. If the solution's effect is immediate, you can choose to use only half the amount.
 
 #### I Packed It
-Once per downtime, you can declare after the fact that you purchased an item while you were last resting in a settlement. The item would have to have been available, and you need to spend the equivalent currency it would have cost.
+Once per [Downtime](Telling-The-Story#Downtime), you can declare after the fact that you purchased an item while you were last resting in a settlement. The item would have to have been available, and you need to spend the equivalent currency it would have cost.
 
 You also count as having an [Explorers Kit](Example-Gear#Explorers%20Kit), you can use it for [Power](Stats#Power) instead of silver.
 
@@ -136,4 +136,4 @@ You can also attempt to bring someone who has died from either a critical chest 
 If you successfully use a [Trauma Kit](Example-Gear#Trauma%20Kit) on someone, their [Injury Penalty](Injury#Injury%20Penalty) goes away. You can also make a medical test to treat ongoing negatives that were caused by someone else's medical work.
 
 #### Multitasker
-Once per downtime, you can opt to take a second combat action after your first or expedite / multitask two narrative actions.
+Once per [Downtime](Telling-The-Story#Downtime), you can opt to take a second combat action after your first or expedite / multitask two narrative actions.

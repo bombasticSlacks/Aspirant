@@ -42,7 +42,7 @@ You can also as [Production Work](Activities#Production%20Work) craft [Munitions
 When crafting you can use [Exotic](Materials#Exotic) [Materials](Materials) and make exotic [Equipment](Equipment).
 
 #### Ablative Armour
-After downtime, your armour has 2 additional max integrity that isn’t otherwise repairable.
+After [Downtime](Telling-The-Story#Downtime), your armour has 2 additional max integrity that isn’t otherwise repairable.
 
 #### Armour Smith
 As [Production Work](Activities#Production%20Work), you can craft or modify [Basic](Designing-Armour#Basic) and [Artisan](Designing-Armour#Artisan) [Armour](Armour) using an [Armourers Tool Set](Example-Gear#Armourers%20Tool%20Set) using [Application](Intelligence#Application). More details in [Designing-Armour](Designing-Armour).
@@ -114,4 +114,4 @@ As [Production Work](Activities#Production%20Work), using an [Alchemists Tool Se
 [Equipment](Equipment) you create in a [Workshop](Example-Infrastructure#Workshop) are masterwork quality.
 
 #### Overtime
-Your character get an extra [Downtime Activity](Activities#Downtime%20Activity) while [Resting](Telling-The-Story#Resting) and an additional [Travelling Activity](Activities#Travelling%20Activity) per [Travel Segment](Telling-The-Story#Travel%20Segment).
+Your character get an extra [Downtime Activity](Activities#Downtime%20Activity) while [Resting](Telling-The-Story#Downtime) and an additional [Travelling Activity](Activities#Travelling%20Activity) per [Travel Segment](Telling-The-Story#Travel%20Segment).

@@ -18,7 +18,7 @@ They can generally teach the following training:
 If you have an [Simple Instrument](Example-Gear#Simple%20Instrument), or [Complex Instrument](Example-Gear#Complex%20Instrument) on you, every ally gets a (+1) to initiative.
 
 #### Come In Peace
-[Allies](Terminology#Ally) and yourself gain a (+1) to [Social Skill Test](Terminology#Social%20Skill%20Test) when interacting with residents of an area.
+[Allies](Terminology#Ally) and yourself gain a (+1) to [Social Skill Test](Terminology#Social%20Action) when interacting with residents of an area.
 
 #### Heartthrob
 Your character receives a (+2) to [Actions](Terminology#Action) against people that are sexually attracted to you.
@@ -33,7 +33,7 @@ You receive a (+1) to all [Actions](Terminology#Action) in situations where your
 As [Skilled Work](Activities#Skilled%20Work), you can busk. Make a [Confidence](Communication#Confidence) [Variable Difficulty](Skills#Variable%20Difficulty), you receive 2 silver per [Step Of Success](Skills#Step%20Of%20Success).
 
 #### Faithful
-You receive a +1 to all [Social Skill Test](Terminology#Social%20Skill%20Test) against any [Opponent](Terminology#Opponent) who shares similar beliefs to your [Character](Terminology#Character).
+You receive a +1 to all [Social Skill Test](Terminology#Social%20Action) against any [Opponent](Terminology#Opponent) who shares similar beliefs to your [Character](Terminology#Character).
 
 #### Inspiring Presence
 You can control an additional 2 [Followers](Terminology#Follower).
@@ -62,10 +62,10 @@ You can buy any item, even a person's personal equipment.
 ### Advanced
 
 #### Contacts
-As a downtime action, you can spend a day setting up contacts in any location. This contact network can be queried for information and will send relevant info your way.
+As a [Downtime Activity](Activities#Downtime%20Activity), you can spend a day setting up contacts in any location. This contact network can be queried for information and will send relevant info your way.
 
 #### Editorializing
-Once per [Resting](Telling-The-Story#Resting), if they are willing, you may give any [Character](Terminology#Character) a single [Re-roll](Terminology#Re-roll) for any dice roll.
+Once per [Downtime](Telling-The-Story#Downtime), if they are willing, you may give any [Character](Terminology#Character) a single [Re-roll](Terminology#Re-roll) for any dice roll.
 
 #### Heretic
 Spend a [Power](Stats#Power), you may designate a target as a heretic of the cause. They receive a (-1) to all [Actions](Terminology#Action). Any [Action](Terminology#Action) an [Ally](Terminology#Ally) makes against an [Opponent](Terminology#Opponent) who is marked as a heretic is at a (+1).
@@ -74,7 +74,7 @@ Spend a [Power](Stats#Power), you may designate a target as a heretic of the cau
 When a [Follower](Terminology#Follower) or [Ally](Terminology#Ally) is performing an [Action](Terminology#Action) spend a [Power](Stats#Power) to have them use your relevant skills for that [Action](Terminology#Action).
 
 #### Understudy
-During [Socialize](Activities#Socialize), you can select a training that another member of your party has, which you count as having until your next [Resting](Telling-The-Story#Resting), or [Socialize](Activities#Socialize).
+During [Socialize](Activities#Socialize), you can select a training that another member of your party has, which you count as having until your next [Downtime](Telling-The-Story#Downtime), or [Socialize](Activities#Socialize).
 
 #### What I Meant Was
 Spend 2 [Power](Stats#Power) during [Narrative Time](Telling-The-Story#Narrative%20Time), after speaking to someone and hearing how they react, you may say “what I meant to say was…” and continue the conversation as though what you originally said *never* happened.

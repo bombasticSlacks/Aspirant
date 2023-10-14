@@ -25,7 +25,7 @@ No penalties for performing [Character Activity On Mount](Mounts#Character%20Act
 You have 1 additional [Armour Integrity](Armour#Armour%20Integrity).
 
 #### Knight's Vow
-You receive a (+1) on all [Combat Skill Test](Terminology#Combat%20Skill%20Test), but can never attack an unarmed, unaware or unable to defend themselves [Opponent](Terminology#Opponent). 
+You receive a (+1) on all [Combat Skill Test](Terminology#Combat%20Action), but can never attack an unarmed, unaware or unable to defend themselves [Opponent](Terminology#Opponent). 
 
 #### Phalanx
 When wielding a [Shield](Terminology#Shield), and [In Melee](Terminology#In%20Melee) with an [Ally](Terminology#Ally), you and [Allies](Terminology#Ally) you are in melee with get a +1 to [Reflexes](Agility#Reflexes) skill tests.
@@ -89,7 +89,7 @@ As a [Special Manoeuvre](Combat#Special%20Manoeuvres), you may make a [Strike](S
 ### Master
 
 #### People’s Champion
-Once per downtime, may ignore any injury as though it didn’t occur.
+Once per [Downtime](Telling-The-Story#Downtime), may ignore any injury as though it didn’t occur.
 
 #### Master Block
 You get an additional [Reaction](Terminology#Reaction) on each of your [Combat Turns](Terminology#Combat%20Turn).

@@ -66,12 +66,10 @@ A character who is an [Ally](#Ally) but also is willing to be directly commanded
 ### Mounted
 A [Character](#Character) is mounted if they are currently riding on another tamed creature which they are in control of. This usually means a horse, but could be another creature.
 
-### Combat Skill Test
-#TODORename Action
+### Combat Action
 Any skill test related to combat.
 
-### Social Skill Test
-#TODORename Action
+### Social Action
 Any skill test related to communicating or interacting non-violently with another character.
 
 ### Action

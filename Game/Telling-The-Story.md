@@ -15,9 +15,8 @@ Narrative time in aspirant involves characters in a place of interest doing acti
 #### Scene
 A scene refers to the current moment of action / intrigue playing out. Scenes don't have a defined length or strict rules, but it is a useful way of talking about narrative play.
 
-### Resting
-#TODORename downtime
-Resting is fast forwarded downtime your characters will sometimes have. This tends to happen when you arrive in a safe area. Each day, in a safe area, your character may perform 1 [Downtime Activity](Activities#Downtime%20Activity). Unless you are receiving charity, your food, and housing costs 1 silver per day. If you cannot afford this, you do not get to do activities.
+### Downtime
+This tends to happen when you arrive in a safe area. Each day, in a safe area, your character may perform 1 [Downtime Activity](Activities#Downtime%20Activity). Unless you are receiving charity, your food, and housing costs 1 silver per day. If you cannot afford this, you do not get to do activities.
 
 ### Travelling
 Travelling in Aspirant can take long amounts of time. Travelling involves knowing the direction or location of something and then travelling towards it. Travel will usually take a number of days. 

@@ -25,7 +25,7 @@ During your [Combat Turn](Terminology#Combat%20Turn) you can perform an [Action]
 You receive a (+1) to [Avoid](Combat#Avoid) and [Parry](Combat#Parry) skill tests.
 
 #### Pit Fighter
-You may count your [Strength](Strength) as equivalent to [Agility](Agility) for [Combat Skill Test](Terminology#Combat%20Skill%20Test) and damage calculations #TODODamage .
+You may count your [Strength](Strength) as equivalent to [Agility](Agility) for [Combat Skill Test](Terminology#Combat%20Action) and damage calculations #TODODamage .
 
 #### Weapon Expert
 You receive a (+1) to all [Actions](Terminology#Action) involving weapons. 
@@ -46,7 +46,7 @@ You may substitute your [Strength](Strength) with [Intelligence](Intelligence) f
 You receive a (+1) to [Reaction](Terminology#Reaction) skill tests per [Mitigated Attack](Terminology#Mitigated%20Attack) targeting you this [Combat Round](Terminology#Combat%20Round).
 
 #### Sole Combatant
-You receive a (+1) to all [Combat Skill Test](Terminology#Combat%20Skill%20Test) when [In Melee](Terminology#In%20Melee) with only 1 other [Character](Terminology#Character).
+You receive a (+1) to all [Combat Skill Test](Terminology#Combat%20Action) when [In Melee](Terminology#In%20Melee) with only 1 other [Character](Terminology#Character).
 Enemies don’t receive benefits for [Outnumbering](Combat#Outnumbered) you.
 
 #### Head Down

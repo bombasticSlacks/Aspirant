@@ -4,7 +4,7 @@ title: Character Development
 has_children: true
 ---
 ## Character Development
-As you adventure, your character will become stronger. This can happen in a number of ways. When completing quests, you will gain XP. XP in this game stands for “Experience Potential”. During downtime, you can convert XP into character development, whether it be increased skills or new training.
+As you adventure, your character will become stronger. This can happen in a number of ways. When completing quests, you will gain XP. XP in this game stands for “Experience Potential”. During [Downtime](Telling-The-Story#Downtime), you can convert XP into character development, whether it be increased skills or new training.
 
 When you rest, based on the length of the rest, you will have time which could be spent training. Spending XP to train is either a [downtime activity](Activities#Downtime%20Activity) or [travel activity](Activities#Travel%20Activity).
 
@@ -41,7 +41,7 @@ Basic, advanced, and master training represents powerful new abilities that your
 * Passive - just does something all the time for you.
 * Elective - gives you a new ability/option you can use at will.
 * Power Based - Requires spending [Power](Stats#Power) to activate.
-* Per Downtime - Very powerful abilities that can only be used once before resting in a city.
+* Once Per Downtime - Very powerful abilities that can only be used once before resting in a city.
 
 #### Basic Level Training
 Basic training should fundamentally be known by any practitioners of the training school.
