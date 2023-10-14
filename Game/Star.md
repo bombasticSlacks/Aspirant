@@ -6,7 +6,7 @@ grand_parent: Character Development
 nav_order: 2
 ---
 ## Star
-Character who specializes in being the center of attention. Leading, inspiring, telling stories, and performing.
+Character who specializes in being the centre of attention. Leading, inspiring, telling stories, and performing.
 
 Stars are:
 * Religious Leaders

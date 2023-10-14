@@ -4,6 +4,7 @@ Ambusher
 Apophenia
 Arcana
 Arcanist
+Arcanists
 armoursmith
 aspirantrpg
 attunement
@@ -30,6 +31,7 @@ Duelist
 Dungeoneering
 dwarven
 dwelled
+Dynamancy
 Dynamist
 Elderwood
 Elementalist
