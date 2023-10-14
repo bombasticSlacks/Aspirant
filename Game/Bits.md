@@ -2,7 +2,7 @@
 layout: default
 title: Bits
 parent: Materials
-grand_parent: Services
+grand_parent: Equipment
 nav_order: 2
 ---
 ## Bits

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Wanderer
-parent: Trades Training
-grand_parent: Character Development
+parent: Character Development
+grand_parent: Telling The Story
 nav_order: 2
 ---
 ## Wanderer

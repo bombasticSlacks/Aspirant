@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Materials
-parent: Services
+parent: Equipment
 nav_order: 2
 has_children: true
 ---
