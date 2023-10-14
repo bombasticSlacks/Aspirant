@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Arcanist
-parent: Magic Training
-grand_parent: Character Development
+parent: Character Development
+grand_parent: Telling The Story
 nav_order: 2
 ---
 ## Arcanist

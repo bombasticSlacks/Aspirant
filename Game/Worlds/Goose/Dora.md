@@ -1,3 +1,9 @@
+---
+layout: default
+nav_exclude: true
+---
+## Dora
+
 Large Size 4 city on the coast,
 
 Well known, entertainment town. Art and culture. Sexy, tourism etc.

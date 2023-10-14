@@ -2,6 +2,7 @@
 layout: default
 title: Character Development
 has_children: true
+parent: Telling The Story
 ---
 ## Character Development
 As you adventure, your character will become stronger. This can happen in a number of ways. When completing quests, you will gain XP. XP in this game stands for “Experience Potential”. During [Downtime](Telling-The-Story#Downtime), you can convert XP into character development, whether it be increased skills or new training.

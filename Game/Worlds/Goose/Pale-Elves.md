@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 ## Pale Elves
 
 ### The Hidden Village

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Shaper
-parent: Magic Training
-grand_parent: Character Development
+parent: Character Development
+grand_parent: Telling The Story
 nav_order: 2
 ---
 ## Shaper
