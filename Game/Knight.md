@@ -72,7 +72,7 @@ If you have not made an [Attack](Terminology#Attack) during your [Combat Turn](T
 When you or your [Mount](Mounts) are attacked while [Mounted](Terminology#Mounted), you may choose which of you any attack targets. Your mount also gets a [Reaction](Terminology#Reaction).
 
 #### Roll With The Punches
-After suffering an [Injuring Attack](Terminology#Injuring%20Attack), you may drop prone to make the attack a [Glancing Blow](Attacks#Glancing%20Blow).
+After you opponent achieves a [Non-mitigated Attack](Terminology#Non-mitigated%20Attack), you may drop prone to reduce the [Damage](Terminology#Damage) by 1.
 
 #### Second Skin
 You ignore [Max Skill](Armour#Max%20Skill) for any [Armour](Armour) you wear.

@@ -19,6 +19,9 @@ If a [Character](#Character) succeeds on an [Attack](#Attack) skill test and the
 ### Mitigated Attack
 If a [Character](#Character) fails an attack roll or their [Opponent](#Opponent) stops the attack with a reaction, that is a mitigated attack.
 
+### Damage
+An abstraction for how much power and harm is behind an attack. When you suffer damage it is first absorbed by [Armour](Armour) and then results in [Injury](Injury).
+
 ### Injuring Attack
 If a [Character](#Character) successfully causes an injury with an attack, that is an Injuring Attack.
 

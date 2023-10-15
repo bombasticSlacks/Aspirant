@@ -53,29 +53,11 @@ To randomly determine a hit location, you should roll a d12 and consult the foll
 | 9-11 | Legs     |
 | 12   | Head     |
 
-### Armour and Penetration
-When someone is being attacked, to determine what effect the attack has, you check if the incoming damage type is either a weakness or resistance of the armour:
-
-| Attack is: | Armour Integrity Damage |
-| ---------- | ----------------------- |
-| Weakness   | 4                       |
-| Normal     | 2                       |
-| Resistance | 1                       | 
-
-#### Compromised Armour
-Once your armour integrity goes to 0, your armour is considered compromised. It no longer provides any protection, and any attacks you take [Deal Damage](#Dealing%20Damage).
-
-#### Partially Compromised
-Any time you would remove armour integrity, your armour isn't compromised, but you don't have the full required amount, your armour's integrity is reduced to 0, but your opponent's attack is a [Glancing Blow](#Glancing%20Blow).
-
-> A character with two armour integrity taking a normal attack reduces their armour integrity to 0 but is otherwise unharmed.
-
-> A character with 2 armour integrity taking a weakness attack (4 integrity damage) reduces their armour integrity to 0 and takes an injury. The opponent rolls and determines the injury is a [Severe Injury](Injury#Severe%20Injury), but since the characters armour was only [Partially Compromised](#Partially%20Compromised) they take a [Minimal Injury](Injury#Minimal%20Injury) instead. Their armour is now [Compromised](#Compromised%20Armour).
-
-#### Resistance
-As an additional benefit, if you are resistant to an attack it always counts as a [Glancing Blow](#Glancing%20Blow).
-
 ### Dealing Damage
+
+Generally, a weapon or attack will already have a calculated [Injury](Injury) it causes, however your character might have additional bonuses which increase this value further.
+
+
 When you or something else is attempting to injure someone you will in most cases roll 1d6 + damage modifier. Damage modifier is a combination of the weapons inherent lethality, size, any bonuses from your character and usually, your [Strength](Strength). 
 
 This number is usually compared to the universal damage chart to determine the injury caused:
@@ -89,7 +71,16 @@ This number is usually compared to the universal damage chart to determine the i
 
 > So, for example, a long sword (3 size artisan weapon) wielded by a character with 3 [Strength](Strength) would have a damage bonus of 7 (1 artisan + 3 size + 3 [Strength](Strength)). That means on a 1-3 it causes a severe injury, on a 4-6 it causes a critical injury. 
 
-#### Glancing Blow
-Sometimes your attacks will be partially mitigated by abilities or other circumstances. When this happens you reduce the severity of your injury by one.
 
-> So a [Critical Injury](Injury#Critical%20Injury) glancing blow becomes a [Severe Injury](Injury#Severe%20Injury).
+
+### Taking Damage
+If you fail to mitigate an incoming attack, you will take damage.
+[Armour](Armour) is your first line of defence against attacks. Your armour provides you with a small amount of [Armour Integrity](Armour#Armour%20Integrity) which can absorb incoming damage. 
+
+* Adjust incoming damage based on if you have [Weakness and Resistance](Armour#Weakness%20and%20Resistance) to the attack.
+* Deduct incoming damage from your [Armour Integrity](Armour#Armour%20Integrity).
+* Any remaining damage is converted to an [Injury](Injury).
+
+> Example if your character takes 3 damage from a piercing attack while wearing armour weak to piercing with 2 [Armour Integrity](Armour#Armour%20Integrity). Your character's Armour Integrity is reduced to 0, with 2 damage still left unabsorbed you take a [Severe Injury](Injury#Severe%20Injury).
+
+
