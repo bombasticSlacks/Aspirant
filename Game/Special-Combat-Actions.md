@@ -25,7 +25,7 @@ On their turn, they may:
 
 On your turn, you may:
 * Make an [Athletics](Strength#Athletics) test to inflict a severe injury to them, ignoring armour.
-* Pin then completely, causing them to take a -2 on any skill tests on their turn.
+* Pin your [Opponent](Terminology#Opponent) completely, causing them to take a -2 on any skill tests on their turn.
 * Make an attack with a size 1 weapon with a -2 to hit that can’t be evaded
 * Make an [Athletics](Strength#Athletics) skill test to throw them strength + d3 meters in a direction of your choice.
 
