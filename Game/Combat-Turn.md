@@ -1,17 +1,18 @@
 ---
 layout: default
-title: Your Turn
+title: Combat Turn
 parent: Combat
 nav_order: 2
 grand_parent: Telling The Story
 ---
 
-## Your Turn
-On Your turn in combat, you can do basically anything that can feasibly be done in 5 seconds. You are encouraged to get creative and talk to the GM; however, several common manoeuvres are listed in this chapter for you to use as examples. The simple way to think about it though is on your turn, you can either:
+## Combat Turn
+In combat, a turn is a [Character's](#Character) portion of the round. What they are doing is happening in parallel with everyone else, but for simplicity the game takes things in an order determined by [Initiative Value](Combat#Initiative%20Value). On Your turn in combat, you can do basically anything that can feasibly be done in 5 seconds. You are encouraged to get creative and talk to the GM; however, several common scenarios are provided to use as an example. The simple way to think about it though is on your turn, you can either:
 - Do an Action (usually involves a skill test).
-- Move up to 2 * [Agility](Agility) meters, then do an action with all skill tests at -2.
-- Delay your combat turn.
+- Move up to 2 * [Agility](Agility) meters #TODOMovement, then do an action with all skill tests at (-2).
+- [Delay](#Delay).
 
+### Delay
 When you delay your combat turn, you can instead choose to act after any other character has finished their combat turn. You need to use your delayed action before your next combat turn (this can lead to you taking back to back turns).
 
 ### Advanced Turns

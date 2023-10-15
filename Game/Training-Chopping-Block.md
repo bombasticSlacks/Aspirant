@@ -75,7 +75,7 @@ You can visualize what nearby characters are doing even if you can’t directly 
 If your character has a [Trap Kit](Example-Gear#Trap%20Kit), your payloads can be much more exotic, but the skill test becomes [Application](Intelligence#Application), and they take longer to prepare. They can include things like:
 Gravity destabilize: Everything in the trap area loses gravity for 1d3 rounds. Or gravity shifts in a direction for the same duration.
 Stasis discharge: Everything in the area is stunned for a turn.
-Magnesium Bomb: Everything in the area suffers an [Hot](Combat#Hot) attack that causes a critical injury to a location and is on fire.
+Magnesium Bomb: Everything in the area suffers an [Hot](Injury#Hot) attack that causes a critical injury to a location and is on fire.
 Corrosive Gas: Everything in the area loses all resistance for its armour
 
 
@@ -146,4 +146,10 @@ You are an expert in a specific ritual of your choice, which you can perform at 
 
 #### Find A Buyer
 As a [Downtime Activities](Activities#Downtime%20Activity), you can spend a day finding someone interested in purchasing an item for full price (materials + labour). This is a skill test based on the settlement's Wealth + your [Connection](Communication#Connection), and a difficulty based on the rarity of the item.
+
+#### Protect the Head
+You may change the [Hit Locations](Combat#Hit%20Locations) of any attack from the head, to the body.
+
+#### Strike True
+No negative for [Called Shot](Combat#Called%20Shot) with [Melee Attacks](Terminology#Melee%20Attack).
 

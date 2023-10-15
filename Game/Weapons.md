@@ -11,7 +11,7 @@ Weapon [Equipment](Equipment) can normally be separated into 3 categories: Basic
 In the world of Aspirant, there are plenty of unique weapons to be found and experienced. Some examples will be provided, along with rules for creating your own weapons in each category.
 
 ### Damage Bonus
-Weapons receive an inherent bonus to damage based on their other values. Your damage bonus is used when [Dealing Damage](Combat#Dealing%20Damage).
+Weapons receive an inherent bonus to damage based on their other values. Your damage bonus is used when [Dealing Damage](Attacks#Dealing%20Damage).
 
 ### Size
 Weapons, like all items, come in various sizes. However, in the case of weapons, an item's size has more effect than just the required storage space. 
@@ -30,7 +30,7 @@ Size 5 - Giant Weapons
 > So, for example, a long sword is a size 3 weapon. This means it is two-handed, gets +3 damage bonus.
 
 ### Damage Type
-Weapons can usually have any of the physical damage types [Piercing](Combat#Piercing), [Rending](Combat#Rending), [Impact](Combat#Impact). This will affect what injuries it will cause and what armour will defend against it. Fabrics tend to be strong against [Impact](Combat#Impact), plates against [Rending](Combat#Rending), and weaves against [Piercing](Combat#Piercing). 
+Weapons can usually have any of the physical damage types [Piercing](Injury#Piercing), [Rending](Injury#Rending), [Impact](Injury#Impact). This will affect what injuries it will cause and what armour will defend against it. Fabrics tend to be strong against [Impact](Injury#Impact), plates against [Rending](Injury#Rending), and weaves against [Piercing](Injury#Piercing). 
 
 ### Range
 Weapons, unless specified, can only be used in melee. Most characters can attack anything within 2m in melee. Some traits will modify range, though.

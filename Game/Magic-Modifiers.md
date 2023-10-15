@@ -55,7 +55,7 @@ If this is a [Successful Attack](Terminology#Successful%20Attack) the [Opponent]
 If this is a [Successful Attack](Terminology#Successful%20Attack) the [Opponent](Terminology#Opponent) performs a [Endurance](Strength#Endurance) [Fixed Difficulty](Skills#Fixed%20Difficulty)(0), if they fail, they become [Stunned](Effects#Stunned). 
 ### Surprising
 *Action modifier (-1,-3,-5)*
-This attack has a penalty to [Avoid](Combat#Avoid) equal to the selected modifier.
+This attack has a penalty to [Avoid](Reacting-To-Attacks#Avoid) equal to the selected modifier.
 ### Unavoidable
 *Action modifier (-5)*
 The [Opponent](Terminology#Opponent) cannot perform [Reactions](Terminology#Reaction) in response to this attack.

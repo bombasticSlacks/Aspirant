@@ -28,6 +28,27 @@ Critical injuries pose an immediate threat to your life. You are left severely b
 ### Lethal Injury
 A lethal injury always means death to a normal sized creature and represents a complete failure or their necessary systems for survival. Usually weapons that cause immediate death are known for their large amounts of collateral damage.
 
+### Types of Damage
+Generally, there are two large categories of damage – Physical and Otherworldly, each of these then further has three categories of damage.
+
+Physical injuries can consist of:
+#### Rending
+tearing and cutting flesh.
+#### Piercing
+Stabbing and piercing flesh.
+#### Impact
+Slamming into and breaking flesh .
+
+---
+
+Otherworldly injuries can consist of:
+#### Life
+Poison, acid, and rot ravage the body, destroying life itself.
+#### Heat
+Heat, power, holy energy ravage the body 
+#### Cold
+Ice, chill, vampiric energy ravage the body
+
 ### Immediate Effects
 Immediate effects are what happens to you immediately as you are harmed by an enemy. All injury types inflict one of these, but you will sometimes get to roll to ignore the effect. The usual immediate effects to each limb are as follows: 
 
@@ -42,7 +63,7 @@ Immediate effects are what happens to you immediately as you are harmed by an en
 Your characters are heroes. Heroes can’t instantly die from an attack. Any attack that would kill a hero outright, including critical head injuries, failed torso critical injuries and lethal injuries of any kind, instead immediately leave the character unconscious and bleeding to death with similar lethality to any critical injury.
 
 ### Bleeding and Burning
-In general, [Rending](Combat#Rending) and [Piercing](Combat#Piercing) severe and critical injuries will cause bleeding as will critical [Impact](Combat#Impact) injuries. [Hot](Combat#Hot) injuries will catch you on fire.
+In general, [Rending](Injury#Rending) and [Piercing](Injury#Piercing) severe and critical injuries will cause bleeding as will critical [Impact](Injury#Impact) injuries. [Hot](Injury#Hot) injuries will catch you on fire.
 
 A person will die of blood loss if they don’t receive first aid or stabilization within 10 minutes of blood loss from a severe injury, and will die within 3 minutes of blood loss from a critical injury if they don’t receive first aid or stabilization.
 

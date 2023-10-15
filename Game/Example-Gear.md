@@ -258,8 +258,8 @@ Creating a trap is a [Application](Intelligence#Application) test. You may add 2
 #TODODamage 
 
 * Concussive: Everyone makes a resolve test or is stunned. Even if they succeed, they are at a -2 until their action on the following turn.
-* Shrapnel: Everyone who is in the trap suffers a penetrative [Rending](Combat#Rending) damage attack with a damage bonus of 4
-* Explosive: Everyone who is in the trap suffers an [Hot](Combat#Hot) damage attack with a damage bonus of 8
+* Shrapnel: Everyone who is in the trap suffers a penetrative [Rending](Injury#Rending) damage attack with a damage bonus of 4
+* Explosive: Everyone who is in the trap suffers an [Hot](Injury#Hot) damage attack with a damage bonus of 8
 
 ---
 

@@ -30,32 +30,6 @@ When you attack something, your range is how far you can engage them from. With 
 - You compare the penetration value on your attack to the armour value of the limb you are trying to hit (this will be covered in depth later in this chapter). If you fail to penetrate, the attack fails.
 - Roll a d6, add any relevant damage bonuses, and consult the damage chart for what corresponding injury they will take.
 
-### Combat Bonuses and Negatives
-These are common bonuses and negatives you can receive on your attacks which will make attacking easier. This is not an exhaustive list and sometimes if you feel you are advantaged over your opponent, you should express this to your GM, and they may give you additional bonuses. As well, some combat bonuses can be learned by taking specific combat training, or having specific pieces of equipment.
-#### Charging
-When making a melee attack or manoeuvre, if you have moved at least 3 meters towards your opponent you get a +1 to the skill test.
-#### Shooting Position
-If when shooting you are in a comfortable position you get a +1 to the skill test.
-#### Outnumbered
-If your opponent is outnumbered in melee, you receive a +1 to melee attacks and manoeuvres against them.
-#### Severely Outnumbered
-If your opponents are outnumbered in melee by more than 2 to 1 you receive a +2 to melee attacks and manoeuvres against them. (ex: 3 to 1, 5 to 2 etc.).
-#### Unaware
-When making an attack or manoeuvre, if your opponent is unaware of your presence, you get a +4 to the skill test.
-#### On The Move
-If you have moved this turn, you take a -2 to attacks and manoeuvres.
-#### Unweighted for Throwing
-If you attempt to throw a weapon that doesn’t have the thrown tag you receive a -3 on the skill test. Basic weapons only have a -1 penalty.
-#### On Your Back
-When attempting a melee test, if you are prone, you receive a -2.
-#### Distance Penalty
-When you fire a ranged weapon if you are outside the range, you suffer a -1 per range they are away from you.
-
-> So if you have a range of 10m and are attacking 35 meters away, you suffer a -3.
-
-
----
-
 ### Combat Modifiers
 These are modifiers you can apply to attacks and manoeuvres which will put you at a negative to the skill test but will make the attack or manoeuvre do additional things. Several other powerful modifiers can be learned by taking specific combat training. 
 #### Called Shot
@@ -66,3 +40,56 @@ You make your attacks harder to predict and therefore harder to avoid. You can g
 before making a melee attack or manoeuvre, you can move to a different side of your opponent. Puts the attack/manoeuvre at a -1.
 
 ---
+
+### Hit Locations
+Hit locations are usually simplified to head, body, arms, legs.
+
+To randomly determine a hit location, you should roll a d12 and consult the following chart.
+
+| D12  | Location |
+| ---- | -------- |
+| 1-4  | Chest    |
+| 5-8  | Arms     | 
+| 9-11 | Legs     |
+| 12   | Head     |
+
+### Armour and Penetration
+When someone is being attacked, to determine what effect the attack has, you check if the incoming damage type is either a weakness or resistance of the armour:
+
+| Attack is: | Armour Integrity Damage |
+| ---------- | ----------------------- |
+| Weakness   | 4                       |
+| Normal     | 2                       |
+| Resistance | 1                       | 
+
+#### Compromised Armour
+Once your armour integrity goes to 0, your armour is considered compromised. It no longer provides any protection, and any attacks you take [Deal Damage](#Dealing%20Damage).
+
+#### Partially Compromised
+Any time you would remove armour integrity, your armour isn't compromised, but you don't have the full required amount, your armour's integrity is reduced to 0, but your opponent's attack is a [Glancing Blow](#Glancing%20Blow).
+
+> A character with two armour integrity taking a normal attack reduces their armour integrity to 0 but is otherwise unharmed.
+
+> A character with 2 armour integrity taking a weakness attack (4 integrity damage) reduces their armour integrity to 0 and takes an injury. The opponent rolls and determines the injury is a [Severe Injury](Injury#Severe%20Injury), but since the characters armour was only [Partially Compromised](#Partially%20Compromised) they take a [Minimal Injury](Injury#Minimal%20Injury) instead. Their armour is now [Compromised](#Compromised%20Armour).
+
+#### Resistance
+As an additional benefit, if you are resistant to an attack it always counts as a [Glancing Blow](#Glancing%20Blow).
+
+### Dealing Damage
+When you or something else is attempting to injure someone you will in most cases roll 1d6 + damage modifier. Damage modifier is a combination of the weapons inherent lethality, size, any bonuses from your character and usually, your [Strength](Strength). 
+
+This number is usually compared to the universal damage chart to determine the injury caused:
+
+| Roll  | Injury   |
+| ----- | -------- |
+| 1-5   | Minimal  |
+| 6-10  | Severe   |
+| 11-15 | Critical |
+| 16+   | Lethal   |
+
+> So, for example, a long sword (3 size artisan weapon) wielded by a character with 3 [Strength](Strength) would have a damage bonus of 7 (1 artisan + 3 size + 3 [Strength](Strength)). That means on a 1-3 it causes a severe injury, on a 4-6 it causes a critical injury. 
+
+#### Glancing Blow
+Sometimes your attacks will be partially mitigated by abilities or other circumstances. When this happens you reduce the severity of your injury by one.
+
+> So a [Critical Injury](Injury#Critical%20Injury) glancing blow becomes a [Severe Injury](Injury#Severe%20Injury).

@@ -44,8 +44,8 @@ Scratch is a tall [Elementalist](../Classes#Elementalist) [Rogue](../Classes#Rog
 
 | Name          | Size | Range     | Damage Type                    | Damage Bonus | Traits           |
 | ------------- | ---- | --------- | ------------------------------ | ------------ | ---------------- |
-| Simple dagger | 1    |           | [Piercing](../Combat#Piercing) | 0 + 2 = 2    |                  |
-| Fire Strike   |      | 10m Range | [Heat](../Combat#Heat)         | 4 + 4 = 8    | Burning, Resolve |
+| Simple dagger | 1    |           | [Piercing](../Injury#Piercing) | 0 + 2 = 2    |                  |
+| Fire Strike   |      | 10m Range | [Heat](../Injury#Heat)         | 4 + 4 = 8    | Burning, Resolve |
 
 
 ### Armour
@@ -57,7 +57,7 @@ Scratch is a tall [Elementalist](../Classes#Elementalist) [Rogue](../Classes#Rog
 
 | Body Part    | Weakness               | Resistance | Max Skill |
 | ------------ | ---------------------- | ---------- | --------- |
-| Chest (1-4)  | [Life](../Combat#Life) | None       | 7         |
+| Chest (1-4)  | [Life](../Injury#Life) | None       | 7         |
 | Arms  (5-8)  | All                    | None       | 8         |
 | Legs  (9-11) | All                    | None       | 8         |
 | Head  (12)   | All                    | None       | 8         | 

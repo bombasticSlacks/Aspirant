@@ -20,7 +20,7 @@ The act of being precise and accurate when interacting with the world around you
 Any time you are doing something that would require accuracy or precision, you should make an accuracy [Skill](Skills) test.
 
 #### Relevant Activities
-* [Attacking](Combat#Attacking)
+* [Attacking](Attacks)
 
 ---
 ### Reflexes
@@ -32,8 +32,7 @@ The act of reacting without thought. This includes:
 Any time you are doing something that requires a split second response, you should make a reflexes [Skill](Skills) test.
 
 #### Relevant Activities
-* [Dodge](Combat#Dodge)
-* [Block](Combat#Block)
+* [Avoid](Reacting-To-Attacks.md#Avoid)
 
 ---
 ### Grace
@@ -47,7 +46,7 @@ The act of being graceful, always balanced and ready to strike. This includes:
 Any time your movements need to be coordinated, or you need excellent control over your body, you should make a grace [Skill](Skills) test.
 
 #### Relevant Activities
-* [Back out](Combat#Back%20out)
+* [Back out](Special-Combat-Actions#Back%20out)
 
 ---
 

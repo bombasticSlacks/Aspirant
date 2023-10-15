@@ -22,8 +22,8 @@ The action of applying fitness, and trained strength or power. This includes:
 Any time you are doing something athletic, you should make an athletics [Skill](Skills) test.
 
 #### Relevant Activities
-* [Grapple](Combat#Grapple)
-* [Attacking](Combat#Attacking)
+* [Grapple](Special-Combat-Actions#grapple)
+* [Attacks](Attacks)
 
 ---
 ### Endurance
@@ -48,10 +48,10 @@ The action of striking other things, inflicting immediate force on them. This in
 Any time you are striking something, you should make a strike [Skill](Skills) test.
 
 #### Relevant Activities
-* [Attack of Opportunity](Combat#Attack%20of%20Opportunity)
-* [Parry](Combat#Parry)
-* [Shove](Combat#Shove)
-* [Disarm](Combat#Disarm)
+* [Attack of Opportunity](Reacting-To-Attacks#Attack%20of%20Opportunity)
+* [Parry](Special-Combat-Actions#Parry)
+* [Shove](Special-Combat-Actions#Shove)
+* [Disarm](Special-Combat-Actions#Disarm)
 
 ---
 

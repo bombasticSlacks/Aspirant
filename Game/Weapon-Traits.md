@@ -54,7 +54,7 @@ This weapon is penetrative for your first attack in any combat.
 This does not appear to be a weapon but has -1 [Damage Bonus](Weapons#Damage%20Bonus).
 
 #### Ensnaring
-This weapon deals -2 damage, on [Non-mitigated Attack](Combat#Non-mitigated%20Attack) it causes the enemy to be [Grappled](Combat#Grapple). You need to maintain hold of the ensnaring weapon to maintain the [Grapple](Combat#Grapple).
+This weapon deals -2 damage, on [Non-mitigated Attack](Terminology#Non-mitigated%20Attack) it causes the enemy to be [Grappled](Special-Combat-Actions#grapple). You need to maintain hold of the ensnaring weapon to maintain the [Grapple](Special-Combat-Actions#grapple).
 
 #### Fast Reloading
 If your weapon requires ammo, it can be reloaded in half the time. Reloads that normally take an action are instead free, and any skill tests performed that turn are at a -2.
@@ -78,7 +78,7 @@ When you create this weapon, choose two damage types instead of one. When you at
 If your weapon requires ammo, it can hold 3 additional readied shots.   
 
 #### On Line
-This weapon cannot be used to perform [Reactions](Combat#Reacting%20to%20Attacks), you can make melee skill tests with this weapon at a range of 6m.
+This weapon cannot be used to perform [Reactions](Terminology#Reaction), you can make melee skill tests with this weapon at a range of 6m.
 
 #### Reach
 A weapon with the reach trait can be used to perform melee attacks up to 2m away, and doing so doesn’t put you in melee combat with the target.

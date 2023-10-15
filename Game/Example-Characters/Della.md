@@ -55,7 +55,7 @@ Della is a small [Conjurer](../Classes#Conjurer) [Tactician](../Classes#Tacticia
 
 | Body Part    | Weakness               | Resistance | Max Skill |
 | ------------ | ---------------------- | ---------- | --------- |
-| Chest (1-4)  | [Life](../Combat#Life) | None       | 7         |
+| Chest (1-4)  | [Life](../Injury#Life) | None       | 7         |
 | Arms  (5-8)  | All                    | None       | 8         |
 | Legs  (9-11) | All                    | None       | 8         |
 | Head  (12)   | All                    | None       | 8         | 
@@ -79,4 +79,4 @@ Della knows how to conjure powerful creatures and begins with a Sabre Tooth Tige
 
 | Attack | Mobility | Skills | Integrity | Weakness               | Resistance             | Special Rules                      |
 | ------ | -------- | ------ | --------- | ---------------------- | ---------------------- | ---------------------------------- |
-| 5      | 4        | 5      | 3         | [Heat](../Combat#Heat) | [Cold](../Combat#Cold) | Can sneak and hunt using its skill |
+| 5      | 4        | 5      | 3         | [Heat](../Injury#Heat) | [Cold](../Injury#Cold) | Can sneak and hunt using its skill |

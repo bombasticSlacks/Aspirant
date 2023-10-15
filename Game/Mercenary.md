@@ -22,13 +22,13 @@ They can generally teach the following training:
 During your [Combat Turn](Terminology#Combat%20Turn) you can perform an [Action](Terminology#Action) while moving without suffering a penalty.
 
 #### Defensive Combatant
-You receive a (+1) to [Avoid](Combat#Avoid) and [Parry](Combat#Parry) skill tests.
+You receive a (+1) to [Avoid](Reacting-To-Attacks#Avoid) and [Parry](Special-Combat-Actions#Parry) skill tests.
 
 #### Defensive Offhand
 When wielding two weapons of [Size](Weapons#Size) 2 or less, the smaller of the two counts as having the [Balanced](Weapon-Traits#Balanced) trait.
 
 #### Deflect
-You receive the benefits of your wielded weapon traits to [Avoid](Combat#Avoid) non-[Melee Attacks](Terminology#Melee%20Attack). 
+You receive the benefits of your wielded weapon traits to [Avoid](Reacting-To-Attacks#Avoid) non-[Melee Attacks](Terminology#Melee%20Attack). 
 
 #### Feint
 Enemies receive a (-1) to [Reaction](Terminology#Reaction) skill tests against you.
@@ -49,7 +49,7 @@ You may count your [Strength](Strength) as equivalent to [Agility](Agility) for 
 
 #### Sole Combatant
 You receive a (+1) to all [Combat Skill Test](Terminology#Combat%20Action) when [In Melee](Terminology#In%20Melee) with only 1 other [Character](Terminology#Character).
-Enemies don’t receive benefits for [Outnumbering](Combat#Outnumbered) you.
+Enemies don’t receive benefits for [Outnumbering](Attack-Bonuses#Outnumbered) you.
 
 #### Weapon Expert
 You receive a (+1) to all [Actions](Terminology#Action) involving weapons. 
@@ -64,13 +64,10 @@ You receive a (+1) to all [Actions](Terminology#Action) involving weapons.
 When holding two weapons/items during combat, you can take a single [Action](Terminology#Action) with each weapon, though any skill test suffers a (-1).
 
 #### Bashing
-You can opt to make the damage type of any [Rending](Combat#Rending) or [Piercing](Combat#Piercing) weapon cause [Impact](Combat#Impact) injuries instead.
+You can opt to make the damage type of any [Rending](Injury#Rending) or [Piercing](Injury#Piercing) weapon cause [Impact](Injury#Impact) injuries instead.
 
 #### Circle Parry
-A [Special Manoeuvre](Combat#Special%20Manoeuvres) that behaves like [Parry](Combat#Parry) with the addition that your [Opponent](Terminology#Opponent) receives a -2 to [Attack](Terminology#Attack) you. If your [Opponent](Terminology#Opponent) does not have a [Successful Attack](Terminology#Successful%20Attack), they drop their weapon.
-
-#### Protect the Head
-You may change the [Hit Locations](Combat#Hit%20Locations) of any attack from the head, to the body.
+When you [Parry](Special-Combat-Actions#Parry) your opponent suffers a (-2).
 
 #### Quick Draw
 During your [Combat Turn](Terminology#Combat%20Turn) you may spend 2 [Power](Stats#Power) to make an attack with a [Size](Weapons#Size) 1 [Weapon](Weapons) as a [Free Action](Terminology#Free%20Action).
@@ -93,9 +90,6 @@ You can declare a weapon you are using has an additional trait worth up to 2 tra
 
 #### Riposte
 After an [Opponent](Terminology#Opponent) [In Melee](Terminology#In%20Melee) with you, makes a [Mitigated Attack](Terminology#Mitigated%20Attack) against you, you may make an [Attack](Terminology#Attack) against them.
-
-#### Strike True
-No negative for [Called Shot](Combat#Called%20Shot) with [Melee Attacks](Terminology#Melee%20Attack).
 
 #### Whirlwind
 On your [Combat Turn](Terminology#Combat%20Turn) can make an attack against a number of [Characters](Terminology#Character) you are [In Melee](Terminology#In%20Melee) with, up to your [Agility](Agility) in total characters.

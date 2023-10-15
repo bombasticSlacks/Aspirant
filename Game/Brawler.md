@@ -26,7 +26,7 @@ When not holding anything can perform a [Melee Attack](Terminology#Melee%20Attac
 Whenever someone performs a [Mitigated Attack](Terminology#Mitigated%20Attack) against you in melee, you may spend a [Reaction](Terminology#Reaction) to make an [Attack](Terminology#Attack) with a hit location of the limb they attacked with.
 
 #### Flesh Prison
-When you are controlling a [Grapple](Combat#Grapple), you always count as pinning the person being grappled.
+When you are controlling a [Grapple](Special-Combat-Actions#grapple), you always count as pinning the person being grappled.
 
 #### Giants Hands
 You can comfortably wield weapons one size larger in one hand or two.
@@ -42,7 +42,7 @@ After a [Successful Attack](Terminology#Successful%20Attack) [In Melee](Terminol
 
 Some enemies are not intelligent enough or just refuse to surrender under any circumstances.
 #### Throw
-Your [Shoves](Combat#Shove) make people travel twice the distance.
+Your [Shoves](Special-Combat-Actions#Shove) make people travel twice the distance.
 
 
 
@@ -54,16 +54,18 @@ Your [Shoves](Combat#Shove) make people travel twice the distance.
 After suffering an [Injury](Injury) that would make you [Wounded](Injury#Wounded), you immediately get to take an additional [Combat Turn](Terminology#Combat%20Turn) (in addition to your regular turn). After this [Combat Turn](Terminology#Combat%20Turn), you then return to the standard [Combat Round](Terminology#Combat%20Round) order, including resolving the results of your injuries.
 
 #### Cleave
-If you cause an [Injuring Attack](Terminology#Injuring%20Attack) on a [Character](Terminology#Character) you are [In Melee](Terminology#In%20Melee) with that causes a [Critical Injury](Injury#Critical%20Injury) or more severe, you may make an additional [Attack](Terminology#Attack) against another enemy with the same weapon and [Combat Modifiers](Combat#Combat%20Modifiers).
+If you cause an [Injuring Attack](Terminology#Injuring%20Attack) on a [Character](Terminology#Character) you are [In Melee](Terminology#In%20Melee) with that causes a [Critical Injury](Injury#Critical%20Injury) or more severe, you may make an additional [Attack](Terminology#Attack) against another enemy with the same weapon and [Combat Modifiers](Attacks#Combat%20Modifiers).
 
 #### Clothesline
-As a [Reaction](Combat#Reacting%20to%20Attacks), if an opponent is [Charging](Combat#Charging) you, you may make a [Strike](Strength#Strike) [Opposed Difficulty(Strike)](Skills#Opposed%20Difficulty), that if successful causes their attack to fail and knocks them prone.
+If an opponent is [Charging](Attack-Bonuses#Charging) #TODOMovement you, you may spend a [Reaction](Terminology#Reaction) to make a [Strike](Strength#Strike) [Opposed Difficulty](Skills#Opposed%20Difficulty)([Strike](Strength#Strike)+2), that if successful causes their attack to fail and knocks them prone.
+
+> So the skill test would be at a (-4) penalty against someone with 2 ranks in [Strike](Strength#Strike)
 
 #### Dragon Rush
 After doing an [Attack](Terminology#Attack) while unarmed, if you haven’t already used this training this [Combat Turn](Terminology#Combat%20Turn), you may use a [Reaction](Terminology#Reaction) to perform another attack or manoeuvre.
 
 #### Drunk Boxing
-You may [Parry](Combat#Parry) with a [Mannerism](Communication#Mannerism) [Fixed Difficulty(-2)](Skills#Fixed%20Difficulty).
+You may [Parry](Special-Combat-Actions#Parry) with a [Mannerism](Communication#Mannerism) [Fixed Difficulty(-2)](Skills#Fixed%20Difficulty).
 
 #### Enrage
 When you make a [Strike](Strength#Strike) skill test, spend a [Power](Stats#Power) to become enraged. While enraged, you have: 
@@ -75,17 +77,17 @@ When you make a [Strike](Strength#Strike) skill test, spend a [Power](Stats#Powe
 On any [Combat Turn](Terminology#Combat%20Turn) where you don't make an [Attack](Terminology#Attack), you must roll a d6, on a 1-3 you stop being enraged.
 
 #### Relentless Attack
-When making an [All Out Attack](Combat#All%20Out%20Attack), if it is an [Injuring Attack](Terminology#Injuring%20Attack) you deal the next more severe type of [Injury](Injury#Injury).
+When making an [All Out Attack](Reacting-To-Attacks#All%20Out%20Attack), if it is an [Injuring Attack](Terminology#Injuring%20Attack) you deal the next more severe type of [Injury](Injury#Injury).
 
 #### Thunderous Charge
-Your [Charging](Combat#Charging) attacks have the [Penetrating](Weapon-Traits#Penetrating) trait.
+Your [Charging](Attack-Bonuses#Charging) attacks have the [Penetrating](Weapon-Traits#Penetrating) trait.
 
 ---
 
 ### Master
 
 #### Bone Crushing
-When in a [Grapple](Combat#Grapple) with an opponent, and you opt to inflict an injury, it is a [Critical Injury](Injury#Critical%20Injury).
+When in a [Grapple](Special-Combat-Actions#grapple) with an opponent, and you opt to inflict an injury, it is a [Critical Injury](Injury#Critical%20Injury).
 
 #### Rip and Tear
 Your [Attacks](Terminology#Attack) while unarmed get the [Penetrating](Weapon-Traits#Penetrating) quality, and +2 damage. #TODODamage

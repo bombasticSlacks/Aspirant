@@ -25,7 +25,7 @@ Impact damage
 | ------ | ----- | ---- | ---------- | --------- | -------------- |
 | 3      | X     | 8    | 3          | Troop     | Rending + Life | 
 
-* If they injure causes flesh to rot for additional [Life](../../Combat#Life) damage.
+* If they injure causes flesh to rot for additional [Life](../../Injury#Life) damage.
 * Afraid of the sun / light.
 
 ### The Full
@@ -35,7 +35,7 @@ Impact damage
 | ------ | ------------ | ---- | ---------- | --------- | ------------- |
 | 5      | (melee only) | 8    | 4          | 3         | Impact + Life | 
 
-* If they injure causes flesh to rot for additional [Life](../../Combat#Life) damage
+* If they injure causes flesh to rot for additional [Life](../../Injury#Life) damage
 * On taking an injury splash necrotic ooze on a nearby space, if it lands on a [The Hungry](#The%20Hungry) it revives. If it hits a living creature they take a severe life injury to the location.
 
 ### Manticore

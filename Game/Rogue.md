@@ -30,22 +30,22 @@ When using a weapon with the [Bow](Weapon-Traits#Bow) [Weapon Trait](Weapons#[We
 You can reload a crossbow and fire it in the same turn at a -1 to the [Accuracy](Agility#Accuracy) skill test.  
 
 #### Defy Death
-You can [Avoid](Combat#Avoid) anything, even if it would seem impossible.
+You can [Avoid](Reacting-To-Attacks#Avoid) anything, even if it would seem impossible.
 
 #### Disarming Shot
-You can [Disarm](Combat#Disarm) someone at range, using a ranged weapon, expending 1 ammunition in the process.
+You can [Disarm](Special-Combat-Actions#Disarm) someone at range, using a ranged weapon, expending 1 ammunition in the process.
 #### Efficient Rounds
 When you perform a [Mitigated Attack](Terminology#Mitigated%20Attack) with [Comestibles](Comestibles) , it is always [salvageable](Comestibles#Salvaging)
 #### Exotic Expert
 If you have [Martial Training](#Martial%20Training), you can use any [Exotic](Weapons#Exotic) weapon without penalty.   
 #### Fast Hands
-You may [Disarm](Combat#Disarm) using a [Reflexes](Agility#Reflexes) [Fixed Difficulty(-1)](Skills#Fixed%20Difficulty).
+You may [Disarm](Special-Combat-Actions#Disarm) using a [Reflexes](Agility#Reflexes) [Fixed Difficulty(-1)](Skills#Fixed%20Difficulty).
 
 #### Light Step
 You never trigger traps by moving over them. You also receive a +1 to [Grace](Agility#Grace) skill tests related to moving silently.
 
 #### Long Shot
-When making a [Ranged Attack](Terminology#Ranged%20Attack), you may spend a [Power](Stats#Power) to ignore any [Distance Penalty](Combat#Distance%20Penalty).
+When making a [Ranged Attack](Terminology#Ranged%20Attack), you may spend a [Power](Stats#Power) to ignore any [Distance Penalty](Attack-Bonuses#Distance%20Penalty) #TODOMovement.
 
 #### Lost in the Crowd
 If you are [In Melee](Terminology#In%20Melee) you have a [Threat](Stats#Threat) of 0 to [Characters](Terminology#Character) not [In Melee](Terminology#In%20Melee) with you.
@@ -54,7 +54,7 @@ If you are [In Melee](Terminology#In%20Melee) you have a [Threat](Stats#Threat) 
 On your [Combat Turn](Terminology#Combat%20Turn), you may make an [Attack](Terminology#Attack) at (-2) additional penalty, and then perform a non-attack action or movement.
 
 #### Olympian
-You can make a [Thrown Attack](Terminology#Thrown%20Attack) at the end of [Charging](Combat#Charging), receiving the bonuses. 
+You can make a [Thrown Attack](Terminology#Thrown%20Attack) at the end of [Charging](Attack-Bonuses#Charging) #TODOMovement , receiving the bonuses. 
 
 #### Pin Down
 After performing a [Ranged Attack](Terminology#Ranged%20Attack), the target must pass a [Identity](Spirit#Identity) [Fixed Difficulty(+0)](Skills#Fixed%20Difficulty) or be unable to move until your next [Combat Turn](Terminology#Combat%20Turn).
@@ -79,13 +79,13 @@ If you have a [Threat](Stats#Threat) of 0, your attacks have the [Penetrating](W
 #### Constant Movement
 You can perform reactions during your own turn.
 #### Fleet Footed
-[Overwatch](Combat#Overwatch) [Attacks](Terminology#Attack) against you are at an additional -2. You can get out of being [In Melee](Terminology#In%20Melee) without triggering any [Reactions](Terminology#Reaction).
+[Overwatch](Special-Combat-Actions#Overwatch) [Attacks](Terminology#Attack) against you are at an additional -2. You can get out of being [In Melee](Terminology#In%20Melee) without triggering any [Reactions](Terminology#Reaction).
 
 #### Meat Shield
-If you [Avoid](Combat#Avoid) an [Attack](Terminology#Attack) while [In Melee](Terminology#In%20Melee), you may have that [Attack](Terminology#Attack) target someone, other than yourself or the attacker, [In Melee](Terminology#In%20Melee). The new target may use [Reactions](Terminology#Reaction) as normal.
+If you [Avoid](Reacting-To-Attacks#Avoid) an [Attack](Terminology#Attack) while [In Melee](Terminology#In%20Melee), you may have that [Attack](Terminology#Attack) target someone, other than yourself or the attacker, [In Melee](Terminology#In%20Melee). The new target may use [Reactions](Terminology#Reaction) as normal.
 
 #### Point Man
-You have no penalty on [Overwatch](Combat#Overwatch) attacks, receive no negative for delaying your action, and can perform a number of [Overwatch](Combat#Overwatch) attacks on a number of enemies in a turn up to your [Agility](Agility).
+You have no penalty on [Overwatch](Special-Combat-Actions#Overwatch) attacks, receive no negative for delaying your action, and can perform a number of [Overwatch](Special-Combat-Actions#Overwatch) attacks on a number of enemies in a turn up to your [Agility](Agility).
 
 #### Preternatural Senses
 You can manoeuvre perfectly well in the dark or when your vision is otherwise impaired.
@@ -102,12 +102,12 @@ If within 3m #TODOMovement of something you could use to hide, as a [Free Action
 ### Master
 
 #### Fan Fire
-A [Special Manoeuvres](Combat#Special%20Manoeuvres) where you may make a [Ranged Attack](Terminology#Ranged%20Attack) on up to an [Agility](Agility) number of targets within a 45-degree cone. Each action suffers a (-2).
+You may make a [Ranged Attack](Terminology#Ranged%20Attack) on up to an [Agility](Agility) number of targets within a 45-degree cone. Each [Action](Terminology#Action) suffers a (-2).
 #### Hide in Plain Sight
 You do not need an item or object to hide behind when attempting to hide.
 
 #### Marksman
-No negative on [Called Shot](Combat#Called%20Shot) with [Ranged Attack](Terminology#Ranged%20Attack) if you do nothing else during your [Combat Turn](Terminology#Combat%20Turn).
+No negative on [Called Shot](Attacks#Called%20Shot) #TODODamage with [Ranged Attack](Terminology#Ranged%20Attack) if you do nothing else during your [Combat Turn](Terminology#Combat%20Turn).
 
 #### Master Thief
 In combat you can perform a [Grace](Agility#Grace) [Opposed Difficulty](Skills#Opposed%20Difficulty)([Reflexes](Agility#Reflexes)) to immediately use a piece of [Equipment](Equipment) stored on another character [In Melee](Terminology#In%20Melee). You still need to perform any additional skill checks to use the item.
