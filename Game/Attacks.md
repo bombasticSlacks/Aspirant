@@ -32,12 +32,17 @@ When you attack something, your range is how far you can engage them from. With 
 
 ### Combat Modifiers
 These are modifiers you can apply to attacks and manoeuvres which will put you at a negative to the skill test but will make the attack or manoeuvre do additional things. Several other powerful modifiers can be learned by taking specific combat training. 
+
 #### Called Shot
 Your attack has a guaranteed hit location. -2 for arm or leg shots, -1 for chest shots, -3 for head shots.
+
 #### Difficult Hit
 You make your attacks harder to predict and therefore harder to avoid. You can give yourself a -1, -3 or -5 to your skill test to give your opponent a similar negative to any reactions.
 #### Reposition
 before making a melee attack or manoeuvre, you can move to a different side of your opponent. Puts the attack/manoeuvre at a -1.
+
+#### Heavy Strike
+Your attack does 1 additional damage. The penalty for this is variable, see [Calculating Damage](#Calculating%20Damage).
 
 ---
 
@@ -54,27 +59,21 @@ To randomly determine a hit location, you should roll a d12 and consult the foll
 | 12   | Head     |
 
 ### Dealing Damage
+Generally, a weapon or attack will already have a calculated [Calculating Damage](#Calculating%20Damage) it causes. A weapon will have a damage value written as follows: "X(Y)". What this means is that the weapon does X damage, and you could take a negative on the [Attack](Terminology#Attack) to cause it to do 1 additional damage.
 
-Generally, a weapon or attack will already have a calculated [Injury](Injury) it causes. A weapon will have a damage value written as follows: "X(Y)". What this means is that the weapon does X damage, and you could take a negative on the [Attack](Terminology#Attack) to cause it to do 1 additional damage.
+### Calculating Damage
+When you attack with a weapon it will deal an amount of damage, this is calculated as follows:
 
+| Damage Bonus | Damage | Heavy Strike Penalty |
+| ------------ | ------ | -------------------- |
+| 1-5          | 1      | $Damage\ Bonus - 6$    |
+| 6-10         | 2      | $Damage\ Bonus - 11$    |
+| 11-15        | 3      | $Damage\ Bonus - 16$    |
+| 16+          | 4      | -                    | 
 
-however your character might have additional bonuses which increase this value further. Unless otherwise specified, a character adds their strength as a damage bonus.
+Damage bonus usually includes your Strength, along with bonuses from the item you are wielding, this value generally doesn't change. You should also figure out what your [Heavy Strike](#Heavy%20Strike) penalty is.
 
-
-When you or something else is attempting to injure someone you will in most cases roll 1d6 + damage modifier. Damage modifier is a combination of the weapons inherent lethality, size, any bonuses from your character and usually, your [Strength](Strength). 
-
-This number is usually compared to the universal damage chart to determine the injury caused:
-
-| Roll  | Injury   |
-| ----- | -------- |
-| 1-5   | Minimal  |
-| 6-10  | Severe   |
-| 11-15 | Critical |
-| 16+   | Lethal   |
-
-> So, for example, a long sword (3 size artisan weapon) wielded by a character with 3 [Strength](Strength) would have a damage bonus of 7 (1 artisan + 3 size + 3 [Strength](Strength)). That means on a 1-3 it causes a severe injury, on a 4-6 it causes a critical injury. 
-
-
+> So if a character with 3 strength wields a melee weapon with a damage bonus of 5, they have a total damage bonus of 8. This means that their weapon deals 2 damage and their [Heavy Strike](#Heavy%20Strike) penalty is (-3).
 
 ### Taking Damage
 If you fail to mitigate an incoming attack, you will take damage.
