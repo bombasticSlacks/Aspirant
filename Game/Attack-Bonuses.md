@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Attacks
+title: Attack Bonuses
 parent: Combat
 nav_order: 2
 grand_parent: Telling The Story
