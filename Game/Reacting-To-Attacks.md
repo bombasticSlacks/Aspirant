@@ -23,4 +23,4 @@ A [Grace](Agility#Grace) skill test where if you succeed then you may move to a 
 If someone moves while [In Melee](Terminology#In%20Melee) with you, you may make an [Attack](Terminology#Attack) against them.
 
 ### All Out Attack
-You may spend a [Reaction](Terminology#Reaction) on your [Combat Turn](Terminology#Combat%20Turn) to get a (+2) on an [Action](Terminology#Action) on your [Combat Turn](Terminology#Combat%20Turn).
+You may forgo a [Reaction](Terminology#Reaction) for this [Combat Round](Terminology#Combat%20Round) on your [Combat Turn](Terminology#Combat%20Turn) to get a (+2) to all [Action](Terminology#Action).
