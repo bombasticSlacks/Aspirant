@@ -25,7 +25,7 @@ affects different locations separately and is the maximum bonus you can have on 
 | Legs     | [reflexes](Agility#Reflexes), [Grace](Agility#Grace)                                               |
 
 #### Weakness and Resistance
-Changes how certain [types of damage](Combat#Types%20of%20Damage) effect you. If a piece of armour would gain a resistance or weakness complementary to an existing Resistance or Weakness on the armour through [Armour-Traits](Armour-Traits), the two cancel out resulting in no effect. If a piece of armour would gain a resistance or weakness it already has through [Armour-Traits](Armour-Traits), there is no effect. See [Armour and Penetration](Combat#Armour%20and%20Penetration) for details. 
+Changes how certain [types of damage](Injury#Types%20of%20Damage) effect you. If a piece of armour would gain a resistance or weakness complementary to an existing Resistance or Weakness on the armour through [Armour-Traits](Armour-Traits), the two cancel out resulting in no effect. If a piece of armour would gain a resistance or weakness it already has through [Armour-Traits](Armour-Traits), there is no effect. See [Armour and Penetration](Attacks#Armour%20and%20Penetration) for details. 
 
 #### Structure
 Contributes to your overall armours integrity. Allowing it to take more hits before becoming non-functional.

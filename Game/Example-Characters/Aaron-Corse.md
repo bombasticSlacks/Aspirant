@@ -57,7 +57,7 @@ Aaron is a stout [Fighter](../Classes#Fighter) [Healer](../Classes#Healer) with 
 
 | Body Part    | Weakness               | Resistance | Max Skill |
 | ------------ | ---------------------- | ---------- | --------- |
-| Chest (1-4)  | [Life](../Combat#Life) | None       | 7         |
+| Chest (1-4)  | [Life](../Injury#Life) | None       | 7         |
 | Arms  (5-8)  | All                    | None       | 8         |
 | Legs  (9-11) | All                    | None       | 8         |
 | Head  (12)   | All                    | None       | 8         | 

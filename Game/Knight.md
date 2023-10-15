@@ -37,7 +37,7 @@ You have 1 additional [Armour Integrity](Armour#Armour%20Integrity).
 When wielding a [Shield](Terminology#Shield), and [In Melee](Terminology#In%20Melee) with an [Ally](Terminology#Ally), you and [Allies](Terminology#Ally) you are in melee with get a +1 to [Reflexes](Agility#Reflexes) skill tests.
 
 #### Protector
-You can spend a [Reaction](Terminology#Reaction) to retarget an attack targeting another [Character](Terminology#Character) you are [In Melee](Terminology#In%20Melee) with. You can [react to the attack](Combat#Reacting%20to%20Attacks) without spending an additional [Reaction](Terminology#Reaction).
+You can spend a [Reaction](Terminology#Reaction) to retarget an attack targeting another [Character](Terminology#Character) you are [In Melee](Terminology#In%20Melee) with. You can then do another [Reaction](Terminology#Reaction) without spending a [Reaction](Terminology#Reaction).
 
 #### Quick Saddles
 While [Mounted](Terminology#Mounted), you may draw from your [Saddlebag](Storage#Saddlebag) as you would draw from your [Belt](Storage#Belt).
@@ -52,7 +52,7 @@ If a [Character](Terminology#Character) performs a [Mitigated Attack](Terminolog
 You cannot be forced to move or knocked over.
 
 #### Trampler
-While [Mounted](Terminology#Mounted) when [Charging](Combat#Charging), you can cause an #TODODamage [Impact](Combat#Impact) [Critical Injury](Injury#Critical%20Injury) instead of your normal damage.
+While [Mounted](Terminology#Mounted) when [Charging](Attack-Bonuses#Charging) #TODOMovement , you can cause an #TODODamage [Impact](Injury#Impact) [Critical Injury](Injury#Critical%20Injury) instead of your normal damage.
 
 
 ---
@@ -60,19 +60,19 @@ While [Mounted](Terminology#Mounted) when [Charging](Combat#Charging), you can c
 ### Advanced
 
 #### Bash
-When you [Avoid](Combat#Avoid) attacks from opponents [In Melee](Terminology#In%20Melee), if you succeed, the opponent must pass a [Grace](Agility#Grace) [Opposed Difficulty(strike)](Skills#Opposed%20Difficulty) or be knocked prone.
+When you [Avoid](Reacting-To-Attacks#Avoid) attacks from opponents [In Melee](Terminology#In%20Melee), if you succeed, the opponent must pass a [Grace](Agility#Grace) [Opposed Difficulty(strike)](Skills#Opposed%20Difficulty) or be knocked prone.
 
 #### Battle Mount
 When [In Melee](Terminology#In%20Melee) and [Mounted](Terminology#Mounted), you may as a [Free Action](Terminology#Free%20Action) have the [Mount](Mounts) [Attack](Terminology#Attack).
 
 #### Iron Curtain
-If you have not made an [Attack](Terminology#Attack) during your [Combat Turn](Terminology#Combat%20Turn) and are wielding a [Shield](Terminology#Shield), you may [Parry](Combat#Parry) as a [Free Action](Terminology#Free%20Action) as your turn ends.
+If you have not made an [Attack](Terminology#Attack) during your [Combat Turn](Terminology#Combat%20Turn) and are wielding a [Shield](Terminology#Shield), you may [Parry](Special-Combat-Actions#Parry) as a [Free Action](Terminology#Free%20Action) as your turn ends.
 
 #### Mount Control
 When you or your [Mount](Mounts) are attacked while [Mounted](Terminology#Mounted), you may choose which of you any attack targets. Your mount also gets a [Reaction](Terminology#Reaction).
 
 #### Roll With The Punches
-After suffering an [Injuring Attack](Terminology#Injuring%20Attack), you may drop prone to make the attack a [Glancing Blow](Combat#Glancing%20Blow).
+After suffering an [Injuring Attack](Terminology#Injuring%20Attack), you may drop prone to make the attack a [Glancing Blow](Attacks#Glancing%20Blow).
 
 #### Second Skin
 You ignore [Max Skill](Armour#Max%20Skill) for any [Armour](Armour) you wear.
@@ -83,7 +83,7 @@ Your [Mounted Expert](#Mounted%20Expert) training applies to exotic forms of tra
 > Flight, Swimming, Teleporting, Scaling Walls, Burrowing
 
 #### Sweep
-As a [Special Manoeuvre](Combat#Special%20Manoeuvres), you may make a [Strike](Strength#Strike) skill test. If successful, all enemies in melee with you and within 3m of you need to dodge or be knocked prone.
+As a [Melee Attack](Terminology#Melee%20Attack), you may make a [Strike](Strength#Strike) [[Skills#Fixed Difficulty]](0). If this is a [Non-mitigated Attack](Terminology#Non-mitigated%20Attack), all [Opponents](Terminology#Opponent) [In Melee](Terminology#In%20Melee) with you and within 3m #TODOMovement of you are knocked prone, they don't suffer [Injury](Injury).
 
 ---
 

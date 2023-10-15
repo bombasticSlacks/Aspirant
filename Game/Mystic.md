@@ -39,7 +39,7 @@ You can consider allied undead and spirits to be [Followers](Terminology#Followe
 You can speak to spirits and undead even if you wouldn't otherwise share a language.
 
 #### Foresight
-As a [reaction](Combat#Reacting%20to%20Attacks), you may [Avoid](Combat#Avoid) using an [Attunement](Spirit#Attunement) [Fixed Difficulty(-2)](Skills#Fixed%20Difficulty).
+You may [Substitute](Terminology#Substitute) [Attunement](Spirit#Attunement) for [Avoid](Reacting-To-Attacks#Avoid) [Action](Terminology#Action).
 
 #### True Sight
 You can perceive things supernaturally within [Spirit](Spirit) x 10m.

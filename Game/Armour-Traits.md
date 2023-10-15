@@ -42,7 +42,7 @@ Your armour has been affixed with additional plates and bands of metal strengthe
 
 #### Hardened
 Material: Leather
-Your armour includes carefully hardened and moulded leather, shaped into rigid pieces providing [Resistance](Armour#Weakness%20and%20Resistance) [Rending](Combat#Rending). 
+Your armour includes carefully hardened and moulded leather, shaped into rigid pieces providing [Resistance](Armour#Weakness%20and%20Resistance) [Rending](Injury#Rending). 
 
 #### Insulated
 Material: Textile
@@ -54,7 +54,7 @@ Your armour swaps out heavy, awkward pieces and components for lighter more flex
 
 #### Mail
 Material: Metal
-Your armour is constructed of distinct interlocking rings or scales, reducing weight and providing excellent flexibility when compared to plates of the same material. Increase the [Max Skill](Armour#Max%20Skill) of the armour by 1 and gain [Resistance](Armour#Weakness%20and%20Resistance) [Rending](Combat#Rending), but gain [Weakness](Armour#Weakness%20and%20Resistance) [Piercing](Combat#Piercing).
+Your armour is constructed of distinct interlocking rings or scales, reducing weight and providing excellent flexibility when compared to plates of the same material. Increase the [Max Skill](Armour#Max%20Skill) of the armour by 1 and gain [Resistance](Armour#Weakness%20and%20Resistance) [Rending](Injury#Rending), but gain [Weakness](Armour#Weakness%20and%20Resistance) [Piercing](Injury#Piercing).
 
 #### Ornate
 Material: Any
@@ -62,7 +62,7 @@ Your armour includes ornate details such as elaborate patterns, intricate engrav
 
 #### Padded
 Material: Textile
-Your armour included extra layers of thick, durable padding which reduce the risk of blunt force trauma. Gain [Resistance](Armour#Weakness%20and%20Resistance) [Impact](Combat#Impact), but lower [Max Skill](Armour#Max%20Skill) by 1. Additionally, if [Structure](Armour#Structure) is <4 after other [Armour-Traits](Armour-Traits) increase it by 1.
+Your armour included extra layers of thick, durable padding which reduce the risk of blunt force trauma. Gain [Resistance](Armour#Weakness%20and%20Resistance) [Impact](Injury#Impact), but lower [Max Skill](Armour#Max%20Skill) by 1. Additionally, if [Structure](Armour#Structure) is <4 after other [Armour-Traits](Armour-Traits) increase it by 1.
 
 #### Practical
 Material: Any
@@ -78,7 +78,7 @@ Through arcane ritual and carefully handiwork, your armour has had runes chisell
 
 #### Spiked
 Material: Metal, Wood
-Your armour includes spines, brambles, or razor sharp edges which may be used to perform an unarmed [Strike](Strength#Strike) attack that deals Piercing damage. This attack occurs automatically when a [Grapple](Combat#Grapple) is initiated involving the character wearing this armour.
+Your armour includes spines, brambles, or razor sharp edges which may be used to perform an unarmed [Strike](Strength#Strike) attack that deals Piercing damage. This attack occurs automatically when a [Grapple](Special-Combat-Actions#grapple) is initiated involving the character wearing this armour.
 
 #### Well-fitted
 Material: Any
@@ -96,11 +96,11 @@ The wood your armour is made of has extraordinary properties, giving it steel li
 
 #### Mechanical Strength
 Material: Machinery
-Your armour augments the users movements Count as having 4 [Strength](Strength) when [Dealing Damage](Combat#Dealing%20Damage) or performing a [Athletics](Strength#Athletics) skill test other than Swimming, but lower [Max Skill](Armour#Max%20Skill) by 2. If the character already has 4 [Strength](Strength) instead treat their [Strength](Strength) as 5.
+Your armour augments the users movements Count as having 4 [Strength](Strength) when [Dealing Damage](Attacks#Dealing%20Damage) or performing a [Athletics](Strength#Athletics) skill test other than Swimming, but lower [Max Skill](Armour#Max%20Skill) by 2. If the character already has 4 [Strength](Strength) instead treat their [Strength](Strength) as 5.
 
 #### Natural Resilience
 Material: Leather
-Your armour is constructed of the hide of a monstrous or mythical creature and benefits from that creature's natural protection. Raise the armour's [Structure](Armour#Structure) by 1 and gain [Resistance](Armour#Weakness%20and%20Resistance) to any 2 [Types of Damage](Combat#Types%20of%20Damage), but reduce the [Max Skill](Armour#Max%20Skill) by 1.
+Your armour is constructed of the hide of a monstrous or mythical creature and benefits from that creature's natural protection. Raise the armour's [Structure](Armour#Structure) by 1 and gain [Resistance](Armour#Weakness%20and%20Resistance) to any 2 [Types of Damage](Injury#Types%20of%20Damage), but reduce the [Max Skill](Armour#Max%20Skill) by 1.
 
 #### Oversized
 Material: Any
@@ -112,8 +112,8 @@ Your armour has been crafted with your precise measures, exact range of motion, 
 
 #### Tempered
 Material: Metal
-Your armour has been hardened and strengthened through masterful forcing and precise quenching of the metal. The armour gains [Resistance](Armour#Weakness%20and%20Resistance) [Piercing](Combat#Piercing) and [Rending](Combat#Rending) and 1 [Structure](Armour#Structure). 
+Your armour has been hardened and strengthened through masterful forcing and precise quenching of the metal. The armour gains [Resistance](Armour#Weakness%20and%20Resistance) [Piercing](Injury#Piercing) and [Rending](Injury#Rending) and 1 [Structure](Armour#Structure). 
 
 #### Warded
 Material: Any
-Gain [Resistance](Armour#Weakness%20and%20Resistance) to all damage from [Magic](magic) regardless of [Types of Damage](Combat#Types%20of%20Damage)
+Gain [Resistance](Armour#Weakness%20and%20Resistance) to all damage from [Magic](magic) regardless of [Types of Damage](Injury#Types%20of%20Damage)

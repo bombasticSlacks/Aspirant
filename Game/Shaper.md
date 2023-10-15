@@ -24,7 +24,7 @@ Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 * Create the illusion of something that isn’t there: noise, visuals, smell.
 * Change a comestible into something more useful. 
 * Alter yourself in simple ways.
-* Attack with magical energy. This attack deals an [Impact](Combat#Impact)/[Rending](Combat#Rending) [Severe Injury](Injury#Severe%20Injury), with [Magic Attack](Magic-Modifiers#Magic%20Attack), and [Multiple Damage Types](Weapon-Traits#Multiple%20Damage%20Types).
+* Attack with magical energy. This attack deals an [Impact](Injury#Impact)/[Rending](Injury#Rending) [Severe Injury](Injury#Severe%20Injury), with [Magic Attack](Magic-Modifiers#Magic%20Attack), and [Multiple Damage Types](Weapon-Traits#Multiple%20Damage%20Types).
 * When attacking with a [Magic Attack](Magic-Modifiers#Magic%20Attack) you can use the: [Concussive](Magic-Modifiers#Concussive), [Painless](Magic-Modifiers#Painless), and [Surprising](Magic-Modifiers#Surprising) [Magic-Modifiers](Magic-Modifiers)
 
  Requires 1 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Example-Gear#Focus)

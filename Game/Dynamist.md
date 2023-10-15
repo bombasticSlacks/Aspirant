@@ -21,12 +21,11 @@ They can generally teach the following training:
 
 #### Amateur Dynamancy
 Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
-* Attack with [Combat](Channel#Combat) magic #TODO
 * Change the temperature of an item abruptly.
 * Disrupt a spell of an amateur level. 
 * Weaken the abilities or powers of a character/creature.
 * Create a shield against a specific element around yourself.
-* Attack with magical energy. This attack deals an [Heat](Combat#Heat)/[Cold](Combat#Cold) [Severe Injury](Injury#Severe%20Injury), with [Magic Attack](Magic-Modifiers#Magic%20Attack), and [Multiple Damage Types](Weapon-Traits#Multiple%20Damage%20Types).
+* Attack with magical energy. This attack deals an [Heat](Injury#Heat)/[Cold](Injury#Cold) [Severe Injury](Injury#Severe%20Injury), with [Magic Attack](Magic-Modifiers#Magic%20Attack), and [Multiple Damage Types](Weapon-Traits#Multiple%20Damage%20Types).
 * When attacking with a [Magic Attack](Magic-Modifiers#Magic%20Attack) you can use the: [Burning](Magic-Modifiers#Burning), [Lethal](Magic-Modifiers#Lethal), and [Slowing](Magic-Modifiers#Slowing) [Magic-Modifiers](Magic-Modifiers).
 
  Requires 1 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Example-Gear#Focus)
@@ -53,15 +52,15 @@ You may use any [Artisan](Materials#Artisan) or greater [Quality](Weapons#Qualit
 
 #### Counter Spell
 *[Requirement](Terminology#Requirement): [Amateur Dynamancy](#Amateur%20Dynamancy)*
-As a [Reaction](Combat#Reacting%20to%20Attacks), you may perform [Channelled Magic](Magic#Channelled%20Magic) to disrupt or defend against another spell or ability as it is being performed.
+If another [Character](Terminology#Character) you can see, and within #TODOMovement casts a spell, you may spend a [Reaction](Terminology#Reaction) to disrupt the spell assuming you have the appropriate training. The [Channelled Magic](Magic#Channelled%20Magic) action is at a (-2).
+
 #### Elemental Strike
-You may have weapons you [Attack](Terminology#Attack) with have the [Hot](Combat#Hot) or [Cold](Combat#Cold) [Types of Damage](Combat#Types%20of%20Damage).
+You may have weapons you [Attack](Terminology#Attack) with have the [Hot](Injury#Hot) or [Cold](Injury#Cold) [Types of Damage](Injury#Types%20of%20Damage).
 
 #### Expert Dynamancy
 *[Requirement](Terminology#Requirement): [Amateur Dynamancy](#Amateur%20Dynamancy)*
 Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 * Change the weather and environment.
-* Do more with combat #TODO
 * Disrupt a spell of an expert level.
 * Temporarily disrupt a curse or enchantment.
 * Disable the abilities or powers of a character/creature.
@@ -85,7 +84,6 @@ You may suffer a [Severe Injury](Injury#Severe%20Injury) #TODODamage to automati
 *[Requirement](Terminology#Requirement): [Expert Dynamancy](#Expert%20Dynamancy)*
 Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 * Change the environment and weather in unnatural and unbelievable ways.
-* Do more with combat #TODO
 * Disrupt a spell of a master level or a permanent curse/enchantment.
 * Reverse the abilities or powers of a character/creature making it a weakness.
 * Create more general wards of protection. 

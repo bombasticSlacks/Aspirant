@@ -36,7 +36,7 @@ You can always tell how injured a person is (and where). When starting a health/
 When you use [Insight](Intelligence#Insight) to gain information, you can spend 1 [Power](Stats#Power) to infer another useful fact about the thing. Ask another question and the [GM](How-To-Play#GM) should answer honestly.
 
 #### Kill Switch
-While controlling a [Grapple](Combat#Grapple) you can perform an [Application](Intelligence#Application) skill test to disable automata and machines.
+While controlling a [Grapple](Special-Combat-Actions#grapple) you can perform an [Application](Intelligence#Application) skill test to disable automata and machines.
 
 #### Knowledgeable Cryptozoologist
 You're knowledgeable about all animals and monsters and can make [Memory](Intelligence#Memory) tests to know about them.
