@@ -10,7 +10,7 @@ grand_parent: Telling The Story
 During each full turn of combat, each character gets a single [Reaction](Terminology#Reaction), which they can use when something else happens during combat. 
 * Your reaction refreshes on your turn. 
 * In general, these are used to avoid incoming attacks. 
-* You cannot spend a [Reaction](Terminology#Reaction) on your own [Combat Turn](Terminology#Combat%20Turn)
+* You cannot spend a [Reaction](Terminology#Reaction) on your own [Combat Turn](Terminology#Combat%20Turn) unless otherwise noted.
 The generally available reactions are:
 
 ### Avoid
@@ -23,4 +23,4 @@ A [Grace](Agility#Grace) skill test where if you succeed then you may move to a 
 If someone moves while [In Melee](Terminology#In%20Melee) with you, you may make an [Attack](Terminology#Attack) against them.
 
 ### All Out Attack
-You may forgo a [Reaction](Terminology#Reaction) for this [Combat Round](Terminology#Combat%20Round) on your [Combat Turn](Terminology#Combat%20Turn) to get a (+2) to all [Action](Terminology#Action).
+You may spend a [Reaction](Terminology#Reaction) on your [Combat Turn](Terminology#Combat%20Turn) to get a (+2) to all [Action](Terminology#Action).
