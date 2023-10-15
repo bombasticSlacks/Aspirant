@@ -55,7 +55,10 @@ To randomly determine a hit location, you should roll a d12 and consult the foll
 
 ### Dealing Damage
 
-Generally, a weapon or attack will already have a calculated [Injury](Injury) it causes, however your character might have additional bonuses which increase this value further.
+Generally, a weapon or attack will already have a calculated [Injury](Injury) it causes. A weapon will have a damage value written as follows: "X(Y)". What this means is that the weapon does X damage, and you could take a negative on the [Attack](Terminology#Attack) to cause it to do 1 additional damage.
+
+
+however your character might have additional bonuses which increase this value further. Unless otherwise specified, a character adds their strength as a damage bonus.
 
 
 When you or something else is attempting to injure someone you will in most cases roll 1d6 + damage modifier. Damage modifier is a combination of the weapons inherent lethality, size, any bonuses from your character and usually, your [Strength](Strength). 
@@ -81,6 +84,6 @@ If you fail to mitigate an incoming attack, you will take damage.
 * Deduct incoming damage from your [Armour Integrity](Armour#Armour%20Integrity).
 * Any remaining damage is converted to an [Injury](Injury).
 
-> Example if your character takes 3 damage from a piercing attack while wearing armour weak to piercing with 2 [Armour Integrity](Armour#Armour%20Integrity). Your character's Armour Integrity is reduced to 0, with 2 damage still left unabsorbed you take a [Severe Injury](Injury#Severe%20Injury).
+> Example, if your character takes 3 damage from a piercing attack while wearing armour weak to piercing with 2 [Armour Integrity](Armour#Armour%20Integrity). Your character's Armour Integrity is reduced to 0, with 2 damage still left unaccounted for you take a [Severe Injury](Injury#Severe%20Injury).
 
 

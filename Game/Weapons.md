@@ -10,7 +10,7 @@ Weapon [Equipment](Equipment) can normally be separated into 3 categories: Basic
 
 In the world of Aspirant, there are plenty of unique weapons to be found and experienced. Some examples will be provided, along with rules for creating your own weapons in each category.
 
-### Damage Bonus
+### Damage
 Weapons receive an inherent bonus to damage based on their other values. Your damage bonus is used when [Dealing Damage](Attacks#Dealing%20Damage).
 
 ### Size

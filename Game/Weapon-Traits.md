@@ -51,7 +51,7 @@ Your weapon fires bolts of metal. It no longer can be used as a melee weapon and
 This weapon is penetrative for your first attack in any combat.
 
 #### Disguised
-This does not appear to be a weapon but has -1 [Damage Bonus](Weapons#Damage%20Bonus).
+This does not appear to be a weapon but has -1 [Damage Bonus](Weapons#Damage). #TODODamage 
 
 #### Ensnaring
 This weapon deals -2 damage, on [Non-mitigated Attack](Terminology#Non-mitigated%20Attack) it causes the enemy to be [Grappled](Special-Combat-Actions#grapple). You need to maintain hold of the ensnaring weapon to maintain the [Grapple](Special-Combat-Actions#grapple).
