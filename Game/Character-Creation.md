@@ -14,6 +14,7 @@ Before anything else, try to imagine what your character should be. Are they a s
 Make note of your character's name and any other relevant details before moving on to giving your character rules.
 
 ### Character Creation Options
+**CHARACTER CREATION IS CURRENTLY BROKEN WHILE CORE SYSTEMS ARE REWRITTEN** #TODO 
 Your GM should discuss with your party to determine what sort of characters you want to create. There are a few separate ways to create an aspirant character based on the power level and story you are looking to tell.
 
 * [Humble-Beginnings](Humble-Beginnings) for if you would like to start with basic characters and explore / build the world together.

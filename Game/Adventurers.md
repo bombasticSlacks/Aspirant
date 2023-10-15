@@ -6,7 +6,6 @@ nav_order: 2
 grand_parent: How To Play
 ---
 ## Adventurers
-#TODO **CURRENTLY OUT OF DATE**
 A way to do [Character-Creation](Character-Creation).
 
 To create a character who is already a knowledgeable adventurer. 
