@@ -75,7 +75,7 @@ When you or your [Mount](Mounts) are attacked while [Mounted](Terminology#Mounte
 After you opponent achieves a [Non-mitigated Attack](Terminology#Non-mitigated%20Attack), you may drop prone to reduce the [Damage](Terminology#Damage) by 1.
 
 #### Second Skin
-You ignore [Max Skill](Armour#Max%20Skill) for any [Armour](Armour) you wear.
+You ignore [Max Skill](Armour#Skill%20Penalty) for any [Armour](Armour) you wear.
 
 #### Strange Riding
 Your [Mounted Expert](#Mounted%20Expert) training applies to exotic forms of travel while [Mounted](Terminology#Mounted).

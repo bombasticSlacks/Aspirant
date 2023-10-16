@@ -12,9 +12,9 @@ Armour [Equipment](Equipment) is your character's safety net. It is designed to 
 Armour is separated into 2 distinct sections. [Ancillary](Injury#Ancillary), [Vitals](Injury#Vitals).
 
 ### Materials
-Armour is made of specific [materials](materials) which have 4 distinct attributes: [Weakness and Resistance](#Weakness%20and%20Resistance), [Armour Integrity](#Armour%20Integrity), [Max Skill](#Max%20Skill). To function as protection, a piece of armour must be made of at least [Artisan](Materials#Artisan) quality materials, even if it is of a Basic design. Materials also influence which [Armour-Traits](Armour-Traits) are available for Artisan and Exotic armours.
+Armour is made of specific [materials](materials) which have 4 distinct attributes: [Weakness and Resistance](#Weakness%20and%20Resistance), [Armour Integrity](#Armour%20Integrity), [Max Skill](#Skill%20Penalty). To function as protection, a piece of armour must be made of at least [Artisan](Materials#Artisan) quality materials, even if it is of a Basic design. Materials also influence which [Armour-Traits](Armour-Traits) are available for Artisan and Exotic armours.
 
-#### Max Skill
+#### Skill Penalty
 affects different locations separately and is the maximum bonus you can have on related skill tests before negatives are applied. 
 
 | Location                      | Skills effected                  |

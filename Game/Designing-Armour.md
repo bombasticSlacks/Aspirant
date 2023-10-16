@@ -48,13 +48,13 @@ Armour is made of [Materials](Materials), which determine its characteristics, s
 This is a list of the base values an armour with each primary material will have.
 #TODO update machinery
 
-| Material  | Max Skill | Integrity | Weakness | Resistance |
-| --------- | --------- | --------- | -------- | ---------- |
-| Textile   | 7         | 1         | Heat     | -          |
-| Leather   | 7         | 1         | Life     | -          |
-| Wood      | 5         | 2         | Heat     | -          |
-| Metal     | 5         | 2         | Cold     | -          |
-| Machinery | 6         | 1         | Impact   | -          |
+| Material  | Skill Penalty | Integrity | Weakness | Resistance |
+| --------- | ------------- | --------- | -------- | ---------- |
+| Textile   | 0             | 1         | Heat     | -          |
+| Leather   | 0             | 1         | Life     | -          |
+| Wood      | (-1)          | 2         | Heat     | -          |
+| Metal     | (-1)          | 2         | Cold     | -          |
+| Machinery | (-1)          | 1         | Impact   | -          |
 
 #### Multiple Materials
  When multiple materials are used, one is treated as the primary material and the other as the secondary material. The armour's base attributes (Weakness, Resistance, Structure, and Max Skill) are determined by the primary material, while the secondary material represents the increase in complexity and robustness of higher quality gear.

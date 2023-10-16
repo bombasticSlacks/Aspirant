@@ -38,7 +38,7 @@ Your armour incorporates fine linens, silks, furs or other more exotic fibres, w
 
 #### Fortified
 Material: Metal
-Your armour has been affixed with additional plates and bands of metal strengthening it and creating new layers of protection. Increase the armour's [Structure](Armour#Structure) by 2, but reduce [Max Skill](Armour#Max%20Skill) by 1.
+Your armour has been affixed with additional plates and bands of metal strengthening it and creating new layers of protection. Increase the armour's [Armour Integrity](Armour#Armour%20Integrity) by 1, but increase [Skill Penalty](Armour#Skill%20Penalty) by (-1).
 
 #### Hardened
 Material: Leather
@@ -50,19 +50,19 @@ Your armour incorporates thick, insulating layers of furs or textiles that prote
 
 #### Lightweight Materials
 Material: Leather, Machinery, Textile
-Your armour swaps out heavy, awkward pieces and components for lighter more flexible alternatives are key locations. While these alterations reduce the [Structure](Armour#Structure) by 1, they increase the [Max Skill](Armour#Max%20Skill) of the armour by 2.
+Your armour swaps out heavy, awkward pieces and components for lighter more flexible alternatives at key locations. While these alterations reduce the [Armour Integrity](Armour#Armour%20Integrity) by 1, but [Skill Penalty](Armour#Skill%20Penalty) is fixed at (0).
 
 #### Mail
 Material: Metal
-Your armour is constructed of distinct interlocking rings or scales, reducing weight and providing excellent flexibility when compared to plates of the same material. Increase the [Max Skill](Armour#Max%20Skill) of the armour by 1 and gain [Resistance](Armour#Weakness%20and%20Resistance) [Rending](Injury#Rending), but gain [Weakness](Armour#Weakness%20and%20Resistance) [Piercing](Injury#Piercing).
+Your armour is constructed of distinct interlocking rings or scales, reducing weight and providing excellent flexibility when compared to plates of the same material. Reduce the [Skill Penalty](Armour#Skill%20Penalty) by (+1) to a minimum of 0, and gain [Resistance](Armour#Weakness%20and%20Resistance) [Rending](Injury#Rending), but gain [Weakness](Armour#Weakness%20and%20Resistance) [Piercing](Injury#Piercing).
 
 #### Ornate
 Material: Any
-Your armour includes ornate details such as elaborate patterns, intricate engravings, or precise coloration that makes it impressive to behold. You add +1 to [Connection](Communication#Connection) skill tests when more than half of your armour pieces have the Ornate Trait.
+Your armour includes ornate details such as elaborate patterns, intricate engravings, or precise coloration that makes it impressive to behold. You add +1 to [Connection](Communication#Connection) skill tests. This trait does not stack.
 
 #### Padded
 Material: Textile
-Your armour included extra layers of thick, durable padding which reduce the risk of blunt force trauma. Gain [Resistance](Armour#Weakness%20and%20Resistance) [Impact](Injury#Impact), but lower [Max Skill](Armour#Max%20Skill) by 1. Additionally, this armour has a [Armour Integrity](Armour#Armour%20Integrity) of at least 2.
+Your armour included extra layers of thick, durable padding which reduce the risk of blunt force trauma. Gain [Resistance](Armour#Weakness%20and%20Resistance) [Impact](Injury#Impact), but increase [Skill Penalty](Armour#Skill%20Penalty) by (-1). Additionally, this armour has a [Armour Integrity](Armour#Armour%20Integrity) of at least 2.
 
 #### Practical
 Material: Any
@@ -82,7 +82,7 @@ Your armour includes spines, brambles, or razor sharp edges which may be used to
 
 #### Well-fitted
 Material: Any
-Your armour has been custom made to fit your profile raise the [Max Skill](Armour#Max%20Skill) by 1.  
+Your armour has been custom made to fit your profile, reduce the [Skill Penalty](Armour#Skill%20Penalty) by (+1) to a minimum of 0.  
 
 ### 2 Cost Traits
 
@@ -92,25 +92,27 @@ Your armour possesses special material properties, linings, treatments, or other
 
 #### Ironbark
 Material: Wood
-The wood your armour is made of has extraordinary properties, giving it steel like strength. Raise the [Structure](Armour#Structure) of the armour by 2.
+The wood your armour is made of has extraordinary properties, giving it steel like strength. Increase [Armour Integrity](Armour#Armour%20Integrity) by 1.
 
 #### Mechanical Strength
 Material: Machinery
-Your armour augments the users movements Count as having 4 [Strength](Strength) when [Dealing Damage](Attacks#Dealing%20Damage) or performing a [Athletics](Strength#Athletics) skill test other than Swimming, but lower [Max Skill](Armour#Max%20Skill) by 2. If the character already has 4 [Strength](Strength) instead treat their [Strength](Strength) as 5.
+Your armour augments the users movements Count as having 4 [Strength](Strength) when [Dealing Damage](Attacks#Dealing%20Damage) or performing a [Athletics](Strength#Athletics) skill test other than Swimming, but lower [Max Skill](Armour#Skill%20Penalty) by 2. If the character already has 4 [Strength](Strength) instead treat their [Strength](Strength) as 5.
 
 #### Natural Resilience
 Material: Leather
-Your armour is constructed of the hide of a monstrous or mythical creature and benefits from that creature's natural protection. Raise the armour's [Structure](Armour#Structure) by 1 and gain [Resistance](Armour#Weakness%20and%20Resistance) to any 2 [Types of Damage](Injury#Types%20of%20Damage), but reduce the [Max Skill](Armour#Max%20Skill) by 1.
+Your armour is constructed of the hide of a monstrous or mythical creature and benefits from that creature's natural protection. This armour has an [Armour Integrity](Armour#Armour%20Integrity) of at least 2, and gain [Resistance](Armour#Weakness%20and%20Resistance) to any 2 [Types of Damage](Injury#Types%20of%20Damage), but increase the [Skill Penalty](Armour#Skill%20Penalty) by (-1).
 
 #### Oversized
+#TODORethink
 Material: Any
-Your armour incorporates excessive volumes of additional defensive layers to protect the user at great cost to their mobility. Raise the armour's [Structure](Armour#Structure) by 3 but lower [Max Skill](Armour#Max%20Skill) by 2.
+Your armour incorporates excessive volumes of additional defensive layers to protect the user at great cost to their mobility. Raise the armour's [Structure](Armour#Structure) by 3 but lower [Max Skill](Armour#Skill%20Penalty) by 2.
 
 #### Perfect Fit
 Material: Any
-Your armour has been crafted with your precise measures, exact range of motion, and training, techniques, and skill set in mind. Raise the [Max Skill](Armour#Max%20Skill) of the armour by 2.
+Your armour has been crafted with your precise measures, exact range of motion, and training, techniques, and skill set in mind. Reduce the [Skill Penalty](Armour#Skill%20Penalty) by (+2) to a minimum of 0.  
 
 #### Tempered
+#TODORethink
 Material: Metal
 Your armour has been hardened and strengthened through masterful forcing and precise quenching of the metal. The armour gains [Resistance](Armour#Weakness%20and%20Resistance) [Piercing](Injury#Piercing) and [Rending](Injury#Rending) and 1 [Structure](Armour#Structure). 
 
