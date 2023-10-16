@@ -36,7 +36,7 @@ Armour can come in a variety of qualities. Higher quality armours gain access to
 Your overall suit of armour will have an armour integrity, which is how well it all comes together to protect you. In other words, your armour suit has a shared amount of health over all locations. Armour Integrity is equal to the values of your [Vitals](Injury#Vitals) coverage + [Ancillary](Injury#Ancillary) coverage. 
 
 ### Style
-Characters shouldn’t be punished for dressing their characters in a specific way that doesn’t describe perfect protection. The most obvious, however dated, example is a chainmail bikini. Though silly and perhaps not something players would be comfortable with, if it is in your game, it counts as fully functional armour with similar weaknesses to any other armour of similar material. Players and, in most cases, NPC characters should not have their narrative armour exploited.  
+Characters shouldn’t be punished for dressing their characters in a specific way that doesn’t describe perfect protection. The most obvious, however dated, example is a chain mail bikini. Though silly and perhaps not something players would be comfortable with, if it is in your game, it counts as fully functional armour with similar weaknesses to any other armour of similar material. Players and, in most cases, NPC characters should not have their narrative armour exploited.  
 
 This extends to hats and helmets as well. Many players love the idea of a hero with their hair flowing in the wind and a perfect smile as they rush into battle. This vision doesn’t need to conflict with having a protected head. Characters could have headbands, thinly framed helmets, or even a high coif / scarf. These give the impression of head armour without giving up the vision of a hero.
 
