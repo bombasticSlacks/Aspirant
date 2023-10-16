@@ -26,7 +26,7 @@ An abstraction for how much power and harm is behind an attack. When you suffer 
 If a [Character](#Character) successfully causes an injury with an attack, that is an Injuring Attack.
 
 ### Reaction
-A response a [Character](#Character) can perform in combat while it is not their turn. [Characters](#Character) generally get 1 reaction per [Combat Round](#Combat%20Round). A [Character's](#Character) reaction refreshes at the start of their [Combat Turn](#Combat%20Turn).
+A response a [Character](#Character) can perform in combat while it is not their turn. [Characters](#Character) generally get 1 reaction per [Combat Round](#Combat%20Round). A [Character's](#Character) reaction refreshes at the start of their [Combat Turn](#Combat%20Turn). See [Reacting-To-Attacks](Reacting-To-Attacks) for a list of example reactions.
 
 ### Combat Round
 In combat, a combat round is all the actions of every [Character](#Character) in that combat. When everyone has taken a combat turn, the combat round is over and a new combat round starts. If it is important for some reason, a combat round usually encompasses 5 seconds of time, but shouldn't be dwelled on too specifically unless necessary.

@@ -48,7 +48,7 @@ When being paid for [Day Work](Activities#Day%20Work), you receive 1 additional 
 When you perform [Day Work](Activities#Day%20Work) you can ask the GM one question about the city you are in.
 
 #### Routine Maintenance
-As a [Travel Activity](Activities#Travel%20Activity) you may repair 2 points of armour integrity to each ally's armour. Each ally's weapon deals 1 additional damage until the next [Travel Segment](Telling-The-Story#Travel%20Segment). #TODODamage 
+As a [Travel Activity](Activities#Travel%20Activity) you may repair 2 points of armour integrity to each ally's armour. Each ally's weapon has +1 [Damage Bonus](Weapons#Damage%20Bonus) until the next [Travel Segment](Telling-The-Story#Travel%20Segment).
 
 #### Suburbanite
 You receive a +1 to all skill tests related to surviving and navigating urban areas.

@@ -34,7 +34,7 @@ You receive the benefits of your wielded weapon traits to [Avoid](Reacting-To-At
 Enemies receive a (-1) to [Reaction](Terminology#Reaction) skill tests against you.
 
 #### Fight Smart
-You may substitute your [Strength](Strength) with [Intelligence](Intelligence) for [Strike](Strength#Strike) skill tests. You may add your [Intelligence](Intelligence) to calculate damage instead of [Strength](Strength) for weapons. #TODODamage 
+You may count your [Strength](Strength) as equivalent to [Intelligence](Intelligence) for [Combat Skill Test](Terminology#Combat%20Action) and [Calculating Damage](Attacks#Calculating%20Damage).
 
 #### Flowing Defence
 You receive a (+1) to [Reaction](Terminology#Reaction) skill tests per [Mitigated Attack](Terminology#Mitigated%20Attack) targeting you this [Combat Round](Terminology#Combat%20Round).
@@ -45,7 +45,7 @@ If you move during your [Combat Turn](Terminology#Combat%20Turn), [Characters](T
 #### Lash Out
 After performing a [Melee Attack](Terminology#Melee%20Attack) you may perform a [Thrown Attack](Terminology#Thrown%20Attack). 
 #### Pit Fighter
-You may count your [Strength](Strength) as equivalent to [Agility](Agility) for [Combat Skill Test](Terminology#Combat%20Action) and damage calculations #TODODamage .
+You may count your [Strength](Strength) as equivalent to [Agility](Agility) for [Combat Skill Test](Terminology#Combat%20Action) and [Calculating Damage](Attacks#Calculating%20Damage).
 
 #### Sole Combatant
 You receive a (+1) to all [Combat Skill Test](Terminology#Combat%20Action) when [In Melee](Terminology#In%20Melee) with only 1 other [Character](Terminology#Character).

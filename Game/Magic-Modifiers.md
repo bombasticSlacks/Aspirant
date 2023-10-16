@@ -35,8 +35,8 @@ If this is a [Successful Attack](Terminology#Successful%20Attack) and the oppone
 This attack hits everyone in the 9m x 9m around your target.
 
 ### Lethal
-*Action modifier (-2)*
-#TODODamage 
+*Action modifier varies*
+Your [Attack](Terminology#Attack) does 1 additional [Damage](Terminology#Damage). The penalty for this is variable, see [Calculating Damage](#Calculating%20Damage).
 
 ### Painless
 *Action modifier (0)*
@@ -44,7 +44,7 @@ This attack does not cause [Injury](Injury)
 
 ### Magic Attack
 *Action modifier (0)*
-This attacks adds [Spirit](Spirit) to damage instead of [Strength](Strength) and has a [Range](Weapons#Range) of 10m. #TODODamage #TODOMovement
+This attacks adds [Spirit](Spirit) to damage bonus instead of [Strength](Strength) and has a [Range](Weapons#Range) of 10m. #TODOMovement
 
 ### Slowing
 *Action modifier (-1)*

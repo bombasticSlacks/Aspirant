@@ -107,7 +107,7 @@ You may make a [Ranged Attack](Terminology#Ranged%20Attack) on up to an [Agility
 You do not need an item or object to hide behind when attempting to hide.
 
 #### Marksman
-No negative on [Called Shot](Attacks#Called%20Shot) #TODODamage with [Ranged Attack](Terminology#Ranged%20Attack) if you do nothing else during your [Combat Turn](Terminology#Combat%20Turn).
+No negative on [Vitals Hit](Attacks#Vitals%20Hit) with [Ranged Attack](Terminology#Ranged%20Attack) if you do nothing else during your [Combat Turn](Terminology#Combat%20Turn).
 
 #### Master Thief
 In combat you can perform a [Grace](Agility#Grace) [Opposed Difficulty](Skills#Opposed%20Difficulty)([Reflexes](Agility#Reflexes)) to immediately use a piece of [Equipment](Equipment) stored on another character [In Melee](Terminology#In%20Melee). You still need to perform any additional skill checks to use the item.
