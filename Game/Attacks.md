@@ -34,20 +34,26 @@ If an [Attack](Terminology#Attack) is a [Critical Success](Skills#Critical%20Suc
 ### Combat Modifiers
 These are modifiers you can apply to attacks and manoeuvres which will put you at a negative to the skill test but will make the attack or manoeuvre do additional things. Several other powerful modifiers can be learned by taking specific combat training. 
 
-#### Vitals Hit
-*Action modifier (-2)*
-Your [Attack](Terminology#Attack) strikes a person's vitals. An [Attack](Terminology#Attack) that rolls [Doubles](Skills#Doubles), is always considered a vitals hit.
-
 #### Difficult Hit
 *Action modifier (-1, -3, -5)*
+
 You make your attacks harder to predict and therefore harder to avoid. You can give yourself a -1, -3 or -5 to your skill test to give your opponent a similar negative to any reactions.
-#### Reposition
-*Action modifier (-1)*
-before making a melee attack or manoeuvre, you can move to a different side of your opponent.
 
 #### Heavy Strike
 *Action modifier varies*
+
 Your [Attack](Terminology#Attack) does 1 additional [Damage](Terminology#Damage). The penalty for this is variable, see [Calculating Damage](#Calculating%20Damage).
+
+#### Reposition
+*Action modifier (-1)*
+
+before making a melee attack or manoeuvre, you can move to a different side of your opponent.
+
+#### Vitals Hit
+*Action modifier (-2)*
+
+Your [Attack](Terminology#Attack) strikes a person's vitals. An [Attack](Terminology#Attack) that rolls [Doubles](Skills#Doubles), is always considered a vitals hit.
+
 
 ---
 ### Calculating Damage

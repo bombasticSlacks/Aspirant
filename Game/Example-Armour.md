@@ -22,6 +22,7 @@ nav_order: 2
 
 ### Politicians Plate
 *Fancy Fabrics reinforced with metal plates with stylish decals*
+
 [Artisan](Designing-Armour#Artisan) armour made from [Artisan Fabric](Textiles#Artisan%20Fabric) and [Artisan Metals](Metal#Artisan%20Metals)
 
 | Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits                     |
@@ -33,6 +34,7 @@ nav_order: 2
 
 ### Leather
 *Simple leathers providing some meaningful protection*
+
 [Basic](Designing-Armour#Basic) armour made from [Artisan Hide](Hide#Artisan%20Hide)
 
 | Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits |
@@ -43,6 +45,7 @@ nav_order: 2
 
 ### Hammered Iron
 *Simple metal hammered into functional plates providing solid protection*
+
 [Basic](Designing-Armour#Basic) armour made from [Artisan Metals](Metal#Artisan%20Metals)
 
 | Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits |
@@ -53,6 +56,7 @@ nav_order: 2
 
 ### Unarmoured
 *You have left this section of your body susceptible to harm*
+
 The absence of armour.
 
 | Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness | Resistance | Traits |
@@ -63,6 +67,7 @@ The absence of armour.
 
 ### Cloth
 *Simple clothes structured in place*
+
 [Basic](Designing-Armour#Basic) armour made from [Artisan Textiles](Textiles#Artisan%20Textiles).
 
 | Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits |
@@ -73,6 +78,7 @@ The absence of armour.
 
 ### Plank
 *Hardened wood protecting from strikes*
+
 [Basic](Designing-Armour#Basic) armour made from [Artisan Wood](Wood#Artisan%20Wood).
 
 | Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits |
@@ -83,6 +89,7 @@ The absence of armour.
 
 ### Quilted Cotton
 *Double lined cotton quilted for extra padding*
+
 [Artisan](Designing-Armour#Artisan) armour made from [Artisan Textiles](Textiles#Artisan%20Textiles), and [Basic Textiles](Textiles#Basic%20Textiles).
 
 | Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance              | Traits                         |
@@ -93,6 +100,7 @@ The absence of armour.
 
 ### Studded Leather
 *Leather armour reinforced with metal studs*
+
 [Artisan](Designing-Armour#Artisan) armour made from [Artisan Hide](Hide#Artisan%20Hide), and [Basic Metal](Metal#Basic%20Metal).
 
 | Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits                                 |
@@ -103,6 +111,7 @@ The absence of armour.
 
 ### Scale Mail
 *Metal armour weaved into sections to help keep it light*
+
 [Artisan](Designing-Armour#Artisan) armour made from [Artisan Metals](Metal#Artisan%20Metals), and [Basic Metal](Metal#Basic%20Metal).
 
 | Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness                                         | Resistance                | Traits                     |
