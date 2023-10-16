@@ -118,7 +118,7 @@ Surgery, at a minimum, requires a flat surface and [Surgeons Tool Set](Example-G
 * (+1) for monitoring equipment. 
 A successful surgery removes the person's [Injury Penalty](Injury#Injury%20Penalty). If you have access to any replacement body parts, or mostly intact severed limbs, they can be reapplied as part of surgery. 
 
-Surgery takes 20 minutes per [Injury](Injury) the person has sustained, with torso injuries #TODODamage taking 2 times as long and head injuries taking 3 times as long. The total time in surgery is equal to the sum of all injuries. 
+Surgery takes 20 minutes per [Injury](Injury) the person has sustained, with [Vitals](Injury#Vitals) injuries taking twice as long. The total time in surgery is equal to the sum of all injuries. 
 
 Surgery can only be attempted once, per person, per [Downtime](Telling-The-Story#Downtime).
 
@@ -133,7 +133,7 @@ Once per [Downtime](Telling-The-Story#Downtime), you can opt to take a second co
 *[Requirement](Terminology#Requirement): [Surgeon](#Surgeon)*
 You cannot have [Critical Failure](Skills#Critical%20Failure) in surgery. 
 
-You can also attempt to bring someone who has died from either a critical chest wound, critical wound to the head, or who has received a lethal injury back to life #TODODamage. This is a single medical test you can only perform once, and anyone [Aiding](Skills#Aid%20and%20Hindrance) you must also have Playing God. It must be performed within 10 minutes of the injury occurring and is surgery.
+You can also attempt to bring someone who has died from an injury back to life. This is an [Application](Intelligence#Application) [Fixed Difficulty](Skills#Fixed%20Difficulty) (-3), and anyone [Aiding](Skills#Aid%20and%20Hindrance) you must also have Playing God. It must be performed within 10 minutes of the injury occurring and is surgery.
 
 #### Trauma Doc
 If you successfully use a [Trauma Kit](Example-Gear#Trauma%20Kit) on someone, their [Injury Penalty](Injury#Injury%20Penalty) goes away. You can also make a medical test to treat ongoing negatives that were caused by someone else's medical work.

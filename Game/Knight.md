@@ -19,7 +19,7 @@ They can generally teach the following training:
 ### Basic
 
 #### Bury Them
-If an enemy is on the ground, and you make a [Strike](Strength#Strike) attack against them, you receive a +4 to the skill test, and you add 3 to your [Damage Bonus](Weapons#Damage%20Bonus).
+If an enemy is on the ground, and you make a [Melee Attack](Terminology#Melee%20Attack) against them, you deal +1 [Damage](Terminology#Damage).
 
 #### Fight Defensively
 You may declare you are fighting in a defensive stance as a [Free Action](Terminology#Free%20Action) at the beginning of your [Combat Turn](Terminology#Combat%20Turn), you remain in a defensive stance until the start of your next [Combat Turn](Terminology#Combat%20Turn). While fighting defensively, you receive a +2 to all skill tests that are [Reaction](Terminology#Reaction), and a -2 to all attack skill tests.
@@ -52,7 +52,7 @@ If a [Character](Terminology#Character) performs a [Mitigated Attack](Terminolog
 You cannot be forced to move or knocked over.
 
 #### Trampler
-While [Mounted](Terminology#Mounted) when [Charging](Attack-Bonuses#Charging) #TODOMovement , you can cause an #TODODamage [Impact](Injury#Impact) [Critical Injury](Injury#Critical%20Injury) instead of your normal damage.
+While [Mounted](Terminology#Mounted) when [Charging](Attack-Bonuses#Charging) #TODOMovement , you can cause an [Impact](Injury#Impact) [Ancillary](Injury#Ancillary) [Critical Injury](Injury#Critical%20Injury).
 
 
 ---
@@ -72,7 +72,7 @@ If you have not made an [Attack](Terminology#Attack) during your [Combat Turn](T
 When you or your [Mount](Mounts) are attacked while [Mounted](Terminology#Mounted), you may choose which of you any attack targets. Your mount also gets a [Reaction](Terminology#Reaction).
 
 #### Roll With The Punches
-After suffering an [Injuring Attack](Terminology#Injuring%20Attack), you may drop prone to make the attack a [Glancing Blow](Attacks#Glancing%20Blow).
+After you opponent achieves a [Non-mitigated Attack](Terminology#Non-mitigated%20Attack), you may drop prone to reduce the [Damage](Terminology#Damage) by 1.
 
 #### Second Skin
 You ignore [Max Skill](Armour#Max%20Skill) for any [Armour](Armour) you wear.

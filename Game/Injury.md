@@ -3,30 +3,48 @@ layout: default
 title: Injury
 parent: Telling The Story
 nav_order: 2
-has_children: false
+has_children: true
 ---
 ## Injury
+Humans don’t have hit points. A character's armour takes the role of their safety net to injury, once it is gone when attacked and harmed you suffer injuries. [Damage](Terminology#Damage) converts to injuries as follows:
 
-| Injury Type     | Immediate Effect                     | Become Wounded | Chance Of Death                                                      |
-| --------------- | ------------------------------------ | -------------- | -------------------------------------------------------------------- |
-| Minimal Injury  | [Endurance](Strength#Endurance) skill test    | No             | No                                                                   |
-| Severe Injury   | -2 [Endurance](Strength#Endurance) skill test | Yes            | No                                                                   |
-| Critical Injury | Yes                                  | Yes            | Guaranteed In Head, Chance In Body [Endurance](Strength#Endurance) skill test |
-| Lethal Injury   | Death                                | Yes            | Always                                                               |
+| Damage | Injury                                |
+| ------ | ------------------------------------- |
+| 1      | [Minimal Injury](#Minimal%20Injury)   |
+| 2      | [Severe Injury](#Severe%20Injury)     |
+| 3      | [Critical Injury](#Critical%20Injury) |
+| 4+     | [Lethal Injury](#Lethal%20Injury)     |
 
-Humans don’t have hit points. A character's armour takes the role of their safety net to injury, once it is gone when attacked and harmed you suffer injuries. Whenever something is injured, the injury can be of the magnitude of: None (N), Minimal Injury (M), Severe Injury (S), Critical Injury (C), Lethal Injury (L).
+> Example a character suffers an attack that deals 2 damage, while not wearing armour, they suffer a [Severe Injury](#Severe%20Injury). If they then suffer an attack that deals 3 damage, they suffer an additional [Critical Injury](#Critical%20Injury).
 
+All injuries will potentially cause an [Injury-Effects](Injury-Effects).
 ### Minimal Injury
-An attack that causes a minimal injury causing bleeding, bruising or burns. After taking a minimal injury you will usually need to make an [Endurance](Strength#Endurance) test to not immediately fall over, collapse, drop what you were holding etc.
+An attack that doesn't cause serious wounds, but still causes disruption.
+* Must perform [Endurance](Strength#Endurance) [Fixed Difficulty](Skills#Fixed%20Difficulty) (0) or suffer an [Injury-Effects](Injury-Effects).
 
 ### Severe Injury
-Severe injuries need medical attention quickly. Can involve broken bones, and severe lacerations. After taking a severe injury, there is only so long you can fight before you pass out. After taking a severe injury you will usually need to make an [Endurance](Strength#Endurance) skill test at a -2 to not immediately fall over, collapse, drop what you were holding etc. Also consider yourself [Wounded](#Wounded).
+Severe injuries need medical attention quickly. It can involve broken bones, internal bleeding, and severe lacerations. After taking a severe injury, there is only so long you can fight before you pass out. 
+* Must perform [Endurance](Strength#Endurance) [Fixed Difficulty](Skills#Fixed%20Difficulty) (0) or suffer an [Injury-Effects](Injury-Effects).
+* Become [Wounded](#Wounded).
+* You will die from complications without [Stabilization](#Stabilization) in 30–60 minutes.
 
 ### Critical Injury
-Critical injuries pose an immediate threat to your life. You are left severely bleeding, unconscious, burning, etc. as well you will have completely lost use of the damaged limb which will need to be replaced, and you will suffer the negative effect of the injury (no strength test to resist). If you take a critical injury to the chest, you must make an [Endurance](Strength#Endurance) skill test or die. A critical injury to the head immediately kills you. Consider yourself [Wounded](#Wounded).
+Critical injuries pose an immediate threat to your life. You are left severely bleeding, unconscious, with organ failure, etc. as well you will have completely lost use of the attacked area which will need to be replaced with [Prosthetics](Character-Development#Prosthetics) or reattached/fixed by a [Surgeon](Academic#Surgeon).
+* Suffer an [Injury-Effects](Injury-Effects).
+* Become [Wounded](#Wounded).
+* Critical [Vitals](#Vitals) injuries kill outright.
+* You will die from complications without [Stabilization](#Stabilization) in 3–5 minutes.
 
 ### Lethal Injury
-A lethal injury always means death to a normal sized creature and represents a complete failure or their necessary systems for survival. Usually weapons that cause immediate death are known for their large amounts of collateral damage.
+A lethal injury always means death to a normal-sized creature and represents a complete failure of their necessary systems for survival. 
+* Death
+
+### Hit Locations
+Generally when considering where something strikes you, it is assumed that an [Attack](Terminology#Attack) or other harm will hit you in somewhere that will not kill you. Important vitals locations are often close to the body, and hard to strike without intent. The two location types are:
+#### Ancillary
+Ancillary are any standard [Attack](Terminology#Attack). An ancillary attack can still be very dangerous, but should not have the potential to outright kill.
+#### Vitals
+Vitals are an [Attack](Terminology#Attack) that is targeted, usually with [Vitals Shot](Attacks#Vitals%20Hit). The meaningful distinction is that a [Critical Injury](#Critical%20Injury) to the vitals, will kill you outright.
 
 ### Types of Damage
 Generally, there are two large categories of damage – Physical and Otherworldly, each of these then further has three categories of damage.
@@ -49,33 +67,8 @@ Heat, power, holy energy ravage the body 
 #### Cold
 Ice, chill, vampiric energy ravage the body
 
-### Immediate Effects
-Immediate effects are what happens to you immediately as you are harmed by an enemy. All injury types inflict one of these, but you will sometimes get to roll to ignore the effect. The usual immediate effects to each limb are as follows: 
-
-| Body Part | Effect                                                           |
-| --------- | ---------------------------------------------------------------- |
-| Legs      | Knocked Prone, -1 to movement rating next turn.                  |
-| Arms      | Drop What you are holding, -1 to actions with that arm next turn |
-| Chest     | -2 to all actions next turn                                      |
-| Head      | Stunned for 1 turn                                               |
-
 ### Heroes
-Your characters are heroes. Heroes can’t instantly die from an attack. Any attack that would kill a hero outright, including critical head injuries, failed torso critical injuries and lethal injuries of any kind, instead immediately leave the character unconscious and bleeding to death with similar lethality to any critical injury.
-
-### Bleeding and Burning
-In general, [Rending](Injury#Rending) and [Piercing](Injury#Piercing) severe and critical injuries will cause bleeding as will critical [Impact](Injury#Impact) injuries. [Hot](Injury#Hot) injuries will catch you on fire.
-
-A person will die of blood loss if they don’t receive first aid or stabilization within 10 minutes of blood loss from a severe injury, and will die within 3 minutes of blood loss from a critical injury if they don’t receive first aid or stabilization.
-
-Assuming you have been put out, burns will not immediately kill you, but are a potential infection risk narratively.
-
-### Being on Fire
-If you are caught on fire, you are at immediate risk of severe complications. On each of your turns, unless you are already doing a [Stop Drop And Roll](#Stop%20Drop%20And%20Roll) you must make a [Identity](Spirit#Identity) [Fixed Difficulty](Skills#Fixed%20Difficulty) skill test to not panic, skipping your turn. You receive a +4 to this test if you are going to [Stop Drop And Roll](#Stop%20Drop%20And%20Roll) during your turn.
-
-After 2 combat turns of being on fire, you take an immediate [Severe Injury](#Severe%20Injury) to the body part that’s on fire. After 4 turns (20 seconds) you take a critical injury to the original body part that’s on fire and the fire spreads to your entire body. After 6 turns (30 seconds) on fire you take a critical injury to the chest on each of your turns until either dead or no longer on fire.
-
-#### Stop Drop And Roll
-Make an [Application](Intelligence#Application) skill test at a -3 if you succeed you are no longer on fire. For each consecutive turn you stop, drop and roll this test is at a +1. It is important to note some forms of militarized fire are sticky and impossible to put out without help or tools.
+Your characters are heroes. Heroes can’t instantly die from an attack. Any attack that would kill a hero outright, instead leaves the character unconscious and bleeding to death with similar lethality to any critical injury.
 
 ### Wounded
 If your character is injured, they only have so long before they pass out/collapse. In general, on each combat turn you are wounded, after you have performed your action, you make an [Endurance](Strength#Endurance) [Fixed Difficulty](Skills#Fixed%20Difficulty)([Injury Penalty](#Injury%20Penalty)) to see if you can continue to fight at a reasonable level (the use of medication and stabilization can cause you to ignore this). For every severe injury after the first add a (-1) to the test for every critical injury add (-2) to the test. If you fail, you fall [Unconscious](Effects#Unconscious).
@@ -89,4 +82,4 @@ Aside from the trauma of being injured in the field, there are other immediate r
 When determining difficulty of [Application](Intelligence#Application) skill tests and negatives for any injuries, you just count the injury that would give you the largest negative/penalty. Multiple injuries don’t provide cumulative negatives.
 
 #### Stabilization
-Even if you aren’t trained in [Application](Intelligence#Application) and don't have the proper tools you may still attempt to stabilize someone's injuries. This is a very basic test which means they are no longer bleeding, their burns have been covered, etc. This is a [Application](Intelligence#Application) test with a modifier of 0. No matter the result of the skill test the person is no longer at risk of immediately dying, but they get an additional -1 to their [injury penalty](#Lingering%20Pain). 
+Even if you aren’t trained in [Application](Intelligence#Application) and don't have the proper tools you may still attempt to stabilize someone's injuries. This is a very basic test which means they are no longer bleeding, their burns have been covered, etc. This is a [Application](Intelligence#Application) [Fixed Difficulty](Skills#Fixed%20Difficulty)(0). No matter the result of the skill test, the person is no longer at risk of immediately dying, but they get an additional -1 to their [injury penalty](#Lingering%20Pain). 

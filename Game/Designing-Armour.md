@@ -42,13 +42,14 @@ Armour is made of [Materials](Materials), which determine its characteristics, s
 
 #### Material Table
 This is a list of the base values an armour with each primary material will have.
+#TODO update machinery
 
-| Material  | Max Skill | Structure | Weakness | Resistance |
+| Material  | Max Skill | Integrity | Weakness | Resistance |
 | --------- | --------- | --------- | -------- | ---------- |
-| Textile   | 8         | 1         | Heat     | -          |
-| Leather   | 7         | 2         | Life     | -          |
-| Wood      | 6         | 3         | Heat     | -          |
-| Metal     | 5         | 4         | Cold     | -          | 
+| Textile   | 7         | 1         | Heat     | -          |
+| Leather   | 7         | 1         | Life     | -          |
+| Wood      | 5         | 2         | Heat     | -          |
+| Metal     | 5         | 2         | Cold     | -          |
 | Machinery | 6         | 1         | Impact   | -          |
 
 #### Multiple Materials

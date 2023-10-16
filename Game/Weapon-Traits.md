@@ -45,7 +45,7 @@ Your weapon fires balls of lead propelled by incendiary powder. It no longer can
 This weapon fires arrows. It no longer can be used as a melee weapon and is instead a ranged weapon with a range equal to 10m x size. You can add [Strength](Strength) to damage up to a maximum of the size of the weapon. Readying an arrow and firing a bow in the same turn gives a -1 to the [Accuracy](Agility#Accuracy) test.
 
 #### Crossbow
-Your weapon fires bolts of metal. It no longer can be used as a melee weapon and is instead a ranged weapon with a range equal to 10m x size. You don’t add your [Strength](Strength) to damage, but get an inherent +1 damage bonus, and double the normal size bonus. After firing a crossbow, it takes a combat turn to reload.
+Your weapon fires bolts of metal. It no longer can be used as a melee weapon and is instead a ranged weapon with a range equal to 10m x size #TODOMovement. You don’t add your [Strength](Strength) to damage, but add an additional size to [Damage Bonus](Weapons#Damage%20Bonus) (3x total). After firing a crossbow, it takes a combat turn to reload.
 
 #### Deadly Draw
 This weapon is penetrative for your first attack in any combat.
@@ -66,13 +66,13 @@ If this weapon is otherwise usable in one hand, the weapon counts as 1 size larg
 This weapon counts as a Focus for [Will](Spirit#Will) skill tests.    
 
 #### Lethal
-This weapon deals 1 additional damage.
+This weapon has 1 additional [Damage Bonus](Weapons#Damage%20Bonus).
 
 #### Momentum
-Whenever you attack with this weapon and don’t strike anything (either miss or the attack is dodged) your next attack gains +1 to hit and +1 to damage (up to three times). 
+Whenever you attack with this weapon and don’t strike anything (either miss or the attack is dodged) your next [Attack](Terminology#Attack) gains (+1), this stacks. 
 
 #### Multiple Damage Types
-When you create this weapon, choose two damage types instead of one. When you attack, select one of the two types.       
+When you create this weapon, choose two [Damage Type](Weapons#Damage%20Type) instead of one. When you attack, select one of the two types.       
 
 #### Multiple Shots
 If your weapon requires ammo, it can hold 3 additional readied shots.   
@@ -84,7 +84,7 @@ This weapon cannot be used to perform [Reactions](Terminology#Reaction), you can
 A weapon with the reach trait can be used to perform melee attacks up to 2m away, and doing so doesn’t put you in melee combat with the target.
 
 #### Shield
-This weapon can no longer be used for attacks. Instead, it provides a +2 to defensive skill tests using it.
+This weapon can no longer be used for attacks. Instead, it provides a +2 to defensive skill tests using it. #TODO
 
 #### Sling
 This weapon aids with throwing things long distances. A size 1 or 2 sling doubles your thrown range, size 3 or 4 triples it, and a size 5 sling quadruples your thrown range. If you load and launch a sling in the same turn, your skill test to attack is at a -1.
@@ -99,10 +99,10 @@ This weapon is balanced for throwing, you receive no penalties for throwing it.
 This weapon counts as two separate sizes. When stored, it is considered the smaller size. As an action, you may change which size it counts as, or at the end of any attack action you can change the size. Aside from folding the weapon can count as having separate traits in each form.
 
 #### Overweight
-This weapon has -1 to skill tests made with it and does +3 damage. 
+This weapon has (-1) to [Actions](Terminology#Action) made with it and +3 [Damage Bonus](Weapons#Damage%20Bonus). 
 
 #### Penetrating
-This weapon ignores resistances of armour.   
+This weapon ignores resistances of armour.
 
 #### Perfect
-This weapon receives a +1 bonus to all skill tests made with it.
+This weapon receives a (+1) to [Actions](Terminology#Action) made with it, and a +1 to [Damage Bonus](Weapons#Damage%20Bonus).

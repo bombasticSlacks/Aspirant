@@ -64,11 +64,7 @@ You can go into debt an amount of silver equal to 10 x [Communication](Communica
 Your saddlebags can hold an additional 6 size of items.
 
 #### Take Them Alive
-After [Injuring](Injury) someone, if they would die, you may opt for them to go unconscious. #TODODamage 
-
-
-
-
+After [Injuring](Injury) someone, if they would die, you may opt for them to go unconscious.
 
 
 ---

@@ -34,7 +34,7 @@ nav_order: 2
 
 #### Fine
 Material: Textile
-Your armour incorporates fine linens, silks, furs or other more exotic fibers, which impress and captivate with their dazzling colours and flowing motions. You add +1 to [Connection](Communication#Connection) and [Confidence](Communication#Confidence) skill tests when more than half of your armour pieces have the Fine Trait.
+Your armour incorporates fine linens, silks, furs or other more exotic fibres, which impress and captivate with their dazzling colours and flowing motions. You add +1 to [Connection](Communication#Connection) and [Confidence](Communication#Confidence) skill tests when more than half of your armour pieces have the Fine Trait.
 
 #### Fortified
 Material: Metal
@@ -62,7 +62,7 @@ Your armour includes ornate details such as elaborate patterns, intricate engrav
 
 #### Padded
 Material: Textile
-Your armour included extra layers of thick, durable padding which reduce the risk of blunt force trauma. Gain [Resistance](Armour#Weakness%20and%20Resistance) [Impact](Injury#Impact), but lower [Max Skill](Armour#Max%20Skill) by 1. Additionally, if [Structure](Armour#Structure) is <4 after other [Armour-Traits](Armour-Traits) increase it by 1.
+Your armour included extra layers of thick, durable padding which reduce the risk of blunt force trauma. Gain [Resistance](Armour#Weakness%20and%20Resistance) [Impact](Injury#Impact), but lower [Max Skill](Armour#Max%20Skill) by 1. Additionally, this armour has a [Armour Integrity](Armour#Armour%20Integrity) of at least 2.
 
 #### Practical
 Material: Any
@@ -70,7 +70,7 @@ Your armour is built fit for the users purpose as well as protection. The armour
 
 #### Reinforced
 Material: Metal, Wood
-Your armour utilizes additional banded plates, rivets, latches, or planks to reinforce the existing structural integrity of your armour increasing [Structure](Armour#Structure) by 1.
+Your armour utilizes additional banded plates, rivets, latches, or planks to reinforce the existing structural integrity of your armour. Your armours [Armour Integrity](Armour#Armour%20Integrity) is at least 2.
 
 #### Runic
 Material: Metal, Wood

@@ -72,7 +72,7 @@ Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 
 #### Overcharge
 *You can pull a dangerous amount of magical energy into yourself.* 
-You may suffer a [Severe Injury](Injury#Severe%20Injury) #TODODamage to automatically succeed on any [Will](Spirit#Will) [Action](Terminology#Action).
+You may suffer a [Vitals](Injury#Vitals) [Severe Injury](Injury#Severe%20Injury) to automatically succeed on any [Will](Spirit#Will) [Action](Terminology#Action).
 
 
 

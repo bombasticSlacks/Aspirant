@@ -69,10 +69,13 @@ Generally you cannot perform a skill without [Training](Character-Development#Tr
 > Examples would be trying to spot enemies with [Insight](Intelligence#Insight), or jumping across a ledge with [Athletics](Strength#Athletics). 
 
 #### Critical Failure
-Rolling double ones on a skill test is always considered a failure.
+Rolling double 1's on a skill test is always considered a failure.
 
 #### Critical Success
 Rolling double 6's on a skill test is always considered a success.
+
+### Doubles
+If you roll two identical values on a skill test (1,1), (2,2)… (6,6) this is considered doubles. Some [Actions](Terminology#Action) or [Training](Character-Development#Training) may reference Doubles.
 
 ### Character Skills
 Aspirant has a prebuilt list of skills that should cover any activity a character would be expected to do related to their primary attributes.

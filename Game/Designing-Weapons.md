@@ -18,26 +18,34 @@ To build a weapon:
 Weapons come in a variety of qualities based on the skill required to craft.
 #### Basic
 Basic weapons are simple tools, improvised items, rudimentary weapons or other implements not built intentionally for harm.
-
-*All basic weapons have a -1 damage bonus and 0 traits.*
+* -1 [Damage Bonus](Weapons#Damage%20Bonus)
+* 0 [Weapon Traits](Weapon-Traits)
 
 #### Artisan
 Artisan weapons are properly built tools of war. They require some training to use properly and have unique advantages over using a basic weapon.
-
-*All artisan weapons have a +1 damage bonus and 1 traits.*
+* +1 [Damage Bonus](Weapons#Damage%20Bonus)
+* 1 [Weapon Traits](Weapon-Traits)
 
 #### Exotic
 Exotic weapons have additional complexity over basic artisan weapons. Their mechanisms are more complex or their chance of self injury is higher. They require additional training on top of the training required for artisan weapons to be used successfully. To wield an exotic weapon, you need [Exotic Expert](Combat-Training#Exotic%20Expert).
-
-*All exotic weapons have a +1 damage bonus and 2 traits.*
+* +1 [Damage Bonus](Weapons#Damage%20Bonus)
+* 2 [Weapon Traits](Weapon-Traits)
 
 #### Master Work
-A masterful blacksmith can do a lot to imbue an item with additional power and versatility. A masterwork weapon may have an additional trait beyond those it otherwise might have. It must be made of materials of similar quality to an exotic weapon.
+A masterful blacksmith can do a lot to imbue an item with additional power and versatility. 
+* A masterwork weapon has +1 [Weapon Traits](Weapon-Traits). 
+* It must be made of materials of similar quality to an exotic weapon.
 
 ### Material
 Generally, weapons material isn’t particularly important. Cheap materials will not be usable for artisan weapons, simple but quality materials will not be usable for exotic/master worked weapons. [Costs Of Materials](Services#Costs%20Of%20Materials) has details on the crafting capacity and cost of different materials.
 
 One benefit to exotic materials, however, is their potential for harming monsters. A sword made of silver might be known to harm werewolves, a spear made from elven wood is effective against wraiths, etc. In some exceptional cases, a material may provide a trait for free, increase damage bonus, or provide some skill bonus. 
+
+### Calculating Damage Bonus
+A weapons damage bonus is equal to:
+$size \times 2 + traits + quality$
+
+> A [Size](Weapons#Size) 3 [Artisan](#Artisan) weapon, with the [Lethal](Weapon-Traits#Lethal) [Weapon Trait](Weapon-Traits) would have a damage bonus of 8, 6 from size, 1 from [Artisan](#Artisan), 1 from [Lethal](Weapon-Traits#Lethal).
 
 ### Crafting
 A character looking to craft a specific weapon first requires 2x the size worth of materials and [Craftsman](Craftsman) training saying they are able to make what they want. 
