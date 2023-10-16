@@ -25,9 +25,9 @@ nav_order: 2
 
 [Artisan](Designing-Armour#Artisan) armour made from [Artisan Fabric](Textiles#Artisan%20Fabric) and [Artisan Metals](Metal#Artisan%20Metals)
 
-| Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits                     |
-| --------- | --------------------------------------------- | ------------------- | ---------- | -------------------------- |
-| (0)         | 1                                             | [Heat](Injury#Heat) | -          | [Fine](Armour-Traits#Fine) |
+| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits                     |
+| --------------------------------------- | --------------------------------------------- | ------------------- | ---------- | -------------------------- |
+| (0)                                     | 1                                             | [Heat](Injury#Heat) | -          | [Fine](Armour-Traits#Fine) |
 
 
 ---
@@ -37,9 +37,9 @@ nav_order: 2
 
 [Basic](Designing-Armour#Basic) armour made from [Artisan Hide](Hide#Artisan%20Hide)
 
-| Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits |
-| --------- | --------------------------------------------- | ------------------- | ---------- | ------ |
-| (0)         | 1                                             | [Life](Injury#Life) | -          |        |
+| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits |
+| --------------------------------------- | --------------------------------------------- | ------------------- | ---------- | ------ |
+| (0)                                     | 1                                             | [Life](Injury#Life) | -          |        |
 
 ---
 
@@ -48,9 +48,9 @@ nav_order: 2
 
 [Basic](Designing-Armour#Basic) armour made from [Artisan Metals](Metal#Artisan%20Metals)
 
-| Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits |
-| --------- | --------------------------------------------- | ------------------- | ---------- | ------ |
-| (-1)         | 2                                             | [Cold](Injury#Cold) | -          |        |
+| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits |
+| --------------------------------------- | --------------------------------------------- | ------------------- | ---------- | ------ |
+| (-1)                                    | 2                                             | [Cold](Injury#Cold) | -          |        |
 
 ---
 
@@ -59,9 +59,9 @@ nav_order: 2
 
 The absence of armour.
 
-| Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness | Resistance | Traits |
-| --------- | --------------------------------------------- | -------- | ---------- | ------ |
-| -         | 0                                             | All      | -          |        |
+| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness | Resistance | Traits |
+| --------------------------------------- | --------------------------------------------- | -------- | ---------- | ------ |
+| -                                       | 0                                             | All      | -          |        |
 
 ---
 
@@ -70,9 +70,9 @@ The absence of armour.
 
 [Basic](Designing-Armour#Basic) armour made from [Artisan Textiles](Textiles#Artisan%20Textiles).
 
-| Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits |
-| --------- | --------------------------------------------- | ------------------- | ---------- | ------ |
-| (0)         | 1                                             | [Cold](Injury#Cold) | -          |        |
+| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits |
+| --------------------------------------- | --------------------------------------------- | ------------------- | ---------- | ------ |
+| (0)                                     | 1                                             | [Cold](Injury#Cold) | -          |        |
 
 ---
 
@@ -81,9 +81,9 @@ The absence of armour.
 
 [Basic](Designing-Armour#Basic) armour made from [Artisan Wood](Wood#Artisan%20Wood).
 
-| Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits |
-| --------- | --------------------------------------------- | ------------------- | ---------- | ------ |
-| (-1)         | 2                                             | [Heat](Injury#Heat) | -          |        |
+| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits |
+| --------------------------------------- | --------------------------------------------- | ------------------- | ---------- | ------ |
+| (-1)                                    | 2                                             | [Heat](Injury#Heat) | -          |        |
 
 ---
 
@@ -92,9 +92,9 @@ The absence of armour.
 
 [Artisan](Designing-Armour#Artisan) armour made from [Artisan Textiles](Textiles#Artisan%20Textiles), and [Basic Textiles](Textiles#Basic%20Textiles).
 
-| Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance              | Traits                         |
-| --------- | --------------------------------------------- | ------------------- | ----------------------- | ------------------------------ |
-| (-1)      | 2                                             | [Heat](Injury#Heat) | [Impact](Injury#Impact) | [Padded](Armour-Traits#Padded) |
+| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance              | Traits                         |
+| --------------------------------------- | --------------------------------------------- | ------------------- | ----------------------- | ------------------------------ |
+| (-1)                                    | 2                                             | [Heat](Injury#Heat) | [Impact](Injury#Impact) | [Padded](Armour-Traits#Padded) |
 
 ---
 
@@ -103,9 +103,9 @@ The absence of armour.
 
 [Artisan](Designing-Armour#Artisan) armour made from [Artisan Hide](Hide#Artisan%20Hide), and [Basic Metal](Metal#Basic%20Metal).
 
-| Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits                                 |
-| --------- | --------------------------------------------- | ------------------- | ---------- | -------------------------------------- |
-| (0)       | 2                                             | [Life](Injury#Life) | -          | [Reinforced](Armour-Traits#Reinforced) |
+| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits                                 |
+| --------------------------------------- | --------------------------------------------- | ------------------- | ---------- | -------------------------------------- |
+| (0)                                     | 2                                             | [Life](Injury#Life) | -          | [Reinforced](Armour-Traits#Reinforced) |
 
 ---
 
@@ -114,9 +114,9 @@ The absence of armour.
 
 [Artisan](Designing-Armour#Artisan) armour made from [Artisan Metals](Metal#Artisan%20Metals), and [Basic Metal](Metal#Basic%20Metal).
 
-| Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness                                         | Resistance                | Traits                     |
-| --------- | --------------------------------------------- | ------------------------------------------------ | ------------------------- | -------------------------- |
-| (0)       | 2                                             | [Cold](Injury#Cold), [Piercing](Injury#Piercing) | [Rending](Injury#Rending) | [Mail](Armour-Traits#Mail) |
+| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness                                         | Resistance                | Traits                     |
+| --------------------------------------- | --------------------------------------------- | ------------------------------------------------ | ------------------------- | -------------------------- |
+| (0)                                     | 2                                             | [Cold](Injury#Cold), [Piercing](Injury#Piercing) | [Rending](Injury#Rending) | [Mail](Armour-Traits#Mail) |
 
 ---
 
