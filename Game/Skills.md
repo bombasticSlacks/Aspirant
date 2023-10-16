@@ -80,27 +80,27 @@ If you roll two identical values on a skill test (1,1), (2,2)… (6,6) this is c
 ### Character Skills
 Aspirant has a prebuilt list of skills that should cover any activity a character would be expected to do related to their primary attributes.
 
-#### Strength Skills
+#### [Strength](Strength) Skills
 * [Athletics](Strength#Athletics)
 * [Endurance](Strength#Endurance)
 * [Strike](Strength#Strike)
 
-#### Agility Skills
+#### [Agility](Agility) Skills
 * [Accuracy](Agility#Accuracy)
 * [Grace](Agility#Grace)
 * [Reflexes](Agility#Reflexes)
 
-#### Intelligence Skills
+#### [Intelligence](Intelligence) Skills
 * [Application](Intelligence#Application)
 * [Insight](Intelligence#Insight)
 * [Memory](Intelligence#Memory)
 
-#### Resolve Skills
+#### [Spirit](Spirit) Skills
 * [Attunement](Spirit#Attunement)
 * [Identity](Spirit#Identity)
 * [Will](Spirit#Will)
 
-#### Fellowship Skills
+#### [Communication](Communication) Skills
 * [Confidence](Communication#Confidence)
 * [Connection](Communication#Connection)
 * [Mannerism](Communication#Mannerism)

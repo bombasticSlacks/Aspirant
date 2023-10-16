@@ -37,7 +37,7 @@ You can [Disarm](Special-Combat-Actions#Disarm) someone at range, using a ranged
 #### Efficient Rounds
 When you perform a [Mitigated Attack](Terminology#Mitigated%20Attack) with [Comestibles](Comestibles) , it is always [salvageable](Comestibles#Salvaging)
 #### Exotic Expert
-If you have [Martial Training](#Martial%20Training), you can use any [Exotic](Weapons#Exotic) weapon without penalty.   
+You can use any [Exotic](Weapons#Exotic) weapon without penalty.   
 #### Fast Hands
 You may [Disarm](Special-Combat-Actions#Disarm) using a [Reflexes](Agility#Reflexes) [Fixed Difficulty(-1)](Skills#Fixed%20Difficulty).
 

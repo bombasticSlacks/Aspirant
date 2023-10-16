@@ -27,7 +27,7 @@ nav_order: 2
 
 | Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits                     |
 | --------- | --------------------------------------------- | ------------------- | ---------- | -------------------------- |
-| 7         | 1                                             | [Heat](Injury#Heat) | -          | [Fine](Armour-Traits#Fine) |
+| (0)         | 1                                             | [Heat](Injury#Heat) | -          | [Fine](Armour-Traits#Fine) |
 
 
 ---
@@ -39,7 +39,7 @@ nav_order: 2
 
 | Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits |
 | --------- | --------------------------------------------- | ------------------- | ---------- | ------ |
-| 7         | 1                                             | [Life](Injury#Life) | -          |        |
+| (0)         | 1                                             | [Life](Injury#Life) | -          |        |
 
 ---
 
@@ -50,7 +50,7 @@ nav_order: 2
 
 | Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits |
 | --------- | --------------------------------------------- | ------------------- | ---------- | ------ |
-| 5         | 2                                             | [Cold](Injury#Cold) | -          |        |
+| (-1)         | 2                                             | [Cold](Injury#Cold) | -          |        |
 
 ---
 
@@ -72,7 +72,7 @@ The absence of armour.
 
 | Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits |
 | --------- | --------------------------------------------- | ------------------- | ---------- | ------ |
-| 7         | 1                                             | [Cold](Injury#Cold) | -          |        |
+| (0)         | 1                                             | [Cold](Injury#Cold) | -          |        |
 
 ---
 
@@ -83,7 +83,7 @@ The absence of armour.
 
 | Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits |
 | --------- | --------------------------------------------- | ------------------- | ---------- | ------ |
-| 5         | 2                                             | [Heat](Injury#Heat) | -          |        |
+| (-1)         | 2                                             | [Heat](Injury#Heat) | -          |        |
 
 ---
 
@@ -94,7 +94,7 @@ The absence of armour.
 
 | Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance              | Traits                         |
 | --------- | --------------------------------------------- | ------------------- | ----------------------- | ------------------------------ |
-| 5         | 2                                             | [Heat](Injury#Heat) | [Impact](Injury#Impact) | [Padded](Armour-Traits#Padded) | 
+| (-1)      | 2                                             | [Heat](Injury#Heat) | [Impact](Injury#Impact) | [Padded](Armour-Traits#Padded) |
 
 ---
 
@@ -105,7 +105,7 @@ The absence of armour.
 
 | Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits                                 |
 | --------- | --------------------------------------------- | ------------------- | ---------- | -------------------------------------- |
-| 7         | 2                                             | [Life](Injury#Life) | -          | [Reinforced](Armour-Traits#Reinforced) | 
+| (0)       | 2                                             | [Life](Injury#Life) | -          | [Reinforced](Armour-Traits#Reinforced) |
 
 ---
 
@@ -116,7 +116,7 @@ The absence of armour.
 
 | Max Skill | [Armour Integrity](Armour#Armour%20Integrity) | Weakness                                         | Resistance                | Traits                     |
 | --------- | --------------------------------------------- | ------------------------------------------------ | ------------------------- | -------------------------- |
-| 6         | 2                                             | [Cold](Injury#Cold), [Piercing](Injury#Piercing) | [Rending](Injury#Rending) | [Mail](Armour-Traits#Mail) |
+| (0)       | 2                                             | [Cold](Injury#Cold), [Piercing](Injury#Piercing) | [Rending](Injury#Rending) | [Mail](Armour-Traits#Mail) |
 
 ---
 

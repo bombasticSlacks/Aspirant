@@ -21,6 +21,9 @@ They can generally teach the following training:
 #### Bury Them
 If an enemy is on the ground, and you make a [Melee Attack](Terminology#Melee%20Attack) against them, you deal +1 [Damage](Terminology#Damage).
 
+#### Blocking
+When someone performs an [Attack](Terminology#Attack) where you are the [Opponent](Terminology#Opponent), if you are [In Melee](Terminology#In%20Melee) you may [Substitute](Terminology#Substitute) your [Strike](Strength#Strike) for [Reflexes](Agility#Reflexes).
+
 #### Fight Defensively
 You may declare you are fighting in a defensive stance as a [Free Action](Terminology#Free%20Action) at the beginning of your [Combat Turn](Terminology#Combat%20Turn), you remain in a defensive stance until the start of your next [Combat Turn](Terminology#Combat%20Turn). While fighting defensively, you receive a +2 to all skill tests that are [Reaction](Terminology#Reaction), and a -2 to all attack skill tests.
 
