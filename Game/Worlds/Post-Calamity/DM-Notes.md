@@ -9,5 +9,6 @@
 
 * [Tussole](Tussole) the people will be mad about the boar dying, it was helping business as people were stopping there and turning back. 
 
+[Tennens-Settlement](Tennens-Settlement) summoning an avatar of nature to deal with the [Breckles-Pass](Breckles-Pass).
 
 
