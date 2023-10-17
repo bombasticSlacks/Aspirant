@@ -11,13 +11,14 @@ nav_order: 2
 * Armour always costs the value here, it will either be commissioned requiring a day of crafting, or will need refitting still costing 5 silver.
 
 ### Pricing
+See [Commissions](Services#Commissions) for details.
 
 | Quality                                                                       | Buy | Sell |
 | ----------------------------------------------------------------------------- | --- | ---- |
 | [Basic](Designing-Armour#Basic)                                               | 15  | 10   |
 | [Artisan](Designing-Armour#Artisan)                                           | 23  | 18   |
 | [Exotic](Designing-Armour#Exotic)                                             | 45  | 40   | 
-| [Masterwork](Designing-Armour#Masterwork) [Artisan](Designing-Armour#Artisan) | 50  | 35   |
+| [Masterwork](Designing-Armour#Masterwork) [Artisan](Designing-Armour#Artisan) | 40  | 25   |
 | [Masterwork](Designing-Armour#Masterwork) [Exotic](Designing-Armour#Exotic)   | 55  | 40   |
 
 ### Politicians Plate
@@ -120,14 +121,89 @@ The absence of armour.
 
 ---
 
-| Name             | Quality                                                   | Cost | Material(s)                                            | Max Skill | Structure | Weakness                                         | Resistance                                             | Trait(s)                                                                                       |
-| ---------------- | --------------------------------------------------------- | ---- | ------------------------------------------------------ | --------- | --------- | ------------------------------------------------ | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
-| Hardened Leather | [Martial](Armour#Quality)                                 | 23   | Treated Leather, Treated Leather                       | 7         | 3         | [Life](Injury#Life)                              | [Rending](Injury#Rending)                              | [Hardened](Armour-Traits#Hardened)                                                             |
-| Splint Mail      | [Martial](Armour#Quality)                                 | 23   | Treated Leather, Simple Metal                          | 6         | 4         | [Life](Injury#Life)                              |                                                        | [Fortified](Armour-Traits#Fortified)                                                           |
-| Brigandine       | [Masterwork](Armour#Masterwork) [Martial](Armour#Quality) | 50   | Advanced Metal, Textile                                | 6         | 4         | [Cold](Injury#Cold)                              | [Impact](Injury#Impact)                                | [Lightweight Materials](Armour-Traits#Lightweight%20Materials), [Padded](Armour-Traits#Padded) |
-| Basalisk Skin    | [Exotic](Armour#Quality)                                  | 45   | Monster Leather, Monster Leather                       | 6         | 4         | -                                                | [Rending](Injury#Rending)                              | [Natural Resilience](Armour-Traits#Natural%20Resilience)                                       |
-| Elderwood        | [Exotic](Armour#Quality)                                  | 45   | Exotic Wood, Exotic Wood                               | 6         | 6         | [Heat](Injury#Heat)                              | -                                                      | [Ironbark](Armour-Traits#Ironbark)                                                             |
-| Warding Cloth    | [Masterwork](Armour#Masterwork) [Exotic](Armour#Quality)  | 55   | Treated Textile, Treated Textile                       | 8         | 2         | [Heat](Injury#Heat)                              | [Magic](magic)                                         | [Fine](Armour-Traits#Fine), [Warded](Armour-Traits#Warded)                                     |
-| Dragon Scale     | [Masterwork](Armour#Masterwork) [Exotic](Armour#Quality)  | 55   | Monster Leather, Advanced Metal                        | 8         | 4         | [Life](Injury#Life)                              | [Heat](Injury#Heat)                                    | [Mail](Armour-Traits#Mail), [Natural Resilience](Armour-Traits#Natural%20Resilience)           |
-| Full Plate       | [Masterwork](Armour#Masterwork) [Exotic](Armour#Quality)  | 55   | Advanced Metal, Advanced Metal                         | 5         | 6         | -                                                | [Rending](Injury#Rending), [Piercing](Injury#Piercing) | [Insulated](Armour-Traits#Insulated), [Tempered](Armour-Traits#Tempered)                       |
+### Hardened Leather
+*Leather armour that has been reinforced with an epoxy*
+
+[Artisan](Designing-Armour#Artisan) armour made from [Artisan Hide](Hide#Artisan%20Hide), and [Liquid](Liquid)
+
+| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance                | Traits                             |
+| --------------------------------------- | --------------------------------------------- | ------------------- | ------------------------- | ---------------------------------- |
+| (0)                                     | 1                                             | [Life](Injury#Life) | [Rending](Injury#Rending) | [Hardened](Armour-Traits#Hardened) | 
+
+---
+
+### Splint Mail
+*Strips of metal riveted over hardened leather*
+
+[Artisan](Designing-Armour#Artisan) armour made from [Artisan Hide](Hide#Artisan%20Hide), and [Basic Metal](Metal#Basic%20Metal)
+
+| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits                                 |
+| --------------------------------------- | --------------------------------------------- | ------------------- | ---------- | -------------------------------------- |
+| (0)                                     | 2                                             | [Life](Injury#Life) |            | [Reinforced](Armour-Traits#Reinforced) | 
+
+---
+
+### Brigandine
+*Light hardened metal plates, shaped over padded cloth*
+
+[Masterwork](Designing-Armour#Masterwork) [Artisan](Designing-Armour#Artisan) armour made from [Artisan Textiles](Textiles#Artisan%20Textiles), and [Exotic Metals](Metal#Exotic%20Metals).
+
+| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance              | Traits                                 |
+| --------------------------------------- | --------------------------------------------- | ------------------- | ----------------------- | -------------------------------------- |
+| (0)                                     | 2                                             | [Heat](Injury#Heat) | [Impact](Injury#Impact) | [Lightweight Materials](Armour-Traits#Lightweight%20Materials), [Padded](Armour-Traits#Padded) |
+
+---
+
+### Basilisk Skin
+*Scales of a basilisk wrapped and fitted*
+
+[Exotic](Designing-Armour#Exotic) armour made from [Exotic Hide](Hide#Exotic%20Hide), and [Exotic Hide](Hide#Exotic%20Hide).
+
+| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness | Resistance                | Traits                                 |
+| --------------------------------------- | --------------------------------------------- | -------- | ------------------------- | -------------------------------------- |
+| (-1)                                    | 2                                             |          | [Rending](Injury#Rending) | [Natural Resilience](Armour-Traits#Natural%20Resilience) |
+
+---
+
+### Elderwood
+*Ancient magic wood, shaped through ritual to size*
+
+[Exotic](Designing-Armour#Exotic) armour made from [Exotic Wood](Wood#Exotic%20Wood), and [Exotic Wood](Wood#Exotic%20Wood).
+
+| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits                                 |
+| --------------------------------------- | --------------------------------------------- | ------------------- | ---------- | -------------------------------------- |
+| (-1)                                    | 3                                             | [Heat](Injury#Heat) |            | [Ironbark](Armour-Traits#Ironbark) |
+
+---
+
+### Warding Cloth
+*Weaves of enchanted silk imbued with runes*
+
+[Masterwork](Designing-Armour#Masterwork) [Exotic](Designing-Armour#Exotic) armour made from [Exotic Textiles](Textiles#Exotic%20Textiles), and [Exotic Textiles](Textiles#Exotic%20Textiles).
+
+| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness | Resistance                               | Traits                                                     |
+| --------------------------------------- | --------------------------------------------- | -------- | ---------------------------------------- | ---------------------------------------------------------- |
+| (0)                                     | 1                                             |          | [Cold](Injury#Cold), [Life](Injury#Life) | [Fine](Armour-Traits#Fine), [Warded](Armour-Traits#Warded) | 
+
+---
+
+### Dragon Scale
+*Scales of a great dragon infused into the greatest human steel*
+
+[Masterwork](Designing-Armour#Masterwork) [Exotic](Designing-Armour#Exotic) armour made from [Exotic Hide](Hide#Exotic%20Hide), and [Exotic Metals](Metal#Exotic%20Metals).
+
+| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance                                     | Traits                                                                               |
+| --------------------------------------- | --------------------------------------------- | ------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------ |
+| (0)                                     | 2                                             | [Life](Injury#Life) | [Rending](Injury#Rending), [Heat](Injury#Heat) | [Mail](Armour-Traits#Mail), [Natural Resilience](Armour-Traits#Natural%20Resilience) | 
+
+---
+
+### Full Plate
+*The ultimate protection, a full suit of almost impenetrable metal*
+
+[Masterwork](Designing-Armour#Masterwork) [Exotic](Designing-Armour#Exotic) armour made from [Exotic Metals](Metal#Exotic%20Metals), and [Exotic Metals](Metal#Exotic%20Metals).
+
+| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness | Resistance                                             | Traits                                                                   |
+| --------------------------------------- | --------------------------------------------- | -------- | ------------------------------------------------------ | ------------------------------------------------------------------------ |
+| (-1)                                    | 3                                             |          | [Rending](Injury#Rending), [Piercing](Injury#Piercing) | [Insulated](Armour-Traits#Insulated), [Tempered](Armour-Traits#Tempered) | 
 

@@ -100,3 +100,6 @@ An [Action](#Action) that isn't related to combat, and does not happen during co
 
 ### Re-roll
 A re-roll is when a character rerolls all dice they just rolled and recalculates the results based on the new numbers.
+
+### Stack
+Refers to a bonus being able to be taken multiple times to get the effect repeated.

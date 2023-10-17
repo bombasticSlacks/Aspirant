@@ -38,7 +38,7 @@ Exotic armours incorporate additional complexity of both materials and design al
 Master worked armour is an artisan or exotic armour of exceptional craftsmanship and design. 
 * A piece of masterwork armour gains 1 additional trait point.
 * May take a single [Armour-Trait](Armour-Traits) it does not meet the material requirement for. 
-* Must follow the materials rules for crafting [Exotic](#Exotic) armour.
+* Must include at least one [Exotic](Materials#Exotic) material in its construction.
 
 
 ### Materials
