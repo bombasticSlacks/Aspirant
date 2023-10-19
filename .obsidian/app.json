@@ -20,7 +20,8 @@
     "Elementalist",
     "Caravaners",
     "Arcanist",
-    "Shapeshifters"
+    "Shapeshifters",
+    "Brigandine"
   ],
   "showLineNumber": false,
   "newLinkFormat": "relative",
@@ -30,5 +31,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 75
-  }
+  },
+  "focusNewTab": true
 }
