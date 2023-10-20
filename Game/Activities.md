@@ -52,9 +52,6 @@ No one needs to spend money on food during this [Travel Segment](Telling-The-Sto
 * The [GM](How-To-Play#GM) will describe any [Travel Encounter](Telling-The-Story#Travel%20Encounter) that occurs to you, before the scene begins. 
 * You also gain 1 [Influencing the Story](Telling-The-Story#Influencing%20the%20Story)
 
-#### Socialize
-*Your character work on getting closer together, sharing moments*
-Any number of the characters in the party may socialize. Any time you aid a character you socialized with, they get a +2 instead of a +1. Socializing while [Travelling](#Travelling), requires an activity such as a [Games Kit](Example-Gear#Games%20Kit), or good food.
 #### Night Training
 Spending up to 2XP on character progression where you don’t need someone to train you (either from a book or a training you have already started) or the person is in camp with you.  
 

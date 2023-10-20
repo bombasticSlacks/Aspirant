@@ -59,7 +59,7 @@ Whenever performing an [Action](Terminology#Action) that requires tools of some 
 You know the [Armour Integrity](Armour#Armour%20Integrity), and [Weakness and Resistance](Armour#Weakness%20and%20Resistance), of any [Character](Terminology#Character) that you can see.
 
 #### Weapon Smithing
-As [Production Work](Activities#Production%20Work), using a [Weapons Tool Set](Example-Gear#Weapons%20Tool%20Set) you can use [Application](Intelligence#Application) to craft [Basic](Designing-Weapons#Basic) and [Artisan](Designing-Weapons#Artisan) weapons, more details are available in [Designing-Weapons](Designing-Weapons). 
+As [Production Work](Activities#Production%20Work), using a [Armourers Tool Set](Example-Gear#Armourers%20Tool%20Set) you can use [Application](Intelligence#Application) to craft [Basic](Designing-Weapons#Basic) and [Artisan](Designing-Weapons#Artisan) weapons, more details are available in [Designing-Weapons](Designing-Weapons). 
 
 You can also as [Production Work](Activities#Production%20Work) craft [Munitions](Comestibles#Munitions) using [Application](Intelligence#Application). This costs half the price as the ammo normally would, and you can create up to 10 per [Production Work](Activities#Production%20Work).
 

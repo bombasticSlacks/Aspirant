@@ -6,6 +6,7 @@ grand_parent: Equipment
 nav_order: 2
 ---
 ## Example [Gear](Gear)
+{: .no_toc }
 * This is a non-exhaustive list of the sort of gear your characters may need. If something isn't on this list work with your GM to come up with values for it.
 * Cost is the expected cost, buying/selling it potentially would be up to 50% cheaper depending on if the other party wants it, and knows it's value.
 
@@ -14,7 +15,7 @@ nav_order: 2
     Table of contents
   </summary>
   {: .text-delta }
-1. TOC
+- TOC
 {:toc}
 </details>
 
@@ -22,266 +23,309 @@ nav_order: 2
 Things character shouldn't be interested in buying to travel with but may be of use narratively. Most adventurers would be better suited using properly packed [Toolkits](#[Toolkits](Gear%20Toolkits))
 
 #### 20 Meters of Rope
-*Size 2 Cost 2*
-Reliable hemp rope. It can be used to bind, tie, or otherwise rope.
+*Reliable hemp rope can be used to bind, tie, or otherwise rope. 2 size of [Basic Textiles](Textiles#Basic%20Textiles).*
+* Size 2.
+* Cost 6.
 
 ---
 
 #### 5 Meters of Chain
-*Size 2 Cost 5*
-A strong iron chain that can be used to bind or hold weight.
+*A strong iron chain that can be used to bind or hold weight. 2 size of [Basic Metal](Metal#Basic%20Metal).*
+* Size 2.
+* Cost 6.
 
 ---
 
 #### Ammunition
-*Size $1\over5$ Cost 1*
-Common ammo for a ranged weapon of some kind.
+*Common ammo for a ranged weapon of some kind. $1\over5$ size of [Artisan](Materials#Artisan) material.*
+* Size $1\over5$.
+* Cost 1.
 
 ---
 
 #### Candle
-*Size 1 Cost 1*
-Useful for providing a small amount of light in the dark.
+*Useful for providing a small amount of light in the dark. 1 size of [Basic Bits](Bits#Basic%20Bits).*
+* Size 1.
+* Cost 3.
 
 ---
 
 #### Chest
-*Size 4 Cost 5*
-A lockable and protective encasing for any items. Holds 4 size worth of items.
+*A lockable and protective encasing for any items. 4 size of [Basic Wood](Wood#Basic%20Wood).*
+* Size 4.
+* Cost 12.
+* Holds 4 size worth of items.
 
 ---
 
 #### Collapsible Stretcher
-*Size 4 Cost 25*
-A folded up cloth stretcher used for transporting individuals who have suffered severe injuries. Comes with spikes to set it up as a makeshift bed raised off the ground.
-
----
-
-#### Crystallized Magic
-*Size $1\over5$ Cost 1*
-Crystallized magic is an infused or naturally magically resonant material that allows a channeler to transform pure magic into effects on the material world. Crystallized magic is necessary to [Will](Spirit#Will) any meaningful magical effect, it can be purchased like any other equipment. When casting a spell, you need to expend a unit of crystallized magic per level of the spell, so amateur spells require 1 unit, expert 2, and master 3. If you do not succeed, there is a 50% chance that the crystallized magic is not expended. 
+*A folded up cloth stretcher used for transporting individuals who have suffered severe injuries. Comes with spikes to set it up as a makeshift bed raised off the ground. 2 size of [Artisan Textiles](Textiles#Artisan%20Textiles), and 2 size of [Artisan Wood](Wood#Artisan%20Wood).*
+* Size 4.
+* Cost 20.
 
 ---
 
 #### Flask
-*Size 1 Cost 4*
-A small, hard container that can hold a liquid for drinking. Holds up to a half litre of liquid.
+*A small, hard container that can hold a liquid for drinking. 1 size of [Basic Metal](Metal#Basic%20Metal).*
+* Size 1.
+* Cost 3.
+* Holds up to a half litre of liquid.
 
 ---
 
 #### Focus
-*Size 2 Cost 35*
-A wand, pendant or other item that allows you to [Will](Spirit#Will) magic.
+*A wand, pendant or other item that can house magic reagents. 2 size of [Exotic](Materials#Exotic) material.*
+* Size 2.
+* Cost 20.
+* Allows you to perform [Channelled Magic](Magic#Channelled%20Magic) when loaded with [Resonant](Resonant) material.
 
 ---
 
 #### Ladder 5 Meters
-*Size 5 Cost 4*
-A wooden ladder useful for climbing to reach things or to bridge gaps.
+*A wooden ladder useful for climbing to reach things or to bridge gaps. 4 size of [Basic Wood](Wood#Basic%20Wood).*
+* Size 4.
+* Cost 12.
 
 ---
 
 #### Manacles
-*Size 1 Cost 7*
-A set of restraints. Nearly impossible to escape without aid.
+*A set of restraints. Nearly impossible to escape without aid. 1 size of [Artisan Metals](Metal#Artisan%20Metals).*
+* Size 1.
+* Cost 5.
 
 ---
 
 #### Mirror
-*Size 1 Cost 5*
-A small reflective surface you can use to see yourself.
+*A small reflective surface you can use to see yourself. 1 size of [Artisan](Materials#Artisan) materials.*
+* Size 1.
+* Cost 5.
 
----
-
-#### Clothing
-*Size 3 Cost 10*
-A complete outfit of otherwise unremarkable clothing.
 
 ---
 
 #### Tinderbox
-*Size 1 Cost 2*
-Materials used to start a fire. Takes 1 minute to start a fire, or an action to light something that is doused in fuel.
+*Materials used to start a fire. 1 size of [Basic](Materials#Basic) materials.* 
+* Size 1.
+* Cost 3.
+* Takes 1 minute to start a fire, or an action to light something that is doused in fuel.
 
 ---
 
 #### Water Skin
-*Size 2 Cost 1*
-A soft bodied container that can hold up to 1 litre of liquid.
+*A soft bodied container. 2 size of [Basic Hide](Hide#Basic%20Hide).* 
+* Size 2.
+* Cost 6.
+* Holds 1 litre of liquid.
 
 ---
 
 ### [Toolkits](Gear#Toolkits)
 
 #### Camping Gear
-*Size 4 Cost 30*
-A collection of the necessary tools to sleep outside. 
-* Tent stakes
-* A sheet, or bivy
-* Hammock, bedroll or sleeping bag
-* A small heat safe container
-* Storage for water
+*A collection of the necessary tools to sleep outside, including tent stakes, a sheet, or bivy, hammock, bedroll or sleeping bag, a small heat safe container, and storage for water. 4 size of assorted [Artisan](Materials#Artisan) materials.* 
+* Size 4.
+* Cost 20.
+* Needed for [travelling](Telling-The-Story#Travelling).
+
 
 ---
 
 #### Comfort Kit
-*Size 2 Cost 15*
-A collection of items required to make the road or a traumatic event easier. Consisting of a weighted blanket, sanitary napkins, sweets, and other comforts not normally seen on the road. Anyone you help with your comfort kit, you receive a +1 to social skill tests with. 
+*A collection of items required to make the road or a traumatic event easier. Consisting of a weighted blanket, sanitary napkins, sweets, and other comforts not normally seen on the road. 1 size of [Exotic](Materials#Exotic) + charges.* 
+* Size 2.
+* Cost 13.
+* 3(1) [Charges](Terminology#Charges).
+* Anyone you help with your comfort kit, you receive a +1 to social skill tests with. 
 
-A comfort kit has 3 uses, cost 1 silver to replenish.
 
 ---
 
 #### Complex Instrument
-*Size 3 Cost 30*
-A musical tool of complex design. Complex instruments are expensive and produce nuanced and complex sounds. A complex instrument provides a +2 to [Confidence](Communication#Confidence) checks to use it, assuming you are trained.
+*A musical tool of complex design. Complex instruments are expensive and produce nuanced and complex sounds. 3 size of [Artisan](Materials#Artisan) materials.* 
+* Size 3.
+* Cost 15.
+* A complex instrument provides a +2 to [Confidence](Communication#Confidence) checks to use it.
 
 > Examples would include: Bagpipes, Dulcimer, Lute, Viol.
 
 ---
 
 #### Dungeoneering Kit
-*Size 3 Cost 15*
-A crowbar, 20 meters of high quality rope, shovel, and other tools a character could need while delving into a dungeon.
+*A crowbar, 20 meters of high quality rope, shovel, and other tools a character could need while delving into a dungeon. 3 size of [Artisan](Materials#Artisan) materials.*
+* Size 3.
+* Cost 15.
+* Compacted compared with purchasing each item individually.
 
 ---
 
 #### Explorers Kit
-*Size 3 Cost 25*
-A collection of generic items an adventurer should have packed. Whether it be rope, a specific tool, climbing pitons, a torch etc. This kit is by far the most generic, but also *any* use of the explorers' kit should expend a use and require refilling, as the tools will be subpar.
-
-Has 3 uses and costs 2 silver to replenish a use.
+*A collection of generic items an adventurer should have packed. Whether it be rope, a specific tool, climbing pitons, a torch etc. This kit is by far the most generic, but also any use of the explorers' kit should expend a use and require refilling, as the tools will be subpar. 1 size of [Artisan Metals](Metal#Artisan%20Metals) + [Charges](Terminology#Charges).*
+* Size 3.
+* Cost 11.
+* 3(2) [Charges](Terminology#Charges).
+* Can be used as a 1 use substitute tool you need for an [Action](Terminology#Action).
 
 ---
 
 #### Forensic Kit
-*Size 2 Cost 10*
-A collection of tools required to store and catalogue evidence from crime scenes.
+*A collection of tools required to store and catalogue evidence from crime scenes. 2 size of [Artisan](Materials#Artisan) materials.*
+* Size 2.
+* Cost 10.
 
 ---
 
 #### Forgery Kit
-*Size 2 Cost 30*
-A collection of stamps, plates, glossy paper and inks required to forge official documents.
-
-Creating a forgery is a [Accuracy](Agility#Accuracy) [Fixed Difficulty](Skills#Fixed%20Difficulty) skill test with a difficulty assigned based on the complexity of the forgery. The cost in silver for the forgery is equal to 2 * the difficulty modifier. 
+*A collection of stamps, plates, glossy paper and inks required to forge official documents. 1 size of [Exotic](Materials#Exotic) material + [Charges](Terminology#Charges).*
+* Size 2.
+* Cost 25.
+* Creating a forgery is a [Accuracy](Agility#Accuracy) [Fixed Difficulty](Skills#Fixed%20Difficulty) skill test with a [Difficulty Value](Terminology#Difficulty%20Value) assigned based on the complexity of the forgery. The cost in charges for the forgery is equal to 2 * the [Difficulty Value](Terminology#Difficulty%20Value).
+* 15(1) [Charges](Terminology#Charges).
 
 > So, a -4 difficulty test would result in a forgery costing 8 silver.
 
-A forgery kit holds 15 silver worth of supplies.
 
 ---
 
 #### Games Kit
-*Size 1 Cost 5*
-A set of cards, dice, small hobby models, or other things a group of people could play with.
-
-Allows a group of people to easily pass time, you can perform the [Socialize](Activities#Socialize) [Travel Activity](Activities#Travel%20Activity) while [Travelling](Telling-The-Story#Travelling).
+*A set of cards, dice, small hobby models, or other things a group of people could play with, allowing a group of people to easily pass time. 1 size of [Artisan](Materials#Artisan) materials.*
+* Size 1.
+* Cost 5.
+* You and your [Allies](Terminology#Ally) can, as a [Travel Activity](Activities#Travel%20Activity), socialize. Any time you [Aid](Skills#Aid%20and%20Hindrance) a character you socialized with, they get a (+2) instead of a (+1).
 
 ---
 
 #### Light Kit
-*Size 2 Cost 15*
-A light source and necessary fuel.
+*A light source and necessary fuel hether it be from treated torches or some form of lantern. 1 size of [Artisan](Materials#Artisan) materials + [Charges](Terminology#Charges).*
+* Size 2.
+* Cost 10.
+* 5(1) [Charges](Terminology#Charges).
+* Every 2 hours this provides light expends a [Charge](Terminology#Charges)
 
-The tools in this kit provide a total of 12 hours of uninterrupted light, whether it be from treated torches or some form of lantern.
-
-2 Hours of light can be replenished for 1 silver.
 
 ---
 
 #### Patching Kit
-*Size 2 Cost 25*
-A collection of pins, patches, bolts and metal bits used to repair armour in the field. Given 5 minutes, you can repair 1 integrity on a suit of armour.
-
-A patching kit has 5 uses, and replenishing a use costs 1 silver.
+*A collection of pins, patches, bolts and metal bits used to repair armour in the field. 1 size of [Artisan Metals](Metal#Artisan%20Metals) + [Charges](Terminology#Charges).*
+* Size 2.
+* Cost 15.
+* 5(2) [Charges](Terminology#Charges).
+* Given 5 minutes, you can repair 1 integrity on a suit of armour for a [charge](Terminology#Charges).
 
 ---
 
 #### Reagent Bag
-*Size 2 Cost 30*
-A well constructed satchel of elixirs, dried powdered items, and other small bits of magic that can be used to perform [Rituals](Spirit#Attunement). When you go to perform a ritual, you must expend a charge from your reagent bag. 
+*A well constructed satchel of elixirs, dried powdered items, and other small bits of magic that can be used to perform [Rituals](Spirit#Attunement). 1 size [Artisan Hide](Hide#Artisan%20Hide) + [Charges](Terminology#Charges).* 
+* Size 2.
+* Cost 15.
+* 5(2) [Charges](Terminology#Charges).
+* You can spend a [charge](Terminology#Charges) to perform [Ritual Magic](Magic#Ritual%20Magic).
 
 A reagent bag contains 5 uses, and replenishing a use costs 2 silver.
 
 ---
 
 #### Simple Instrument
-*Size 2 Cost 4*
-A musical tool of rudimentary design. Basic instruments will be cheaper than expensive very fancy instruments and produce simpler sounds.
+*A musical tool of rudimentary design. Basic instruments will be cheaper than expensive very fancy instruments and produce simpler sounds. 2 size of [Basic](Materials#Basic) material.*
+* Size 2.
+* Cost 6.
 
 > Examples would include: Drums, Flute, Horn.
 
 ---
 
 #### Tool Set
-*Size 3 Cost 20*
-A collection of tools related to a specific profession or action. Without a Tool Set, things would be impossible. When you buy a Tool Set, it is for a specific activity and has all the things required to do that activity. Some trainings will require a tool set, but otherwise these will help to narratively justify actions.
+*A collection of tools related to a specific profession or action. Without a Tool Set, things would be impossible. 3 size of [Artisan](Materials#Artisan)* materials.
+* When you buy a Tool Set, it is for a specific activity and has all the things required to do that activity. 
+* Some trainings will require a tool set, but otherwise these will help to narratively justify actions.
+#### Alchemist's Tool Set
+*A collection of tools for measuring solutions, heating and difusing materials. 3 size of [Artisan](Materials#Artisan)* materials.
+* Size 3.
+* Cost 15.
+* Used for crafting [Alchemy](Comestibles#Alchemy).
+* Used for crafting [Transhumanism](Character-Development#Transhumanism) processes.
 
-#TODOcopy 
-##### Alchemists Tool Set
+---
+#### Armourer's Tool Set
+*A collection of tools for customizing, creating, and forging weapons and armour. 3 size of [Artisan](Materials#Artisan)* materials.
+* Size 3.
+* Cost 15.
+* Used for crafting [Weapons](Weapons).
+* Used for crafting [Armour](Armour).
+* Used for crafting [Munitions](Comestibles#Munitions).
 
-##### Armourers Tool Set
+---
+#### Surgeon's Tool Set
+*A collection of tools for invasively healing the human body, saws, scalpels, sewing equipment. 3 size of [Artisan](Materials#Artisan)* materials.
+* Size 3.
+* Cost 15.
+* Used for [Surgeon](Academic#Surgeon).
 
-##### Carpenters Tool Set
+---
 
-##### Carvers Tool Set
+#### Painter's Tool Set
+*A collection of tools for depicting the world around you, an easel, a collection of brushes and oil paints. 3 size of [Artisan](Materials#Artisan)* materials.
+* Size 3.
+* Cost 15.
 
-##### Painters Tool Set
+---
+#### Handyman's Tool Set
+*A collection of tools for fixing, carving, and working on the world around you including hammers, saws, chisels, and sanding papers. 3 size of [Artisan](Materials#Artisan)* materials.
+* Size 3.
+* Cost 15.
 
-##### Spoliation Tool Set
-A kit with all the tools needed to hide/destroy evidence.  Acids, bags, strong cleaning supplies, brush, and gloves.
+---
 
-##### Surgeons Tool Set
-A basic collection of tools and implements needed to perform surgery.
-
-##### Thieves Tool Set
-
-##### Weapons Tool Set
+#### Thieve's Tool Set
+*A collection of tools for heisting, lock picks, a large sack, a crowbar. 3 size of [Artisan](Materials#Artisan)* materials.
+* Size 3.
+* Cost 15.
 
 ---
 
 #### Tinkers Kit
 *Size 2 Cost 15*
-A collection of scrap bits, odds and ends, adhesive and other consumables you might need to fix or quickly construct something. Any time you need scrap, replacement parts, or other machined parts you can use a tinkers kit.
-
-A Tinkers Kit has 5 uses, and replenishing a use costs 1 silver.
+*A collection of scrap bits, odds and ends, adhesive and other consumables you might need to fix or quickly construct something. Any time you need scrap, replacement parts, or other machined parts you can use a tinkers kit. 1 size of [Artisan](Materials#Artisan) + [Charges](Terminology#Charges).*
+* Size 2.
+* Cost 15.
+* [Charges](Terminology#Charges) 5(2).
+* A tinkers kit charge can be used to have a bauble or small part on hand for repairs or crafting.
 
 ---
 
 #### Trap Kit
-*Size 3 Cost 35*
-A collection of materials, triggers, sensors and payloads that can be used to create and customize traps on the go. A trap kit can store up to 3 payloads and triggers, and a new kit starts with that. Usually, you will want to set a trap to trigger a payload, but if you have access to a chemical, grenade, explosive, weapon or other tool you want to trigger, you may use that instead. 
-
-Creating a trap is a [Application](Intelligence#Application) test. You may add 2 payloads or triggers to a single trap but the [Application](Intelligence#Application) test is at a -3, a standard trap affects at most a 3x3 meter square however you can triple the size by doubling the number of payloads used (and giving the test an additional -2). Your GM may also assign a greater negative for more complex/exotic traps or triggers. Once you have decided on when you want your trap to trigger, you choose an effect for the payload:
-
-* Concussive: Everyone makes a [Endurance](Strength#Endurance) [Fixed Difficulty](Skills#Fixed%20Difficulty)(0) or is [Stunned](Effects#Stunned). Even if they succeed, they are at a (-2) until their next [Combat Turn](Terminology#Combat%20Turn).
-* Shrapnel: Everyone who is in the trap suffers a [Rending](Injury#Rending) [Vitals](Injury#Vitals) [Severe Injury](Injury#Severe%20Injury).
-* Explosive: Everyone who is in the trap suffers an [Hot](Injury#Hot) [Ancillary](Injury#Ancillary) [Critical Injury](Injury#Critical%20Injury).
+*A collection of materials, triggers, sensors and payloads that can be used to create and customize traps on the go. 1 size of [Artisan Metals](Metal#Artisan%20Metals) + [Charges](Terminology#Charges).* 
+* Size 2.
+* Cost 10.
+* [Charges](Terminology#Charges) 5(1).
+* Can expend a [charge](Terminology#Charges) to set up a trap to trigger based on certain conditions.
 
 ---
 
 #### Trauma Kit
-*Size 2 Cost 30*
-A collection of simple medicines, bandages, synthetic skin, coagulating powder, splints, and other things required to keep people alive after a severe or critical injury and treat the issues. A trauma kit provides you with a +1 to [stabilization](Injury#Stabilization) and [Surgery](Injury#Surgery). 
-
-A trained medical professional with a trauma kit can perform first aid to alleviate the immediate effects of injuries. This is a [Application](Intelligence#Application) skill test at an additional negative equal to the character's injury penalty. If you succeed, reduce their injury penalty by 1. If you fail a first aid test, the person still counts as [stabilized](Injury#Stabilization).
-
-A trauma kit has 5 uses, and replenishing a use costs 1 silver.
+*A collection of simple medicines, bandages, synthetic skin, coagulating powder, splints, and other things required to keep people alive after a severe or critical injury and treat the issues. 1 size of [Artisan](Materials#Artisan) + [Charges](Terminology#Charges)* 
+* Size 2.
+* Cost 15.
+* [Charges](Terminology#Charges) 5(2).
+* A trauma kit charge can be used to provide (+1) to [stabilization](Injury#Stabilization) and [Surgery](Injury#Surgery). 
+* A trauma kit [charge](Terminology#Charges) can be used to perform first aid to alleviate the immediate effects of injuries. This is a [Application](Intelligence#Application) [Opposed Difficulty](Skills#Opposed%20Difficulty)([Injury Penalty](Injury#Injury%20Penalty)). If you succeed, reduce their injury penalty by 1. If you fail a first aid test, the person still counts as [stabilized](Injury#Stabilization).
 
 ---
 
 #### Wranglers Kit
 *Size 2 Cost 20*
-A collection of restraints, blinders, keys, and other bindings usable to bind creatures and humans. An entity who is secured with a wranglers kit cannot escape without aid. Using a wranglers kit on a humanoid requires 2 uses, anything smaller would be 1 use, larger entities up to 5.
-
-A wranglers kit has 5 uses and replenishing your supplies costs 2 silver per use.
+*A collection of restraints, blinders, keys, and other bindings usable to bind creatures and humans. 1 size of [Artisan Metals](Metal#Artisan%20Metals) + [Charges](Terminology#Charges).* 
+* Size 2.
+* Cost 15.
+* [Charges](Terminology#Charges) 5(2).
+* Using a wranglers kit on a humanoid requires 2 [Charges](Terminology#Charges), anything smaller would be 1, larger entities up to 5.
+* A [Character](Terminology#Character) who is secured with a wranglers kit cannot escape without external aid.
 
 ---
 
 #### Writing Kit
-*Size 1 Cost 5*
-A notepad or scroll and charcoal, quill or pencil. Can be used to write, take notes, etc.
+*A notepad or scroll and charcoal, quill or pencil. Can be used to write, take notes, etc. 1 size worth of [Artisan](Materials#Artisan) materials.*
+* Size 1.
+* Cost 5.
 
 ---
 
