@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#makes anchor links all lowercase
 import fileinput
 import re
 
