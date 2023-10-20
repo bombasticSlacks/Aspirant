@@ -103,3 +103,11 @@ A re-roll is when a character rerolls all dice they just rolled and recalculates
 
 ### Stack
 Refers to a bonus being able to be taken multiple times to get the effect repeated.
+
+### Charges
+An abstracted count of the number of times an item can be used. If charges are written as X(Y), then the item has X charges and charges can be refreshed for Y silver.
+
+> Example: a tool kit has 3(2) charges, means it can be used 3 times and can have it's uses refreshed for 2 silver each.
+
+### Difficulty Value
+The penalty for an [Action](#Action) assigned by the [GM](How-To-Play#GM).

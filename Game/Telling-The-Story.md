@@ -20,7 +20,7 @@ A scene refers to the current moment of action / intrigue playing out. Scenes do
 This tends to happen when you arrive in a safe area. Each day, in a safe area, your character may perform 1 [Downtime Activity](Activities#Downtime%20Activity). Unless you are receiving charity, your food, and housing costs 1 silver per day. If you cannot afford this, you do not get to do activities.
 
 ### Travelling
-Travelling in Aspirant can take long amounts of time. Travelling involves knowing the direction or location of something and then travelling towards it. Travel will usually take a number of days. 
+Travelling in Aspirant can take long amounts of time. Travelling involves knowing the direction or location of something and then travelling towards it. Travel will usually take a number of days. To travel you require at minimum [Camping Gear](Example-Gear#Camping%20Gear).
 
 #### Travel Segment
 For simplicity, travel is split into:
