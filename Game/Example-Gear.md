@@ -7,8 +7,8 @@ nav_order: 2
 ---
 ## Example [Gear](Gear)
 {: .no_toc }
-* This is a non-exhaustive list of the sort of gear your characters may need. If something isn't on this list work with your GM to come up with values for it.
-* Cost is the expected cost, buying/selling it potentially would be up to 50% cheaper depending on if the other party wants it, and knows it's value.
+This is a non-exhaustive list of the sort of gear your characters may need. If something isn't on this list work with your GM to come up with values for it, remember to [Obey Conservation Of Mass](Terminology#Obey%20Conservation%20Of%20Mass).
+* Cost is the expected cost to purchase from a merchant, commissioning also requires the commissioning fee from the tradesman.
 
 <details open markdown="block">
   <summary>
@@ -121,6 +121,23 @@ Things character shouldn't be interested in buying to travel with but may be of 
 
 ### [Toolkits](Gear#Toolkits)
 
+#### Alchemist's Tool Set
+*A collection of tools for measuring solutions, heating and diffusing materials. 3 size of [Artisan](Materials#Artisan)* materials.
+* Size 3.
+* Cost 15.
+* Used for crafting [Alchemy](Comestibles#Alchemy).
+* Used for crafting [Transhumanism](Character-Development#Transhumanism) processes.
+
+---
+#### Armourer's Tool Set
+*A collection of tools for customizing, creating, and forging weapons and armour. 3 size of [Artisan](Materials#Artisan)* materials.
+* Size 3.
+* Cost 15.
+* Used for crafting [Weapons](Weapons).
+* Used for crafting [Armour](Armour).
+* Used for crafting [Munitions](Comestibles#Munitions).
+
+---
 #### Camping Gear
 *A collection of the necessary tools to sleep outside, including tent stakes, a sheet, or bivy, hammock, bedroll or sleeping bag, a small heat safe container, and storage for water. 4 size of assorted [Artisan](Materials#Artisan) materials.* 
 * Size 4.
@@ -194,8 +211,15 @@ Things character shouldn't be interested in buying to travel with but may be of 
 
 ---
 
+#### Handyman's Tool Set
+*A collection of tools for fixing, carving, and working on the world around you including hammers, saws, chisels, and sanding papers. 3 size of [Artisan](Materials#Artisan)* materials.
+* Size 3.
+* Cost 15.
+
+---
+
 #### Light Kit
-*A light source and necessary fuel hether it be from treated torches or some form of lantern. 1 size of [Artisan](Materials#Artisan) materials + [Charges](Terminology#Charges).*
+*A light source and necessary fuel, whether it is from treated torches or some form of lantern. 1 size of [Artisan](Materials#Artisan) materials + [Charges](Terminology#Charges).*
 * Size 2.
 * Cost 10.
 * 5(1) [Charges](Terminology#Charges).
@@ -204,6 +228,12 @@ Things character shouldn't be interested in buying to travel with but may be of 
 
 ---
 
+#### Painter's Tool Set
+*A collection of tools for depicting the world around you, an easel, a collection of brushes and oil paints. 3 size of [Artisan](Materials#Artisan)* materials.
+* Size 3.
+* Cost 15.
+
+---
 #### Patching Kit
 *A collection of pins, patches, bolts and metal bits used to repair armour in the field. 1 size of [Artisan Metals](Metal#Artisan%20Metals) + [Charges](Terminology#Charges).*
 * Size 2.
@@ -233,56 +263,22 @@ A reagent bag contains 5 uses, and replenishing a use costs 2 silver.
 
 ---
 
-#### Tool Set
-*A collection of tools related to a specific profession or action. Without a Tool Set, things would be impossible. 3 size of [Artisan](Materials#Artisan)* materials.
-* When you buy a Tool Set, it is for a specific activity and has all the things required to do that activity. 
-* Some trainings will require a tool set, but otherwise these will help to narratively justify actions.
-#### Alchemist's Tool Set
-*A collection of tools for measuring solutions, heating and difusing materials. 3 size of [Artisan](Materials#Artisan)* materials.
-* Size 3.
-* Cost 15.
-* Used for crafting [Alchemy](Comestibles#Alchemy).
-* Used for crafting [Transhumanism](Character-Development#Transhumanism) processes.
-
----
-#### Armourer's Tool Set
-*A collection of tools for customizing, creating, and forging weapons and armour. 3 size of [Artisan](Materials#Artisan)* materials.
-* Size 3.
-* Cost 15.
-* Used for crafting [Weapons](Weapons).
-* Used for crafting [Armour](Armour).
-* Used for crafting [Munitions](Comestibles#Munitions).
-
----
 #### Surgeon's Tool Set
-*A collection of tools for invasively healing the human body, saws, scalpels, sewing equipment. 3 size of [Artisan](Materials#Artisan)* materials.
+*A collection of tools for invasive healing of the human body. Saws, scalpels, sewing equipment. 3 size of [Artisan](Materials#Artisan)* materials.
 * Size 3.
 * Cost 15.
 * Used for [Surgeon](Academic#Surgeon).
 
 ---
 
-#### Painter's Tool Set
-*A collection of tools for depicting the world around you, an easel, a collection of brushes and oil paints. 3 size of [Artisan](Materials#Artisan)* materials.
-* Size 3.
-* Cost 15.
-
----
-#### Handyman's Tool Set
-*A collection of tools for fixing, carving, and working on the world around you including hammers, saws, chisels, and sanding papers. 3 size of [Artisan](Materials#Artisan)* materials.
-* Size 3.
-* Cost 15.
-
----
-
-#### Thieve's Tool Set
+#### Thief's Tool Set
 *A collection of tools for heisting, lock picks, a large sack, a crowbar. 3 size of [Artisan](Materials#Artisan)* materials.
 * Size 3.
 * Cost 15.
 
 ---
 
-#### Tinkers Kit
+#### Tinker's Kit
 *Size 2 Cost 15*
 *A collection of scrap bits, odds and ends, adhesive and other consumables you might need to fix or quickly construct something. Any time you need scrap, replacement parts, or other machined parts you can use a tinkers kit. 1 size of [Artisan](Materials#Artisan) + [Charges](Terminology#Charges).*
 * Size 2.
@@ -311,7 +307,7 @@ A reagent bag contains 5 uses, and replenishing a use costs 2 silver.
 
 ---
 
-#### Wranglers Kit
+#### Wrangler's Kit
 *Size 2 Cost 20*
 *A collection of restraints, blinders, keys, and other bindings usable to bind creatures and humans. 1 size of [Artisan Metals](Metal#Artisan%20Metals) + [Charges](Terminology#Charges).* 
 * Size 2.
