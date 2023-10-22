@@ -20,7 +20,7 @@ They can generally teach the following training:
 ### Basic
 
 #### Battle Music
-If you have an [Simple Instrument](Example-Gear#Simple%20Instrument), or [Complex Instrument](Example-Gear#Complex%20Instrument) on you, every ally gets a (+1) to initiative.
+If you have an [Simple Instrument](Example-Gear#Simple%20Instrument), or [Complex Instrument](Example-Gear#Complex%20Instrument) on you, every ally gets a (+1) to determining [Initiative Value](Combat#Initiative%20Value).
 
 #### Busking
 As [Skilled Work](Activities#Skilled%20Work), you can busk. Make a [Confidence](Communication#Confidence) [Variable Difficulty](Skills#Variable%20Difficulty), you receive 2 silver per [Step Of Success](Skills#Step%20Of%20Success).

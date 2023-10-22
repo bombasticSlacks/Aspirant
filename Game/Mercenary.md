@@ -54,6 +54,9 @@ Enemies don’t receive benefits for [Outnumbering](Attack-Bonuses#Outnumbered) 
 #### Weapon Expert
 You receive a (+1) to all [Actions](Terminology#Action) involving weapons. 
 
+### Head On A Swivel
+You may [Substitute](Terminology#Substitute) [Insight](Intelligence#Insight) for [Reflexes](Agility#Reflexes) when calculating [Initiative Value](Combat#Initiative%20Value).
+
 
 
 ---

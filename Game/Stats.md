@@ -40,9 +40,6 @@ Power is equal to 2 + 1 per [Training](Character-Development#Training) that requ
 #### Move Speed
 How far your character can move in 1 turn of combat. [Agility](#Agility) * 4 meters.
 
-#### Initiative
-Your [Agility](Agility) + [Intelligence](Intelligence). Used to determine turn order in combat.
-
 #### Threat
 The size of your largest weapon. Used to determine who unintelligent monsters target at random. 
 

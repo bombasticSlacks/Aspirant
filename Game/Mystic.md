@@ -34,7 +34,8 @@ Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 You can consider allied undead and spirits to be [Followers](Terminology#Follower)
 
 #### Danger Sense
-(+2) to [Initiative](Stats#Initiative), you cannot be surprised.
+* You may [Substitute](Terminology#Substitute) [Attunement](Spirit#Attunement) for [Reflexes](Agility#Reflexes) when calculating [Initiative Value](Combat#Initiative%20Value). 
+* You cannot be surprised.
 
 #### Dead Tongues
 You can speak to spirits and undead even if you wouldn't otherwise share a language. This includes unintelligent or non-communicative [Characters](Terminology#Character).

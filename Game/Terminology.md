@@ -32,7 +32,7 @@ A response a [Character](#Character) can perform in combat while it is not their
 In combat, a combat round is all the actions of every [Character](#Character) in that combat. When everyone has taken a combat turn, the combat round is over and a new combat round starts. If it is important for some reason, a combat round usually encompasses 5 seconds of time, but shouldn't be dwelled on too specifically unless necessary.
 
 ### Combat Turn
-In combat, a turn is a [Character's](#Character) portion of the round. What they are doing is happening in parallel with everyone else, but for simplicity the game takes things in an order determined by initiative. On a character's turn, they can usually do one action and potentially move. See [Combat-Turn](Combat-Turn) for more details on what a character can do.
+In combat, a turn is a [Character's](#Character) portion of the round. What they are doing is happening in parallel with everyone else, but for simplicity the game takes things in an order determined by [Initiative Value](Combat#Initiative%20Value). On a character's turn, they can usually do one action and potentially move. See [Combat-Turn](Combat-Turn) for more details on what a character can do.
 
 ### Opponent
 The opposition of a skill test. The character who will be negatively effected by the outcome.
