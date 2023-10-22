@@ -26,6 +26,7 @@ Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 * Gather information about things you could not otherwise know.
 * Command and manipulate unintelligent spirits and undead.
 * Hex something that you have a piece of.
+* Heal [Injury](Injury).
 
  [Crafting Cost](Terminology#Crafting%20Cost): 1 size of [Artisan](Materials#Artisan) [Materials](Materials) + a [Reagent Bag](Example-Gear#Reagent%20Bag) charge.
 
@@ -36,7 +37,7 @@ You can consider allied undead and spirits to be [Followers](Terminology#Followe
 (+2) to [Initiative](Stats#Initiative), you cannot be surprised.
 
 #### Dead Tongues
-You can speak to spirits and undead even if you wouldn't otherwise share a language.
+You can speak to spirits and undead even if you wouldn't otherwise share a language. This includes unintelligent or non-communicative [Characters](Terminology#Character).
 
 #### Foresight
 You may [Substitute](Terminology#Substitute) [Attunement](Spirit#Attunement) for [Avoid](Reacting-To-Attacks#Avoid) [Action](Terminology#Action).
@@ -55,6 +56,7 @@ Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 * See into the future what may happen.
 * See into the past what has happened.
 * Create undead, and transplant souls between vessels.
+* Regrow lost flesh.
 
  [Crafting Cost](Terminology#Crafting%20Cost): 1 size of [Exotic](Materials#Exotic) [Materials](Materials) + a [Reagent Bag](Example-Gear#Reagent%20Bag) charge.
 

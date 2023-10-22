@@ -15,7 +15,7 @@ Armour is separated into 2 distinct sections. [Ancillary](Injury#Ancillary), [Vi
 Armour is made of specific [materials](materials) which have 4 distinct attributes: [Weakness and Resistance](#Weakness%20and%20Resistance), [Armour Integrity](#Armour%20Integrity), [Max Skill](#Skill%20Penalty). To function as protection, a piece of armour must be made of at least [Artisan](Materials#Artisan) quality materials, even if it is of a Basic design. Materials also influence which [Armour-Traits](Armour-Traits) are available for Artisan and Exotic armours.
 
 #### Skill Penalty
-affects different locations separately and is the maximum bonus you can have on related skill tests before negatives are applied. 
+Wearing armour affects your ability to fight in combat. Heavier armour, though offering more protection, will affect the [Difficulty Value](Terminology#Difficulty%20Value) of certain actions as shown below.
 
 | Location                      | Skills effected                  |
 | ----------------------------- | -------------------------------- |
@@ -27,10 +27,10 @@ Some armour will be more susceptible or less susceptible to certain [Types of Da
 * If you are weak to an attack, increase the damage by 1.
 * If you are resistant to an attack, reduce the damage by 1.
 
-If a piece of armour would gain a resistance or weakness complementary to an existing Resistance or Weakness on the armour through [Armour-Traits](Armour-Traits), the two cancel out resulting in no effect. If a piece of armour would gain a resistance or weakness it already has through [Armour-Traits](Armour-Traits), there is no effect. 
+If a piece of armour would gain a resistance or weakness complementary to an existing Resistance or Weakness on the armour through [Armour-Traits](Armour-Traits), the two cancel out, resulting in no effect. If a piece of armour would gain a resistance or weakness it already has through [Armour-Traits](Armour-Traits), there is no effect. 
 
 ### Quality
-Armour can come in a variety of qualities. Higher quality armours gain access to [Armour-Traits](Armour-Traits) as well as the ability to incorporate additional [materials](materials) into their design. [Designing Armour](Designing-Armour) has more details on the specifics.
+Armour can come in various qualities. Higher quality armours gain access to [Armour-Traits](Armour-Traits) as well as the ability to incorporate additional [materials](materials) into their design. [Designing Armour](Designing-Armour) has more details on the specifics.
 
 ### Armour Integrity
 Your overall suit of armour will have an armour integrity, which is how well it all comes together to protect you. In other words, your armour suit has a shared amount of health over all locations. Armour Integrity is equal to the values of your [Vitals](Injury#Vitals) coverage + [Ancillary](Injury#Ancillary) coverage. 

@@ -16,7 +16,7 @@ Attributes range in value from 1-5 and measure your capability to do almost anyt
 - 4 is the peak of human achievement
 - 5 is inhuman
 
-Your character has 5 primary attributes the dictate what they can do:
+Your character has 5 primary attributes that dictate what they can do:
 * [Strength](Strength)
 * [Agility](Agility)
 * [Intelligence](Intelligence)
