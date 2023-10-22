@@ -7,7 +7,7 @@ grand_parent: How To Play
 ---
 ## Agility
 
-Measures how agile your character is. Influences movement speed, and initiative. 
+Measures how agile your character is. Influences movement speed #TODOMovement. 
 
 It can be honed to better perform the [Skills](Skills):
 ### Accuracy
@@ -32,7 +32,7 @@ The act of reacting without thought. This includes:
 Any time you are doing something that requires a split second response, you should make a reflexes [Skill](Skills) test.
 
 #### Relevant Activities
-* [Avoid](Reacting-To-Attacks.md#Avoid)
+* [Avoid](Reacting-To-Attacks#Avoid)
 
 ---
 ### Grace

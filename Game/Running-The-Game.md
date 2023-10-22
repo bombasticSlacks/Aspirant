@@ -117,7 +117,7 @@ How effective the creature is at performing other skill tests. This can be furth
 Creatures will have potential special rules that will make them do unique things in combat.
 
 ### Minions
-A minion is a very simple enemy. Becoming injured immediately disables a minion class enemy. 
+A minion is an elementary enemy. Becoming injured immediately disables a minion class enemy. 
 
 ### Bosses
-A boss is a very powerful enemy. They usually have 2+ actions in a turn and should have 1 additional reaction on top of any traits or special rules. They roll separately for initiative for each of these actions. Usually the only restriction is that the boss can’t perform the same action against the same character twice. If a boss must target the same character twice, they should perform two unique actions.
+A boss is a mighty enemy. They usually have 2+ actions in a turn and should have 1 additional reaction on top of any traits or special rules. They roll separate [Initiative Value](Combat#Initiative%20Value) for each of these actions. Usually, the only restriction is that the boss can’t perform the same action against the same character twice. If a boss must target the same character twice, they should perform two unique actions.

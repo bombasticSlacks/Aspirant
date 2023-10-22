@@ -31,8 +31,6 @@ Difficulty is assigned by the GM and defaults to 0. After determining the modifi
 
 Common modifiers include: rushed (-1), high pressure (-1), non-trivial (-1), complicated task (-2), challenging (-3), hellish task (-5), impossible task (-7). [Skills](Skills) will also provide some examples.
 
-There are some special dice rolls which you will be called upon to perform. A few of these include [Initiative Value](Combat#Initiative%20Value).
-
 **NOTE**, The rules provided within this section are not supposed to be exhaustive. This is a set of guidelines to give players and game masters an idea of what is possible, and how it should be determined. Generally, you should try to never say “no” to a player's impulse. You should inform them of the difficulty of a task and from there they can make an informed decision on if they want to progress.
 
 ### Making Characters
