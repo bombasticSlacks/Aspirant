@@ -24,6 +24,7 @@ See [Commissions](Services#Commissions) for details.
 | [Masterwork](Designing-Armour#Masterwork) [Exotic](Designing-Armour#Exotic)   | 55  | 40   |
 
 ### Contents
+{: .no_toc }
 <details open markdown="block">
   <summary>
     Table of contents
