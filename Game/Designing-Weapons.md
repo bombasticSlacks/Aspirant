@@ -9,10 +9,11 @@ nav_order: 2
 Through play and when creating a character, you may be asked to select a weapon. You can use one of the [Example-Weapons](Example-Weapons) or design your own. Perhaps your character hales from a distant land which uses a unique weapon, or a blacksmith has an idea for a specialized weapon for your character's fighting style. 
 
 To build a weapon:
-- Choose the [Quality](#Quality)
-- Choose a [Size](Weapons#Size)
-- Select a [Damage Type](Weapons#Damage%20Type)
-- Select a number of [Weapon Traits](Weapon-Traits) for the weapon equal to the amount available based on [Quality](#Quality)
+- Choose the [Quality](#Quality).
+- Choose a [Size](Weapons#Size).
+- Select a [Damage Type](Weapons#Damage%20Type).
+- Include the [[]]
+- Select a number of [Weapon Traits](Weapon-Traits) for the weapon equal to the amount available based on [Quality](#Quality).
 
 ### Quality
 Weapons come in a variety of qualities based on the skill required to craft.
@@ -41,11 +42,16 @@ Generally, weapons material isn’t particularly important. Cheap materials will
 
 One benefit to exotic materials, however, is their potential for harming monsters. A sword made of silver might be known to harm werewolves, a spear made from elven wood is effective against wraiths, etc. In some exceptional cases, a material may provide a trait for free, increase damage bonus, or provide some skill bonus. 
 
+### Default Traits
+By default, all weapons have:
+* [Strength](Weapon-Traits#Strength).
+* [Size Matters](Weapon-Traits#Size%20Matters).
+
 ### Calculating Damage Bonus
 A weapons damage bonus is equal to:
-$size \times 2 + traits + quality$
+$traits + quality$
 
-> A [Size](Weapons#Size) 3 [Artisan](#Artisan) weapon, with the [Lethal](Weapon-Traits#Lethal) [Weapon Trait](Weapon-Traits) would have a damage bonus of 8, 6 from size, 1 from [Artisan](#Artisan), 1 from [Lethal](Weapon-Traits#Lethal).
+> A [Size](Weapons#Size) 3 [Artisan](#Artisan) weapon, with the [Lethal](Weapon-Traits#Lethal) [Weapon Trait](Weapon-Traits) would have a damage bonus of 8, 6 from [Size Matters](Weapon-Traits#Size%20Matters), 1 from [Artisan](#Artisan), 1 from [Lethal](Weapon-Traits#Lethal).
 
 ### Crafting
 A character looking to craft a specific weapon first requires 2x the size worth of materials and [Craftsman](Craftsman) training saying they are able to make what they want. 

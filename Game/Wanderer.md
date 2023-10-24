@@ -75,7 +75,7 @@ After [Injuring](Injury) someone, if they would die, you may opt for them to go 
 If characters hostile to you, are not aware of you at the start of combat, you get a [Combat Turn](Terminology#Combat%20Turn) before the first [Combat Round](Terminology#Combat%20Round).
 
 #### Cram Session
-During [Meditate](Activities#Meditate), you can select any one of your skills that isn’t already at 3 ranks to count as being one rank higher until the next meditation.
+During [Good Night's Rest](Activities#Good%20Night's%20Rest), you can select any one of your skills that isn’t already at 3 ranks to count as being one rank higher until the next meditation.
 
 #### Field Dressing
 When collecting bits from creatures after an encounter, you may collect one additional from any monster you choose.

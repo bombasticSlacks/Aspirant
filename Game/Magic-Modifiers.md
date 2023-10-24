@@ -43,12 +43,12 @@ Your [Attack](Terminology#Attack) does 1 additional [Damage](Terminology#Damage)
 This attack does not cause [Injury](Injury)
 
 ### Magic Attack
-*Action modifier (0)*
-This attacks adds [Spirit](Spirit) to damage bonus instead of [Strength](Strength) and has a [Range](Weapons#Range) of 10m. #TODOMovement
+*Mandatory*
+This attacks adds [Spirit](Spirit) to [Damage Bonus](Weapons#Damage%20Bonus) instead of [Strength](Strength) and has a [Range](Weapons#Range) of [Close](Movement#Close).
 
 ### Slowing
 *Action modifier (-1)*
-If this is a [Successful Attack](Terminology#Successful%20Attack) the [Opponent](Terminology#Opponent) cannot sprint or charge on their next turn. #TODOMovement 
+If this is a [Successful Attack](Terminology#Successful%20Attack) the [Opponent](Terminology#Opponent) is [Slowed](Effects#Slowed). 
 
 ### Stunning
 *Action modifier (-1)*

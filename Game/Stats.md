@@ -33,12 +33,22 @@ An abstraction of your characters' potential to learn and gain new abilities. [C
 Aspirants will not immediately spend experience as they gain it, expertise comes from the knowledge of others, so your spent XP should be tracked separately from your total.
 
 #### Power
-A stat tracking how many times you character can perform certain powerful abilities. Some [Training](Character-Development#Training) will require you to expend this resource. It can be regained using the [Good Night's Rest](Activities#Good%20Night's%20Rest) [Travel Activity](Activities#Travel%20Activity).
+A stat tracking how many times your character can perform certain powerful abilities. Some [Training](Character-Development#Training) will require you to expend this resource. It can be regained using the [Good Night's Rest](Activities#Good%20Night's%20Rest) [Travel Activity](Activities#Travel%20Activity).
 
-Power is equal to 2 + 1 per [Training](Character-Development#Training) that requires power.
+Power is equal to [Intelligence](Intelligence) + 1 per [Training](Character-Development#Training) that requires power.
 
-#### Move Speed
-How far your character can move in 1 turn of combat. [Agility](#Agility) * 4 meters.
+#### Movement Distance
+How far your character can comfortably move before suffering a penalty to actions when time is important. See [Movement](Movement) for more details.
+
+Movement Distance is based on your [Agility](Agility)
+
+| Agility | Distance                |
+| ------- | ----------------------- |
+| 1       | -                       |
+| 2       | [Reach](Movement#Reach) |
+| 3       | [Close](Movement#Close) |
+| 4       | [Short](Movement#Short) |
+| 5       | [Far](Movement#Far)     |
 
 #### Threat
 The size of your largest weapon. Used to determine who unintelligent monsters target at random. 
@@ -56,4 +66,4 @@ Toxicity resets to 0 during [Downtime](Telling-The-Story#Downtime).
 #### Influence
 A measure of the influence you as a player have over the story. See [Influencing the Story](Telling-The-Story#Influencing%20the%20Story) for more details.
 
-Starts at 0 and is rewarded for contributing to the game.
+You start with [Communication](Communication) influence, and can have a maximum influence equal to [Communication](Communication).

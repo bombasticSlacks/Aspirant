@@ -12,7 +12,7 @@ Your character in general will have 20 size worth of storage on their character 
 Items readily available to your character. Belted items can be drawn/stowed for free, but will put any actions in a combat turn at a -1. Default storage for a belt is 4 size of items.
 
 ### Backpack
-Items stowed for longer storage using the support of your core. Bag items can be drawn/stowed as an action in combat. Default storage for a backpack is 6 size of items.
+Items stowed for longer storage using the support of your core. Bag items can be drawn/stowed as an action in combat. Default storage for a backpack is 4 + [Strength](Strength) size of items.
 
 ### Saddlebag
 Storage bags using the strength of your horse. If you are with your horse, it will take a combat action to retrieve or stow to saddle bags. Default storage for saddlebags is 10 size of items.

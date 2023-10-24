@@ -44,7 +44,7 @@ You can control an additional 2 [Followers](Terminology#Follower).
 After a successful [Strike](Strength#Strike), all your allies receive a +1 to all attack rolls until your next [Combat Turn](Terminology#Combat%20Turn).
 
 #### Lookout Sir
-If a [Follower](Terminology#Follower) #TODOFollowers under your control is within 3m #TODOMovement of you they may spend a [Reaction](Terminology#Reaction) to move to your character and become the target of the attack. They may still perform an [Avoid](Reacting-To-Attacks#Avoid).
+If a [Follower](Terminology#Follower) #TODOFollowers under your control is within [Reach](Movement#Reach) of you, they may spend a [Reaction](Terminology#Reaction) to move to your character and become the target of the attack. They may still perform an [Avoid](Reacting-To-Attacks#Avoid) [Reaction](Terminology#Reaction).
 
 #### Lover Not A Fighter
 You receive a (+1) to all [Actions](Terminology#Action) in situations where your life isn’t in danger, and you are not rushed. However, you receive a (-1) to all [Actions](Terminology#Action) while in combat.

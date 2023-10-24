@@ -36,7 +36,7 @@ You can set magical abilities you are focussed on to trigger in response to some
 When you perform a magical effect you can roll [Grace](Agility#Grace) [Opposed Difficulty](Skills#Opposed%20Difficulty)([Insight](Intelligence#Insight)) to make it seem like no magic took place.
 
 #### Mage Hand
-You can levitate things up to your [Spirit](Spirit) in size and [Spirit](Spirit) x 2 meters away #TODOMovement as naturally as picking them up normally.
+You can levitate things up to your [Spirit](Spirit) in size and [Close](Movement#Close) as naturally as picking them up normally.
 
 #### Shadow Illusionist
 As long as you have a focus, you can perform [Will](Spirit#Will) tests to sneak, move silently, hide and do other duplicitous acts.
@@ -50,7 +50,7 @@ You do not need to move your hands to perform [Channelled Magic](Magic#Channelle
 You can cast spells normally while transformed into a non-humanoid creature, even if you couldn't hold a [Focus](Example-Gear#Focus). You can also speak normally.
 
 #### Wire Fight
-You Can Use [Spirit](Spirit) instead of Agility to Calculate Movement distance. #TODOMovement 
+You Can Use [Spirit](Spirit) instead of [Agility](Agility) to Calculate [Movement Distance](Stats#Movement%20Distance). 
 
 ---
 
@@ -72,7 +72,7 @@ Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 
 #### Kinetic Monk
 *[Requirement](Terminology#Requirement): [Black Belt](Brawler#Black%20Belt)*
-While holding nothing but a [Focus](Example-Gear#Focus) you can [Substitute](Terminology#Substitute) [Will](Spirit#Will) for [Strike](Strength#Strike). While doing this, your [Melee Attacks](Terminology#Melee%20Attack) have a [Damage Bonus](Weapons#Damage%20Bonus) of $2 \times Spirit$ and you can attack at a range of $2 \times Spirit$ meters. #TODOMovement
+While holding nothing but a [Focus](Example-Gear#Focus) you can [Substitute](Terminology#Substitute) [Will](Spirit#Will) for [Strike](Strength#Strike). While doing this, your [Unarmed Attack](Terminology#Unarmed%20Attack) has a [Damage Bonus](Weapons#Damage%20Bonus) of $2 \times Spirit$ and a range of [Close](Movement#Close).
 
 #### Powerful Mind
 You can [Concentrate](Magic#Concentration) on two spells simultaneously.

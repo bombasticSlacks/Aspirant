@@ -7,7 +7,7 @@ grand_parent: How To Play
 ---
 ## Agility
 
-Measures how agile your character is. Influences movement speed #TODOMovement. 
+Measures how agile your character is. Influences [Movement Distance](Stats#Movement%20Distance). 
 
 It can be honed to better perform the [Skills](Skills):
 ### Accuracy
