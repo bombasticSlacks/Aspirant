@@ -7,7 +7,7 @@ grand_parent: How To Play
 ---
 ## Communication
 
-Measures how well you communicate. Influences the number of people who will follow you.
+Measures how well you communicate. Influences your max [Influence](Stats#Influence).
 
 It can be honed to better perform the [Skills](Skills):
 ### Confidence

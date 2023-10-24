@@ -29,7 +29,7 @@ As [Skilled Work](Activities#Skilled%20Work), you can busk. Make a [Confidence](
 [Allies](Terminology#Ally) and yourself gain a (+1) to [Social Skill Test](Terminology#Social%20Action) when interacting with residents of an area.
 
 #### Decadent
-You never suffer penalties due to intoxication and your [Max Toxicity](Stats#Max%20Toxicity) is increased by 2.
+You never suffer penalties due to intoxication, you also recieve a (+2) to [Terminology](Terminology) actions related to resisting [Comestibles](Comestibles) downsides.
 
 #### Faithful
 You receive a +1 to all [Social Skill Test](Terminology#Social%20Action) against any [Opponent](Terminology#Opponent) who shares similar beliefs to your [Character](Terminology#Character).

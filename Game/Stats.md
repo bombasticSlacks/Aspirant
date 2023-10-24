@@ -56,12 +56,10 @@ The size of your largest weapon. Used to determine who unintelligent monsters ta
 * A character that is unarmed still has a base threat of 1. 
 * A character that is unconscious or otherwise detained should have a threat of 0.
 
-#### Max Toxicity
-Your characters can only handle a certain amount of foreign material in your body before becoming ill.
+#### Affinity
+The number of [Magic-Items](Magic-Items) you can use at any time.
 
-Characters have a Max Toxicity equal to their [Strength](Strength) + [Spirit](Spirit) attributes. Your max toxicity is reduced by 1 for any permanent enchantment, prosthetic with additional abilities, and mutation your character possesses. Whenever you imbibe an alchemical elixir or are positively affected by some form of magic your character marks a level of Toxicity when your characters Toxicity level is equal to or greater than your Max Toxicity you are considered injured.
-
-Toxicity resets to 0 during [Downtime](Telling-The-Story#Downtime).
+Affinity is equal to your [Spirit](Spirit).
 
 #### Influence
 A measure of the influence you as a player have over the story. See [Influencing the Story](Telling-The-Story#Influencing%20the%20Story) for more details.
