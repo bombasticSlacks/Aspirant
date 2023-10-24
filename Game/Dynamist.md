@@ -34,7 +34,7 @@ Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 Anyone targeted by your [Channelled Magic](Magic#Channelled%20Magic) [Ranged Attack](Terminology#Ranged%20Attack) suffers a (-1) to all [Actions](Terminology#Action) until your next [Combat Turn](Terminology#Combat%20Turn).
 
 #### Magical Dulling
-All magical abilities used near you #TODOMovement , including your own, are at a -1.
+All magical abilities used [Close](Movement#Close) to you, including your own, are at a -1.
 
 #### Magic Perception
 You can detect magic without needing to look for it with [Insight](Intelligence#Insight).
@@ -52,7 +52,7 @@ You may use any [Artisan](Materials#Artisan) or greater [Quality](Weapons#Qualit
 
 #### Counter Spell
 *[Requirement](Terminology#Requirement): [Amateur Dynamancy](#Amateur%20Dynamancy)*
-If another [Character](Terminology#Character) you can see, and within #TODOMovement casts a spell, you may spend a [Reaction](Terminology#Reaction) to disrupt the spell assuming you have the appropriate training. The [Channelled Magic](Magic#Channelled%20Magic) action is at a (-2).
+If another [Character](Terminology#Character) you can see, casts a spell, you may spend a [Reaction](Terminology#Reaction) to disrupt the spell assuming you have the appropriate training. The [Channelled Magic](Magic#Channelled%20Magic) action is at a (-2). This action has a range of [Close](Movement#Close), but can suffer a [Distance Penalty](Attack-Bonuses#Distance%20Penalty).
 
 #### Elemental Strike
 You may have weapons you [Attack](Terminology#Attack) with have the [Hot](Injury#Hot) or [Cold](Injury#Cold) [Types of Damage](Injury#Types%20of%20Damage).

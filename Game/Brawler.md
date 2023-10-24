@@ -20,7 +20,7 @@ They can generally teach the following training:
 ### Basic
 
 #### Black Belt
-When not holding anything can perform a [Melee Attack](Terminology#Melee%20Attack) as though you had a melee weapon with a damage bonus of $2 \times Strength$ 
+Your [Unarmed Attack](Terminology#Unarmed%20Attack), have a [Damage Bonus](Weapons#Damage%20Bonus) of $2 \times Strength$. 
 
 #### Bushwhacker
 Whenever someone performs a [Mitigated Attack](Terminology#Mitigated%20Attack) against you in melee, you may spend a [Reaction](Terminology#Reaction) to make an [Attack](Terminology#Attack) with a hit location of the limb they attacked with.
@@ -57,7 +57,7 @@ After suffering an [Injury](Injury) that would make you [Wounded](Injury#Wounded
 If you cause an [Injuring Attack](Terminology#Injuring%20Attack) on a [Character](Terminology#Character) you are [In Melee](Terminology#In%20Melee) with that causes a [Critical Injury](Injury#Critical%20Injury) or more severe, you may make an additional [Attack](Terminology#Attack) against another enemy with the same weapon and [Combat Modifiers](Attacks#Combat%20Modifiers).
 
 #### Clothesline
-If an opponent is [Charging](Attack-Bonuses#Charging) #TODOMovement you, you may spend a [Reaction](Terminology#Reaction) to make a [Strike](Strength#Strike) [Opposed Difficulty](Skills#Opposed%20Difficulty)([Strike](Strength#Strike)+2), that if successful causes their attack to fail and knocks them prone.
+If an [Opponent](Terminology#Opponent) moves within [Reach](Movement#Reach) of you, you may spend a [Reaction](Terminology#Reaction) to make a [Strike](Strength#Strike) [Opposed Difficulty](Skills#Opposed%20Difficulty)([Strike](Strength#Strike)+2), that if successful causes their attack to fail and knocks them prone.
 
 > So the skill test would be at a (-4) penalty against someone with 2 ranks in [Strike](Strength#Strike)
 
@@ -90,7 +90,7 @@ Your [Charging](Attack-Bonuses#Charging) attacks have the [Penetrating](Weapon-T
 When in a [Grapple](Special-Combat-Actions#grapple) with an opponent, and you opt to inflict an injury, it is a [Critical Injury](Injury#Critical%20Injury).
 
 #### Rip and Tear
-Your [Attacks](Terminology#Attack) while unarmed get the [Penetrating](Weapon-Traits#Penetrating) quality, and +2 damage bonus.
+Your [Unarmed Attack](Terminology#Unarmed%20Attack) get the [Penetrating](Weapon-Traits#Penetrating) quality, and +2 damage bonus.
 
 #### Shake it off
 Whenever a negative [Effect](Effects) happens to you, roll 1d6 on a roll of 4-6 you ignore the effect.

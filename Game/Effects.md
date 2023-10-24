@@ -30,3 +30,6 @@ To stop being prone in combat you perform a [Grace](Agility#Grace) [Fixed Diffic
 * If you succeed you may stand as a [Free Action](Terminology#Free%20Action)
 * If you fail you may stand as a [Free Action](Terminology#Free%20Action) but cannot move during this [Combat Round](Terminology#Combat%20Round)
 
+### Slowed
+A slowed character can only move up to [Close](Movement#Close) on their next turn.
+

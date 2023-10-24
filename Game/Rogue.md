@@ -45,7 +45,7 @@ You may [Disarm](Special-Combat-Actions#Disarm) using a [Reflexes](Agility#Refle
 You never trigger traps by moving over them. You also receive a +1 to [Grace](Agility#Grace) skill tests related to moving silently.
 
 #### Long Shot
-When making a [Ranged Attack](Terminology#Ranged%20Attack), you may spend a [Power](Stats#Power) to ignore any [Distance Penalty](Attack-Bonuses#Distance%20Penalty) #TODOMovement.
+When making a [Ranged Attack](Terminology#Ranged%20Attack), you may spend a [Power](Stats#Power) to ignore any [Distance Penalty](Attack-Bonuses#Distance%20Penalty).
 
 #### Lost in the Crowd
 If you are [In Melee](Terminology#In%20Melee) you have a [Threat](Stats#Threat) of 0 to [Characters](Terminology#Character) not [In Melee](Terminology#In%20Melee) with you.
@@ -54,7 +54,7 @@ If you are [In Melee](Terminology#In%20Melee) you have a [Threat](Stats#Threat) 
 On your [Combat Turn](Terminology#Combat%20Turn), you may make an [Attack](Terminology#Attack) at (-2) additional penalty, and then perform a non-attack action or movement.
 
 #### Olympian
-You can make a [Thrown Attack](Terminology#Thrown%20Attack) at the end of [Charging](Attack-Bonuses#Charging) #TODOMovement , receiving the bonuses. 
+Your [Thrown Attack](Terminology#Thrown%20Attack) count as having a range of 1 additional [Distance Increment](Movement#Distance%20Increments). 
 
 #### Pin Down
 After performing a [Ranged Attack](Terminology#Ranged%20Attack), the target must pass a [Identity](Spirit#Identity) [Fixed Difficulty(+0)](Skills#Fixed%20Difficulty) or be unable to move until your next [Combat Turn](Terminology#Combat%20Turn).
@@ -94,7 +94,7 @@ You can manoeuvre perfectly well in the dark or when your vision is otherwise im
 Your character's [Threat](Stats#Threat) is reduced by your ranks in [Grace](Agility#Grace).
 
 #### Vanish
-If within 3m #TODOMovement of something you could use to hide, as a [Free Action](Terminology#Free%20Action) you can spend 3 [Power](Stats#Power) to lose all attention. If you perform any [Action](Terminology#Action) you will need to continue to hide, move silently, etc. to remain hidden.
+If within [Reach](Movement#Reach) of something you could use to hide, as a [Free Action](Terminology#Free%20Action) you can spend 2 [Power](Stats#Power) to lose all attention. If you perform any [Action](Terminology#Action) you will need to continue to hide, move silently, etc. to remain hidden.
 
 
 ---

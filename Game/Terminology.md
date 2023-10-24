@@ -35,7 +35,7 @@ In combat, a combat round is all the actions of every [Character](#Character) in
 In combat, a turn is a [Character's](#Character) portion of the round. What they are doing is happening in parallel with everyone else, but for simplicity the game takes things in an order determined by [Initiative Value](Combat#Initiative%20Value). On a character's turn, they can usually do one action and potentially move. See [Combat-Turn](Combat-Turn) for more details on what a character can do.
 
 ### Opponent
-The opposition of a skill test. The character who will be negatively effected by the outcome.
+The opposition of a currently referenced [Character](#Character). The character who will be negatively effected by your actions, or you would be by theirs.
 
 ### In Melee
 A character is considered in melee if they are actively fighting another character with a weapon that does not have a specified range. Generally, this means they are within 2 meters of an [Opponent](#Opponent) and the [Character](#Character) has either attacked or been attacked. See [Being in Melee Combat](Combat#Being%20in%20Melee%20Combat) for more details.
@@ -44,7 +44,7 @@ A character is considered in melee if they are actively fighting another charact
 References a player character, NPC, creature, or other entity that might perform an action, or have an action performed on them.
 
 ### Melee Attack
-An [Attack](#Attack) with a weapon with no otherwise specified range that is not thrown. You can generally make a melee attack within 2m of your opponent.
+An [Attack](#Attack) with a weapon with no otherwise specified range that is not thrown. You can generally make a melee attack within [Reach](Movement#Reach).
 
 ### Thrown Attack
 An [Attack](#Attack) with a weapon which is thrown at the target. Things like bows and crossbows are not thrown attacks.
@@ -107,7 +107,20 @@ Refers to a bonus being able to be taken multiple times to get the effect repeat
 ### Charges
 An abstracted count of the number of times an item can be used. If charges are written as X(Y), then the item has X charges and charges can be refreshed for Y silver.
 
-> Example: a tool kit has 3(2) charges, means it can be used 3 times and can have it's uses refreshed for 2 silver each.
+> Example: a tool kit has 3(2) charges, means it can be used 3 times and can have its uses refreshed for 2 silver each.
 
 ### Difficulty Value
 The penalty for an [Action](#Action) assigned by the [GM](How-To-Play#GM).
+
+### Unarmed Attack
+An unarmed attack is a [Melee Attack](#Melee%20Attack) without a weapon, using only your limbs. It causes [Minimal Injury](Injury#Minimal%20Injury) [Impact](Injury#Impact).
+
+### Loading
+Some weapons and equipment will require a certain amount of time to be ready for use. This is the loading time. Loading time is specified as (X) where X is the number of round, or 0 for [Free Action](#Free%20Action).
+
+If something can be loaded as a free action, immediately using it puts the action at a (-1).
+
+### Capacity
+The number and type of things that this item can be [Loaded](#Loading) with. Usually written as Capacity X(Y), which means it holds X ammo, and is loaded with Y item.
+
+> So a weapon described as having Capacity 12([Munitions](Comestibles#Munitions)) would hold 12 generic ammo.

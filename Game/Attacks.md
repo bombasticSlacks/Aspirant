@@ -14,9 +14,11 @@ Usually, in combat, you will be trying to harm your opponents with the goal of k
 * Magic attacks using [Will](Spirit#Will)
 
 ### Attack Range
-When you attack something, your range is how far you can engage them from. With melee weapons, you need to be within 2m. With Range, Thrown, and Magic you have a range, but it is possible to attack up to 5x your range, but you will suffer [Distance Penalty](#Distance%20Penalty). #TODOMovement 
-* Magic attacks have a range of 10m
-* Thrown have a range of 3 times your [Strength](Strength)
+When you attack something, your range is how far you can engage them from. 
+* If a weapon doesn't specify a range it is assumed you need to be within [Reach](Movement#Reach).
+* If you aren't within a weapons range you can either [Move](Combat-Turn#Move), or suffer a [Distance Penalty](Attack-Bonuses#Distance%20Penalty), or perhaps, both.
+* Magic generally has a range of [Close](Movement#Close).
+* Items can be thrown [Close](Movement#Close).
 * Ranged attacks will be defined in the weapons [traits](Weapons#[Weapon-Traits](Weapon-Traits)).
 
 ### Attacking

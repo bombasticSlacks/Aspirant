@@ -3,5 +3,6 @@
   "obsidian-languagetool-plugin",
   "obsidian-sort-and-permute-lines",
   "table-editor-obsidian",
-  "find-unlinked-files"
+  "find-unlinked-files",
+  "editing-toolbar"
 ]

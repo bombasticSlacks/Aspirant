@@ -54,9 +54,6 @@ If a [Character](Terminology#Character) performs a [Mitigated Attack](Terminolog
 #### Terminator
 You cannot be forced to move or knocked over.
 
-#### Trampler
-While [Mounted](Terminology#Mounted) when [Charging](Attack-Bonuses#Charging) #TODOMovement , you can cause an [Impact](Injury#Impact) [Ancillary](Injury#Ancillary) [Critical Injury](Injury#Critical%20Injury).
-
 
 ---
 
@@ -86,7 +83,10 @@ Your [Mounted Expert](#Mounted%20Expert) training applies to exotic forms of tra
 > Flight, Swimming, Teleporting, Scaling Walls, Burrowing
 
 #### Sweep
-As a [Melee Attack](Terminology#Melee%20Attack), you may make a [Strike](Strength#Strike) [[Skills#Fixed Difficulty]](0). If this is a [Non-mitigated Attack](Terminology#Non-mitigated%20Attack), all [Opponents](Terminology#Opponent) [In Melee](Terminology#In%20Melee) with you and within 3m #TODOMovement of you are knocked prone, they don't suffer [Injury](Injury).
+As a [Melee Attack](Terminology#Melee%20Attack), you may make a [Strike](Strength#Strike) [[Skills#Fixed Difficulty]](0). If this is a [Non-mitigated Attack](Terminology#Non-mitigated%20Attack), all [Opponents](Terminology#Opponent) within [Reach](Movement#Reach) of you are knocked [Prone](Effects#Prone), they don't suffer [Injury](Injury).
+
+#### Trampler
+While [Mounted](Terminology#Mounted) if you move within [Reach](Movement#Reach) of an [Opponent](Terminology#Opponent), you can perform a [Mannerism](Communication#Mannerism) [Fixed Difficulty](Skills#Fixed%20Difficulty)(0) to [Attack](Terminology#Attack) for an [Impact](Injury#Impact) [Ancillary](Injury#Ancillary) [Critical Injury](Injury#Critical%20Injury).
 
 ---
 

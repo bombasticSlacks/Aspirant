@@ -29,7 +29,7 @@ As [Skilled Work](Activities#Skilled%20Work), you can busk. Make a [Confidence](
 [Allies](Terminology#Ally) and yourself gain a (+1) to [Social Skill Test](Terminology#Social%20Action) when interacting with residents of an area.
 
 #### Decadent
-You never suffer penalties due to intoxication and your [Max Toxicity](Stats#Max%20Toxicity) is increased by 2.
+You never suffer penalties due to intoxication, you also receive a (+2) to [Terminology](Terminology) actions related to resisting [Comestibles](Comestibles) downsides.
 
 #### Faithful
 You receive a +1 to all [Social Skill Test](Terminology#Social%20Action) against any [Opponent](Terminology#Opponent) who shares similar beliefs to your [Character](Terminology#Character).
@@ -44,7 +44,7 @@ You can control an additional 2 [Followers](Terminology#Follower).
 After a successful [Strike](Strength#Strike), all your allies receive a +1 to all attack rolls until your next [Combat Turn](Terminology#Combat%20Turn).
 
 #### Lookout Sir
-If a [Follower](Terminology#Follower) #TODOFollowers under your control is within 3m #TODOMovement of you they may spend a [Reaction](Terminology#Reaction) to move to your character and become the target of the attack. They may still perform an [Avoid](Reacting-To-Attacks#Avoid).
+If a [Follower](Terminology#Follower) #TODOFollowers under your control is within [Reach](Movement#Reach) of you, they may spend a [Reaction](Terminology#Reaction) to move to your character and become the target of the attack. They may still perform an [Avoid](Reacting-To-Attacks#Avoid) [Reaction](Terminology#Reaction).
 
 #### Lover Not A Fighter
 You receive a (+1) to all [Actions](Terminology#Action) in situations where your life isn’t in danger, and you are not rushed. However, you receive a (-1) to all [Actions](Terminology#Action) while in combat.

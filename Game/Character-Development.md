@@ -15,7 +15,7 @@ As your characters gain [Total XP](Stats#Total%20XP) you gain additional benefit
 | [Total XP](Stats#Total%20XP) | Reward                                                                                                           |
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | 10                           | Increase a [Skill](Skills) by 1 rank (but not to rank 3)                                                         |
-| 15                           | Increase your [Power](Stats#Power), [Max Toxicity](Stats#Max%20Toxicity), or [Initiative](Stats#Initiative) by 1 |
+| 15                           | Increase your [Power](Stats#Power), [Max Toxicity](Stats#Affinity), or [Initiative](Stats#Initiative) by 1 |
 | 20                           | Increase a [Skill](Skills) by 1 rank                                                                             |
 | 25                           | Increase an [Attribute](Stats#Attributes) by 1                                                                   | 
 | 30                           | Increase a [Skill](Skills) by 1 rank                                                                             |
@@ -85,7 +85,7 @@ Transhumanist processes come in a few variations. 
 Characters in Aspirant may suffer from debilitating injury. To combat this, prosthetics may be installed. Simple prosthetics do not count as transhumanist effects.
 
 #### Toxicity
-Each transhumanist affect your character has reduces your [max toxicity](Stats#Max%20Toxicity) by 1. 
+Each transhumanist affect your character has reduces your [max toxicity](Stats#Affinity) by 1. 
 
 #### Acquiring Transhumanist Effects
 * Purchased: [Buying](#Buying)

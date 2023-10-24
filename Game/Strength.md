@@ -7,7 +7,7 @@ grand_parent: How To Play
 ---
 ## Strength
 
-Measures how strong your character is. Influences [Max Toxicity](Stats#Max%20Toxicity) and melee weapon damage.
+Measures how strong your character is. Influences [Backpack](Storage#Backpack) carry weight.
 
 It can be honed to better perform the [Skills](Skills):
 ### Athletics
