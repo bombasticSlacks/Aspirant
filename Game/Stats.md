@@ -57,7 +57,7 @@ The size of your largest weapon. Used to determine who unintelligent monsters ta
 * A character that is unconscious or otherwise detained should have a threat of 0.
 
 #### Affinity
-The number of [Magic-Items](Magic-Items) you can use at any time.
+When [Using Magic Items](Magic-Items#Using%20Magic%20Items) the number you can [Bind](Terminology#Bind).
 
 Affinity is equal to your [Spirit](Spirit).
 
