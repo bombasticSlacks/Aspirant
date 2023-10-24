@@ -43,13 +43,14 @@ Magic items that have magic abilities that are unrelated to the original functio
 > A shield that lets you speak any language.
 
 ### Designing Magic Items
-When you create a magic item, it should:  
+When you create a magic item, it should:
 * Have a beneficial power or ability. This can be passive or require activation.
 * Have some visual distinction for this power.
 * Based on the power level of the benefit, it should have a [Drawback](#Drawback) or catch.
-
 #### Drawback
 Your item's drawback shouldn't be crippling, the item shouldn't feel cursed. The drawback should add some flavour or maybe lead to interesting or problematic scenarios. 
+
+The drawback to [Ephemeral](#Ephemeral) items is usually that they can be exhausted.
 
 > Perhaps boots that give you the ability to jump massive distances make your feet smell like an ogres.
 
