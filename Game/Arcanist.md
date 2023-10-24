@@ -21,8 +21,7 @@ They can generally teach the following training:
 
 #### Amateur Arcana
 Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
-* Imbue magic into [Comestibles](Comestibles)
-* Imbue single use magic into other [Equipment](Equipment).
+* Create [Ephemeral](Magic-Items#Ephemeral) [Magic-Items](Magic-Items).
 * Teleport a nearby item to yourself.
 * Summon a familiar that obeys
 * Conjure simple items that won't be missed (from wherever you take them).
@@ -53,7 +52,7 @@ Places count as Size 5
 #### Expert Arcana
 *[Requirement](Terminology#Requirement): [Amateur Arcana](#Amateur%20Arcana)*
 Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
-* Imbue magic into permanent items. The magics effect must be aligned with the item's purpose.
+* Create [Harmonic](Magic-Items#Harmonic) [Magic-Items](Magic-Items).
 * Summon an animal that obeys.
 * Conjure more complex items that will be missed.
 * Teleport an exact item to yourself.
@@ -74,7 +73,7 @@ You can hold an additional $2 \times Spirit$ Size of items. These items can be a
 #### Master Arcana
 *[Requirement](Terminology#Requirement): [Expert Arcana](#Expert%20Arcana)*
 Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
-* When imbuing things with magic, the enchantments do not need to be related to the items' purpose.
+* Create [Discordant](Magic-Items#Discordant) [Magic-Items](Magic-Items).
 * Summon a magical creature that obeys.
 * Conjure an exact item of need (the owner may be angry about this).
 

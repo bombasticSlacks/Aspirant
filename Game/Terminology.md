@@ -124,3 +124,7 @@ If something can be loaded as a free action, immediately using it puts the actio
 The number and type of things that this item can be [Loaded](#Loading) with. Usually written as Capacity X(Y), which means it holds X ammo, and is loaded with Y item.
 
 > So a weapon described as having Capacity 12([Munitions](Comestibles#Munitions)) would hold 12 generic ammo.
+
+
+### Bind
+The act of allowing you to use a [Magic-Items](Magic-Items). You can only bind a number of [Magic-Items](Magic-Items) equal to your [Affinity](Stats#Affinity).

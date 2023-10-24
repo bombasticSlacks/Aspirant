@@ -12,12 +12,8 @@ Aspirant is a world of tradespeople, experts with something to offer a prospecti
 
 | Service                                                                   | Cost                                     |
 | ------------------------------------------------------------------------- | ---------------------------------------- |
-| Commissioning A guide through a known trail                               | $2$                                      |
-| Commissioning A guide through a not well-known trail                      | $5$                                      |
-| Commissioning First Aid                                                   | $2$                                      |
-| Commissioning Performing a complex ritual                                 | $12 + reagents$                          |
-| Commissioning Performing a simple ritual                                  | $5 + reagents$                           |
-| Commissioning surgery                                                     | $8$                                      |
+| Hiring A guide through a known trail                               | $2$                                      |
+| Hiring A guide through a not well-known trail                      | $5$                                      |
 | [Downtime](Telling-The-Story#Downtime) of lodgings                                                          | $1$                                      |
 | [Travel Segment](Telling-The-Story#Travel%20Segment) of travel food       | $1$                                      |
 | Getting expertise or knowledge                                            | $4$                                      |
@@ -25,7 +21,7 @@ Aspirant is a world of tradespeople, experts with something to offer a prospecti
 | Moving a piece of [Infrastructure](Assets#Infrastructure) to another city | $2 \times Days\ Of\ Travel \times Space$ |
 
 
-#### Commissions
+#### Crafting Commissions
 Getting a craftsman to make you a piece of [Equipment](Equipment).
 
 | Service                                                                   | Cost                                                                            |
@@ -36,6 +32,18 @@ Getting a craftsman to make you a piece of [Equipment](Equipment).
 | Commissioning Storage                                                     | $5$ + [Crafting Storage](Designing-Storage#Crafting%20Storage)                  |
 | Commissioning creating comestibles                                        | $4 + reagents$                                                                  |
 | Commissioning a standard days work for a tradesman                        | $5$                                                                             |
+
+#### Expert Commissions
+Requesting an expert to do something for you.
+
+| Service                                                          | Cost            |
+| ---------------------------------------------------------------- | --------------- |
+| Commissioning First Aid                                          | $2$             |
+| Commissioning Performing a complex ritual                        | $12 + reagents$ |
+| Commissioning Performing a simple ritual                         | $5 + reagents$  |
+| Commissioning surgery                                            | $8$             |
+| Commissioning someone to [Bind](Terminology#Bind) an item to you | 5                |
+
 #### Training
 Getting an expert to help you to become better.
 
@@ -45,7 +53,6 @@ Getting an expert to help you to become better.
 | Teaching an advanced training                                             | $12$                                                                            |
 | Teaching a master training | $30$            |
 | Teaching a skill           | $5 \times Rank$ |
-
 
 
 ### Costs Of Materials

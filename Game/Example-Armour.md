@@ -13,7 +13,7 @@ nav_order: 2
 
 ### Pricing
 {: .no_toc }
-See [Commissions](Services#Commissions) for details.
+See [Commissions](Services#Crafting%20Commissions) for details.
 
 | Quality                                                                       | Buy | Sell |
 | ----------------------------------------------------------------------------- | --- | ---- |
