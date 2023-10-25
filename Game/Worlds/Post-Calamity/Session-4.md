@@ -21,7 +21,7 @@ grand_parent: Worlds
 * Went to meet [Jordan](Dorna#Jordan), spotted [Arturas-Gabrys](Arturas-Gabrys) Axe, had heard stories from father about the axe being used to slay.
 * Told to meet [Katherine](Dorna#Katherine) about payment
 * *Downtime*
-	* Arturas [Night Training](../../Activities#Night%20Training)
+	* Arturas [Night Training](../../Activities#Night%20Learning)
 	* Akren helped with Dynamite for 5 silver
 	* [Alexander-Aurelius](Alexander-Aurelius) did [Contacts](../../Chronicler#Contacts)
 	* [Greg-Colter](Greg-Colter) did basic labour
