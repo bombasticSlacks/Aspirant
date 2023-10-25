@@ -44,15 +44,17 @@ Requesting an expert to do something for you.
 | Commissioning surgery                                            | $8$             |
 | Commissioning someone to [Bind](Terminology#Bind) an item to you | 5                |
 
-#### Training
+#### Teaching
 Getting an expert to help you to become better.
 
-| Service                    | Cost            |
-| -------------------------- | --------------- |
-| Teaching a basic training  | $5$             |
-| Teaching an advanced training                                             | $12$                                                                            |
-| Teaching a master training | $30$            |
-| Teaching a skill           | $5 \times Rank$ |
+| Service                       | Monetary Cost | XP Cost |
+| ----------------------------- | ------------- | ------- |
+| Teaching a basic training     | $5$           | $2$     |
+| Teaching an advanced training | $10$          | $4$     |
+| Teaching a master training    | $20$          | $6$     |
+| Teaching a level 1 skill      | $5$           | $2$     |
+| Teaching a level 2 skill      | $10$          | $2$     |
+| Teaching a level 3 skill      | $20$          | $4$     | 
 
 
 ### Costs Of Materials

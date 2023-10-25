@@ -19,8 +19,8 @@ grand_parent: Worlds
 * Travel to the Wizard Tower:
 	* [Akren](Akren) [Scout](../../Activities#Scout)
 	* [Alexander-Aurelius](Alexander-Aurelius) [Scout](../../Activities#Scout)
-	* [Arturas-Gabrys](Arturas-Gabrys) [Night Training](../../Activities#Night%20Training) (helping Greg)
-	* [Greg-Colter](Greg-Colter) [Night Training](../../Activities#Night%20Training)
+	* [Arturas-Gabrys](Arturas-Gabrys) [Night Training](../../Activities#Night%20Learning) (helping Greg)
+	* [Greg-Colter](Greg-Colter) [Night Training](../../Activities#Night%20Learning)
 	* [Vespin-Aevaris](Vespin-Aevaris) [Scavenge](../../Activities#Scavenge)
 * Caught the manticore, with a meal flying around
 * started a forest fire

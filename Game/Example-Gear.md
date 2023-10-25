@@ -207,7 +207,6 @@ Things character shouldn't be interested in buying to travel with but may be of 
 *A set of cards, dice, small hobby models, or other things a group of people could play with, allowing a group of people to easily pass time. 1 size of [Artisan](Materials#Artisan) materials.*
 * Size 1.
 * Cost 5.
-* You and your [Allies](Terminology#Ally) can, as a [Travel Activity](Activities#Travel%20Activity), socialize. Any time you [Aid](Skills#Aid%20and%20Hindrance) a character you socialized with, they get a (+2) instead of a (+1).
 
 ---
 
@@ -232,6 +231,16 @@ Things character shouldn't be interested in buying to travel with but may be of 
 *A collection of tools for depicting the world around you, an easel, a collection of brushes and oil paints. 3 size of [Artisan](Materials#Artisan)* materials.
 * Size 3.
 * Cost 15.
+
+---
+
+#### Training Manual
+*A collection of the knowledge required to learn a training bound in paper. 3 size of [Basic Wood](Wood#Basic%20Wood)*.
+* Size 3.
+* Cost double the [Teaching](Services#Teaching) cost for a specific training.
+* Cost 25 for all [Basic Level Training](Character-Development#Basic%20Level%20Training) in a [Type Of Training](Character-Development#Types%20Of%20Training).
+* Cost 50 for all [Advanced Level Training](Character-Development#Advanced%20Level%20Training) in a [Type Of Training](Character-Development#Types%20Of%20Training).
+* You can use a training manual as a replacement for a trainer when doing [Supervised Training](Activities#Supervised%20Learning), you still need to spend XP.
 
 ---
 #### Patching Kit

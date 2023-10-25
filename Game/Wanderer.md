@@ -107,7 +107,7 @@ You can [Scout](Activities#Scout) while doing another [Travelling Activity](Acti
 ### Master
 
 #### Anthropologist
-You no longer have [Restrictions](Character-Development#Restrictions) when doing [Supervised Training](Activities#Supervised%20Training). In other words, you do not need a trainer or reference to train, just [Activities](Activities) time and [Total XP](Stats#Total%20XP)
+You no longer have [Restrictions](Character-Development#Restrictions) when doing [Supervised Training](Activities#Supervised%20Learning). In other words, you do not need a trainer or reference to train, just [Activities](Activities) time and [Total XP](Stats#Total%20XP)
 #### Take Down Expert
 After successfully performing a grapple special manoeuvre against someone, you may perform one grapple action on them immediately.
 

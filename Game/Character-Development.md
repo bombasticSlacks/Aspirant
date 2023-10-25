@@ -9,33 +9,39 @@ As you adventure, your character will become stronger. This can happen in a numb
 
 When you rest, based on the length of the rest, you will have time which could be spent training. Spending XP to train is either a [downtime activity](Activities#Downtime%20Activity) or [travel activity](Activities#Travel%20Activity).
 
+### Learning
+Aside from inherent progression, the experts of the world have much to teach your character. As you travel you should learn everything you can spending your XP to gain new [Skills](Skills) and [Training](#Training).
+
+You can learn using:
+* [Supervised Training](Activities#Supervised%20Learning).
+* [Night Training](Activities#Night%20Learning).
+* [Socialize](Activities#Socialize).
+
+When you learn something, it will either be [Unknown](#Unknown), [In Progress](#In%20Progress), [Known](#Known).
+
+#### Requirements
+A character can’t learn from nothing. When your character desires to learn something [Unknown](#Unknown), a person needs to be paid for [Teaching](Services#Teaching), or they need a [Training Manual](Example-Gear#Training%20Manual). Either way, they will also need to have XP available to spend.
+
+#### Unknown
+A skill or training is considered unknown if you haven't spent any XP towards learning it.
+
+#### In Progress
+A skill or training is considered in progress if you have spent some XP, but not the required amount to learn it.
+
+#### Known
+A skill or training is considered known if you have spent the required XP on it. At this point you benefit from it.
+
 ### Progression
-As your characters gain [Total XP](Stats#Total%20XP) you gain additional benefits beyond your [Training](#Training).
+As your characters gain [Total XP](Stats#Total%20XP) you gain additional benefits beyond your [Learning](#Learning). These are called [Character-Milestones](Character-Milestones) and you receive them as follows:
 
-| [Total XP](Stats#Total%20XP) | Reward                                                                                                           |
-| ---------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 10                           | Increase a [Skill](Skills) by 1 rank (but not to rank 3)                                                         |
-| 15                           | Increase your [Power](Stats#Power), [Max Toxicity](Stats#Affinity), or [Initiative](Stats#Initiative) by 1 |
-| 20                           | Increase a [Skill](Skills) by 1 rank                                                                             |
-| 25                           | Increase an [Attribute](Stats#Attributes) by 1                                                                   | 
-| 30                           | Increase a [Skill](Skills) by 1 rank                                                                             |
-
-### Costs
-Different trainings cost a different amount of XP as follows:
-
-| Advancement       | Cost |
-| ----------------- | ---- |
-| Level 1 Skill     | 2 XP |
-| Level 2 Skill     | 2 XP |
-| Level 3 Skill     | 4 XP |
-| Basic Training    | 2 XP |
-| Advanced Training | 4 XP |
-| Master Training   | 6 XP | 
-
-### Restrictions
-A character can’t learn from nothing. When your character desires to learn / improve a skill or gain training, they need to either learn from someone who already has that qualification or have a well-written manual providing details to study. 
-
-You only need guidance to start training. If you begin training with someone but then part ways, you can on your own time finish the training. 
+| [Total XP](Stats#Total%20XP) | Reward                                                            |
+| ---------------------------- | ----------------------------------------------------------------- |
+| 10                           | [Basic Milestones](Character-Milestones#Basic%20Milestones)       |
+| 15                           | [Basic Milestones](Character-Milestones#Basic%20Milestones)       |
+| 20                           | [Basic Milestones](Character-Milestones#Basic%20Milestones)       |
+| 25                           | [Advanced Milestones](Character-Milestones#Advanced%20Milestones) |
+| 30                           | [Advanced Milestones](Character-Milestones#Advanced%20Milestones) |
+| 35                           | [Advanced Milestones](Character-Milestones#Advanced%20Milestones) | 
 
 ### Training
 Basic, advanced, and master training represents powerful new abilities that your character can learn to possess. Trainings can either be:
