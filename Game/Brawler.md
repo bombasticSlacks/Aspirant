@@ -68,7 +68,7 @@ After doing an [Attack](Terminology#Attack) while unarmed, if you haven’t alre
 You may [Parry](Special-Combat-Actions#Parry) with a [Mannerism](Communication#Mannerism) [Fixed Difficulty(-2)](Skills#Fixed%20Difficulty).
 
 #### Enrage
-When you make a [Strike](Strength#Strike) skill test, spend a [Power](Stats#Power) to become enraged. While enraged, you have: 
+When you make a [Strike](Strength#Strike) skill test, spend a [Power](Stats#Max%20Power) to become enraged. While enraged, you have: 
 * +1 [Strength](Strength)
 * -1 [Intelligence](Intelligence)
 * +2 to [Endurance](Strength#Endurance) tests

@@ -7,7 +7,7 @@ grand_parent: How To Play
 ---
 ## Intelligence
 
-Measures how intelligent your character is. Influences [Power](Stats#Power).
+Measures how intelligent your character is. Influences [Max Power](Stats#Max%20Power).
 
 It can be honed to better perform the [Skills](Skills):
 ### Application

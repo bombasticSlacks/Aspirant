@@ -127,4 +127,4 @@ The number and type of things that this item can be [Loaded](#Loading) with. Usu
 
 
 ### Bind
-The act of allowing you to use a [Magic-Items](Magic-Items). You can only bind a number of [Magic-Items](Magic-Items) equal to your [Affinity](Stats#Affinity).
+The act of allowing you to use a [Magic-Items](Magic-Items). You can only bind a number of [Magic-Items](Magic-Items) equal to your [Affinity](Stats#Max%20Affinity).

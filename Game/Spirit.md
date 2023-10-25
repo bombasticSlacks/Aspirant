@@ -7,7 +7,7 @@ grand_parent: How To Play
 ---
 ## Spirit
 
-Measures your spirit, your sense of self and the world around you. Influences your [Affinity](Stats#Affinity).
+Measures your spirit, your sense of self and the world around you. Influences your [Max Affinity](Stats#Max%20Affinity).
 
 It can be honed to better perform the [Skills](Skills):
 ### Attunement

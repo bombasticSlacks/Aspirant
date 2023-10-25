@@ -73,7 +73,7 @@ You can opt to make the damage type of any [Rending](Injury#Rending) or [Piercin
 When you [Parry](Special-Combat-Actions#Parry) your opponent suffers a (-2).
 
 #### Quick Draw
-During your [Combat Turn](Terminology#Combat%20Turn) you may spend 2 [Power](Stats#Power) to make an attack with a [Size](Weapons#Size) 1 [Weapon](Weapons) as a [Free Action](Terminology#Free%20Action).
+During your [Combat Turn](Terminology#Combat%20Turn) you may spend 2 [Power](Stats#Max%20Power) to make an attack with a [Size](Weapons#Size) 1 [Weapon](Weapons) as a [Free Action](Terminology#Free%20Action).
 
 
 ---
@@ -89,7 +89,7 @@ Dance Of Death - On your [Combat Turn](Terminology#Combat%20Turn), as a [Free Ac
 Dance of death lasts until your next [Combat Turn](Terminology#Combat%20Turn).
 
 #### Master Of Arms
-You can declare a weapon you are using has an additional trait worth up to 2 trait points. It has that trait for the rest of an encounter. Using this ability costs [Power](Stats#Power) equal to the trait value. If this is used additional times in a single encounter only the most recently declared Master Of Arms trait counts. 
+You can declare a weapon you are using has an additional trait worth up to 2 trait points. It has that trait for the rest of an encounter. Using this ability costs [Power](Stats#Max%20Power) equal to the trait value. If this is used additional times in a single encounter only the most recently declared Master Of Arms trait counts. 
 
 #### Riposte
 After an [Opponent](Terminology#Opponent) [In Melee](Terminology#In%20Melee) with you, makes a [Mitigated Attack](Terminology#Mitigated%20Attack) against you, you may make an [Attack](Terminology#Attack) against them.

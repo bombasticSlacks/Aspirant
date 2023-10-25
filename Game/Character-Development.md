@@ -47,7 +47,7 @@ As your characters gain [Total XP](Stats#Total%20XP) you gain additional benefit
 Basic, advanced, and master training represents powerful new abilities that your character can learn to possess. Trainings can either be:
 * Passive - just does something all the time for you.
 * Elective - gives you a new ability/option you can use at will.
-* Power Based - Requires spending [Power](Stats#Power) to activate.
+* Power Based - Requires spending [Power](Stats#Max%20Power) to activate.
 * Once Per Downtime - Very powerful abilities that can only be used once before resting in a city.
 
 #### Basic Level Training
@@ -89,9 +89,6 @@ Transhumanist processes come in a few variations. 
 
 #### Prosthetics
 Characters in Aspirant may suffer from debilitating injury. To combat this, prosthetics may be installed. Simple prosthetics do not count as transhumanist effects.
-
-#### Toxicity
-Each transhumanist affect your character has reduces your [max toxicity](Stats#Affinity) by 1. 
 
 #### Acquiring Transhumanist Effects
 * Purchased: [Buying](#Buying)
