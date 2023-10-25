@@ -49,7 +49,7 @@ These are actions that a character can do while travelling somewhere, your spare
 #### Good Night's Rest
 *You focus on sleeping and being prepared for what lies ahead.*
 * +1 to a single skill test the next day, declared before rolling.
-* Refresh your [Power](Stats#Power) to maximum.
+* Refresh your [Power](Stats#Max%20Power) to maximum.
 
 ---
 #### Do Production Work
@@ -62,7 +62,7 @@ These are actions that a character can do while travelling somewhere, your spare
 * When the GM rolls to determine if an [Ambush Encounter](Telling-The-Story#Ambush%20Encounter) occurs, you may have your [Grace](Agility#Grace) provide a penalty to the roll. 
 * You receive a +3 on any [Insight](Intelligence#Insight) tests during [Ambush Encounter](Telling-The-Story#Ambush%20Encounter).
 * You are not surprised if ambushed. 
-* You regain 1 [Power](Stats#Power)
+* You regain 1 [Power](Stats#Max%20Power)
 
 ---
 #### Scavenge

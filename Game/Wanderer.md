@@ -20,7 +20,7 @@ They can generally teach the following training:
 ### Basic
 
 #### Check Again
-Spend a [Power](Stats#Power), you can ask the [GM](How-To-Play#GM) if there is anything of interest you haven't noticed in a room, or area. The [GM](How-To-Play#GM) will not tell you what it is, just you should continue looking.
+Spend a [Power](Stats#Max%20Power), you can ask the [GM](How-To-Play#GM) if there is anything of interest you haven't noticed in a room, or area. The [GM](How-To-Play#GM) will not tell you what it is, just you should continue looking.
 
 #### Clever Packer
 Your [Backpack](Storage#Backpack) can hold an additional 6 size worth of items.
@@ -47,7 +47,7 @@ You receive a (+1) to all [Actions](Terminology#Action) related to surviving and
 You can consider tamed animals to be [Followers](Terminology#Follower).
 
 #### Internal Monologue
-You receive hints and tips from the GM in the form of an internal monologue. Spend 1 [Power](Stats#Power) to receive some info from the GM.
+You receive hints and tips from the GM in the form of an internal monologue. Spend 1 [Power](Stats#Max%20Power) to receive some info from the GM.
 
 #### Leave No Trace
 You and those travelling with you cannot be tracked.

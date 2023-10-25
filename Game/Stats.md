@@ -32,7 +32,7 @@ An abstraction of your characters' potential to learn and gain new abilities. [C
 #### Spent XP
 Aspirants will not immediately spend experience as they gain it, expertise comes from the knowledge of others, so your spent XP should be tracked separately from your total.
 
-#### Power
+#### Max Power
 A stat tracking how many times your character can perform certain powerful abilities. Some [Training](Character-Development#Training) will require you to expend this resource. It can be regained using the [Good Night's Rest](Activities#Good%20Night's%20Rest) [Travel Activity](Activities#Travel%20Activity).
 
 Power is equal to [Intelligence](Intelligence) + 1 per [Training](Character-Development#Training) that requires power.
@@ -56,12 +56,12 @@ The size of your largest weapon. Used to determine who unintelligent monsters ta
 * A character that is unarmed still has a base threat of 1. 
 * A character that is unconscious or otherwise detained should have a threat of 0.
 
-#### Affinity
+#### Max Affinity
 When [Using Magic Items](Magic-Items#Using%20Magic%20Items) the number you can [Bind](Terminology#Bind).
 
 Affinity is equal to your [Spirit](Spirit).
 
-#### Influence
+#### Max Influence
 A measure of the influence you as a player have over the story. See [Influencing the Story](Telling-The-Story#Influencing%20the%20Story) for more details.
 
 You start with [Communication](Communication) influence, and can have a maximum influence equal to [Communication](Communication).

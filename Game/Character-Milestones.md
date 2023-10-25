@@ -18,15 +18,15 @@ The rewards are as follows:
 Your [Damage Bonus](Weapons#Damage%20Bonus) is +1 with all attacks.
 
 #### Inspired
-You have 1 additional [Influence](Stats#Influence).
+You have 1 additional [Max Influence](Stats#Max%20Influence).
 
 #### Magical
-You have 1 additional [Affinity](Stats#Affinity).
+You have 1 additional [Max Affinity](Stats#Max%20Affinity).
 #### Mobile
 Your [Agility](Agility) counts as 1 higher for [Movement Distance](Stats#Movement%20Distance).
 
 #### Powerful
-You have 1 additional [Power](Stats#Power).
+You have 1 additional [Max Power](Stats#Max%20Power).
 
 #### Skilful
 You gain a rank in a skill of your choice, this cannot bring a skill to rank 3.
@@ -60,4 +60,4 @@ If your piece of iconic gear is permanently lost, you can select a new piece of 
 You gain a rank in a skill of your choice.
 
 #### Very Magical
-You have 2 additional [Affinity](Stats#Affinity).
+You have 2 additional [Max Affinity](Stats#Max%20Affinity).

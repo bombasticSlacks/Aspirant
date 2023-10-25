@@ -45,7 +45,7 @@ You may [Disarm](Special-Combat-Actions#Disarm) using a [Reflexes](Agility#Refle
 You never trigger traps by moving over them. You also receive a +1 to [Grace](Agility#Grace) skill tests related to moving silently.
 
 #### Long Shot
-When making a [Ranged Attack](Terminology#Ranged%20Attack), you may spend a [Power](Stats#Power) to ignore any [Distance Penalty](Attack-Bonuses#Distance%20Penalty).
+When making a [Ranged Attack](Terminology#Ranged%20Attack), you may spend a [Power](Stats#Max%20Power) to ignore any [Distance Penalty](Attack-Bonuses#Distance%20Penalty).
 
 #### Lost in the Crowd
 If you are [In Melee](Terminology#In%20Melee) you have a [Threat](Stats#Threat) of 0 to [Characters](Terminology#Character) not [In Melee](Terminology#In%20Melee) with you.
@@ -94,7 +94,7 @@ You can manoeuvre perfectly well in the dark or when your vision is otherwise im
 Your character's [Threat](Stats#Threat) is reduced by your ranks in [Grace](Agility#Grace).
 
 #### Vanish
-If within [Reach](Movement#Reach) of something you could use to hide, as a [Free Action](Terminology#Free%20Action) you can spend 2 [Power](Stats#Power) to lose all attention. If you perform any [Action](Terminology#Action) you will need to continue to hide, move silently, etc. to remain hidden.
+If within [Reach](Movement#Reach) of something you could use to hide, as a [Free Action](Terminology#Free%20Action) you can spend 2 [Power](Stats#Max%20Power) to lose all attention. If you perform any [Action](Terminology#Action) you will need to continue to hide, move silently, etc. to remain hidden.
 
 
 ---

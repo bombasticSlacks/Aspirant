@@ -17,7 +17,7 @@ Enchanted and magical items need to be grounded to a [Character](Terminology#Cha
 * A successful [Will](Spirit#Will) [Fixed Difficulty](Skills#Fixed%20Difficulty)(0).
 * An [Expert Commission](Services#Expert%20Commissions).
 
-A [Character](Terminology#Character) can [Bind](Terminology#Bind) to a number of items up to their [Affinity](Stats#Affinity).
+A [Character](Terminology#Character) can [Bind](Terminology#Bind) to a number of items up to their [Affinity](Stats#Max%20Affinity).
 
 You can [Bind](Terminology#Bind) to an item once per [Downtime](Telling-The-Story#Downtime).
 

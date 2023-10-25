@@ -19,7 +19,7 @@ They can generally teach the following training:
 ### Basic
 
 #### Apophenia
-Spend a [Power](Stats#Power), you can declare your far-fetched theory about what is really going on. Rolls you make which help confirm or refute your theory receive +1.
+Spend a [Power](Stats#Max%20Power), you can declare your far-fetched theory about what is really going on. Rolls you make which help confirm or refute your theory receive +1.
 
 Your far-fetched theory can help progress [Projects](Skills#Project) only tangentially related.
 
@@ -33,7 +33,7 @@ You automatically succeed on anything you do on a roll of double 1’s.
 You can always tell how injured a person is (and where). When starting a health/medicine related [Project](Skills#Project) you always succeed with at least 1 [Step Of Success](Skills#Step%20Of%20Success).
 
 #### Intellectual Leap
-When you use [Insight](Intelligence#Insight) to gain information, you can spend 1 [Power](Stats#Power) to infer another useful fact about the thing. Ask another question and the [GM](How-To-Play#GM) should answer honestly.
+When you use [Insight](Intelligence#Insight) to gain information, you can spend 1 [Power](Stats#Max%20Power) to infer another useful fact about the thing. Ask another question and the [GM](How-To-Play#GM) should answer honestly.
 
 #### Kill Switch
 While controlling a [Grapple](Special-Combat-Actions#grapple) you can perform an [Application](Intelligence#Application) skill test to disable automata and machines.
@@ -108,7 +108,7 @@ Whenever you administer an alchemical solution with a duration, if the duration 
 #### I Packed It
 Once per [Downtime](Telling-The-Story#Downtime), you can declare after the fact that you purchased an item while you were last resting in a settlement. The item would have to have been available, and you need to spend the equivalent currency it would have cost.
 
-You also count as having an [Explorers Kit](Example-Gear#Explorers%20Kit), you can use it for [Power](Stats#Power) instead of silver.
+You also count as having an [Explorers Kit](Example-Gear#Explorers%20Kit), you can use it for [Power](Stats#Max%20Power) instead of silver.
 
 #### Surgeon
 You may perform surgery on someone who has suffered lasting injuries to treat them. 
