@@ -11,7 +11,7 @@ These are modifiers you can add to your magical attacks based on your training. 
 
 ### Area
 *Action modifier (-2)*
-The attack affects everyone in 3m of the target (everyone gets a reaction).
+The attack affects everyone in within [Reach](Movement#Reach) of the target (everyone gets a reaction).
 
 ### Burning
 *Action modifier (-1)*
@@ -24,7 +24,7 @@ After a [Successful Attack](Terminology#Successful%20Attack) the [Opponent](Term
 
 ### Cone
 *Action modifier (-3)*
-The attack affects everyone in a cone of 45 degrees and 9 meters in front of you.
+The attack affects everyone in a cone directed at a target [Close](Movement#Close) to you.
 
 ### EMP
 *Action modifier (-1)*
@@ -32,7 +32,7 @@ If this is a [Successful Attack](Terminology#Successful%20Attack) and the oppone
 
 ### Explosion
 *Action modifier (-4)*
-This attack hits everyone in the 9m x 9m around your target.
+This attack hits everyone [Close](Movement#Close) to your target.
 
 ### Lethal
 *Action modifier varies*
