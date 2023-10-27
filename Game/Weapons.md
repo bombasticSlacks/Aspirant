@@ -27,7 +27,7 @@ Size 3 - Long sword, Warhammer, Spear
 Size 4 - Lance, Great Sword
 Size 5 - Giant Weapons
 
-> So, for example, a long sword is a size 3 weapon. This means it is two-handed, gets +3 damage bonus.
+> So, for example, a long sword is a size 3 weapon. This means it is two-handed, gets +6 damage bonus.
 
 ### Damage Type
 Weapons can usually have any of the physical damage types [Piercing](Injury#Piercing), [Rending](Injury#Rending), [Impact](Injury#Impact). This will affect what injuries it will cause and what armour will defend against it. Fabrics tend to be strong against [Impact](Injury#Impact), plates against [Rending](Injury#Rending), and weaves against [Piercing](Injury#Piercing). 
