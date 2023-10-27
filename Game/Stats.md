@@ -17,11 +17,11 @@ Attributes range in value from 1-5 and measure your capability to do almost anyt
 - 5 is inhuman
 
 Your character has 5 primary attributes that dictate what they can do:
-* [Strength](Strength)
 * [Agility](Agility)
-* [Intelligence](Intelligence)
 * [Communication](Communication)
+* [Intelligence](Intelligence)
 * [Spirit](Spirit)
+* [Strength](Strength)
 
 ## Additional Attributes
 On top of the above attributes, your character also has a few additional values:
