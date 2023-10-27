@@ -24,6 +24,7 @@ Things character shouldn't be interested in buying to travel with but may be of 
 
 #### 20 Meters of Rope
 *Reliable hemp rope can be used to bind, tie, or otherwise rope. 2 size of [Basic Textiles](Textiles#Basic%20Textiles).*
+
 Size 2
 {: .label .label-green }
 
