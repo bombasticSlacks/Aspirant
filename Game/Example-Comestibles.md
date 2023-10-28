@@ -78,3 +78,25 @@ Powerful medication that can fully sedate a person. If used on an unwilling pati
 *Made with spinal fluid and the eyes of a nocturnal predator*
 
 A specialized amphetamine that can be snorted. This compound is designed to keep technical professionals focused and working hard during the most gruelling of tasks while requiring 0 sleep. The major side effect of wake is a complete 1 track mind and an inability to socialize in any major way. Lasts a full 48 hours. While on wake you get a +1 to marksmanship tests, +1 to melee tests, +1 to technical tests of any kind, require no sleep, get a -2 to perception tests, -2 to social tests and a -2 to evasion tests.
+
+### Custom Comestibles
+
+#### Munitions
+*Made with a variety of reagents that combine with, in most cases, basic metal bits*
+
+Munitions are available to craft and purchase with a variety of outcomes such as dealing fire damage, healing allies wounds, and utility like smoke fields and sticky.  While many basic explosives are simple to craft or inexpensive to purchase, those with powerful effects will instead require complex crafting skills, exotic and rare reagents, or have scarce and costly availability.  All munitions target a single opponent or a single space in combat unless enhanced beyond their natural ability.  Additionally, all bombs count as 1/5 size per bomb.
+
+
+| Munition | Materials To Craft | # Created Per Craft | Description | Effect | Crafting Cost |
+| ------------ | -------------------------------------------------- | ------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------- | --------- |
+| Scrap Bomb | 1 basic metal, 1 basic liquid | 5 | A burst of scattered scrap metal | 4 + Intelligence Piercing Damage | 6 Silver |
+| Flame Bomb | 1 basic metal, 1 artisan resonant | 3 | A furious explosion of flames | 6 + Intelligence Heat Damage | 8 Silver |
+| Frost Bomb | 1 artisan metal, 1 basic resonant | 3 | A cool blast of ice | 6 + Intelligence Cold Damage | 8 Silver |
+| Echo Bomb | 1 basic metal, 1 basic resonant, 1 basic hide | 2 | A loud, but localized, burst of noise | Disorients the target, forcing them to test Identity(-Caster's Int) check or lose their next combat action | 9 Silver |
+| Sticky Bomb  | 1 basic metal, 1 artisan liquid, 1 basic bits | 3 | A gooey ichor coats nearby floors and walls, making movement difficult | -------- | 11 Silver |
+| Smokescreen  | 1 artisan metal, 1 basic wood, 1 basic liquid | 3 | A puff of black-grey smoke fills the space, blocking vision | -------- | 11 Silver |
+| Gravity Bomb | 1 artisan metal, 1 exotic resonant, 1 basic fabric | 2 | A void opens up at the point of impact and pulls in all nearby combatants | -------- | 18 Silver |
+| Healing Bomb | 1 basic metal, 1 exotic floral, 1 basic liquid | 2 | A shower of green-white liquid rains down to heal an ally | See [Healing Potion](Example-Comestibles#Healing%20Potion) | 16 Silver |
+
+
+
