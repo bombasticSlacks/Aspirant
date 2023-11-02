@@ -27,7 +27,7 @@ You can carry twice the [Comestibles](Comestibles) in the same amount of size on
 #### Bow Expert
 When using a weapon with the [Bow](Weapon-Traits#Bow) [Weapon Trait](Weapons#[Weapon-Traits](Weapon-Traits)) you no longer receive a -1 to readying and firing the weapon in the same turn.
 #### Crossbow Expert
-You can reload a crossbow and fire it in the same turn at a -1 to the [Accuracy](Agility#Accuracy) skill test.  
+Weapons you use with the [Crossbow](Weapon-Traits#Crossbow) [Weapon-Traits](Weapon-Traits) have [Loading](Terminology#Loading)(0).  
 
 #### Defy Death
 You can [Avoid](Reacting-To-Attacks#Avoid) anything, even if it would seem impossible.
