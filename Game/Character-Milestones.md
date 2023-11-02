@@ -18,7 +18,7 @@ The rewards are as follows:
 Your [Damage Bonus](Weapons#Damage%20Bonus) is +1 with all attacks.
 
 #### Inspired
-You have 1 additional [Max Influence](Stats#Max%20Influence).
+You have 1 additional [Max Influence](Stats#Max%20Influence), you also gain 1 influence right now.
 
 #### Magical
 You have 1 additional [Max Affinity](Stats#Max%20Affinity).
