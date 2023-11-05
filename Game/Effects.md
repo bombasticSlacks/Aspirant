@@ -33,3 +33,20 @@ To stop being prone in combat you perform a [Grace](Agility#Grace) [Fixed Diffic
 ### Slowed
 A slowed character can only move up to [Close](Movement#Close) on their next turn.
 
+### In Melee
+*Your character moves around and connects weapons with combatants.*
+* If a character in melee moves to something further than in [Reach](Movement#Reach), others may perform [Attack of Opportunity](Reacting-To-Attacks#Attack%20of%20Opportunity) against them.
+* Characters in melee suffer a negative to attacks equal to the greatest [Threat](Stats#Threat) among [Opponent](Terminology#Opponent) within [Reach](Movement#Reach) and also in melee.
+* Characters in melee effect being [Outnumbered](Attack-Bonuses#Outnumbered).
+* To stop being in melee, there must be no other combatants in melee within [Reach](Movement#Reach).
+
+### In Cover
+*You are partially, or totally, obfuscated from your opponent.*
+
+If you are behind cover and not attacking or otherwise doing something it is assumed, you are fully covered. Anyone shooting at you gets a -2 as you are not visible, and your entire body is protected by the cover.
+
+If you are shooting from behind cover unless you have some special abilities you require your dominant arm chest and head exposed. When you are shot when you determine hit location if any of those locations are targeted you are hit normally otherwise your cover protects you. You may opt to blind fire while in cover which is a ranged attack at -4 but only requires your dominant arm to be outside cover.
+
+You do not gain the benefits of cover if you are in melee.
+
+If you are protected by cover, any attack against you must first penetrate the cover to be able to harm you (this stacks with your armour). Most pieces of cover only have 1 armour integrity and will be unable to protect you after the first shot.

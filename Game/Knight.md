@@ -22,7 +22,7 @@ They can generally teach the following training:
 If an enemy is on the ground, and you make a [Melee Attack](Terminology#Melee%20Attack) against them, you deal +1 [Damage](Terminology#Damage).
 
 #### Blocking
-When someone performs an [Attack](Terminology#Attack) where you are the [Opponent](Terminology#Opponent), if you are [In Melee](Terminology#In%20Melee) you may [Substitute](Terminology#Substitute) your [Strike](Strength#Strike) for [Reflexes](Agility#Reflexes).
+When someone performs an [Attack](Terminology#Attack) where you are the [Opponent](Terminology#Opponent), if you are [In Melee](Effects#In%20Melee) you may [Substitute](Terminology#Substitute) your [Strike](Strength#Strike) for [Reflexes](Agility#Reflexes).
 
 #### Fight Defensively
 You may declare you are fighting in a defensive stance as a [Free Action](Terminology#Free%20Action) at the beginning of your [Combat Turn](Terminology#Combat%20Turn), you remain in a defensive stance until the start of your next [Combat Turn](Terminology#Combat%20Turn). While fighting defensively, you receive a +2 to all skill tests that are [Reaction](Terminology#Reaction), and a -2 to all attack skill tests.
@@ -37,10 +37,13 @@ No penalties for performing [Character Activity On Mount](Mounts#Character%20Act
 You have 1 additional [Armour Integrity](Armour#Armour%20Integrity).
 
 #### Phalanx
-When wielding a [Shield](Terminology#Shield), and [In Melee](Terminology#In%20Melee) with an [Ally](Terminology#Ally), you and [Allies](Terminology#Ally) you are in melee with get a +1 to [Reflexes](Agility#Reflexes) skill tests.
+When wielding a [Shield](Terminology#Shield), and [In Melee](Effects#In%20Melee) with an [Ally](Terminology#Ally), you and [Allies](Terminology#Ally) you are in melee with get a +1 to [Reflexes](Agility#Reflexes) skill tests.
 
 #### Protector
-You can spend a [Reaction](Terminology#Reaction) to retarget an attack targeting another [Character](Terminology#Character) you are [In Melee](Terminology#In%20Melee) with. You can then do another [Reaction](Terminology#Reaction) without spending a [Reaction](Terminology#Reaction).
+You can spend a [Reaction](Terminology#Reaction) to retarget an attack targeting another [Character](Terminology#Character) you are [In Melee](Effects#In%20Melee) with. You can then do another [Reaction](Terminology#Reaction) without spending a [Reaction](Terminology#Reaction).
+
+#### Taunt
+During your [Combat-Turn](Combat-Turn), you may spend a [Power](Stats#Power) to cause a character to have to target you with any abilities on it's next [Combat Turn](Terminology#Combat%20Turn).
 
 #### Quick Saddles
 While [Mounted](Terminology#Mounted), you may draw from your [Saddlebag](Storage#Saddlebag) as you would draw from your [Belt](Storage#Belt).
@@ -60,10 +63,10 @@ You cannot be forced to move or knocked over.
 ### Advanced
 
 #### Bash
-When you [Avoid](Reacting-To-Attacks#Avoid) attacks from opponents [In Melee](Terminology#In%20Melee), if you succeed, the opponent must pass a [Grace](Agility#Grace) [Opposed Difficulty(strike)](Skills#Opposed%20Difficulty) or be knocked prone.
+When you [Avoid](Reacting-To-Attacks#Avoid) attacks from opponents [In Melee](Effects#In%20Melee), if you succeed, the opponent must pass a [Grace](Agility#Grace) [Opposed Difficulty(strike)](Skills#Opposed%20Difficulty) or be knocked prone.
 
 #### Battle Mount
-When [In Melee](Terminology#In%20Melee) and [Mounted](Terminology#Mounted), you may as a [Free Action](Terminology#Free%20Action) have the [Mount](Mounts) [Attack](Terminology#Attack).
+When [In Melee](Effects#In%20Melee) and [Mounted](Terminology#Mounted), you may as a [Free Action](Terminology#Free%20Action) have the [Mount](Mounts) [Attack](Terminology#Attack).
 
 #### Iron Curtain
 If you have not made an [Attack](Terminology#Attack) during your [Combat Turn](Terminology#Combat%20Turn) and are wielding a [Shield](Terminology#Shield), you may [Parry](Special-Combat-Actions#Parry) as a [Free Action](Terminology#Free%20Action) as your turn ends.

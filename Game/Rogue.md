@@ -48,7 +48,7 @@ You never trigger traps by moving over them. You also receive a +1 to [Grace](Ag
 When making a [Ranged Attack](Terminology#Ranged%20Attack), you may spend a [Power](Stats#Max%20Power) to ignore any [Distance Penalty](Attack-Bonuses#Distance%20Penalty).
 
 #### Lost in the Crowd
-If you are [In Melee](Terminology#In%20Melee) you have a [Threat](Stats#Threat) of 0 to [Characters](Terminology#Character) not [In Melee](Terminology#In%20Melee) with you.
+If you are [In Melee](Effects#In%20Melee) you have a [Threat](Stats#Threat) of 0 to [Characters](Terminology#Character) not [In Melee](Effects#In%20Melee) with you.
 
 #### Multitasking
 On your [Combat Turn](Terminology#Combat%20Turn), you may make an [Attack](Terminology#Attack) at (-2) additional penalty, and then perform a non-attack action or movement.
@@ -79,10 +79,10 @@ If you have a [Threat](Stats#Threat) of 0, your attacks have the [Penetrating](W
 #### Constant Movement
 You can perform reactions during your own turn.
 #### Fleet Footed
-[Overwatch](Special-Combat-Actions#Overwatch) [Attacks](Terminology#Attack) against you are at an additional -2. You can get out of being [In Melee](Terminology#In%20Melee) without triggering any [Reactions](Terminology#Reaction).
+[Overwatch](Special-Combat-Actions#Overwatch) [Attacks](Terminology#Attack) against you are at an additional -2. You can get out of being [In Melee](Effects#In%20Melee) without triggering any [Reactions](Terminology#Reaction).
 
 #### Meat Shield
-If you [Avoid](Reacting-To-Attacks#Avoid) an [Attack](Terminology#Attack) while [In Melee](Terminology#In%20Melee), you may have that [Attack](Terminology#Attack) target someone, other than yourself or the attacker, [In Melee](Terminology#In%20Melee). The new target may use [Reactions](Terminology#Reaction) as normal.
+If you [Avoid](Reacting-To-Attacks#Avoid) an [Attack](Terminology#Attack) while [In Melee](Effects#In%20Melee), you may have that [Attack](Terminology#Attack) target someone, other than yourself or the attacker, [In Melee](Effects#In%20Melee). The new target may use [Reactions](Terminology#Reaction) as normal.
 
 #### Point Man
 You have no penalty on [Overwatch](Special-Combat-Actions#Overwatch) attacks, receive no negative for delaying your action, and can perform a number of [Overwatch](Special-Combat-Actions#Overwatch) attacks on a number of enemies in a turn up to your [Agility](Agility).
@@ -110,6 +110,6 @@ You do not need an item or object to hide behind when attempting to hide.
 No negative on [Vitals Hit](Attacks#Vitals%20Hit) with [Ranged Attack](Terminology#Ranged%20Attack) if you do nothing else during your [Combat Turn](Terminology#Combat%20Turn).
 
 #### Master Thief
-In combat you can perform a [Grace](Agility#Grace) [Opposed Difficulty](Skills#Opposed%20Difficulty)([Reflexes](Agility#Reflexes)) to immediately use a piece of [Equipment](Equipment) stored on another character [In Melee](Terminology#In%20Melee). You still need to perform any additional skill checks to use the item.
+In combat you can perform a [Grace](Agility#Grace) [Opposed Difficulty](Skills#Opposed%20Difficulty)([Reflexes](Agility#Reflexes)) to immediately use a piece of [Equipment](Equipment) stored on another character [In Melee](Effects#In%20Melee). You still need to perform any additional skill checks to use the item.
 
 

@@ -10,9 +10,9 @@ These are common bonuses and negatives you can receive on your attacks which wil
 ### Shooting Position
 If when shooting you are in a comfortable position you get a +1 to the skill test.
 ### Outnumbered
-If your opponent is outnumbered in melee, you receive a +1 to melee attacks and manoeuvres against them.
+If your opponent is outnumbered [In Melee](Effects#In%20Melee), you receive a +1 to melee attacks and manoeuvres against them.
 ### Severely Outnumbered
-If your opponents are outnumbered in melee by more than 2 to 1 you receive a +2 to melee attacks and manoeuvres against them. (ex: 3 to 1, 5 to 2 etc.).
+If your opponents are outnumbered [In Melee](Effects#In%20Melee) by more than 2 to 1 you receive a +2 to melee attacks and manoeuvres against them. (ex: 3 to 1, 5 to 2 etc.).
 ### Unaware
 When making an attack or manoeuvre, if your opponent is unaware of your presence, you get a +4 to the skill test.
 ### Unweighted for Throwing

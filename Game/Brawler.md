@@ -23,7 +23,7 @@ They can generally teach the following training:
 Your [Unarmed Attack](Terminology#Unarmed%20Attack), have a [Damage Bonus](Weapons#Damage%20Bonus) of $2 \times Strength$. 
 
 #### Bushwhacker
-Whenever someone performs a [Mitigated Attack](Terminology#Mitigated%20Attack) against you in melee, you may spend a [Reaction](Terminology#Reaction) to make an [Attack](Terminology#Attack) with a hit location of the limb they attacked with.
+Whenever someone you are [In Melee](Effects#In%20Melee) with performs a [Mitigated Attack](Terminology#Mitigated%20Attack) against you, you may spend a [Reaction](Terminology#Reaction) to make an [Attack](Terminology#Attack) with a hit location of the limb they attacked with.
 
 #### Flesh Prison
 When you are controlling a [Grapple](Special-Combat-Actions#grapple), you always count as pinning the person being grappled.
@@ -38,7 +38,7 @@ Your character always counts as armed and can, as long as they are conscious, al
 You can throw weapons and objects designed to be thrown twice the normal range. You can throw any object not designed to be thrown your normal thrown range with no penalty.
 
 #### Terrify
-After a [Successful Attack](Terminology#Successful%20Attack) [In Melee](Terminology#In%20Melee), you can spend a [Reaction](Terminology#Reaction) to intimidate an enemy with a [Mannerism](Communication#Mannerism) [Opposed Difficulty](Skills#Opposed%20Difficulty)([Identity](Spirit#Identity)). If you succeed, they surrender; otherwise, they take a -2 to all actions until your next turn.
+After a [Successful Attack](Terminology#Successful%20Attack) [In Melee](Effects#In%20Melee), you can spend a [Reaction](Terminology#Reaction) to intimidate an enemy with a [Mannerism](Communication#Mannerism) [Opposed Difficulty](Skills#Opposed%20Difficulty)([Identity](Spirit#Identity)). If you succeed, they surrender; otherwise, they take a -2 to all actions until your next turn.
 
 Some enemies are not intelligent enough or just refuse to surrender under any circumstances.
 #### Throw
@@ -54,7 +54,7 @@ Your [Shoves](Special-Combat-Actions#Shove) make people travel twice the distanc
 After suffering an [Injury](Injury) that would make you [Wounded](Injury#Wounded), you immediately get to take an additional [Combat Turn](Terminology#Combat%20Turn) (in addition to your regular turn). After this [Combat Turn](Terminology#Combat%20Turn), you then return to the standard [Combat Round](Terminology#Combat%20Round) order, including resolving the results of your injuries.
 
 #### Cleave
-If you cause an [Injuring Attack](Terminology#Injuring%20Attack) on a [Character](Terminology#Character) you are [In Melee](Terminology#In%20Melee) with that causes a [Critical Injury](Injury#Critical%20Injury) or more severe, you may make an additional [Attack](Terminology#Attack) against another enemy with the same weapon and [Combat Modifiers](Attacks#Combat%20Modifiers).
+If you cause an [Injuring Attack](Terminology#Injuring%20Attack) on a [Character](Terminology#Character) you are [In Melee](Effects#In%20Melee) with that causes a [Critical Injury](Injury#Critical%20Injury) or more severe, you may make an additional [Attack](Terminology#Attack) against another enemy with the same weapon and [Combat Modifiers](Attacks#Combat%20Modifiers).
 
 #### Clothesline
 If an [Opponent](Terminology#Opponent) moves within [Reach](Movement#Reach) of you, you may spend a [Reaction](Terminology#Reaction) to make a [Strike](Strength#Strike) [Opposed Difficulty](Skills#Opposed%20Difficulty)([Strike](Strength#Strike)+2), that if successful causes their attack to fail and knocks them prone.
