@@ -79,12 +79,11 @@ Powerful medication that can fully sedate a person. If used on an unwilling pati
 
 A specialized amphetamine that can be snorted. This compound is designed to keep technical professionals focused and working hard during the most gruelling of tasks while requiring 0 sleep. The major side effect of wake is a complete 1 track mind and an inability to socialize in any major way. Lasts a full 48 hours. While on wake you get a +1 to marksmanship tests, +1 to melee tests, +1 to technical tests of any kind, require no sleep, get a -2 to perception tests, -2 to social tests and a -2 to evasion tests.
 
-### Custom Comestibles
-
+---
 #### Munitions
-*Explosives made with a variety of reagents that combine with, in most cases, basic metal bits*
+*Explosives made with various reagents that combine with, in most cases, basic metal bits*
 
-Munitions are available to craft and purchase with a variety of outcomes such as dealing fire damage, healing allies wounds, and utility like smoke fields and sticky.  While many basic explosives are simple to craft or inexpensive to purchase, those with powerful effects will instead require complex crafting skills, exotic and rare reagents, or have scarce and costly availability.  All munitions target a single opponent or a single space in combat unless enhanced beyond their natural ability.  Additionally, all bombs count as 1/5 size per bomb.
+Munitions are available to craft and purchase with various outcomes such as dealing fire damage, healing allies wounds, and utility like smoke fields and sticky.  While many basic explosives are simple to craft or inexpensive to purchase, those with powerful effects will instead require complex crafting skills, exotic and rare reagents, or have scarce and costly availability.  All munitions target a single opponent or a single space in combat unless enhanced beyond their natural ability.  Additionally, all bombs count as 1/5 size per bomb.
 
 
 | Munition | Materials To Craft | # Created Per Craft | Description | Effect | Crafting Cost |

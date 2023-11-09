@@ -123,7 +123,7 @@ If something can be loaded as a free action, immediately using it puts the actio
 ### Capacity
 The number and type of things that this item can be [Loaded](#Loading) with. Usually written as Capacity X(Y), which means it holds X ammo, and is loaded with Y item.
 
-> So a weapon described as having Capacity 12([Munitions](Comestibles#Munitions)) would hold 12 generic ammo.
+> So a weapon described as having Capacity 12([Ammunition](Example-Gear#Ammunition)) would hold 12 generic ammo.
 
 
 ### Bind
