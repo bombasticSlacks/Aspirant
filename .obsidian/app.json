@@ -23,7 +23,9 @@
     "Shapeshifters",
     "Brigandine",
     "Dungeoneering",
-    "orks"
+    "orks",
+    "throwables",
+    "lootable"
   ],
   "showLineNumber": false,
   "newLinkFormat": "relative",

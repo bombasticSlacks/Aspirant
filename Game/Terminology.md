@@ -118,12 +118,12 @@ An unarmed attack is a [Melee Attack](#Melee%20Attack) without a weapon, using o
 ### Loading
 Some weapons and equipment will require a certain amount of time to be ready for use. This is the loading time. Loading time is specified as (X) where X is the number of round, or 0 for [Free Action](#Free%20Action).
 
-If something can be loaded as a free action, immediately using it puts the action at a (-1).
+If something can be loaded as a [Free Action](Terminology#Free%20Action), immediately using it puts the action at a (-1).
 
 ### Capacity
 The number and type of things that this item can be [Loaded](#Loading) with. Usually written as Capacity X(Y), which means it holds X ammo, and is loaded with Y item.
 
-> So a weapon described as having Capacity 12([Munitions](Comestibles#Munitions)) would hold 12 generic ammo.
+> So a weapon described as having Capacity 12([Ammunition](Example-Gear#Ammunition)) would hold 12 generic ammo.
 
 
 ### Bind

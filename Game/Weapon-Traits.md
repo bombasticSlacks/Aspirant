@@ -40,7 +40,7 @@ This weapon adds $size \times 2$ to [Damage Bonus](Weapons#Damage%20Bonus).
 * +6 [Damage Bonus](Weapons#Damage%20Bonus). 
 * [Loading](Terminology#Loading)(2).
 * Range of [Far](Movement#Far).
-* [Capacity](Terminology#Capacity) 1([Munitions](Comestibles#Munitions)).
+* [Capacity](Terminology#Capacity) 1([Ammunition](Example-Gear#Ammunition)).
 
 #### Bow
 *This weapon fires arrows.* 
@@ -48,7 +48,7 @@ This weapon adds $size \times 2$ to [Damage Bonus](Weapons#Damage%20Bonus).
 * You can add [Strength](Strength) to damage *only* up to a maximum of the size of the weapon. 
 * [Loading](Terminology#Loading)(0).
 * Range of [Short](Movement#Short).
-* [Capacity](Terminology#Capacity) 1([Munitions](Comestibles#Munitions)).
+* [Capacity](Terminology#Capacity) 1([Ammunition](Example-Gear#Ammunition)).
 
 #### Crossbow
 *Your weapon fires bolts of metal.*
@@ -56,7 +56,7 @@ This weapon adds $size \times 2$ to [Damage Bonus](Weapons#Damage%20Bonus).
 * Add size to [Damage Bonus](Weapons#Damage%20Bonus) (in addition to [Size Matters](#Size%20Matters)).
 * [Loading](Terminology#Loading)(1).
 * Range of [Short](Movement#Short).
-* [Capacity](Terminology#Capacity) 1([Munitions](Comestibles#Munitions)).
+* [Capacity](Terminology#Capacity) 1([Ammunition](Example-Gear#Ammunition)).
 
 #### Deadly Draw
 This weapon is [Penetrating](#Penetrating) for your first attack in any combat.
@@ -100,8 +100,11 @@ This weapon can no longer be used for attacks. Instead, it provides a +2 to skil
 #### Sling
 *This weapon aids with throwing things long distances.*
 * [Loading](Terminology#Loading)(0).
-* [Capacity](Terminology#Capacity) 1([Throwable](#Throwable) weapons).
-* While using this weapon you perform throws as normal, however you count as having a range of 1 additional [Distance Increment](Movement#Distance%20Increments). 
+* [Capacity](Terminology#Capacity) 1([Throwables](Comestibles#Throwables)).
+* Size 1-2 range of [Close](Movement#Close).
+* Size 3+ range of [Short](Movement#Short).
+* The result of attacks with this weapon are equivalent to what it is loaded with.
+* If the loaded [Throwable](Comestibles#Throwables) adds [Strength](Strength) to [Damage Bonus](Weapons#Damage%20Bonus), it has the [Size Matters](#Size%20Matters) trait.
 
 #### Throwable
 This weapon is balanced for throwing, you receive no penalties for throwing it.  
