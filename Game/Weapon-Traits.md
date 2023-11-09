@@ -101,7 +101,8 @@ This weapon can no longer be used for attacks. Instead, it provides a +2 to skil
 *This weapon aids with throwing things long distances.*
 * [Loading](Terminology#Loading)(0).
 * [Capacity](Terminology#Capacity) 1([Throwables](Comestibles#Throwables)).
-* Range of [Short](Movement#Short).
+* Size 1-2 range of [Close](Movement#Close).
+* Size 3+ range of [Short](Movement#Short).
 * The result of attacks with this weapon are equivalent to what it is loaded with.
 * If the loaded [Throwable](Comestibles#Throwables) adds [Strength](Strength) to [Damage Bonus](Weapons#Damage%20Bonus), it has the [Size Matters](#Size%20Matters) trait.
 
