@@ -69,24 +69,39 @@ exceptionally dangerous in water
 | ----------------------------- | ---------- | ---------- | --------- | ------------------------- | ------------------------- |
 | [Close](../../Movement#Close) | 3,3        | 3          | 6         | [Life](../../Injury#Life) | [Heat](../../Injury#Heat) |
 
-#### Passives
+* [Avoid(4)](Monster-Actions#Avoid(X))
+* [Attack(5, Impact, 2)](Monster-Actions#Attack(X,%20Y,%20Z))
+* [Ranged Attack(5, Heat, 3, Short)](Monster-Actions#Ranged%20Attack(X,%20Y,%20Z,%20R))
+#### Rich Blood
+Reaction
+{: .label }
 
-#### Reactions
-
-##### Rich Blood
 *The air around the cardinal wreaks with an almost maddening scent that can stop you dead in your tracks.*
 * Target moving within [Reach](../../Movement#Reach) of The Cardinal, you must succeed an [Identity](../../Spirit#Identity) [Fixed Difficulty](../../Skills#Fixed%20Difficulty)(0) or end their turn.
 
-#### Actions
-
-##### The Sun's Gaze
+#### The Sun's Gaze
 *You've ripped the hand apart, but something is underneath!*
-* Passive.
-* Requires 0 remaining integrity to have no remaining integrity.
+Trait
+{: .label }
+* Requires 0 remaining integrity.
 * Anyone [Close](../../Movement#Close) to The Cardinal at the end of [Combat Turn](../../Terminology#Combat%20Turn) suffers a 1 [Damage](../../Terminology#Damage) [Heat](../../Injury#Heat) [Vitals](../../Injury#Vitals) [Injury](../../Injury) that can be mitigated by armour.
 * The [Injury-Effects](../../Injury-Effects) is scorched lungs leaving the [Character](../../Terminology#Character) unable to breath and [Stunned](../../Effects#Stunned).
 * If you suffer this injury twice in a row you are [On Fire](../../Effects#On%20Fire).
 
-####
+### Cultist
+*a robe wearing fanatic, crazed over its obsession.*
 
+| Move                          | Initiative | Resistance | Integrity | Weakness               | Resistance |
+| ----------------------------- | ---------- | ---------- | --------- | ---------------------- | ---------- |
+| [Close](../../Movement#Close) | 2          | 3          | 2         | [Heat](Injury#Heat) | -          | 
 
+* [Attack(2, Rending, 2)](Monster-Actions#Attack(X,%20Y,%20Z))
+* [Grapple(3)](Monster-Actions#Grapple(X))
+
+#### Flesh Offering
+*The cultist pulls at you, tearing your body apart.*
+
+Attack
+{: .label }
+
+* If the monster is controlling a [Grapple](Special-Combat-Actions#Grapple), they may break the [Grapple](Special-Combat-Actions#Grapple) to deal 3 [Rending](Injury#Rending) [Ancillary](Injury#Ancillary) [Damage](Terminology#Damage).

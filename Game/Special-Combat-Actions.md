@@ -17,8 +17,8 @@ You can only [Move](Combat-Turn#Move) on your [Combat-Turn](Combat-Turn), but [O
 ## Disarm
 With at least one free hand or a melee weapon, you can attempt to disarm a [Character](Terminology#Character) [In Melee](Effects#In%20Melee) with you. Make a [Strike](Strength#Strike) skill test at (-1) and if successful, your opponent drops their weapon (or it is now in your hands).
 
-## Grapple
-Make an attack with the intent of getting control of your opponent. If you successfully hit, your opponent is in a grapple. 
+### Grapple
+Make an attack with the intent of getting control of your opponent. If this is an [Non-mitigated Attack](Terminology#Non-mitigated%20Attack), your opponent is in a grapple. 
 On their turn, they may:
 * Attempt an [Athletics](Strength#Athletics) [Opposed Difficulty](Skills#Opposed%20Difficulty) skill test to become the grappler, instead of the grappled. This test is opposed by the grapplers [Athletics](Strength#Athletics)
 * Attempt a [Grace](Agility#Grace) [Opposed Difficulty](Skills#Opposed%20Difficulty) skill test to stop being grappled. This test is opposed by the grapplers [Athletics](Strength#Athletics).
