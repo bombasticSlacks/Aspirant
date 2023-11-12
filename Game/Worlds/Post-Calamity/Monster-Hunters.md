@@ -1,3 +1,10 @@
+---
+layout: default
+title: Monster Hunters
+parent: Post Calamity
+nav_order: 2
+grand_parent: Worlds
+---
 * Using Arcane Technology
 * This is the connection between everyone
 * When [Alexander-Aurelius](Alexander-Aurelius) is believed in will bring them to the base.
