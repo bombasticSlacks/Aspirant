@@ -37,3 +37,8 @@ Stanton’s list of people to acquire:
 - [Greg-Colter](Greg-Colter)
     
 - Physician/Healer
+
+
+### Relics
+* Wants a cool gauntlet.
+* Wants a crown / tiara (like Aragorn though, real cool).
