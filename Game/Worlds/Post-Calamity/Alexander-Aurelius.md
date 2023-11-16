@@ -42,3 +42,34 @@ Stanton’s list of people to acquire:
 ### Relics
 * Wants a cool gauntlet.
 * Wants a crown / tiara (like Aragorn though, real cool).
+
+### Followers
+* Wants 10 Key Allies, including the party members (5).
+* 2 Alexander wants to be commandable (at least) / travel with the party.
+* Because of the run in with the merchants, wanted to unite the small guilds, so one of the leaders would be a follower.
+* Alexander wants a daughter of one of the Vampire Lords, [Percilla Crimson](#Percilla%20Crimson)
+* Alexander wants a bishop of the church.
+* Wants to use the thieves' guild in [Verdantholm](Verdantholm), transforming it into an intelligence agency.
+
+### Percilla Crimson
+A daughter of one of the [Crimson](Vampire%20Lords#Crimson) Ladies.
+
+Alexander as a boy met Percilla travelling through [Crosshaven](Crosshaven) with her family. They had met and taken a liking to one another.
+
+A user of arcane blood magic, and haruspex.
+
+Located in the courts of the vampires.
+
+### Ignis Lux
+High ranking religious figure of [The Holy Order](The%20Holy%20Order).
+* Inquisitor,
+* Bishop,
+* High Priest
+
+[Alexander-Aurelius](Alexander-Aurelius) knows of Ignis through his preaching of unity and togetherness. Is anti dogma and pro guidance. Has no interest in attacking the heretics. A bit of a black sheep.
+
+Typical holy warrior, would be capable of some [Miracles and Prayers](The%20Holy%20Order#Miracles%20and%20Prayers), and have access to the [Reliquary](The%20Holy%20Order#Reliquary).
+
+Located at [Calphion](Calphion), an influential (second in command) at the church there.
+
+### Caius
