@@ -1,6 +1,9 @@
 ---
 layout: default
-nav_exclude: true
+title: Simple Joe
+parent: Post Calamity
+nav_order: 3
+grand_parent: Worlds
 ---
 ## Simple Joe
 Leader of [Alexander-Aurelius](Alexander-Aurelius) families house guard. An expert who doesn't believe in the dream.

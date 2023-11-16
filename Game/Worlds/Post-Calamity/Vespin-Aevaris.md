@@ -1,6 +1,9 @@
 ---
 layout: default
-nav_exclude: true
+title: Vespin Aevaris
+parent: Post Calamity
+nav_order: 3
+grand_parent: Worlds
 ---
 ## Vespin Aevaris
 An enchanter wizard, a vagabond who was exiled from his home city, harassed for creating risky magic. Wants to learn it all, gather all the power and magic.
