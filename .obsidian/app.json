@@ -25,7 +25,9 @@
     "Dungeoneering",
     "orks",
     "throwables",
-    "lootable"
+    "lootable",
+    "breckles",
+    "Tennens"
   ],
   "showLineNumber": false,
   "newLinkFormat": "relative",

@@ -44,7 +44,7 @@ This attack does not cause [Injury](Injury)
 
 ### Magic Attack
 *Mandatory*
-This attacks adds [Spirit](Spirit) to [Damage Bonus](Weapons#Damage%20Bonus) instead of [Strength](Strength) and has a [Range](Weapons#Range) of [Close](Movement#Close).
+This attacks adds $2 \times$ [Spirit](Spirit) to [Damage Bonus](Weapons#Damage%20Bonus) instead of [Strength](Strength) and has a [Range](Weapons#Range) of [Close](Movement#Close).
 
 ### Slowing
 *Action modifier (-1)*

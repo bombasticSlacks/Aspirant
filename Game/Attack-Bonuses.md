@@ -15,8 +15,6 @@ If your opponent is outnumbered in melee, you receive a +1 to melee attacks and 
 If your opponents are outnumbered in melee by more than 2 to 1 you receive a +2 to melee attacks and manoeuvres against them. (ex: 3 to 1, 5 to 2 etc.).
 ### Unaware
 When making an attack or manoeuvre, if your opponent is unaware of your presence, you get a +4 to the skill test.
-### On The Move
-If you have moved this turn, you take a -2 to attacks and manoeuvres.
 ### Unweighted for Throwing
 If you attempt to throw a weapon that doesn’t have the thrown tag, you receive a -3 on the skill test. Basic weapons only have a -1 penalty.
 ### On Your Back
