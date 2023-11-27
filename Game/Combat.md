@@ -15,17 +15,3 @@ A [Reflexes](Agility#Reflexes) [Variable Difficulty](Skills#Variable%20Difficult
 > So if you are fighting someone, you both perform a [Reflexes](Agility#Reflexes) test. You get a 13 meaning 3 [Step Of Success](Skills#Step%20Of%20Success), they get a 8 meaning 2 steps of failure. That means you act first in the [Combat Round](Terminology#Combat%20Round).
 
 ---
-
-### Being in Melee Combat
-If you perform a melee attack (whether it’s successful) on an [Opponent](Terminology#Opponent), you and they both are [In Melee](Effects#In%20Melee). 
-
-### Being in Cover
-If there is an object of some kind between yourself and an opponent, you count as “in cover”. This provides you with protection from incoming attacks.
-
-If you are behind cover and not attacking or otherwise doing something it is assumed, you are fully covered. Anyone shooting at you gets a -2 as you are not visible, and your entire body is protected by the cover.
-
-If you are shooting from behind cover unless you have some special abilities you require your dominant arm chest and head exposed. When you are shot when you determine hit location if any of those locations are targeted you are hit normally otherwise your cover protects you. You may opt to blind fire while in cover which is a ranged attack at -4 but only requires your dominant arm to be outside cover.
-
-You do not gain the benefits of cover if you are in melee.
-
-If you are protected by cover, any attack against you must first penetrate the cover to be able to harm you (this stacks with your armour). Most pieces of cover only have 1 armour integrity and will be unable to protect you after the first shot.
