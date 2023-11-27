@@ -9,13 +9,13 @@ grand_parent: Telling The Story
 In combat there are several situations that come up often enough they should have predefined rules. This doesn't mean this list is exhaustive, but should give an idea of the sort of things you can do in combat apart from harming someone directly.
 
 ### Back out
-You make a [Grace](Agility#Grace) [Fixed Difficulty](Skills#Fixed%20Difficulty)(0) to stop being [In Melee](Terminology#In%20Melee) with an opponent. If you succeed, you can [Move](Combat-Turn#Move) and then perform an action as normal, your [Opponent](Terminology#Opponent) can't make [Attack of Opportunity](Reacting-To-Attacks#Attack%20of%20Opportunity). If you fail, your opponent may [Attack of Opportunity](Reacting-To-Attacks#Attack%20of%20Opportunity) and then your [Combat-Turn](Combat-Turn) continues.
+You make a [Grace](Agility#Grace) [Fixed Difficulty](Skills#Fixed%20Difficulty)(0) to stop being [In Melee](Effects#In%20Melee) with an opponent. If you succeed, you can [Move](Combat-Turn#Move) and then perform an action as normal, your [Opponent](Terminology#Opponent) can't make [Attack of Opportunity](Reacting-To-Attacks#Attack%20of%20Opportunity). If you fail, your opponent may [Attack of Opportunity](Reacting-To-Attacks#Attack%20of%20Opportunity) and then your [Combat-Turn](Combat-Turn) continues.
 
 ### Cautious Step
 You can only [Move](Combat-Turn#Move) on your [Combat-Turn](Combat-Turn), but [Opponent](Terminology#Opponent) cannot perform [Attack of Opportunity](Reacting-To-Attacks#Attack%20of%20Opportunity) against you.
 
 ### Disarm
-With at least one free hand or a melee weapon, you can attempt to disarm a [Character](Terminology#Character) [In Melee](Terminology#In%20Melee) with you. Make a [Strike](Strength#Strike) skill test at (-1) and if successful, your opponent drops their weapon (or it is now in your hands).
+With at least one free hand or a melee weapon, you can attempt to disarm a [Character](Terminology#Character) [In Melee](Effects#In%20Melee) with you. Make a [Strike](Strength#Strike) skill test at (-1) and if successful, your opponent drops their weapon (or it is now in your hands).
 
 ### Grapple
 Make an attack with the intent of getting control of your opponent. If you successfully hit, your opponent is in a grapple. 

@@ -37,9 +37,6 @@ In combat, a turn is a [Character's](#Character) portion of the round. What they
 ### Opponent
 The opposition of a currently referenced [Character](#Character). The character who will be negatively effected by your actions, or you would be by theirs.
 
-### In Melee
-A character is considered in melee if they are actively fighting another character with a weapon that does not have a specified range. Generally, this means they are within 2 meters of an [Opponent](#Opponent) and the [Character](#Character) has either attacked or been attacked. See [Being in Melee Combat](Combat#Being%20in%20Melee%20Combat) for more details.
-
 ### Character
 References a player character, NPC, creature, or other entity that might perform an action, or have an action performed on them.
 

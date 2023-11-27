@@ -20,7 +20,7 @@ If an [Opponent](Terminology#Opponent) performs a [Successful Attack](Terminolog
 A [Grace](Agility#Grace) skill test where if you succeed then you may move to a piece of cover within [Reach](Movement#Reach) before an enemy ranged attack is calculated. You cannot Move to Cover while [Prone](Effects#Prone).
 
 ### Attack of Opportunity
-If someone moves while [In Melee](Terminology#In%20Melee) with you, you may make an [Attack](Terminology#Attack) against them.
+If someone moves while [In Melee](Effects#In%20Melee) with you, you may make an [Attack](Terminology#Attack) against them.
 
 ### All Out Attack
 You may spend a [Reaction](Terminology#Reaction) on your [Combat Turn](Terminology#Combat%20Turn) to get a (+2) to all [Action](Terminology#Action).

@@ -48,7 +48,7 @@ After performing a [Melee Attack](Terminology#Melee%20Attack) you may perform a 
 You may your [Agility](Agility) instead of [Strength](Strength) for [Combat Skill Test](Terminology#Combat%20Action) and [Calculating Damage](Attacks#Calculating%20Damage).
 
 #### Sole Combatant
-You receive a (+1) to all [Combat Skill Test](Terminology#Combat%20Action) when [In Melee](Terminology#In%20Melee) with only 1 other [Character](Terminology#Character).
+You receive a (+1) to all [Combat Skill Test](Terminology#Combat%20Action) when [In Melee](Effects#In%20Melee) with only 1 other [Character](Terminology#Character).
 Enemies don’t receive benefits for [Outnumbering](Attack-Bonuses#Outnumbered) you.
 
 #### Weapon Expert
@@ -83,7 +83,7 @@ During your [Combat Turn](Terminology#Combat%20Turn) you may spend 2 [Power](Sta
 #### Dance Of Death
 While armed with only a one-handed [Weapon](Weapons), you can Dance Of Death.
 
-Dance Of Death - On your [Combat Turn](Terminology#Combat%20Turn), as a [Free Action](Terminology#Free%20Action), you may declare you are using dance of death and every [Opponent](Terminology#Opponent) [In Melee](Terminology#In%20Melee) with you must make a [Grace](Agility#Grace) [Fixed Difficulty(0)](Skills#Fixed%20Difficulty). 
+Dance Of Death - On your [Combat Turn](Terminology#Combat%20Turn), as a [Free Action](Terminology#Free%20Action), you may declare you are using dance of death and every [Opponent](Terminology#Opponent) [In Melee](Effects#In%20Melee) with you must make a [Grace](Agility#Grace) [Fixed Difficulty(0)](Skills#Fixed%20Difficulty). 
 * If they succeed, whenever you move any distance they must choose to either move with you or take an immediate [Severe Injury](Injury#Severe%20Injury) to the legs. 
 * If they fail, they suffer a [Severe Injury](Injury#Severe%20Injury) to the legs. 
 Dance of death lasts until your next [Combat Turn](Terminology#Combat%20Turn).
@@ -92,10 +92,10 @@ Dance of death lasts until your next [Combat Turn](Terminology#Combat%20Turn).
 You can declare a weapon you are using has an additional trait worth up to 2 trait points. It has that trait for the rest of an encounter. Using this ability costs [Power](Stats#Max%20Power) equal to the trait value. If this is used additional times in a single encounter only the most recently declared Master Of Arms trait counts. 
 
 #### Riposte
-After an [Opponent](Terminology#Opponent) [In Melee](Terminology#In%20Melee) with you, makes a [Mitigated Attack](Terminology#Mitigated%20Attack) against you, you may make an [Attack](Terminology#Attack) against them.
+After an [Opponent](Terminology#Opponent) [In Melee](Effects#In%20Melee) with you, makes a [Mitigated Attack](Terminology#Mitigated%20Attack) against you, you may make an [Attack](Terminology#Attack) against them.
 
 #### Whirlwind
-On your [Combat Turn](Terminology#Combat%20Turn) can make an attack against a number of [Characters](Terminology#Character) you are [In Melee](Terminology#In%20Melee) with, up to your [Agility](Agility) in total characters.
+On your [Combat Turn](Terminology#Combat%20Turn) can make an attack against a number of [Characters](Terminology#Character) you are [In Melee](Effects#In%20Melee) with, up to your [Agility](Agility) in total characters.
 
 
 ---

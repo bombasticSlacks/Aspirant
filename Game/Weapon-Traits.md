@@ -92,7 +92,7 @@ If your weapon has [Capacity](Terminology#Capacity) it has 3 additional.
 This weapon cannot be used to perform [Reactions](Terminology#Reaction), you can make [Melee Attack](Terminology#Melee%20Attack) with this weapon at a range of [Close](Movement#Close), you cannot attack further taking a [Distance Penalty](Attack-Bonuses#Distance%20Penalty).
 
 #### Reach
-Performing [Melee Attack](Terminology#Melee%20Attack) doesn't put you [In Melee](Terminology#In%20Melee). You contribute to [Outnumbered](Attack-Bonuses#Outnumbered) for anyone in [Reach](Movement#Reach).
+Performing [Melee Attack](Terminology#Melee%20Attack) doesn't put you [In Melee](Effects#In%20Melee). You contribute to [Outnumbered](Attack-Bonuses#Outnumbered) for anyone in [Reach](Movement#Reach).
 
 #### Shield
 This weapon can no longer be used for attacks. Instead, it provides a +2 to skill tests using it. #TODO
