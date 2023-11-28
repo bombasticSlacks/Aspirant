@@ -4,11 +4,11 @@ title: Services
 has_children: false
 parent: Telling The Story
 ---
-## Services
+# Services
 ![Market](Content/Market.svg)
 Aspirant is a world of tradespeople, experts with something to offer a prospective adventurer. 
 
-### Costs Of Services
+## Costs Of Services
 
 | Service                                                                   | Cost                                     |
 | ------------------------------------------------------------------------- | ---------------------------------------- |
@@ -21,7 +21,7 @@ Aspirant is a world of tradespeople, experts with something to offer a prospecti
 | Moving a piece of [Infrastructure](Assets#Infrastructure) to another city | $2 \times Days\ Of\ Travel \times Space$ |
 
 
-#### Crafting Commissions
+### Crafting Commissions
 Getting a craftsman to make you a piece of [Equipment](Equipment).
 
 | Service                                                                   | Cost                                                                            |
@@ -33,7 +33,7 @@ Getting a craftsman to make you a piece of [Equipment](Equipment).
 | Commissioning creating comestibles                                        | $4 + reagents$                                                                  |
 | Commissioning a standard days work for a tradesman                        | $5$                                                                             |
 
-#### Expert Commissions
+### Expert Commissions
 Requesting an expert to do something for you.
 
 | Service                                                          | Cost            |
@@ -44,7 +44,7 @@ Requesting an expert to do something for you.
 | Commissioning surgery                                            | $8$             |
 | Commissioning someone to [Bind](Terminology#Bind) an item to you | 5                |
 
-#### Teaching
+### Teaching
 Getting an expert to help you to become better.
 
 | Service                       | Monetary Cost | XP Cost |
@@ -57,7 +57,7 @@ Getting an expert to help you to become better.
 | Teaching a level 3 skill      | $20$          | $4$     | 
 
 
-### Costs Of Materials
+## Costs Of Materials
 
 | Name             | Max Craft Quality | Ratio        | Cost Per Size (S) |
 | ---------------- | ----------------- | ------------ | ----------------- |

@@ -5,17 +5,17 @@ parent: Post Calamity
 nav_order: 1
 grand_parent: Worlds
 ---
-## Session 5
+# Session 5
 [Post-Calamity](Post-Calamity)
 
-## Segment 5 Dorna Spring 13, 14
+# Segment 5 Dorna Spring 13, 14
 * Manticore resides in the wizards tower, going to use explosives to force it out of its nest onto solid ground.
 * [Alexander-Aurelius](Alexander-Aurelius) went to see medium
 * Veradin Silvers old home, the wizard tower, been dead, had part in the calamity.
 * Mercenaries departing today, travelling 2 days towards the tower to push it out.
 * [The Truthsayer](Dorna#The%20Truthsayer) gave [Alexander-Aurelius](Alexander-Aurelius) one question
 
-## Segment 6 Dorna Spring 14-16
+# Segment 6 Dorna Spring 14-16
 * Travel to the Wizard Tower:
 	* [Akren](Akren) [Scout](../../Activities#Scout)
 	* [Alexander-Aurelius](Alexander-Aurelius) [Scout](../../Activities#Scout)
@@ -40,7 +40,7 @@ grand_parent: Worlds
 * [Argent-Hold](Argent-Hold) wants a book called "bridging the moon"
 
 
-### Rewards
+## Rewards
 * Full set of Brigandine [Arturas-Gabrys](Arturas-Gabrys)
 * Any Martial weapons the crew might want
 * Some chain shirts
@@ -54,18 +54,18 @@ grand_parent: Worlds
 * [Akren](Akren) 1 size of artisan wood from a chair
 * Greg grabbed a chain shirt (fits)
 
-### Characters
+## Characters
  ---
 
-### To Do
+## To Do
 * Get rules for chain shirt.
 * Give [Arturas-Gabrys](Arturas-Gabrys) an additional armour pip
 
-### Hooks
+## Hooks
 
 
-### Monsters
+## Monsters
 ---
 
-### Scratch Space
+## Scratch Space
 ---

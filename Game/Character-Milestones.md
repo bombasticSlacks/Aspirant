@@ -5,36 +5,36 @@ parent: Character Development
 grand_parent: Telling The Story
 nav_order: 2
 ---
-## Character Milestones
+# Character Milestones
 These rewards become available as your [Character](Terminology#Character) gains [Total XP](Stats#Total%20XP) and has [Progression](Character-Development#Progression).
 
 Each milestone can be selected only once.
 
 The rewards are as follows:
 
-### Basic Milestones
+## Basic Milestones
 
-#### Harmful
+### Harmful
 Your [Damage Bonus](Weapons#Damage%20Bonus) is +1 with all attacks.
 
-#### Inspired
+### Inspired
 You have 1 additional [Max Influence](Stats#Max%20Influence), you also gain 1 influence right now.
 
-#### Magical
+### Magical
 You have 1 additional [Max Affinity](Stats#Max%20Affinity).
-#### Mobile
+### Mobile
 Your [Agility](Agility) counts as 1 higher for [Movement Distance](Stats#Movement%20Distance).
 
-#### Powerful
+### Powerful
 You have 1 additional [Max Power](Stats#Max%20Power).
 
-#### Skilful
+### Skilful
 You gain a rank in a skill of your choice, this cannot bring a skill to rank 3.
 
-#### Threatening
+### Threatening
 You have 2 additional [Threat](Stats#Threat).
 
-#### Trained
+### Trained
 Select and learn a single [Basic Level Training](Character-Development#Basic%20Level%20Training).
 
 
@@ -42,22 +42,22 @@ Select and learn a single [Basic Level Training](Character-Development#Basic%20L
 
 ---
 
-### Advanced Milestones
+## Advanced Milestones
 
-#### Expertly Trained
+### Expertly Trained
 Select and learn a single [Advanced Level Training](Character-Development#Advanced%20Level%20Training).
 
-#### Iconic Gear
+### Iconic Gear
 You can select a piece of gear that you are known for using. This piece of gear either:
 * Becomes a [Harmonic](Magic-Items#Harmonic) magical item [Designed](Magic-Items#Designing%20Magic%20Items) with the way you use it in mind.
 * Loses its [Drawback](Magic-Items#Drawback).
 
 If your piece of iconic gear is permanently lost, you can select a new piece of [Equipment](Equipment) to become iconic during the next [Downtime](Telling-The-Story#Downtime).
 
-#### Limit Breaker
+### Limit Breaker
 +1 to an [Attribute](Stats#Attributes) of your choice.
-#### Very Skilful
+### Very Skilful
 You gain a rank in a skill of your choice.
 
-#### Very Magical
+### Very Magical
 You have 2 additional [Max Affinity](Stats#Max%20Affinity).

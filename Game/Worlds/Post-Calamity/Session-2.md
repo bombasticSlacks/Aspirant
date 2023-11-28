@@ -5,10 +5,10 @@ parent: Post Calamity
 nav_order: 1
 grand_parent: Worlds
 ---
-## Session 2
+# Session 2
 [Post-Calamity](Post-Calamity)
 
-## Segment 2 Spring 6 - 6
+# Segment 2 Spring 6 - 6
 * Wagon Activities
 	* [Vespin-Aevaris](Vespin-Aevaris) enchanted [Alexander-Aurelius](Alexander-Aurelius) sword with fire
 	* [Alexander-Aurelius](Alexander-Aurelius) had a good rest
@@ -32,32 +32,32 @@ grand_parent: Worlds
 * [Arturas-Gabrys](Arturas-Gabrys) destroyed [The Full](Monsters#The%20Full) lobbing off its head
 * The full provided an Apex Predator Bit
 
-### Rewards
+## Rewards
 * Apex Predator [Bits](../../Bits)
 * [Light Kit](../../Example-Gear#Light%20Kit)
 * Loaned equipment
 * 8 Silver for [Simple-Joe](Simple-Joe)
 
-### Characters
-#### Tellian
+## Characters
+### Tellian
 The surveyor of the mine, just looking to finish up for the day.
 
-#### Jess
+### Jess
 The night manager, keeps a tight ship wants to blow it up.
 
-### To Do
+## To Do
 * Investigate the Symbols [Something Underground](Hooks#Something%20Underground)
 
-### Hooks
+## Hooks
 * [Revenge Served Cold](Hooks#Revenge%20Served%20Cold)
 * [Apetite In The Mines](Hooks#Apetite%20In%20The%20Mines)
 * [Something Underground](Hooks#Something%20Underground)
 
-### Monsters
+## Monsters
 * [The Hungry](Monsters#The%20Hungry)
 * [The Full](Monsters#The%20Full)
 
-### Scratch Space
+## Scratch Space
 Initiative:
 * Arturas 11
 * Full

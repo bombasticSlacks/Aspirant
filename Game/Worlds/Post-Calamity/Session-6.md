@@ -5,10 +5,10 @@ parent: Post Calamity
 nav_order: 1
 grand_parent: Worlds
 ---
-## Session 6
+# Session 6
 [Post-Calamity](Post-Calamity)
 
-## Segment 7 Dorna Spring 17-18
+# Segment 7 Dorna Spring 17-18
 * Travelling back to Dorna
 	* [[Alexander-Aurelius]] got [Katherine](Dorna#Katherine) to train him in [With Me](../../Leader#With%20Me)
 	* [Arturas-Gabrys](Arturas-Gabrys) + [Greg-Colter](Greg-Colter) was taught knowledge
@@ -17,7 +17,7 @@ grand_parent: Worlds
 * [Simple-Joe](Simple-Joe) younger sister is [Tally (Talia Defferen)](Argent-Hold#Tally%20(Talia%20Defferen)) they had supper together and simple Joe got knowledge of local events.
 * Arrived in Dorna
 
-## Segment 8 Dorna Spring 19 - 23
+# Segment 8 Dorna Spring 19 - 23
 * Brainstormed a name for the manticore cub
 * Named the Manticore Jashmuda
 * Taking the day in Dorna
@@ -35,7 +35,7 @@ grand_parent: Worlds
 	* [Alexander-Aurelius](Alexander-Aurelius) Watch
 	* [Arturas-Gabrys](Arturas-Gabrys) Scout
 
-## Segment 9 Wayside Spring 24 then 25 - 30
+# Segment 9 Wayside Spring 24 then 25 - 30
 * Spending 1 day in [Wayside](Wayside)
 	* [Simple-Joe](Simple-Joe) did surgery
 	* [Akren](Akren) Akren taking killswitch
@@ -56,28 +56,28 @@ grand_parent: Worlds
 
 
 
-### Rewards
+## Rewards
 * Got an exotic creature bit from the tidal boar
 * [The Truthsayer](Dorna#The%20Truthsayer) can teach
 	* Arcane Battery - Spend a power instead of using mana crystals to cast
 	* Eldritch Battery - You don't need a reagent bag to perform rituals
 
-### Characters
+## Characters
  ---
 
-### To Do
+## To Do
 
-### Hooks
+## Hooks
 
 
-### Monsters
+## Monsters
 
 
 
 
 ---
 
-### Scratch Space
+## Scratch Space
 
 4 integrity damage to boar by vespin
 

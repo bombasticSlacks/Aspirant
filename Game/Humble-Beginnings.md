@@ -5,7 +5,7 @@ parent: Character Creation
 nav_order: 2
 grand_parent: How To Play
 ---
-## Humble Beginnings
+# Humble Beginnings
 
 **CURRENTLY OUT OF DATE** #TODO
 

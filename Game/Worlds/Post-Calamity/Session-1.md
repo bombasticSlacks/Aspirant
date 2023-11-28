@@ -5,10 +5,10 @@ parent: Post Calamity
 nav_order: 1
 grand_parent: Worlds
 ---
-## Session 1
+# Session 1
 [Post-Calamity](Post-Calamity)
 
-## Segment 1 Spring 1 - Spring 5
+# Segment 1 Spring 1 - Spring 5
 * Setting out, [Simple-Joe](Simple-Joe), [Alexander-Aurelius](Alexander-Aurelius), [Greg-Colter](Greg-Colter) all decide to depart from [Crosshaven](Crosshaven) on their way to [Snowcrest](Snowcrest). Planning to meet [Akren](Akren) somewhere on the way.
 * [Crosshaven](Crosshaven) has a medium size noble cast, [Alexander-Aurelius](Alexander-Aurelius) isn't the ruling family
 * [Argent-Hold](Argent-Hold) militant city
@@ -30,11 +30,11 @@ grand_parent: Worlds
 * Were attacked by a [Bilwis](Monsters#Bilwis) while crossing a cursed field.
 * Made it to [Wayside](Wayside)
 
-### To Do
+## To Do
 * Resolve crafting bombs,
 * Downtime activity for the travel,
 
-### Hooks
+## Hooks
 * [The Manticore](Hooks#The%20Manticore)
 * [Staff Of Power](Hooks#Staff%20Of%20Power)
 * [Departing](Hooks#Departing)

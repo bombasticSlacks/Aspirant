@@ -2,9 +2,9 @@
 layout: default
 nav_exclude: true
 ---
-## Session 1(?)
+# Session 1(?)
 
-## Step 1
+# Step 1
 * Stem started trying to track time with his heartbeat
 * 12 merchants, 14 pirates, they are at the end of the boat, viking long boat.
 * Rei sang at the pirates placating them
@@ -17,29 +17,29 @@ nav_exclude: true
 * Stem found the main door (including mal)
 * Casey helping to heal the sick
 
-### Rewards
+## Rewards
 * size 4 crate, 100 silver worth of baubles
 * Got the inkblot,
 * Got the xray monocle
 
-### Characters
+## Characters
 
  ---
 
-### To Do
+## To Do
 
 ---
 
-### Hooks
+## Hooks
 
 ---
 
 
-### Monsters
+## Monsters
 
 ---
 
-### Scratch Space
+## Scratch Space
 
 Jarl 15
 Casey 13

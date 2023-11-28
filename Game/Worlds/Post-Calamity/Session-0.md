@@ -5,10 +5,10 @@ parent: Post Calamity
 nav_order: 1
 grand_parent: Worlds
 ---
-## Session 0
+# Session 0
 [Post-Calamity](Post-Calamity)
 
-### Notes
+## Notes
 *General Notes about the world*
 
   

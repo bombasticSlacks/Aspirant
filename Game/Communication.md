@@ -5,12 +5,12 @@ parent: Stats
 nav_order: 2
 grand_parent: How To Play
 ---
-## Communication
+# Communication
 
 Measures how well you communicate. Influences your [Max Influence](Stats#Max%20Influence).
 
 It can be honed to better perform the [Skills](Skills):
-### Confidence
+## Confidence
 The action of showing confidence, making others believe it. This includes:
 * Acting as a role.
 * Lying to someone.
@@ -21,7 +21,7 @@ Any time you are communicating and trying to show your confidence, you should ma
 
 ---
 
-### Connection
+## Connection
 The act of connecting with other people, and making them do what you want. This includes:
 * Convincing someone to help you.
 * Getting a good deal on a trade.
@@ -30,7 +30,7 @@ The act of connecting with other people, and making them do what you want. This 
 Any time you are communicating and need to see if you've connected with the other entity, you should make a connection [Skill](Skills) test.
 
 ---
-### Mannerism
+## Mannerism
 The action of showing your intent with body language. This includes:
 * Calming an animal.
 * Directing something that you don't share language with.
@@ -39,7 +39,7 @@ The action of showing your intent with body language. This includes:
 
 Any time you are using your body to communicate, you should make a mannerism [Skill](Skills) test.
 
-#### Relevant Activities
+### Relevant Activities
 * [Mounts](Mounts)
 
 ---

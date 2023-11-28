@@ -2,7 +2,7 @@
 layout: default
 nav_exclude: true
 ---
-## Aspirant RPG
+# Aspirant RPG
 *A Game about Adventure and Expertise!*
 
 Inspired by PBtA systems, classic fantasy RPGs, and worlds where all labour has value.

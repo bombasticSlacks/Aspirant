@@ -5,10 +5,10 @@ parent: Post Calamity
 nav_order: 1
 grand_parent: Worlds
 ---
-## Session 3
+# Session 3
 [Post-Calamity](Post-Calamity)
 
-## Segment 3 Spring 6 - 8
+# Segment 3 Spring 6 - 8
 * Found a glowing symbol on the wall
 * Started a [Project](../../Skills#Project) to clear the rubble, needed only 1 additional step
 * Found the boat,
@@ -37,25 +37,25 @@ grand_parent: Worlds
 	* [Simple-Joe](Simple-Joe) [On Watch](../../Activities#On%20Watch)
 	* [Greg-Colter](Greg-Colter) [Socialize](../../Activities#Socialize)
 
-### Rewards
+## Rewards
 * Telescoping baton MW Artisan - [Folding](../../Weapon-Traits#Folding), 1 size [Disguised](../../Weapon-Traits#Disguised), 2 size [Lethal](../../Weapon-Traits#Lethal), Archeo-brass
 * The Generator
 * Torso is 2 size worth of Archeo-brass (exotic metal)
 * Arm is a prosthetic arm with a retractable size 2 balanced sword
 * Got the 40 silver for [Apetite In The Mines](Hooks#Apetite%20In%20The%20Mines)
 
-### Characters
+## Characters
  ---
 
-### To Do
+## To Do
 * Just departed, Akren needs actions resolved
 
-### Hooks
+## Hooks
 * [Arturas-Gabrys](Arturas-Gabrys) remembers hearing of ancient ruins rumors in Dorna.
 
 
-### Monsters
+## Monsters
 ---
 
-### Scratch Space
+## Scratch Space
 ---

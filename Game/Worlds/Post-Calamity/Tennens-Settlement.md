@@ -5,7 +5,7 @@ parent: Post Calamity
 nav_order: 2
 grand_parent: Worlds
 ---
-## Tennens Settlement
+# Tennens Settlement
 
 Settlement consisting of the Tennens currently arguing with the Breckles
 
@@ -24,13 +24,13 @@ No specific inn, lodging negotiated with lodging.
 
 
 
-### Jock Tennens
+## Jock Tennens
 Jock Tennens the chief, Thoughtful man, reads the trees [Mystic](../../Mystic).
 
 Stoney, distant.
 
 
-### Maria Archer Sign
+## Maria Archer Sign
 Of the Zinatu tribe, mystics and ecologists that track the comings and goings of Monsters in the world.
 
 Level woman, cold gaze.
@@ -41,7 +41,7 @@ Wants information from [Jock Tennens](#Jock%20Tennens), more on "the ritual"
 
 
 
-### The Great Log
+## The Great Log
 Large magic tree that's collapsed and been hollowed, main drinking hall.
 
 Serving earthy, mossy ale.

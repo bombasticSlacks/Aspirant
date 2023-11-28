@@ -5,7 +5,7 @@ parent: Character Development
 grand_parent: Telling The Story
 nav_order: 2
 ---
-## Arcanist
+# Arcanist
 Character who specializes in manipulating the physical world around them. Imbuing things with strange magical properties, and conjuring new things and creatures out of thin air.
 
 Arcanists are: 
@@ -17,9 +17,9 @@ Arcanists are:
 
 They can generally teach the following training:
 
-### Basic
+## Basic
 
-#### Amateur Arcana
+### Amateur Arcana
 Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 * Create [Ephemeral](Magic-Items#Ephemeral) [Magic-Items](Magic-Items).
 * Teleport a nearby item to yourself.
@@ -27,29 +27,29 @@ Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 * Conjure simple items that won't be missed (from wherever you take them).
 
  [Crafting Cost](Terminology#Crafting%20Cost): 1 size of [Artisan](Materials#Artisan) [Materials](Materials) + a [Reagent Bag](Example-Gear#Reagent%20Bag) charge.
-#### Bewitched
+### Bewitched
 You can imbue magic into people as you can permanent [Equipment](Equipment).
 
 People count as Size 5, body parts as size 2
 
-#### Blood Rituals
+### Blood Rituals
 You may attempt a ritual without 1 of the requirements and replace it with an amount of blood.
 
-#### Hallowed Ground
+### Hallowed Ground
 You can imbue magic into places as you can permanent [Equipment](Equipment).
 
 Places count as Size 5
 
-#### Intellectual Methods
+### Intellectual Methods
 [Attunement](Spirit#Attunement) is an [Intelligence](Intelligence) skill for you.
 
 
 
 ---
 
-### Advanced
+## Advanced
 
-#### Expert Arcana
+### Expert Arcana
 *[Requirement](Terminology#Requirement): [Amateur Arcana](#Amateur%20Arcana)*
 Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 * Create [Harmonic](Magic-Items#Harmonic) [Magic-Items](Magic-Items).
@@ -58,19 +58,19 @@ Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 * Teleport an exact item to yourself.
 
  [Crafting Cost](Terminology#Crafting%20Cost): Size of target item in [Exotic](Materials#Exotic) [Materials](Materials) + Size of target item in [Artisan](Materials#Artisan) [Materials](Materials) + a [Reagent Bag](Example-Gear#Reagent%20Bag) charge.
-#### Invigorated Enchantment
+### Invigorated Enchantment
 You can imbue two separate magical effects into an item.
 
-#### Pocket Dimension
+### Pocket Dimension
 You can hold an additional $2 \times Spirit$ Size of items. These items can be accessed like they are on a [Belt](Storage#Belt), but are not detectable by anything but magic.
 
 
 
 ---
 
-### Master
+## Master
 
-#### Master Arcana
+### Master Arcana
 *[Requirement](Terminology#Requirement): [Expert Arcana](#Expert%20Arcana)*
 Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 * Create [Discordant](Magic-Items#Discordant) [Magic-Items](Magic-Items).

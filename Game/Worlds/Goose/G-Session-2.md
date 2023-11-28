@@ -2,9 +2,9 @@
 layout: default
 nav_exclude: true
 ---
-## Session 2
+# Session 2
 
-## Step 1 + 2 Days
+# Step 1 + 2 Days
 - Bront top deck shadowing,
 - Rei + Jarl going to look for saboteur
 - Stem found the main door (including mal)
@@ -23,29 +23,29 @@ nav_exclude: true
 - Did some trading in town, liquefied some items
 
 
-### Rewards
+## Rewards
 * Fallen Star - MW Exotic Size 2 : Lethal +1 damage, Perfect (+1 to all skill tests). Functions as a torch. Deals heat damage, is enchanted to be everburning and when held counts as though the sun is present.
 * Bront stored the lantern
 * 
 
-### Characters
+## Characters
 
  ---
 
-### To Do
+## To Do
 - About to do activities for the day
 ---
 
-### Hooks
+## Hooks
 
 ---
 
 
-### Monsters
+## Monsters
 
 ---
 
-### Scratch Space
+## Scratch Space
 
 ArchBishop - 9
 Stem - 9

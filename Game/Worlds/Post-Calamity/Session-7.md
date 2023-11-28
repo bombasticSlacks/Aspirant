@@ -5,9 +5,9 @@ parent: Post Calamity
 nav_order: 1
 grand_parent: Worlds
 ---
-## Session 7
+# Session 7
 [Post-Calamity](Post-Calamity)
-## Segment 10 Tussole Summer 1
+# Segment 10 Tussole Summer 1
 * Capitol representative, said the local guilds would be unhappy with the boars death, were using it to generate a monopoly.
 * "Representative wages" on signs
 * [Greg-Colter](Greg-Colter) told the dockworkers the boar was killed, everyone cheered made plans for collective bargain
@@ -31,30 +31,30 @@ grand_parent: Worlds
 
 
 
-### Rewards
+## Rewards
 
 * 5 working horses (1,1,2 stats) worth 10 silver each
 * 2 Xbows (3 size), 3 Scimitars (2 size)
 
 
-### Characters
+## Characters
  ---
 
-### To Do
+## To Do
 * Greg is tired the next day
 * 
 
-### Hooks
+## Hooks
 
 
-### Monsters
+## Monsters
 
 
 
 
 ---
 
-### Scratch Space
+## Scratch Space
 
 
 Ranged - 10

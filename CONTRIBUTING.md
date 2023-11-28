@@ -1,12 +1,12 @@
-## Contributing
+# Contributing
 Thanks for being interested in the development of Aspirant. 
 
-### Remember
+## Remember
 * If you aren't sure about something, or think something should be changed, you can [make an issue](https://github.com/bombasticSlacks/Aspirant/issues/new/choose).
 * The game is open source, if you want to work on an extensive module or complex house rules, you can [Fork The Repository](https://github.com/bombasticSlacks/Aspirant/fork).
 * If you do write additional rules of interest, let me know, and I will link to them on the wiki / website.
 
-## For Contributions
+# For Contributions
 * Follow the [Code Of Conduct](https://github.com/bombasticSlacks/Aspirant/blob/main/CODE_OF_CONDUCT.md).
 * All changes need to go through a [Pull Request](https://github.com/bombasticSlacks/Aspirant/compare).
 * Canadian spelling, I use https://languagetool.org/.

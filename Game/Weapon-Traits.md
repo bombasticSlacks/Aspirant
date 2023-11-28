@@ -5,10 +5,10 @@ parent: Weapons
 grand_parent: Equipment
 nav_order: 2
 ---
-## [Weapon](Weapons) Traits
+# [Weapon](Weapons) Traits
 {: .no_toc }
 
-### Contents
+## Contents
 {: .no_toc }
 <details open markdown="block">
   <summary>
@@ -19,22 +19,22 @@ nav_order: 2
 {:toc}
 </details>
 
-### Special Traits
+## Special Traits
 These are weapon traits that can't be selected, either being [Default Traits](Designing-Weapons#Default%20Traits), or obtained some other way.
-#### Strength
+### Strength
 This weapon adds [Strength](Strength) to [Damage Bonus](Weapons#Damage%20Bonus).
 
-#### Size Matters
+### Size Matters
 This weapon adds $size \times 2$ to [Damage Bonus](Weapons#Damage%20Bonus).
 
 
 
-### 1 Cost Traits
+## 1 Cost Traits
 
-#### Balanced
+### Balanced
 +1 to defensive skill tests using this weapon.
 
-#### Black Powder
+### Black Powder
 *Your weapon fires balls of lead propelled by incendiary powder.*
 * Loses the [Strength](#Strength) trait.
 * +6 [Damage Bonus](Weapons#Damage%20Bonus). 
@@ -42,7 +42,7 @@ This weapon adds $size \times 2$ to [Damage Bonus](Weapons#Damage%20Bonus).
 * Range of [Far](Movement#Far).
 * [Capacity](Terminology#Capacity) 1([Ammunition](Example-Gear#Ammunition)).
 
-#### Bow
+### Bow
 *This weapon fires arrows.* 
 * Loses the [Strength](#Strength) trait.
 * You can add [Strength](Strength) to damage *only* up to a maximum of the size of the weapon. 
@@ -50,7 +50,7 @@ This weapon adds $size \times 2$ to [Damage Bonus](Weapons#Damage%20Bonus).
 * Range of [Short](Movement#Short).
 * [Capacity](Terminology#Capacity) 1([Ammunition](Example-Gear#Ammunition)).
 
-#### Crossbow
+### Crossbow
 *Your weapon fires bolts of metal.*
 * Loses the [Strength](#Strength) trait.
 * Add size to [Damage Bonus](Weapons#Damage%20Bonus) (in addition to [Size Matters](#Size%20Matters)).
@@ -58,46 +58,46 @@ This weapon adds $size \times 2$ to [Damage Bonus](Weapons#Damage%20Bonus).
 * Range of [Short](Movement#Short).
 * [Capacity](Terminology#Capacity) 1([Ammunition](Example-Gear#Ammunition)).
 
-#### Deadly Draw
+### Deadly Draw
 This weapon is [Penetrating](#Penetrating) for your first attack in any combat.
 
-#### Disguised
+### Disguised
 This does not appear to be a weapon but has -1 [Damage Bonus](Weapons#Damage%20Bonus).
 
-#### Ensnaring
+### Ensnaring
 This weapon deals -2 damage, on [Non-mitigated Attack](Terminology#Non-mitigated%20Attack) it causes the enemy to be [Grappled](Special-Combat-Actions#grapple). You need to maintain hold of the ensnaring weapon to maintain the [Grapple](Special-Combat-Actions#grapple).
 
-#### Fast Reloading
+### Fast Reloading
 If your weapon requires [Loading](Terminology#Loading), it takes half the time. [Loading](Terminology#Loading) that normally takes an action is instead a [Free Action](Terminology#Free%20Action).
 
-#### Hand and a Half
+### Hand and a Half
 If this weapon is otherwise usable in one hand, the weapon counts as 1 size larger while wielded in two hands.
 
-#### Inscribed
+### Inscribed
 This weapon counts as a Focus for [Will](Spirit#Will) skill tests.    
 
-#### Lethal
+### Lethal
 This weapon has 1 additional [Damage Bonus](Weapons#Damage%20Bonus).
 
-#### Momentum
+### Momentum
 Whenever you attack with this weapon and don’t strike anything (either miss or the attack is dodged) your next [Attack](Terminology#Attack) gains (+1), this stacks. 
 
-#### Multiple Damage Types
+### Multiple Damage Types
 This weapon has an additional combat profile with the default traits and a different [Types of Damage](Injury#Types%20of%20Damage). When you attack, select one of the two types.       
 
-#### Multiple Shots
+### Multiple Shots
 If your weapon has [Capacity](Terminology#Capacity) it has 3 additional.   
 
-#### On Line
+### On Line
 This weapon cannot be used to perform [Reactions](Terminology#Reaction), you can make [Melee Attack](Terminology#Melee%20Attack) with this weapon at a range of [Close](Movement#Close), you cannot attack further taking a [Distance Penalty](Attack-Bonuses#Distance%20Penalty).
 
-#### Reach
+### Reach
 Performing [Melee Attack](Terminology#Melee%20Attack) doesn't put you [In Melee](Effects#In%20Melee). You contribute to [Outnumbered](Attack-Bonuses#Outnumbered) for anyone in [Reach](Movement#Reach).
 
-#### Shield
+### Shield
 This weapon can no longer be used for attacks. Instead, it provides a +2 to skill tests using it. #TODO
 
-#### Sling
+### Sling
 *This weapon aids with throwing things long distances.*
 * [Loading](Terminology#Loading)(0).
 * [Capacity](Terminology#Capacity) 1([Throwables](Comestibles#Throwables)).
@@ -106,20 +106,20 @@ This weapon can no longer be used for attacks. Instead, it provides a +2 to skil
 * The result of attacks with this weapon are equivalent to what it is loaded with.
 * If the loaded [Throwable](Comestibles#Throwables) adds [Strength](Strength) to [Damage Bonus](Weapons#Damage%20Bonus), it has the [Size Matters](#Size%20Matters) trait.
 
-#### Throwable
+### Throwable
 This weapon is balanced for throwing, you receive no penalties for throwing it.  
 
 
-### 2 Cost Traits
+## 2 Cost Traits
 
-#### Folding
+### Folding
 This weapon counts as two separate sizes. When stored, it is considered the smaller size. As an action, you may change which size it counts as, or at the end of any attack action you can change the size. Aside from folding the weapon can count as having a single separate [1 Cost Traits](#1%20Cost%20Traits) in each form.
 
-#### Overweight
+### Overweight
 This weapon has (-1) to [Actions](Terminology#Action) made with it and +3 [Damage Bonus](Weapons#Damage%20Bonus). 
 
-#### Penetrating
+### Penetrating
 This weapon ignores [Resistance](Armour#Weakness%20and%20Resistance) of armour.
 
-#### Perfect
+### Perfect
 This weapon receives a (+1) to [Actions](Terminology#Action) made with it, and a +1 to [Damage Bonus](Weapons#Damage%20Bonus).

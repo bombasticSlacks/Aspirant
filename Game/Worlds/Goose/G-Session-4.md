@@ -2,14 +2,14 @@
 layout: default
 nav_exclude: true
 ---
-## Session 4
+# Session 4
 
-### Ideas
+## Ideas
 * Military Escalation will involve the carnivalers being terrorized, could be a riot.
 * Burns Street, there will be a cult sect with an underground temple.
 * Trying to summon an "Emissary" Bishop with a hand for a head, eye in the palm. Needed to trade the Parliament man's life for the summoning.
 * The house will have the ritual aftermath, including ideas of the transfer. Maybe a pamphlet or something if need be.
-## Step 2 3rd of Summer
+# Step 2 3rd of Summer
 * Military checkpoint in nicer part of town, spears, plate, arming swords, xbows 3 guys
 * 6 local militia at the house blocked off.
 * entryway, stairwell to second floor, cheap door, 2 other doors, 2 doors at the top of the stairs, one is to the solarium, 
@@ -38,30 +38,30 @@ nav_exclude: true
 * Servant was hesitant, says the master of the house is very "sick" doesn't know what to do.
 
 
-### Rewards
+## Rewards
 
 * Bront, gets 4 exotic wood of the black wood once the crime is resolved.
 * 
 
-### Characters
+## Characters
 
  ---
 
-### To Do
+## To Do
 * Casey going to do some medical work
 * Want to check the Red Bishops
 * Do work deciphering a hot spot for cult activity
 
 ---
 
-### Hooks
+## Hooks
 
 ---
 
-### Monsters
+## Monsters
 
 ---
 
-### Scratch Space
+## Scratch Space
 
 ---

@@ -5,12 +5,12 @@ parent: Stats
 nav_order: 2
 grand_parent: How To Play
 ---
-## Agility
+# Agility
 
 Measures how agile your character is. Influences [Movement Distance](Stats#Movement%20Distance). 
 
 It can be honed to better perform the [Skills](Skills):
-### Accuracy
+## Accuracy
 The act of being precise and accurate when interacting with the world around you. This includes:
 * Shooting ranged weapons.
 * Picking Locks.
@@ -19,11 +19,11 @@ The act of being precise and accurate when interacting with the world around you
 
 Any time you are doing something that would require accuracy or precision, you should make an accuracy [Skill](Skills) test.
 
-#### Relevant Activities
+### Relevant Activities
 * [Attacking](Attacks)
 
 ---
-### Reflexes
+## Reflexes
 The act of reacting without thought. This includes:
 * Dodging.
 * Blocking.
@@ -31,11 +31,11 @@ The act of reacting without thought. This includes:
 
 Any time you are doing something that requires a split second response, you should make a reflexes [Skill](Skills) test.
 
-#### Relevant Activities
+### Relevant Activities
 * [Avoid](Reacting-To-Attacks#Avoid)
 
 ---
-### Grace
+## Grace
 The act of being graceful, always balanced and ready to strike. This includes:
 * Moving Silently.
 * Hiding.
@@ -45,7 +45,7 @@ The act of being graceful, always balanced and ready to strike. This includes:
 
 Any time your movements need to be coordinated, or you need excellent control over your body, you should make a grace [Skill](Skills) test.
 
-#### Relevant Activities
+### Relevant Activities
 * [Back out](Special-Combat-Actions#Back%20out)
 
 ---

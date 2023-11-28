@@ -5,7 +5,7 @@ parent: Post Calamity
 nav_order: 2
 grand_parent: Worlds
 ---
-## Tussole
+# Tussole
 A merchants village on the water
 
 Headquarters for a lot of merchants, or field offices.
@@ -18,8 +18,8 @@ Capital Embassy there, Dockmaster represents the interest [Calphion](Calphion)
 
 3 Merchant Guilds
 
-### Yellow band
+## Yellow band
 
-### Argent Enterprises
+## Argent Enterprises
 
-### North Co. Trade
+## North Co. Trade

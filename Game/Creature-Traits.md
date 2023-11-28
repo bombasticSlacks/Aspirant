@@ -4,9 +4,9 @@ title: Creature Traits
 parent: Tables
 nav_order: 2
 ---
-## Creature Traits
+# Creature Traits
 
-### Maul
+## Maul
 *Worth 20 silver for mounts*
 
 When this creature makes a [Non-mitigated Attack](Terminology#Non-mitigated%20Attack) the target is knocked prone.

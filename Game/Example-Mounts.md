@@ -5,9 +5,9 @@ parent: Mounts
 grand_parent: Equipment
 nav_order: 2
 ---
-## Example Mounts
+# Example Mounts
 
-### Dire Wolf
+## Dire Wolf
 *A massive wolf creature capable of carrying a humanoid creature*
 
 Costs 60 Silver

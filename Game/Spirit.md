@@ -5,12 +5,12 @@ parent: Stats
 nav_order: 2
 grand_parent: How To Play
 ---
-## Spirit
+# Spirit
 
 Measures your spirit, your sense of self and the world around you. Influences your [Max Affinity](Stats#Max%20Affinity).
 
 It can be honed to better perform the [Skills](Skills):
-### Attunement
+## Attunement
 The action of being attuned to the world around you. This includes:
 * Feeling like something is wrong.
 * Identifying magic, or otherworldly influence.
@@ -21,7 +21,7 @@ Any time you are trying to connect to the world around you, you should make an a
 
 ---
 
-### Identity
+## Identity
 The act of maintaining your sense of self, no matter what happens to you. This includes:
 * Not being afraid.
 * Resisting attacks on your mind.
@@ -31,7 +31,7 @@ The act of maintaining your sense of self, no matter what happens to you. This i
 Any time you are trying to maintain who you are, you should make an identity [Skill](Skills) test.
 
 ---
-### Will
+## Will
 The action of imbuing your will on the world around you. This includes:
 * Psychic powers.
 * Instantaneous magic.

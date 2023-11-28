@@ -5,9 +5,9 @@ parent: Post Calamity
 nav_order: 1
 grand_parent: Worlds
 ---
-## Session 10
+# Session 10
 [Post-Calamity](Post-Calamity)
-## Segment 10 Tussole Summer 3 - 5
+# Segment 10 Tussole Summer 3 - 5
 Traveling for 1 day
 Traveling to Breckles
 * [Simple-Joe](Simple-Joe) [Routine Maintenance](../../Labourer#Routine%20Maintenance), [Socialize](../../Activities#Socialize)
@@ -44,28 +44,28 @@ Traveling to Breckles
 * entered into the darker forest after the water. 
 
 
-### Rewards
+## Rewards
 * 6 size of basic wood/resonant/liquid (took 6 size of basic resonant).
 * 
 
 
-### Characters
+## Characters
  ---
 
-### To Do
+## To Do
 
 
-### Hooks
+## Hooks
 
 
-### Monsters
+## Monsters
 
 
 
 
 ---
 
-### Scratch Space
+## Scratch Space
 
 * Akren 6
 * Arturas 1
@@ -95,7 +95,7 @@ Traveling to Breckles
 * Greg bonked em
 
 
-### Elemental Earth
+## Elemental Earth
 
 | Move                          | Initiative | Resistance | Integrity | Weakness            | Resistance |
 | ----------------------------- | ---------- | ---------- | --------- | ------------------- | ---------- |
@@ -105,7 +105,7 @@ Traveling to Breckles
 * [Grapple(3)](Monster-Actions#Grapple(X))
 * [Avoid(1)](../../Monster-Actions#Avoid(X))
 
-#### Rooted
+### Rooted
 Trait when grappling they can act normally.
 
 

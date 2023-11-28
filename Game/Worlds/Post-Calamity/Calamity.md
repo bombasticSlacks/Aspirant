@@ -5,7 +5,7 @@ parent: Post Calamity
 nav_order: 2
 grand_parent: Worlds
 ---
-## Calamity
+# Calamity
 The calamity is the terrible effect that happened to cause the lost empire to fall.
 
 > Fallen Empire, Romanesque 200 years in the past, was magic the cause?

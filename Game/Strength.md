@@ -5,12 +5,12 @@ parent: Stats
 nav_order: 2
 grand_parent: How To Play
 ---
-## Strength
+# Strength
 
 Measures how strong your character is. Influences [Backpack](Storage#Backpack) carry weight.
 
 It can be honed to better perform the [Skills](Skills):
-### Athletics
+## Athletics
 The action of applying fitness, and trained strength or power. This includes:
 * Lifting.
 * Jumping.
@@ -21,12 +21,12 @@ The action of applying fitness, and trained strength or power. This includes:
 
 Any time you are doing something athletic, you should make an athletics [Skill](Skills) test.
 
-#### Relevant Activities
+### Relevant Activities
 * [Grapple](Special-Combat-Actions#grapple)
 * [Attacks](Attacks)
 
 ---
-### Endurance
+## Endurance
 The action of enduring hardships, remaining steadfast in the face of adversity. This includes:
 * staying conscious from injuries.
 * Maintaining an action while under strain.
@@ -34,11 +34,11 @@ The action of enduring hardships, remaining steadfast in the face of adversity. 
 
 Any time you are striking something, you should make an endurance [Skill](Skills) test.
 
-#### Relevant Activities
+### Relevant Activities
 * [Injury](Injury)
 
 ---
-### Strike
+## Strike
 The action of striking other things, inflicting immediate force on them. This includes:
 * Tackling.
 * Hitting an object to damage it.
@@ -47,7 +47,7 @@ The action of striking other things, inflicting immediate force on them. This in
 
 Any time you are striking something, you should make a strike [Skill](Skills) test.
 
-#### Relevant Activities
+### Relevant Activities
 * [Attack of Opportunity](Reacting-To-Attacks#Attack%20of%20Opportunity)
 * [Parry](Special-Combat-Actions#Parry)
 * [Shove](Special-Combat-Actions#Shove)

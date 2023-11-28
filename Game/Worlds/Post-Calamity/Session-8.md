@@ -5,9 +5,9 @@ parent: Post Calamity
 nav_order: 1
 grand_parent: Worlds
 ---
-## Session 8
+# Session 8
 [Post-Calamity](Post-Calamity)
-## Segment 10 Tussole Summer 2
+# Segment 10 Tussole Summer 2
 * Greg is tired
 * Approached the checkpoint, 3 tennens exited the woods
 * Took 2 conscripts in the cart, to tennens
@@ -28,27 +28,27 @@ grand_parent: Worlds
 
 
 
-### Rewards
+## Rewards
 
 
 
-### Characters
+## Characters
  ---
 
-### To Do
+## To Do
 
 
-### Hooks
+## Hooks
 
 
-### Monsters
+## Monsters
 
 
 
 
 ---
 
-### Scratch Space
+## Scratch Space
 
 
 

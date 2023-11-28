@@ -2,7 +2,7 @@
 layout: default
 nav_exclude: true
 ---
-## Dora
+# Dora
 
 Large Size 4 city on the coast,
 
@@ -16,27 +16,27 @@ Only omitted trainings, are Combat.
 50% discount on staying here
 
 
-## Church Of The Sun
+# Church Of The Sun
 Has a sect of the Red Bishop.
 
-## Carnival
+# Carnival
 * Routine with a young sorcerous and a beholder 
 * Curio stall, with many materials. Can trade for any materials of any quality
 * Pale elves call dire wolves: "Guarana"
 
 
-### Elsodden
+## Elsodden
 the carnival master of carnival of oddities, collection of adventuring missfits. Elsodden at least 150 years old, glowing crystalline cape, bright glowing golden eyes, a mouth to long for a human. Dramatic, goofy poses.
 
-## Rigger Mortis
+# Rigger Mortis
 Undead ringleader stitched skin clothing, skeletal make-up, Master level Vitomancer
 
-### Oz and Otto
+## Oz and Otto
 Elves, scarred ex military left clan after the last military skirmishes 20-30 years ago.
 
-## Military
-### Corporal Gezz
+# Military
+## Corporal Gezz
 The military man they've been traveling with.
 
-## Hooks
+# Hooks
 * Frederique councillors in Dora, Murdered by the Red Sun cultists

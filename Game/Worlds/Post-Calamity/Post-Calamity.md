@@ -4,16 +4,16 @@ title: Post Calamity
 parent: Worlds
 has_children: true
 ---
-## Post Calamity
+# Post Calamity
 *In the aftermath of a horrible event, a celestial being and his collection of experts attempt to discover themselves while reuniting a broken continent.*
 
-### Eastern Certella
+## Eastern Certella
 The continent within which this takes place, split in two, the game takes place on the eastern side.
 
-### GM
+## GM
 * [Dillon Matchett](https://github.com/bombasticSlacks)
 
-### Players
+## Players
 * [Akren](Akren)
 * [Alexander-Aurelius](Alexander-Aurelius)
 * [Arturas-Gabrys](Arturas-Gabrys)
@@ -21,7 +21,7 @@ The continent within which this takes place, split in two, the game takes place 
 * [Simple-Joe](Simple-Joe)
 * [Vespin-Aevaris](Vespin-Aevaris)
 
-### Pages of Interest
+## Pages of Interest
 * [Crafting-Recipes](Crafting-Recipes)
 * [Hooks](Hooks)
 * [Monsters](Monsters)

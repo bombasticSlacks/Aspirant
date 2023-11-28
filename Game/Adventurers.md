@@ -5,7 +5,7 @@ parent: Character Creation
 nav_order: 2
 grand_parent: How To Play
 ---
-## Adventurers
+# Adventurers
 A way to do [Character-Creation](Character-Creation).
 
 To create a character who is already a knowledgeable adventurer. 
@@ -17,26 +17,26 @@ To create a character who is already a knowledgeable adventurer. 
 * Purchase any gear and work
 * Finalize your character
 
-### Determine Your Total XP
+## Determine Your Total XP
 First talk to your GM and other players to determine if there is a limit to how much XP the character should spend right now. This can be marked on your sheet as your [Total XP](Stats#Total%20XP).
 
-### Determine Your Attributes
+## Determine Your Attributes
 Assign your [Attributes](Stats#Attributes) placing one of the two sets of values in each of the 5 attributes.
 * 4,3,2,2,2
 * 3,3,3,2,2
 
 > So, 4 [Strength](Strength), 3 [Agility](Agility), 2 [Intelligence](Intelligence), 2 [Spirit](Spirit), 2 [Communication](Communication) is a valid stat line 
 
-### Determine Your Skills
+## Determine Your Skills
 You can put 7 ranks into skills of your choice, no skill may go above rank 2.
 
-### Determine Starter Training
+## Determine Starter Training
 All characters begin play with 2 basic [Training](Character-Development#Training) of their choice.
 
-### Purchase Progression
+## Purchase Progression
 At this point, you can spend as much of your remaining XP as you would like to. Each training / skill you take does not require spending money, the assumption being you already would have spent it: [Costs Of Services](Services#Costs%20Of%20Services). Your character can also decide to start with [Cultural-Mutations](Cultural-Mutations).
 
-### Purchase Any Gear And Work
+## Purchase Any Gear And Work
 Your characters are guaranteed to begin play with:
 * 6 storage [Backpack](Storage#Backpack).
 * 4 storage [Belt](Storage#Belt).
@@ -53,7 +53,7 @@ You also, at any point during purchasing get 5 [Downtime Activities](Activities#
 
 > So, you could craft an item you then buy some stuff to upgrade.
 
-### Finalize Your Character
+## Finalize Your Character
 Finally calculate your character other [Additional Attributes](Stats#Additional%20Attributes) and make note of your items and abilities.
 
 If you have any unspent XP you start with an additional $5 \times unspent\ XP$ silver

@@ -5,7 +5,7 @@ parent: Post Calamity
 nav_order: 2
 grand_parent: Worlds
 ---
-## Dorna
+# Dorna
 
 [The Manticore](Hooks#The%20Manticore) is here
 
@@ -19,7 +19,7 @@ Truth Teller in Dorna that tells the fates.
 
 2 Argent hold tens as well (7 people) [Bastion](../../Bastion), Vitomancy, Enchanter, Abjurer, Duelist
 
-### The Truthsayer
+## The Truthsayer
 Saw-say blind woman.
 
 service door for deliveries
@@ -31,25 +31,25 @@ Alchohol stove making tea,
 
 Aethertouched, doesn't need ritual magic to perform rituals.
 
-### Aye
+## Aye
 The barkeep
 
-## Mercs Scarlet Inferno (Ess Eye)
+# Mercs Scarlet Inferno (Ess Eye)
 
 Use [Flurry](../../Flurry) and [Berserker](../../Berserker) training.
-### Jordan
+## Jordan
 Merc leader
 
-### Katherine
+## Katherine
 Merc QM
 
 
-## Argent Hold
+# Argent Hold
 
 
 [Tally (Talia Defferen)](Argent-Hold#Tally%20(Talia%20Defferen)) stationed there
 
-### Fen Onyx
+## Fen Onyx
 The Mage
 he/him
 

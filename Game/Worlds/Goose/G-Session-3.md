@@ -2,9 +2,9 @@
 layout: default
 nav_exclude: true
 ---
-## Session 3
+# Session 3
 
-## Step 2 1st of Summer -
+# Step 2 1st of Summer -
 * Dora has a large carnival, 
 * Downtime in Dora
 	* Bront training expert enchanting
@@ -41,28 +41,28 @@ nav_exclude: true
 * Session talking about military escalation, trying to maybe declare martial law.
 
 
-### Rewards
+## Rewards
 
 
-### Characters
+## Characters
 
  ---
 
-### To Do
+## To Do
 
 * Corporal taking most of the group to the dead politicians house.
 * Don't charge everyone for the next night.
 
 ---
 
-### Hooks
+## Hooks
 
 ---
 
-### Monsters
+## Monsters
 
 ---
 
-### Scratch Space
+## Scratch Space
 
 ---

@@ -5,13 +5,13 @@ parent: Storage
 grand_parent: Equipment
 nav_order: 2
 ---
-## Example [Storage](Storage)
+# Example [Storage](Storage)
 {: .no_toc }
 * Non-exhaustive list of storage a character could use. You can instead design your own [Designing-Storage](Designing-Storage). 
 * Commission is the full charge to commission, including labour.
 * Sell is the cost for just the materials, so what it's worth if it was sold in a shop.
 
-### Contents
+## Contents
 {: .no_toc }
 <details open markdown="block">
   <summary>
@@ -23,7 +23,7 @@ nav_order: 2
 </details>
 
 
-### Adventure Bag
+## Adventure Bag
 *A practical and large bag.*
 * [Backpack](Storage#Backpack).
 * Commission 20 Silver.
@@ -32,7 +32,7 @@ nav_order: 2
 
 ---
 
-### Alchemist Bag
+## Alchemist Bag
 *A large backpack with a structured frame allowing you to separate and store different creature bits.*
 * [Backpack](Storage#Backpack).
 * Commission 45 Silver.
@@ -42,7 +42,7 @@ nav_order: 2
 
 ---
 
-### Back Scabbard
+## Back Scabbard
 *A large, very functional sheath and balanced bag.*
 * [Backpack](Storage#Backpack).
 * Commission 20 Silver.
@@ -52,7 +52,7 @@ nav_order: 2
 
 ---
 
-### Basic Bag
+## Basic Bag
 *A simple bag capable of holding some gear and loot.*
 * [Backpack](Storage#Backpack).
 * Commission 10 Silver.
@@ -61,7 +61,7 @@ nav_order: 2
 
 ---
 
-### Basic Belt
+## Basic Belt
 *A simple belt with some space to attach or hang pouches and items.*
 * [Belt](Storage#Belt).
 * Commission 15 Silver.
@@ -70,13 +70,13 @@ nav_order: 2
 
 ---
 
-### Basic Saddlebags
+## Basic Saddlebags
 *A simple set of saddlebags, great for carrying and attaching gear long term.*
 * [Saddlebag](Storage#Saddlebag).
 * Commission 15 Silver.
 * Sells for 10 Silver.
 * Holds 10 size.
-### Quiver
+## Quiver
 *A belt with a specialized quiver for ammunition.*
 * [Belt](Storage#Belt).
 * Commission 20 Silver.
@@ -86,7 +86,7 @@ nav_order: 2
 
 ---
 
-### Scavengers Saddle
+## Scavengers Saddle
 *A large saddle pack, with specialized storage for scavenged materials.*
 * [Saddlebag](Storage#Saddlebag).
 * Commission 20 Silver.
@@ -96,7 +96,7 @@ nav_order: 2
 
 ---
 
-### Utility Vest
+## Utility Vest
 *A collection of pouches and loops distributed across the chest.*
 * [Belt](Storage#Belt).
 * Commission 25 Silver.
