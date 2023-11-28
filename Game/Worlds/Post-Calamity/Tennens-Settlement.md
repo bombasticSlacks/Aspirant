@@ -85,7 +85,8 @@ Serving earthy, mossy ale.
 | ----------------------- | ---------- | ---------- | --------- | ------------------------- | ---------- |
 | [Short](Movement#Short) | 3          | 3          | 3         | [Heat](../../Injury#Heat) |            | 
 #### Actions
-* Attack (4) [Severe Injury](../../Injury#Severe%20Injury) [Rending](../../Injury#Rending).
+* Attack (4, Rending, 2).
+* [Attack(2, Rending, 3)](../../Monster-Actions#Attack(X,%20Y,%20Z)).
 * Ranged Attack (3) [Severe Injury](../../Injury#Severe%20Injury) [Piercing](../../Injury#Piercing).
 
 #### Reactions
@@ -97,7 +98,7 @@ Serving earthy, mossy ale.
 
 | Move                    | Initiative | Resistance | Integrity | Weakness | Resistance |
 | ----------------------- | ---------- | ---------- | --------- | -------- | ---------- |
-| [Short](Movement#Short) | 0          | Troop      |           |          |            |
+| [Close](../../Movement#Close) | 0          | Troop      |           |          |            |
 #### Actions
 * Attack (3) [Minimal Injury](../../Injury#Minimal%20Injury) [Rending](../../Injury#Rending).
 * Ranged Attack (3) [Severe Injury](../../Injury#Severe%20Injury) [Piercing](../../Injury#Piercing).
