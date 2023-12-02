@@ -23,9 +23,10 @@ The humanoid opposition you will run into on your journeys.
 
 ## Elite
 
-##### Cultist
+---
 Elite
 {: .label .label-yellow }
+### Cultist
 *A robe wearing fanatic, crazed over its obsession.*
 
 | Initiative | Move                          | Threat | Integrity | Weakness                  | Resistance |
@@ -36,16 +37,16 @@ Elite
 * [Avoid(1)](../Character-Actions#Avoid(X))
 * [Grapple(3, 1)](../Character-Actions#Grapple(X,%20OPPOSED))
 
-###### Flesh Offering
+#### Flesh Offering
 Attack
 {: .label .label-red }
 *The cultist pulls at you, tearing your body apart.*
 * If the monster is controlling a [Grapple](Special-Combat-Actions#Grapple), they may break the [Grapple](Special-Combat-Actions#Grapple) to deal 3 [Rending](Injury#Rending) [Ancillary](Injury#Ancillary) [Damage](Terminology#Damage).
 
-###### Rewards
+#### Rewards
 {: .no-toc }
 * [Cloth](../Example-Armour#Cloth) armour.
 * Size 2 [Metal](../Metal) [Artisan](../Designing-Weapons#Artisan) weapons with [Lethal](../Weapon-Traits#Lethal)
-
+---
 
 ## Boss

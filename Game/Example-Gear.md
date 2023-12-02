@@ -22,13 +22,14 @@ This is a non-exhaustive list of the sort of gear your characters may need. If s
 ## Clutter Items
 Things character shouldn't be interested in buying to travel with but may be of use narratively. Most adventurers would be better suited using properly packed [Toolkits](#[Toolkits](Gear%20Toolkits))
 
-##### 20 Meters of Rope
+---
+
 Size 2 
 {: .label .label-green }
 
 6 Silver 
 {: .label .label-yellow }
-
+### 20 Meters of Rope
 *Reliable hemp rope can be used to bind, tie, or otherwise rope. 2 size of [Basic Textiles](Textiles#Basic%20Textiles).*
 
 ---
