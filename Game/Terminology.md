@@ -125,3 +125,6 @@ The number and type of things that this item can be [Loaded](#Loading) with. Usu
 
 ## Bind
 The act of allowing you to use a [Magic-Items](Magic-Items). You can only bind a number of [Magic-Items](Magic-Items) equal to your [Affinity](Stats#Max%20Affinity).
+
+### Scene
+A scene refers to the current moment of action / intrigue playing out. Scenes don't have a defined length or strict rules, but it is a useful way of talking about narrative play.

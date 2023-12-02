@@ -30,7 +30,7 @@ Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
  Requires 1 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Example-Gear#Focus)
 
 ### Focus Trap
-You can set magical abilities you are focussed on to trigger in response to something (a person walking through a door, saying a word etc.) if you are knocked unconscious or distracted, your traps fail.
+You can set magical abilities you are focussed on to trigger in response to something (a person walking through a door, saying a word etc.) if you are [Defeated](Effects#Defeated) or distracted, your traps fail.
 
 ### Mage Assassin
 When you perform a magical effect you can roll [Grace](Agility#Grace) [Opposed Difficulty](Skills#Opposed%20Difficulty)([Insight](Intelligence#Insight)) to make it seem like no magic took place.

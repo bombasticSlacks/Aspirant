@@ -101,9 +101,9 @@ Traveling to Breckles
 | ----------------------------- | ---------- | ---------- | --------- | ------------------- | ---------- |
 | [Reach](../../Movement#Reach) | 2          | -          | 2         | [Heat](Injury#Heat), [Life](../../Injury#Life) | [Piercing](../../Injury#Piercing), [Cold](../../Injury#Cold)          |
 
-* [Attack(3, impact, 2)](Monster-Actions#Attack(X,%20Y,%20Z))
-* [Grapple(3)](Monster-Actions#Grapple(X))
-* [Avoid(1)](../../Monster-Actions#Avoid(X))
+* [Attack(3, impact, 2)](../../Character-Actions.md#Attack(X,%20TYPE,%20DAMAGE))
+* [Grapple(3)](../../Character-Actions.md#Grapple(X,%20OPPOSED))
+* [Avoid(1)](../../Character-Actions.md#Avoid(X))
 
 ### Rooted
 Trait when grappling they can act normally.

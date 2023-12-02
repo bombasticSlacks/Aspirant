@@ -73,7 +73,7 @@ These are actions that a character can do while travelling somewhere, your spare
 ### Scout
 *You travel ahead, and plan the journey.*
 * When your GM rolls to see if you have a [Travel Encounter](Telling-The-Story#Travel%20Encounter) you may have your [Grace](Agility#Grace) provide a penalty to the roll. 
-* The [GM](How-To-Play#GM) will describe any [Travel Encounter](Telling-The-Story#Travel%20Encounter) that occurs to you, before the scene begins. 
+* The [GM](How-To-Play#GM) will describe any [Travel Encounter](Telling-The-Story#Travel%20Encounter) that occurs to you, before the [Scene](Terminology#Scene) begins. 
 * You also gain 1 [Influencing the Story](Telling-The-Story#Influencing%20the%20Story)
 
 ---

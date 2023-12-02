@@ -36,4 +36,4 @@ Declare a 45-degree cone in front of you. If anyone moves into that area, you ma
 Which is a [Strike](Strength#Strike) skill test at (-2) where if you succeed, then if an enemy attacks you [in melee](#Being%20in%20Melee%20Combat) and succeeds, you ignore the attack. If they fail their skill test to attack, you may make an attack on them without requiring a skill test.
 
 ## Shove
-With at least one free hand, you can attempt to move someone. Make a [Strike](Strength#Strike) skill test, if you succeed, you can move them up to your strength in meters. If they hit something, they become knocked down.
+With at least one free hand, you can attempt to move someone. Make a [Strike](Strength#Strike) skill test, if you succeed, you can move them somewhere within [Reach](Movement#Reach) if you have 1-3 [Strength](Strength) and somewhere [Close](Movement#Close) otherwise.

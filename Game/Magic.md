@@ -6,7 +6,7 @@ nav_order: 2
 has_children: true
 ---
 # Magic
-Magic in aspirant is free flowing and should be created during the scene. Certain trainings will explain broadly the sort of effects a magic wielder can perform, but there is no explicit spell list. Generally, magic comes in two broad categories:
+Magic in aspirant is free flowing and should be created during the [Scene](Terminology#Scene). Certain trainings will explain broadly the sort of effects a magic wielder can perform, but there is no explicit spell list. Generally, magic comes in two broad categories:
 
 ## Channelled Magic
 which is performed on the spot and manipulates the world using [Resonant](Resonant) material to cause temporary changes. Its effects should be instant and related to the moment in which it happens.

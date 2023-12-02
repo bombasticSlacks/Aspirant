@@ -13,9 +13,6 @@ Combat is the most rigorously kept time in Aspirant; as it is when you are most 
 ## Narrative Time
 Narrative time in aspirant involves characters in a place of interest doing activities, exploring, and progressing the story directly. The passage of narrative time can be a bit more ambiguous compared with combat. There aren’t rules for narrative time, this is when characters will be directing the focus and the story themselves.
 
-### Scene
-A scene refers to the current moment of action / intrigue playing out. Scenes don't have a defined length or strict rules, but it is a useful way of talking about narrative play.
-
 ## Downtime
 This tends to happen when you arrive in a safe area. Each day, in a safe area, your character may perform 1 [Downtime Activity](Activities#Downtime%20Activity). Unless you are receiving charity, your food, and housing costs 1 silver per day. If you cannot afford this, you do not get to do activities.
 
@@ -35,7 +32,7 @@ At the end of each segment:
 - Characters at the start of each travel segment declare a [Travelling Activity](Activities#Travelling%20Activity) they will focus on during the travel.
 
 ### Travel Encounter
-During travel, characters may encounter other travellers, enemies or a point of interest. These will be handled by the GM and should lend to the danger and intrigue of the surrounding world. Generally, the world is sparse and most characters should only have 1 travel encounter per [Travel Segment](#Travel%20Segment), though in very dense or dangerous areas the GM can roll for more. If your players were attacked by wolves a number of times travelling through a forest instead, that should be handled as one extended narrative / combat scene where they realize they’ve entered dangerous territory and need to navigate out of it.
+During travel, characters may encounter other travellers, enemies or a point of interest. These will be handled by the GM and should lend to the danger and intrigue of the surrounding world. Generally, the world is sparse and most characters should only have 1 travel encounter per [Travel Segment](#Travel%20Segment), though in very dense or dangerous areas the GM can roll for more. If your players were attacked by wolves a number of times travelling through a forest instead, that should be handled as one extended narrative / combat [Scene](Terminology#Scene) where they realize they’ve entered dangerous territory and need to navigate out of it.
 
 ### Ambush Encounter
 Similarly, during travel, the party may be ambushed while camping. These should be high stakes encounters that put the players in danger. Generally, danger isn't lurking around every corner and the characters should only have 1 ambush encounter per [Travel Segment](#Travel%20Segment).

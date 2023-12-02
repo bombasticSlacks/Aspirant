@@ -64,7 +64,7 @@ You can go into debt an amount of silver equal to 10 x [Communication](Communica
 Your saddlebags can hold an additional 6 size of items.
 
 ### Take Them Alive
-After [Injuring](Injury) someone, if they would die, you may opt for them to go unconscious.
+After [Injuring](Injury) someone, if they would die, you may opt for them to become [Defeated](Effects#Defeated) instead.
 
 
 ---
@@ -92,7 +92,7 @@ You can [Scavenge](Activities#Scavenge) while doing another [Travelling Activity
 ### Non-Target
 As long as you have a [Threat](Stats#Threat) value of 0 or less, enemies don’t consider you a threat until you attack.
 ### Peacekeeper
-Your inflicted [Minimal Injury](Injury#Minimal%20Injury) cause opponents to become [Wounded](Injury#Wounded).
+Your inflicted [Minimal Injury](Injury#Minimal%20Injury) cause opponents to become [Wounded](Effects#Wounded).
 
 ### Tour Guide
 You ignore [Hindrance](Skills#Aid%20and%20Hindrance) when performing skill tests.

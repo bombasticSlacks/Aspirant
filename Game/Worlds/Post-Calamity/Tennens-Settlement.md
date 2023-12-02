@@ -86,7 +86,7 @@ Serving earthy, mossy ale.
 | [Short](Movement#Short) | 3          | 3          | 3         | [Heat](../../Injury#Heat) |            | 
 #### Actions
 * Attack (4, Rending, 2).
-* [Attack(2, Rending, 3)](../../Monster-Actions#Attack(X,%20Y,%20Z)).
+* [Attack(2, Rending, 3)](../../Character-Actions.md#Attack(X,%20TYPE,%20DAMAGE)).
 * Ranged Attack (3) [Severe Injury](../../Injury#Severe%20Injury) [Piercing](../../Injury#Piercing).
 
 #### Reactions

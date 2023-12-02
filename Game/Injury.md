@@ -25,13 +25,13 @@ An attack that doesn't cause serious wounds, but still causes disruption.
 ## Severe Injury
 Severe injuries need medical attention quickly. It can involve broken bones, internal bleeding, and severe lacerations. After taking a severe injury, there is only so long you can fight before you pass out. 
 * Must perform [Endurance](Strength#Endurance) [Fixed Difficulty](Skills#Fixed%20Difficulty) (0) or suffer an [Injury-Effects](Injury-Effects).
-* Become [Wounded](#Wounded).
+* Become [Wounded](Effects#Wounded).
 * You will die from complications without [Stabilization](#Stabilization) in 30–60 minutes.
 
 ## Critical Injury
 Critical injuries pose an immediate threat to your life. You are left severely bleeding, unconscious, with organ failure, etc. as well you will have completely lost use of the attacked area which will need to be replaced with [Prosthetics](Character-Development#Prosthetics) or reattached/fixed by a [Surgeon](Academic#Surgeon).
 * Suffer an [Injury-Effects](Injury-Effects).
-* Become [Wounded](#Wounded).
+* Become [Wounded](Effects#Wounded).
 * Critical [Vitals](#Vitals) injuries kill outright.
 * You will die from complications without [Stabilization](#Stabilization) in 3–5 minutes.
 
@@ -68,10 +68,7 @@ Heat, power, holy energy ravage the body 
 Ice, chill, vampiric energy ravage the body
 
 ## Heroes
-Your characters are heroes. Heroes can’t instantly die from an attack. Any attack that would kill a hero outright, instead leaves the character unconscious and bleeding to death with similar lethality to any critical injury.
-
-## Wounded
-If your character is injured, they only have so long before they pass out/collapse. In general, on each combat turn you are wounded, after you have performed your action, you make an [Endurance](Strength#Endurance) [Fixed Difficulty](Skills#Fixed%20Difficulty)([Injury Penalty](#Injury%20Penalty)) to see if you can continue to fight at a reasonable level (the use of medication and stabilization can cause you to ignore this). For every severe injury after the first add a (-1) to the test for every critical injury add (-2) to the test. If you fail, you fall [Unconscious](Effects#Unconscious).
+Your characters are heroes. Heroes can’t instantly die from an attack. Any attack that would kill a hero outright, instead leaves the character [Defeated](Effects#Defeated).
 
 ## Injury Penalty
 After someone is wounded, whether they pass out or stay conscious, they will suffer long-term effects. Once the combat ends, you will take negatives to any skill tests. Critical injuries give a -3 to all tests, and Severe injuries give a -2 to all tests. This lasts until your characters does [Injury Recovery](Activities#Injury%20Recovery).

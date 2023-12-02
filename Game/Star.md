@@ -84,7 +84,7 @@ A merchant will never refuse to buy items from you, even if they have no interes
 Spend a [Power](Stats#Max%20Power), you may designate a target as a heretic of the cause. They receive a (-1) to all [Actions](Terminology#Action). Any [Action](Terminology#Action) an [Ally](Terminology#Ally) makes against an [Opponent](Terminology#Opponent) who is marked as a heretic is at a (+1).
 
 ### Inspiring Shout
-Spend 3 [Power](Stats#Max%20Power), you may as a [Free Action](Terminology#Free%20Action) cause one of your [Allies](Terminology#Ally) to stop being [Unconscious](Effects#Unconscious). The target retains all injuries and effects, but no longer counts as [Wounded](Injury#Wounded) until they suffer another [Injury](Injury).
+Spend 3 [Power](Stats#Max%20Power), you may as a [Free Action](Terminology#Free%20Action) cause one of your [Allies](Terminology#Ally) to stop being [Defeated](Effects#Defeated). The target retains all injuries and effects, but no longer counts as [Wounded](Effects#Wounded) until they suffer another [Injury](Injury).
 
 ### Understudy
 During [Socialize](Activities#Socialize), you can select a training that another member of your party has, which you count as having until your next [Downtime](Telling-The-Story#Downtime), or [Socialize](Activities#Socialize).
@@ -104,7 +104,7 @@ Spend 2 [Power](Stats#Max%20Power) during [Narrative Time](Telling-The-Story#Nar
 ### Holy Spirit
 Your character is partially controlled by another force, which helps you out with multitasking. 
 * You have an additional [Reaction](Terminology#Reaction). 
-* If you are [Stunned](Effects#Stunned) or [Unconscious](Effects#Unconscious), you may opt to continue fighting or acting with the spirit controlling your body. 
+* If you are [Stunned](Effects#Stunned) or [Defeated](Effects#Defeated), you may opt to continue fighting or acting with the spirit controlling your body. 
 You count as having 2 in each attribute and 1 in each skill while the force is in control or performing a reaction.
 
 ### Perform As The Legends

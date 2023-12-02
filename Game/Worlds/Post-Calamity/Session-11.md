@@ -47,9 +47,9 @@ grand_parent: Worlds
 | ----------------------------- | ---------- | --------- | ---------------------------------------------- | ------------------------------------------------------------ |
 | [Reach](../../Movement#Reach) | 2          | 2         | [Heat](Injury#Heat), [Life](../../Injury#Life) | [Piercing](../../Injury#Piercing), [Cold](../../Injury#Cold) |
 
-* [Attack(3, impact, 2)](Monster-Actions#Attack(X,%20Y,%20Z))
-* [Grapple(3)](Monster-Actions#Grapple(X))
-* [Avoid(1)](../../Monster-Actions#Avoid(X))
+* [Attack(3, impact, 2)](../../Character-Actions.md#Attack(X,%20TYPE,%20DAMAGE))
+* [Grapple(3)](../../Character-Actions.md#Grapple(X,%20OPPOSED))
+* [Avoid(1)](../../Character-Actions.md#Avoid(X))
 
 ##### Rooted
 Trait when grappling they can act normally.
@@ -61,8 +61,8 @@ Trait when grappling they can act normally.
 | ---- | ---------- | --------- | ---------------------------------------------- | ------------------------------------------------------------ |
 | -    | 2, 2       | 5         | [Heat](Injury#Heat), [Life](../../Injury#Life) | [Piercing](../../Injury#Piercing), [Cold](../../Injury#Cold) |
 
-* [Multi Attack(3, impact, 2)](Monster-Actions#Attack(X,%20Y,%20Z))
-* [Multi Grapple(3)](Monster-Actions#Grapple(X))
+* [Multi Attack(3, impact, 2)](../../Character-Actions.md#Attack(X,%20TYPE,%20DAMAGE))
+* [Multi Grapple(3)](../../Character-Actions.md#Grapple(X,%20OPPOSED))
 * Wake The Dead
 * Resistance(1)
 
@@ -75,10 +75,10 @@ Trait when grappling they can act normally.
 | ----------------------------- | ---------- | --------- | -------- | ---------- |
 | [Reach](../../Movement#Reach) | 1          | -         | -        | -          | 
 
-* [Attack(2, impact, 1)](../../Monster-Actions#Attack(X,%20Y,%20Z))
+* [Attack(2, impact, 1)](../../Character-Actions.md#Attack(X,%20TYPE,%20DAMAGE))
 
 ##### Biting
-If already in melee with an opponent, they can [Attack(4, rending, 2)](../../Monster-Actions#Attack(X,%20Y,%20Z)).
+If already in melee with an opponent, they can [Attack(4, rending, 2)](../../Character-Actions.md#Attack(X,%20TYPE,%20DAMAGE)).
 
 #### Wooly Thing
 *Large megafauna like a moose covered in mushrooms and moss.*
@@ -87,8 +87,8 @@ If already in melee with an opponent, they can [Attack(4, rending, 2)](../../Mon
 | ----------------------------- | ---------- | --------- | ------------------------------------------------------ | -------------------------------------------------------------- |
 | [Close](../../Movement#Close) | 4          | 5         | [Heat](Injury#Heat), [Piercing](../../Injury#Piercing) | [Impact](../../Injury#Impact), [Rending](../../Injury#Rending) |
 
-* [Attack(5, impact, 3)](Monster-Actions#Attack(X,%20Y,%20Z))
-* [Avoid(2)](../../Monster-Actions#Avoid(X))
+* [Attack(5, impact, 3)](../../Character-Actions.md#Attack(X,%20TYPE,%20DAMAGE))
+* [Avoid(2)](../../Character-Actions.md#Avoid(X))
 
 ##### Pounce
 As the [Trampler](../../Knight#Trampler) training. skill test is at a (+5).
