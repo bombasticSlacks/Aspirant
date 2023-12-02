@@ -21,7 +21,7 @@ grand_parent: Worlds
 * [Arturas-Gabrys](Arturas-Gabrys) knows that the archeotech bots called "ancient defenders"
 * Got paid, got 3 people to tip a silver heading back to town.
 * After a late night slept through the day and part of the night.
-* Sold the [Bilwis](../../Monsters.md#Bilwis) and [The Full](../../Monsters.md#The%20Full) bits for 30 silver
+* Sold the [Bilwis](../../Monsters#Bilwis) and [The Full](../../Monsters#The%20Full) bits for 30 silver
 * Daytime Activities
 	* [Alexander-Aurelius](Alexander-Aurelius) gained [Knowledgeable Historian](../../Chronicler#Knowledgeable%20Historian)
 	* [Arturas-Gabrys](Arturas-Gabrys) gained [Knowledgeable Interpreter](../../Chronicler#Knowledgeable%20Interpreter)

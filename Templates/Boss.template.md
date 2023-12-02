@@ -7,9 +7,9 @@ Boss
 | ---------- | ---- | ------ | --------- | -------- | ---------- |
 |            |      |        |           |          |            |
 
-* [Resistance(X)](../Game/Character-Actions.md#Resistance(X))
-* [Attack(X, Y, Z)](../Game/Character-Actions.md#Attack(X,%20TYPE,%20DAMAGE))
-* [Avoid(X)](../Game/Character-Actions.md#Avoid(X))
+* [Resistance(X)](../Game/Character-Actions#Resistance(X))
+* [Attack(X, Y, Z)](../Game/Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
+* [Avoid(X)](../Game/Character-Actions#Avoid(X))
 
 ###### Rewards
 {: .no-toc }

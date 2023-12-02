@@ -32,9 +32,9 @@ Elite
 | ---------- | -------------------------- | ------ | --------- | -------------------------- | ---------------------- |
 | 6          | [Short](../Movement#Short) | 3      | 2         | [Impact](../Injury#Impact) | [Life](../Injury#Life) | 
 
-* [Attack(4, Impact, 2)](../Character-Actions.md#Attack(X,%20TYPE,%20DAMAGE))
-* [Avoid(4)](../Character-Actions.md#Avoid(X))
-* [Eruption(Close, Rending, 3)](../Character-Actions.md#Eruption(RANGE,%20TYPE,%20DAM)) 
+* [Attack(4, Impact, 2)](../Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
+* [Avoid(4)](../Character-Actions#Avoid(X))
+* [Eruption(Close, Rending, 3)](../Character-Actions#Eruption(RANGE,%20TYPE,%20DAM)) 
 
 ###### Rewards
 {: .no-toc }

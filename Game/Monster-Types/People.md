@@ -32,9 +32,9 @@ Elite
 | ---------- | ----------------------------- | ------ | --------- | ------------------------- | ---------- |
 | 2          | [Close](../Movement#Close) | 2      | 2         | [Heat](../Injury#Heat) |            |
 
-* [Attack(2, Rending, 2)](../Character-Actions.md#Attack(X,%20TYPE,%20DAMAGE))
-* [Avoid(1)](../Character-Actions.md#Avoid(X))
-* [Grapple(3, 1)](../Character-Actions.md#Grapple(X,%20OPPOSED))
+* [Attack(2, Rending, 2)](../Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
+* [Avoid(1)](../Character-Actions#Avoid(X))
+* [Grapple(3, 1)](../Character-Actions#Grapple(X,%20OPPOSED))
 
 ###### Flesh Offering
 Attack

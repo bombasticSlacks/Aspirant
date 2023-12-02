@@ -39,7 +39,7 @@ Boss
 | ---------- | ---- | ------ | --------- | -------- | ---------- |
 |            |      |        |           |          |            |
 
-* [Resistance(X)](../Character-Actions.md#Resistance(X))
+* [Resistance(X)](../Character-Actions#Resistance(X))
 * Ability 1
 * Ability 2
 

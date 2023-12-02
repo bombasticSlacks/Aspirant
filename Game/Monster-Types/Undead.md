@@ -30,8 +30,8 @@ Fodder
 | ---------- | ----------------------------- | ------ | --------- | -------- | ---------- |
 | 2          | [Close](../../Movement#Close) | 2      | -         | -        | -          |
 
-* [Attack(3, Rending, 1)](../Character-Actions.md#Attack(X,%20TYPE,%20DAMAGE))
-* [Phobia(Sunlight)](../Character-Actions.md#Phobia(FEAR))
+* [Attack(3, Rending, 1)](../Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
+* [Phobia(Sunlight)](../Character-Actions#Phobia(FEAR))
 
 ###### Rewards
 {: .no-toc }
@@ -46,8 +46,8 @@ Elite
 | Initiative | Move                          | Threat | Integrity | Weakness | Resistance |
 | ---------- | ----------------------------- | ------ | --------- | -------- | ---------- |
 | 3          | [Close](../../Movement#Close) | 4      | 3         | Magic    | Physical   |
-* [Attack(5, Impact, 2)](../Character-Actions.md#Attack(X,%20TYPE,%20DAMAGE))
-* [Phobia(Sunlight)](../Character-Actions.md#Phobia(FEAR))
+* [Attack(5, Impact, 2)](../Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
+* [Phobia(Sunlight)](../Character-Actions#Phobia(FEAR))
 
 ###### Crumbling Flesh
 {: .no-toc}
@@ -71,9 +71,9 @@ Boss
 | ---------- | ----------------------------- | ------ | --------- | ------------------------- | ------------------------- |
 | 3,3        | [Close](../../Movement#Close) | 3      | 6         | [Life](../../Injury#Life) | [Heat](../../Injury#Heat) |
 
-* [Avoid(4)](../Character-Actions.md#Avoid(X))
-* [Attack(5, Impact, 2)](../Character-Actions.md#Attack(X,%20TYPE,%20DAMAGE))
-* [Ranged Attack(5, Heat, 3, Short)](../Character-Actions.md#Ranged%20Attack(X,%20TYPE,%20DAMAGE,%20RANGE))
+* [Avoid(4)](../Character-Actions#Avoid(X))
+* [Attack(5, Impact, 2)](../Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
+* [Ranged Attack(5, Heat, 3, Short)](../Character-Actions#Ranged%20Attack(X,%20TYPE,%20DAMAGE,%20RANGE))
 
 ###### Rich Blood
 {: .no-toc }
