@@ -56,10 +56,9 @@ Attack
 * The [Opposed Difficulty](Skills#Opposed%20Difficulty) penalty for dealing with the [Grapple](Special-Combat-Actions#Grapple) is OPPOSED.
 
 ---
-## Shove(X, DISTANCE)
 Attack
 {: .label .label-red }
-
+## Shove(X, DISTANCE)
 *The monster throws its weight at you, sending you flying.*
 
 * The monster performs a [Shove](Special-Combat-Actions#Shove), moving a distance of DISTANCE.
