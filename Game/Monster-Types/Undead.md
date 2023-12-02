@@ -52,6 +52,7 @@ Elite
 | Initiative | Move                          | Threat | Integrity | Weakness | Resistance |
 | ---------- | ----------------------------- | ------ | --------- | -------- | ---------- |
 | 3          | [Close](../../Movement#Close) | 4      | 3         | Magic    | Physical   |
+
 * [Attack(5, Impact, 2)](../Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
 * [Phobia(Sunlight)](../Character-Actions#Phobia(FEAR))
 
