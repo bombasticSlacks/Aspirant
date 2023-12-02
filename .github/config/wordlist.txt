@@ -80,6 +80,7 @@ narratively
 nav
 noxgreen
 NPC
+NPCs
 Orks
 Overwatch
 PBtA
