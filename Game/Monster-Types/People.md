@@ -37,9 +37,9 @@ Elite
 * [Avoid(1)](../Character-Actions#Avoid(X))
 * [Grapple(3, 1)](../Character-Actions#Grapple(X,%20OPPOSED))
 
-#### Flesh Offering
 Attack
 {: .label .label-red }
+#### Flesh Offering
 *The cultist pulls at you, tearing your body apart.*
 * If the monster is controlling a [Grapple](Special-Combat-Actions#Grapple), they may break the [Grapple](Special-Combat-Actions#Grapple) to deal 3 [Rending](Injury#Rending) [Ancillary](Injury#Ancillary) [Damage](Terminology#Damage).
 

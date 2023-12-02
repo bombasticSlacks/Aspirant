@@ -26,7 +26,7 @@ The unliving, otherworldly, and cursed living dead.
 Fodder
 {: .label .label-green }
 ### The Hungry
-*Corpse cursed with unlife after being preyed upon by another human while starving. Teeth click together as it gnaws at nothing, bony appendages with large chunks of flesh missing, seeming to have been bitten or ripped away. Necrotic ooze holds the creature barely together*
+*Corpse cursed with unlife after being preyed upon by another human while starving. Teeth click together as it gnaws at nothing, bony appendages with large chunks of flesh missing, seeming to have been bitten or ripped away. Necrotic ooze holds the creature barely together.*
 
 | Initiative | Move                          | Threat | Integrity | Weakness | Resistance |
 | ---------- | ----------------------------- | ------ | --------- | -------- | ---------- |
@@ -47,7 +47,7 @@ Fodder
 Elite
 {: .label .label-yellow }
 ### The Full
-*Corpse cursed with unlife after performing the blasphemous act of devouring its allies. Its maw hangs open widely, dripping necrotic ooze. Portions of its body seem to have been reinforced with chunks of almost tumorous flesh*
+*Corpse cursed with unlife after performing the blasphemous act of devouring its allies. Its maw hangs open widely, dripping necrotic ooze. Portions of its body seem to have been reinforced with chunks of almost tumorous flesh.*
 
 | Initiative | Move                          | Threat | Integrity | Weakness | Resistance |
 | ---------- | ----------------------------- | ------ | --------- | -------- | ---------- |
@@ -55,11 +55,10 @@ Elite
 * [Attack(5, Impact, 2)](../Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
 * [Phobia(Sunlight)](../Character-Actions#Phobia(FEAR))
 
-#### Crumbling Flesh
-{: .no-toc}
 Trait
 {: .label .label-purple }
-
+#### Crumbling Flesh
+{: .no-toc}
 *The creature's flesh is separate with large gushing streams of black ooze infecting everything nearby.*
 * On taking [Damage](../Terminology#Damage) for every damage taken up to one character in [Reach](../Movement#Reach), determined randomly, takes 2 damage. Defeated undead can be selected for this ability and if targeted are revived at full power.
 
@@ -84,19 +83,18 @@ Boss
 * [Attack(5, Impact, 2)](../Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
 * [Ranged Attack(5, Heat, 3, Short)](../Character-Actions#Ranged%20Attack(X,%20TYPE,%20DAMAGE,%20RANGE))
 
-#### Rich Blood
-{: .no-toc }
 Reaction
 {: .label .label-yellow }
-
+#### Rich Blood
+{: .no-toc }
 *The air around the cardinal wreaks with an almost maddening scent that can stop you dead in your tracks.*
 * When a target moves within [Reach](../../Movement#Reach) of The Cardinal, they must succeed an [Identity](../../Spirit#Identity) [Fixed Difficulty](../../Skills#Fixed%20Difficulty)(0) or end their turn. This effect persists until The Cardinals next [Combat Turn](../Terminology#Combat%20Turn).
 
+Trait
+{: .label .label-purple }
 #### The Sun's Gaze
 {: .no-toc }
 *You've ripped the hand apart, but something is underneath!*
-Trait
-{: .label .label-purple }
 * This effect only happens once The Cardinal is at 0 integrity.
 * Anyone [Close](../../Movement#Close) to The Cardinal at the end of its [Combat Turn](../../Terminology#Combat%20Turn) suffers a 1 [Damage](../../Terminology#Damage) [Heat](../../Injury#Heat) [Vitals](../../Injury#Vitals) [Injury](../../Injury) that can be mitigated by armour.
 * The [Injury-Effects](../../Injury-Effects) is scorched lungs leaving the [Character](../../Terminology#Character) unable to breath and [Stunned](../../Effects#Stunned).

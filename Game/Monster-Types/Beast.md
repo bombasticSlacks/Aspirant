@@ -30,6 +30,7 @@ The predators of this world, natural fauna and megafauna.
 
 ## Boss
 
+---
 Boss
 {: .label .label-red }
 ### Manticore
