@@ -95,29 +95,3 @@ Settlements size 3 and above will potentially have interesting traits that affec
 | Open Workshops     | Facilities and workshops are free in this city.                                                                                                                                                                                        |
 | Adventurers Guild  | This city has a large collection of travelling adventurers and with it rare items and jobs.                                                                                                                                            |
 | University         |   One full additional branch of trainers is available. </br>  Housing is hard to find, staying daily costs 1 additional silver. </br> Additional Day Work: </br>  Copier – 2 silver daily </br> Reviewer – 3 silver daily, requires knowledge 2                                                                                                                                                                                                                                 |
-
-# Creatures
-Creatures generally have a few attributes that dictate their power. To really simplify, creatures can have stats out of 8. Otherwise, they can specify a value for [Strength](Strength), [Agility](Agility), [Spirit](Spirit) and then a few notable skills
-
-## Skills
-The skill values creatures have. Usually out of 3 or 8 depending on if the creature has defined attributes.
-
-Additional skills can be defined, but the basics are:
-
-## Attack
-How effective the creature is at attacking.
-
-## Evasion
-How effective the creature is at avoiding attacks.
-
-## Skills
-How effective the creature is at performing other skill tests. This can be further split up if need be but for simple creatures can easily be one roll.
-
-## Special Rules
-Creatures will have potential special rules that will make them do unique things in combat.
-
-## Minions
-A minion is an elementary enemy. Becoming injured immediately disables a minion class enemy. 
-
-## Bosses
-A boss is a mighty enemy. They usually have 2+ actions in a turn and should have 1 additional reaction on top of any traits or special rules. They roll separate [Initiative Value](Combat#Initiative%20Value) for each of these actions. Usually, the only restriction is that the boss can’t perform the same action against the same character twice. If a boss must target the same character twice, they should perform two unique actions.

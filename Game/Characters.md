@@ -28,7 +28,7 @@ Weak characters that have no [Armour Integrity](Armour#Armour%20Integrity), few 
 Characters similarly powerful to the player characters. They should have [Armour Integrity](Armour#Armour%20Integrity), [Reaction](Terminology#Reaction), and multiple [Action](Terminology#Action). If an elite enemy is [Wounded](Effects#Wounded) they are immediately [Defeated](Effects#Defeated).
 
 ### Bosses
-Characters that could occupy multiple party members. They may have multiple [Reaction](Terminology#Reaction), and multiple [Initiative Value](Combat#Initiative%20Value) giving them additional [Action](Terminology#Action) each turn. They should also have [Resistance(X)](Character-Actions#Resistance(X)) allowing them to survive potentially lethal strikes like a player character. 
+Characters that could occupy multiple party members. They may have multiple [Reaction](Terminology#Reaction), and multiple [Initiative Value](Combat#Initiative%20Value) giving them additional [Action](Terminology#Action) each turn though they should, if possible, attempt different actions against different characters during each [Combat Round](Terminology#Combat%20Round). They should also have [Resistance(X)](Character-Actions#Resistance(X)) allowing them to survive potentially lethal strikes like a player character. 
 
 ## Complex NPCs
 For significant NPCs that will interact in very meaningful ways with the players. Complex NPCs come in two categories: [Archetypes](#Archetypes) and [Full](#Full).
