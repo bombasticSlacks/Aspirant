@@ -27,7 +27,7 @@ grand_parent: Worlds
 * Simple and Greg Socialize
 * Arturas + Vespin doing Half Work to make flash bombs
 * Alexander on watch
-* Were attacked by a [Bilwis](Monsters#Bilwis) while crossing a cursed field.
+* Were attacked by a [Bilwis](../../Monsters#Bilwis) while crossing a cursed field.
 * Made it to [Wayside](Wayside)
 
 ## To Do

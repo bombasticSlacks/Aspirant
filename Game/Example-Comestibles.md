@@ -83,7 +83,7 @@ A specialized amphetamine that can be snorted. This compound is designed to keep
 ### Munitions
 *Explosives made with various reagents that combine with, in most cases, basic metal bits*
 
-Munitions are available to craft and purchase with various outcomes such as dealing fire damage, healing allies wounds, and utility like smoke fields and sticky.  While many basic explosives are simple to craft or inexpensive to purchase, those with powerful effects will instead require complex crafting skills, exotic and rare reagents, or have scarce and costly availability.  All munitions target a single opponent or a single space in combat unless enhanced beyond their natural ability.  Additionally, all bombs count as 1/5 size per bomb.
+Munitions are available to craft and purchase with various outcomes such as dealing fire damage, healing allies wounds, and utility like smoke fields and sticky. While many basic explosives are simple to craft or inexpensive to purchase, those with powerful effects will instead require complex crafting skills, exotic and rare reagents, or have scarce and costly availability. All munitions target a single opponent or a single space in combat unless enhanced beyond their natural ability. Additionally, all bombs count as 1/5 size per bomb.
 
 
 | Munition | Materials To Craft | # Created Per Craft | Description | Effect | Crafting Cost |

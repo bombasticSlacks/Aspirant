@@ -28,8 +28,8 @@ grand_parent: Worlds
 * 2 [Dungeoneering Kit](../../Example-Gear#Dungeoneering%20Kit) + Excavation Tool Set + [Light Kit](../../Example-Gear#Light%20Kit) need to return all but the light kit.
 * [Simple-Joe](Simple-Joe) was given 8 silver for performing surgery
 * 15 minutes into the mine travelling and getting tired. 
-* ambushed by the remains of the miners: [The Full](Monsters#The%20Full), and 9 of [The Hungry](Monsters#The%20Hungry) in the clearing where the attack took place.
-* [Arturas-Gabrys](Arturas-Gabrys) destroyed [The Full](Monsters#The%20Full) lobbing off its head
+* ambushed by the remains of the miners: [The Full](../../Monsters#The%20Full), and 9 of [The Hungry](../../Monsters#The%20Hungry) in the clearing where the attack took place.
+* [Arturas-Gabrys](Arturas-Gabrys) destroyed [The Full](../../Monsters#The%20Full) lobbing off its head
 * The full provided an Apex Predator Bit
 
 ## Rewards
@@ -53,9 +53,9 @@ The night manager, keeps a tight ship wants to blow it up.
 * [Apetite In The Mines](Hooks#Apetite%20In%20The%20Mines)
 * [Something Underground](Hooks#Something%20Underground)
 
-## Monsters
-* [The Hungry](Monsters#The%20Hungry)
-* [The Full](Monsters#The%20Full)
+### Monsters
+* [The Hungry](../../Monsters#The%20Hungry)
+* [The Full](../../Monsters#The%20Full)
 
 ## Scratch Space
 Initiative:

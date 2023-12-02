@@ -55,7 +55,7 @@ Stanton’s list of people to acquire:
 * Wants to use the thieves' guild in [Verdantholm](Verdantholm), transforming it into an intelligence agency.
 
 ## Percilla Crimson
-A daughter of one of the [Crimson](Vampire-Lords.md#Crimson) Ladies.
+A daughter of one of the [Crimson](Vampire-Lords#Crimson) Ladies.
 
 Alexander as a boy met Percilla travelling through [Crosshaven](Crosshaven) with her family. They had met and taken a liking to one another.
 
@@ -64,14 +64,14 @@ A user of arcane blood magic, and haruspex.
 Located in the courts of the vampires.
 
 ## Ignis Lux
-High ranking religious figure of [The-Holy-Order](The-Holy-Order.md).
+High ranking religious figure of [The-Holy-Order](The-Holy-Order).
 * Inquisitor,
 * Bishop,
 * High Priest
 
 [Alexander-Aurelius](Alexander-Aurelius) knows of Ignis through his preaching of unity and togetherness. Is anti dogma and pro guidance. Has no interest in attacking the heretics. A bit of a black sheep.
 
-Typical holy warrior, would be capable of some [Miracles and Prayers](The-Holy-Order.md#Miracles%20and%20Prayers), and have access to the [Reliquary](The-Holy-Order.md#Reliquary).
+Typical holy warrior, would be capable of some [Miracles and Prayers](The-Holy-Order#Miracles%20and%20Prayers), and have access to the [Reliquary](The-Holy-Order#Reliquary).
 
 Located at [Calphion](Calphion), an influential (second in command) at the church there.
 

@@ -51,7 +51,7 @@ Your [Shoves](Special-Combat-Actions#Shove) make people travel twice the distanc
 ## Advanced
 
 ### Adrenaline Response
-After suffering an [Injury](Injury) that would make you [Wounded](Injury#Wounded), you immediately get to take an additional [Combat Turn](Terminology#Combat%20Turn) (in addition to your regular turn). After this [Combat Turn](Terminology#Combat%20Turn), you then return to the standard [Combat Round](Terminology#Combat%20Round) order, including resolving the results of your injuries.
+After suffering an [Injury](Injury) that would make you [Wounded](Effects#Wounded), you immediately get to take an additional [Combat Turn](Terminology#Combat%20Turn) (in addition to your regular turn). After this [Combat Turn](Terminology#Combat%20Turn), you then return to the standard [Combat Round](Terminology#Combat%20Round) order, including resolving the results of your injuries.
 
 ### Cleave
 If you cause an [Injuring Attack](Terminology#Injuring%20Attack) on a [Character](Terminology#Character) you are [In Melee](Effects#In%20Melee) with that causes a [Critical Injury](Injury#Critical%20Injury) or more severe, you may make an additional [Attack](Terminology#Attack) against another enemy with the same weapon and [Combat Modifiers](Attacks#Combat%20Modifiers).
@@ -72,7 +72,7 @@ When you make a [Strike](Strength#Strike) skill test, spend a [Power](Stats#Max%
 * +1 [Strength](Strength)
 * -1 [Intelligence](Intelligence)
 * +2 to [Endurance](Strength#Endurance) tests
-* Ignore [Being Wounded](Injury#Wounded)
+* Ignore [Being Wounded](Effects#Wounded)
 
 On any [Combat Turn](Terminology#Combat%20Turn) where you don't make an [Attack](Terminology#Attack), you must roll a d6, on a 1-3 you stop being enraged.
 

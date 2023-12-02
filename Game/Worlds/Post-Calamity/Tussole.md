@@ -18,7 +18,7 @@ Capital Embassy there, Dockmaster represents the interest [Calphion](Calphion)
 
 3 Merchant Guilds
 
-## Yellow band
+## Yellow Band
 
 ## Argent Enterprises
 

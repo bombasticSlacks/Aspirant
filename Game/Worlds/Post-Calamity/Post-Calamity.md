@@ -24,4 +24,4 @@ The continent within which this takes place, split in two, the game takes place 
 ## Pages of Interest
 * [Crafting-Recipes](Crafting-Recipes)
 * [Hooks](Hooks)
-* [Monsters](Monsters)
+* [Monsters](../../Monsters)

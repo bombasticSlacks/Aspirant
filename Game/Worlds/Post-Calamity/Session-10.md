@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Session 9
+title: Session 10
 parent: Post Calamity
 nav_order: 1
 grand_parent: Worlds
@@ -101,9 +101,9 @@ Traveling to Breckles
 | ----------------------------- | ---------- | ---------- | --------- | ------------------- | ---------- |
 | [Reach](../../Movement#Reach) | 2          | -          | 2         | [Heat](Injury#Heat), [Life](../../Injury#Life) | [Piercing](../../Injury#Piercing), [Cold](../../Injury#Cold)          |
 
-* [Attack(3, impact, 2)](Monster-Actions#Attack(X,%20Y,%20Z))
-* [Grapple(3)](Monster-Actions#Grapple(X))
-* [Avoid(1)](../../Monster-Actions#Avoid(X))
+* [Attack(3, impact, 2)](../../Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
+* [Grapple(3)](../../Character-Actions#Grapple(X,%20OPPOSED))
+* [Avoid(1)](../../Character-Actions#Avoid(X))
 
 ### Rooted
 Trait when grappling they can act normally.

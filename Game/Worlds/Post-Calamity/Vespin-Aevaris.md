@@ -13,5 +13,7 @@ Was exiled from his home [Verdantholm](Verdantholm); when the wizards do this it
 
 Now Vespin is on a pilgrimage to try and regain power. He was travelling towards the endless fire region when he was propositioned by Alexander to join him. With his new group, they will most likely end up in places of great power and there is safety in numbers, as not everyone is too fond of the name Vespin Aevaris. Though, he himself doesn’t remember what he did yet.
 
-## Curse Of Name
-Vespin's name is cursed, those who speak it have ill memories of it, even if they cannot place why.
+Vespin's name is cursed, those who speak it have ill memories of it, even if they cannot place why and it get's stuck in peoples heads.
+
+
+Who cursed Vespins name?

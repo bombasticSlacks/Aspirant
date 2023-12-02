@@ -17,8 +17,8 @@ You can only [Move](Combat-Turn#Move) on your [Combat-Turn](Combat-Turn), but [O
 ## Disarm
 With at least one free hand or a melee weapon, you can attempt to disarm a [Character](Terminology#Character) [In Melee](Effects#In%20Melee) with you. Make a [Strike](Strength#Strike) skill test at (-1) and if successful, your opponent drops their weapon (or it is now in your hands).
 
-## Grapple
-Make an attack with the intent of getting control of your opponent. If you successfully hit, your opponent is in a grapple. 
+### Grapple
+Make an attack with the intent of getting control of your opponent. If this is an [Non-mitigated Attack](Terminology#Non-mitigated%20Attack), your opponent is in a grapple. 
 On their turn, they may:
 * Attempt an [Athletics](Strength#Athletics) [Opposed Difficulty](Skills#Opposed%20Difficulty) skill test to become the grappler, instead of the grappled. This test is opposed by the grapplers [Athletics](Strength#Athletics)
 * Attempt a [Grace](Agility#Grace) [Opposed Difficulty](Skills#Opposed%20Difficulty) skill test to stop being grappled. This test is opposed by the grapplers [Athletics](Strength#Athletics).
@@ -36,4 +36,4 @@ Declare a 45-degree cone in front of you. If anyone moves into that area, you ma
 Which is a [Strike](Strength#Strike) skill test at (-2) where if you succeed, then if an enemy attacks you [in melee](#Being%20in%20Melee%20Combat) and succeeds, you ignore the attack. If they fail their skill test to attack, you may make an attack on them without requiring a skill test.
 
 ## Shove
-With at least one free hand, you can attempt to move someone. Make a [Strike](Strength#Strike) skill test, if you succeed, you can move them up to your strength in meters. If they hit something, they become knocked down.
+With at least one free hand, you can attempt to move someone. Make a [Strike](Strength#Strike) skill test, if you succeed, you can move them somewhere within [Reach](Movement#Reach) if you have 1-3 [Strength](Strength) and somewhere [Close](Movement#Close) otherwise.
