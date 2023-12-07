@@ -19,7 +19,7 @@ They can generally teach the following training:
 ## Basic
 
 ### Apophenia
-Spend a [Power](Stats#Max%20Power){: .previewbox-anchor }, you can declare your far-fetched theory about what is really going on. Rolls you make which help confirm or refute your theory receive +1.
+Spend a [Power](Stats#Max%20Power), you can declare your far-fetched theory about what is really going on. Rolls you make which help confirm or refute your theory receive +1.
 
 Your far-fetched theory can help progress [Projects](Skills#Project) only tangentially related.
 
