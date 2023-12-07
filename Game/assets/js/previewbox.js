@@ -2,6 +2,8 @@
  * Previewbox
  *
  * Copyright (C) 2013 Fischer Liu | MIT license | https://github.com/Fischer-L/previewbox
+ * 
+ * Modified by Dillon Matchett for bombasticGames RPGs
  *******************************************************************************************/
 var previewbox = (function () {
 	"use strict";
@@ -1174,30 +1176,7 @@ var previewbox = (function () {
 							break;
 						
 							case _CONST.modeMobile:								
-								// Let _a_openPreviewMobile handle								
-							break;
-						}
-					}
-				},
-				
-				_a_openPreviewMobile = function (e) {
-				
-					e = _normalizeEvent(e);
-					
-					if (_isHref(a.href)) {
-					
-						switch (_getAppropriateMode()) {
-						
-							case _CONST.modePC:
-								// Let _a_openPreviewPC handle								
-							break;
-						
-							case _CONST.modeMobile:
-							
-								e.preventDefault();
-								
-								_showBoxMobile(a);
-								
+								// Don't want anything to happen with mobile								
 							break;
 						}
 					}
@@ -1219,7 +1198,6 @@ var previewbox = (function () {
 				
 				_addEvent(a, "mouseout", _a_closePreviewPC);
 				_addEvent(a, "mouseover", _a_openPreviewPC);
-				_addEvent(a, "click", _a_openPreviewMobile);
 			}
 			return a;
 		},
