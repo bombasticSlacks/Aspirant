@@ -187,14 +187,14 @@ var previewbox = (function () {
 					"alwaysMobileMode" : [ false, __commonTypeChker.isBOOL ],
 					
 					// <BOO> If true, no effects would take place in the mobile mode. You may need this for a better performance on mobile device.
-					"noEffectsInMobile" : [ false, __commonTypeChker.isBOOL ],
+					"noEffectsInMobile" : [ true, __commonTypeChker.isBOOL ],
 				
 				// !-- Config settings -- //
 				
 				// -- Style settings -- //
 				
 					// <NUM> The padding of the preview box in px
-					"#previewbox/padding" : [ 14, __commonTypeChker.isNUM ],
+					"#previewbox/padding" : [ 0, __commonTypeChker.isNUM ],
 					// <STR> The preview box's box-shadow CSS value
 					"#previewbox/box-shadow" : [ "", __commonTypeChker.isSTR ],
 					// <STR> The CSS color of the preview box' border
@@ -203,7 +203,7 @@ var previewbox = (function () {
 					"#previewbox/background-image" : [ "", __commonTypeChker.isSTR ],
 					
 					// <STR> The inner text value of the #previewbox-hintxt
-					"#previewbox-hintxt/value" : [ "Preview", __commonTypeChker.isNonEmptySTR ],
+					"#previewbox-hintxt/value" : [ "", __commonTypeChker.isSTR ],
 										
 					// -- For the PC mode -- // 
 					
