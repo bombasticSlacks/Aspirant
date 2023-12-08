@@ -47,6 +47,7 @@ Attack
 {: .no-toc }
 * [Cloth](../Example-Armour#Cloth) armour.
 * Size 2 [Metal](../Metal) [Artisan](../Designing-Weapons#Artisan) weapons with [Lethal](../Weapon-Traits#Lethal)
+
 ---
 
 ## Boss
