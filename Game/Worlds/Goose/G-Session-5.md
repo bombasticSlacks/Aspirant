@@ -4,7 +4,7 @@ nav_exclude: true
 ---
 ## Session 5
 
-## Step 2 3rd of Summer
+## Step 2 4th of Summer
 * Man murmuring in madness, burning paper and wood to make a constellation map out of ash.
 * Casey knows this person suffered a traumatic event, 
 * Stem is helping the person to map the stars.
