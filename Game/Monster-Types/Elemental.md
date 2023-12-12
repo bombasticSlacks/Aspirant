@@ -39,7 +39,32 @@ Elite
 * [Eruption(Close, Rending, 3)](../Character-Actions#Eruption(RANGE,%20TYPE,%20DAM)) 
 
 #### Rewards
-{: .no-toc }
+{: .no_toc }
 * Dormant wind: 1 size of [Artisan Resonant](../Resonant#Artisan%20Resonant).
 
+---
+Elite
+{: .label .label-yellow }
+### Elemental Earth
+
+| Initiative | Move                          | Threat | Integrity | Weakness                                       | Resistance                                                   |
+| ---------- | ----------------------------- | ------ | --------- | ---------------------------------------------- | ------------------------------------------------------------ |
+| 2          | [Reach](../../Movement#Reach) | 3      | 2         | [Heat](Injury#Heat), [Life](../../Injury#Life) | [Piercing](../../Injury#Piercing), [Cold](../../Injury#Cold) |
+
+* [Attack(3, impact, 2)](../../Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
+* [Grapple(3)](../../Character-Actions#Grapple(X,%20OPPOSED))
+* [Avoid(1)](../../Character-Actions#Avoid(X))
+
+
+Trait
+{: .label .label-purple }
+#### Rooted
+{: .no_toc }
+While controlling a [Grapple](../Character-Actions#Grapple(X,%20OPPOSED)) this creature can perform [Action](../Terminology#Action) as normal.
+
+#### Rewards
+{: .no_toc }
+Hallowed roots: 1 size of [Basic Bits](../Bits#Basic%20Bits).
+
+---
 ## Boss

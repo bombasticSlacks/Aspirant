@@ -3,7 +3,7 @@
 * Effects
 
 ### Removing
-{: .no-toc }
+{: .no_toc }
 * Rules
 
 ---

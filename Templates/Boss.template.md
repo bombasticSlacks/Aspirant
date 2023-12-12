@@ -12,7 +12,7 @@ Boss
 * [Avoid(X)](../Game/Character-Actions#Avoid(X))
 
 #### Rewards
-{: .no-toc }
+{: .no_toc }
 * Reward
 
 ---

@@ -44,7 +44,7 @@ Attack
 * If the monster is controlling a [Grapple](Special-Combat-Actions#Grapple), they may break the [Grapple](Special-Combat-Actions#Grapple) to deal 3 [Rending](Injury#Rending) [Ancillary](Injury#Ancillary) [Damage](Terminology#Damage).
 
 #### Rewards
-{: .no-toc }
+{: .no_toc }
 * [Cloth](../Example-Armour#Cloth) armour.
 * Size 2 [Metal](../Metal) [Artisan](../Designing-Weapons#Artisan) weapons with [Lethal](../Weapon-Traits#Lethal)
 

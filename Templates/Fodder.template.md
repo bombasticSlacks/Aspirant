@@ -10,6 +10,6 @@ Fodder
 * [Attack(X, Y, Z)](../Game/Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
 
 #### Rewards
-{: .no-toc }
+{: .no_toc }
 * Reward
 ---

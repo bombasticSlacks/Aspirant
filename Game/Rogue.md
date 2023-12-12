@@ -41,6 +41,9 @@ You can use any [Exotic](Weapons#Exotic) weapon without penalty.
 ### Fast Hands
 You may [Disarm](Special-Combat-Actions#Disarm) using a [Reflexes](Agility#Reflexes) [Fixed Difficulty(-1)](Skills#Fixed%20Difficulty).
 
+### Hit And Run
+On your [Combat Turn](Terminology#Combat%20Turn), you may make an [Attack](Terminology#Attack) at (-2) additional penalty, and then perform a non-attack action or movement.
+
 ### Light Step
 You never trigger traps by moving over them. You also receive a +1 to [Grace](Agility#Grace) skill tests related to moving silently.
 
@@ -49,9 +52,6 @@ When making a [Ranged Attack](Terminology#Ranged%20Attack), you may spend a [Pow
 
 ### Lost in the Crowd
 If you are [In Melee](Effects#In%20Melee) you have a [Threat](Stats#Threat) of 0 to [Characters](Terminology#Character) not [In Melee](Effects#In%20Melee) with you.
-
-### Multitasking
-On your [Combat Turn](Terminology#Combat%20Turn), you may make an [Attack](Terminology#Attack) at (-2) additional penalty, and then perform a non-attack action or movement.
 
 ### Olympian
 Your [Thrown Attack](Terminology#Thrown%20Attack) count as having a range of 1 additional [Distance Increment](Movement#Distance%20Increments). 
