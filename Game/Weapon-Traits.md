@@ -89,13 +89,16 @@ This weapon has an additional combat profile with the default traits and a diffe
 If your weapon has [Capacity](Terminology#Capacity) it has 3 additional.   
 
 ### On Line
-This weapon cannot be used to perform [Reactions](Terminology#Reaction), you can make [Melee Attack](Terminology#Melee%20Attack) with this weapon at a range of [Close](Movement#Close), you cannot attack further taking a [Distance Penalty](Attack-Bonuses#Distance%20Penalty).
+* While wielded you suffer a (-1) to [Reactions](Terminology#Reaction). 
+* You can make [Melee Attack](Terminology#Melee%20Attack) with this weapon at a range of [Close](Movement#Close), you cannot attack further, taking a [Distance Penalty](Attack-Bonuses#Distance%20Penalty).
 
 ### Reach
 Performing [Melee Attack](Terminology#Melee%20Attack) doesn't put you [In Melee](Effects#In%20Melee). You contribute to [Outnumbered](Attack-Bonuses#Outnumbered) for anyone in [Reach](Movement#Reach).
 
 ### Shield
-This weapon can no longer be used for attacks. Instead, it provides a +2 to skill tests using it. #TODO
+* This weapon deals 1 [Impact](Injury#Impact) [Damage](Terminology#Damage).
+* This weapon provides a (+2) to [Avoid](Reacting-To-Attacks#Avoid) skill tests when wielded.
+* This weapon counts as additional [Armour](Armour) protecting your [Vitals](Injury#Vitals) with [Size](Weapons#Size) [Armour Integrity](Armour#Armour%20Integrity), that can only be used against [Ranged Attack](Terminology#Ranged%20Attack).
 
 ### Sling
 *This weapon aids with throwing things long distances.*

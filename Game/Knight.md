@@ -49,7 +49,7 @@ During your [Combat-Turn](Combat-Turn), you may spend a [Power](Stats#Power) to 
 While [Mounted](Terminology#Mounted), you may draw from your [Saddlebag](Storage#Saddlebag) as you would draw from your [Belt](Storage#Belt).
 
 ### Shield Expert
-While wielding a [Shield](Terminology#Shield), it also provides the arm holding it, head, and torso with additional [Armour](Armour) that cannot be used against [Melee Attacks](Terminology#Melee%20Attack). A standard shield has no weaknesses or resistances, and its armour integrity is 4.
+While wielding a [Shield](Terminology#Shield), it also protects against [Ancillary](Injury#Ancillary) [Ranged Attack](Terminology#Ranged%20Attack).
 
 ### Steel Wall
 If a [Character](Terminology#Character) performs a [Mitigated Attack](Terminology#Mitigated%20Attack) on you, that enemy cannot perform attacks against you until your next turn.
