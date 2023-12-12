@@ -66,7 +66,7 @@ Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 * Alter the world around you.
 * Alter yourself in meaningful ways, including transforming into animals. 
 * Alter others in simple ways.
-* When attacking with a [Magic Attack](Magic-Modifiers#Magic%20Attack) you can use the: [Cone](Magic-Modifiers#Cone), and [Stunning](Magic-Modifiers#Stunning) [Magic-Modifiers](Magic-Modifiers)
+* When attacking with a [Magic Attack](Magic-Modifiers#Magic%20Attack) you get +1 [Damage Bonus](Weapons#Damage%20Bonus), you can use the: [Cone](Magic-Modifiers#Cone), and [Stunning](Magic-Modifiers#Stunning) [Magic-Modifiers](Magic-Modifiers)
 
  Requires 2 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Example-Gear#Focus)
 
@@ -90,6 +90,6 @@ Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 * Change yourself into incredible forms, including magical creatures.
 * Alter others in meaningful ways. 
 * Transform an item into something completely unrelated.
-* When attacking with a [Magic Attack](Magic-Modifiers#Magic%20Attack) you can use the: [Unavoidable](Magic-Modifiers#Unavoidable) [Magic-Modifiers](Magic-Modifiers)
+* When attacking with a [Magic Attack](Magic-Modifiers#Magic%20Attack) you get +2 [Damage Bonus](Weapons#Damage%20Bonus), you can use the: [Unavoidable](Magic-Modifiers#Unavoidable) [Magic-Modifiers](Magic-Modifiers)
 
  Requires 3 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Example-Gear#Focus)
