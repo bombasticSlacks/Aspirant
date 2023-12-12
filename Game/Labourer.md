@@ -29,6 +29,9 @@ As [Production Work](Activities#Production%20Work), you can craft or modify [Bas
 
 You can also as [Production Work](Activities#Production%20Work) craft and modify storage items using [Application](Intelligence#Application), more details in [Designing-Storage](Designing-Storage).
 
+### Buddy Up
+As a [Travel Activity](Activities#Travel%20Activity) you can select another [Character](Terminology#Character) to assist. They automatically succeed on any skill tests they do related to their current [Activities](Activities).
+
 ### Carrier
 You can perform [Actions](Terminology#Action) while carrying an item or items that would normally require two hands. In combat, you can move a willing character with you as you move.
 
