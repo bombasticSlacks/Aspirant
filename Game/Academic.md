@@ -27,7 +27,7 @@ Your far-fetched theory can help progress [Projects](Skills#Project) only tangen
 You can perform invasive [Surgeon](#Surgeon) work on yourself and ignore your own [Injury Penalty](Injury#Injury%20Penalty) when performing [Application](Intelligence#Application) skill tests.
 
 ### Brilliant Bastard
-You automatically succeed on anything you do on a roll of double 1’s.
+You have a [Critical Success](Skills#Critical%20Success) on [Action](Terminology#Action) on a dice roll of double 1’s.
 
 ### Doctors Eye
 You can always tell how injured a person is (and where). When starting a health/medicine related [Project](Skills#Project) you always succeed with at least 1 [Step Of Success](Skills#Step%20Of%20Success).
