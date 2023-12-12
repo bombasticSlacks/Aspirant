@@ -46,7 +46,7 @@ Boss
 * Ability 2
 
 #### Rewards
-{: .no-toc }
+{: .no_toc }
 *What does defeating this give.*
 
 ---

@@ -41,6 +41,9 @@ Stanton’s list of people to acquire:
     
 - Physician/Healer
 
+### Titles
+* Ender of the Blood War. (Breckles And Tennens).
+
 
 ## Relics
 * Wants a cool gauntlet.

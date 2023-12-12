@@ -33,7 +33,7 @@ Setting out, [Simple-Joe](Simple-Joe), [Alexander-Aurelius](Alexander-Aurelius),
 **COMPLETE** 1XP
 
 ## Something Underground
-There is a civilization under the mines according to [Tellian](Session-2#Tellian)
+There is a civilization under the mines according to [Tellian](Session-02.md#Tellian)
 
 **COMPLETE 1XP**
 
@@ -43,6 +43,10 @@ An elemental boar has taken control of the waterway south of Tennens
 **Complete 2XP**
 
 ## The Manticore
-[Arturas-Gabrys](Arturas-Gabrys) knows there is a manticore broken free from a wizard tower NE of [Crosshaven](Crosshaven). [Argent-Hold](Argent-Hold) needs experts to track and deal with it. Grey and brown sell swords from [Session-1](Session-1) were travelling in that direction.
+[Arturas-Gabrys](Arturas-Gabrys) knows there is a manticore broken free from a wizard tower NE of [Crosshaven](Crosshaven). [Argent-Hold](Argent-Hold) needs experts to track and deal with it. Grey and brown sell swords from [Session-01](Session-01.md) were travelling in that direction.
 
 **Complete 2XP**
+
+## Breckles and Tennens War
+
+**Complete 4XP**

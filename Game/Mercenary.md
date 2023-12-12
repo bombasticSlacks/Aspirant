@@ -18,9 +18,6 @@ They can generally teach the following training:
 
 ## Basic
 
-### Comfortable Footing
-During your [Combat Turn](Terminology#Combat%20Turn) you can perform an [Action](Terminology#Action) while moving without suffering a penalty.
-
 ### Defensive Combatant
 You receive a (+1) to [Avoid](Reacting-To-Attacks#Avoid) and [Parry](Special-Combat-Actions#Parry) skill tests.
 

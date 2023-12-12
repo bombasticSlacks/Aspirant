@@ -17,3 +17,7 @@ Greg was worried about his first time killing a person.
 *complete*
 Darla started the Peace Talks Project, did 2 / 3 steps. 
 
+### Sealing Away The Forest Titan
+*Completed*
+Need to do something with life, the antithesis to the rot effigies from before.
+

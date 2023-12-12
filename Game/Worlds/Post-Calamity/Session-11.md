@@ -7,7 +7,7 @@ grand_parent: Worlds
 ---
 ## Session 11
 [Post-Calamity](Post-Calamity)
-## Segment 10 Tussole Summer 5
+## Segment 11 Tussole Summer 5-6
 * Moving through the darkness, not sure what their current heading should be.
 * Can't push through the trees, couldn't determine a heading for thicker or thinner woods.
 * Got attacked by some earth elementals, Greg got hurt.

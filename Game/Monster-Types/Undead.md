@@ -36,7 +36,7 @@ Fodder
 * [Phobia(Sunlight)](../Character-Actions#Phobia(FEAR))
 
 #### Rewards
-{: .no-toc }
+{: .no_toc }
 * Knawed insides: 1 size [Basic Bits](../Bits#Basic%20Bits).
 
 ---
@@ -59,12 +59,12 @@ Elite
 Trait
 {: .label .label-purple }
 #### Crumbling Flesh
-{: .no-toc}
+{: .no_toc}
 *The creature's flesh is separate with large gushing streams of black ooze infecting everything nearby.*
 * On taking [Damage](../Terminology#Damage) for every damage taken up to one character in [Reach](../Movement#Reach), determined randomly, takes 2 damage. Defeated undead can be selected for this ability and if targeted are revived at full power.
 
 #### Rewards
-{: .no-toc }
+{: .no_toc }
 * Oozing stomach: 1 size of [Artisan Bits](../Bits#Artisan%20Bits).
 
 ---
@@ -87,14 +87,14 @@ Boss
 Reaction
 {: .label .label-yellow }
 #### Rich Blood
-{: .no-toc }
+{: .no_toc }
 *The air around the cardinal wreaks with an almost maddening scent that can stop you dead in your tracks.*
 * When a target moves within [Reach](../../Movement#Reach) of The Cardinal, they must succeed an [Identity](../../Spirit#Identity) [Fixed Difficulty](../../Skills#Fixed%20Difficulty)(0) or end their turn. This effect persists until The Cardinals next [Combat Turn](../Terminology#Combat%20Turn).
 
 Trait
 {: .label .label-purple }
 #### The Sun's Gaze
-{: .no-toc }
+{: .no_toc }
 *You've ripped the hand apart, but something is underneath!*
 * This effect only happens once The Cardinal is at 0 integrity.
 * Anyone [Close](../../Movement#Close) to The Cardinal at the end of its [Combat Turn](../../Terminology#Combat%20Turn) suffers a 1 [Damage](../../Terminology#Damage) [Heat](../../Injury#Heat) [Vitals](../../Injury#Vitals) [Injury](../../Injury) that can be mitigated by armour.
@@ -102,7 +102,7 @@ Trait
 * If you suffer this injury twice in a row you are [On Fire](../../Effects#On%20Fire).
 
 #### Rewards
-{: .no-toc }
+{: .no_toc }
 * Burning coal: [Exotic Resonant](../Resonant#Exotic%20Resonant).
 
 ---

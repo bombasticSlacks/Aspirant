@@ -25,6 +25,9 @@ Celebrate the leaves shifting in the fall.
 
 "go the way of the roots"
 
+### Relics
+A stone resonating with life stolen by [Jock Tennens](#Jock%20Tennens)
+
 
 
 ### The War
@@ -36,6 +39,8 @@ Celebrate the leaves shifting in the fall.
 Jock Tennens the chief, Thoughtful man, reads the trees [Mystic](../../Mystic).
 
 Stoney, distant.
+
+Home is a 2 story boarded facility.
 
 ### Darla "Cross" Tennens
 Annoyed older veteran with a chip on her shoulder about the [Tennens-Settlement](Tennens-Settlement) [Breckles-Pass](Breckles-Pass) war. Wants it resolved without invoking whatever the other plan is.
@@ -58,18 +63,6 @@ Logistics.
 ### Smock Tennens
 Town armourer.
 (+1) confidence.
-
-
-## Maria Archer Sign
-Of the Zinatu tribe, mystics and ecologists that track the comings and goings of Monsters in the world.
-
-Level woman, cold gaze.
-
-Wants information from [Jock Tennens](#Jock%20Tennens), more on "the ritual"
-
-[Arturas-Gabrys](Arturas-Gabrys) and she exchanged pleasantries and offerings.
-
-
 
 ## The Great Log
 Large magic tree that's collapsed and been hollowed, main drinking hall.

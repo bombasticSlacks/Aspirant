@@ -15,7 +15,7 @@ Thomas Breckles, gaze across the pass and shoot arrows at the Tennens
 [Academic](../../Academic), [Knight](../../Knight), [Rogue](../../Rogue), [Labourer](../../Labourer)
 ## Notable
 * Mounted massive spotlights that run on resonant material. 24 hours for 1 size of basic.
-
+* A stone resonating with life, the twin of the one in [Tennens-Settlement](Tennens-Settlement).
 
 ## The Slab
 A large cave carved out of the mountainside, where their treatise and leaders meet. Large stone table with meeting slab with the names of all the breckles leaders.
