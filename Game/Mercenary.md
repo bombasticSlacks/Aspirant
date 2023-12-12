@@ -31,7 +31,7 @@ You receive the benefits of your wielded weapon traits to [Avoid](Reacting-To-At
 Enemies receive a (-1) to [Reaction](Terminology#Reaction) skill tests against you.
 
 ### Fight Smart
-You may use your [Intelligence](Intelligence) instead of [Strength](Strength) for [Combat Skill Test](Terminology#Combat%20Action) and [Calculating Damage](Attacks#Calculating%20Damage).
+You may use your [Intelligence](Intelligence) instead of [Strength](Strength) for [Attacks](Terminology#Attack) and [Calculating Damage](Attacks#Calculating%20Damage).
 
 ### Flowing Defence
 You receive a (+1) to [Reaction](Terminology#Reaction) skill tests per [Mitigated Attack](Terminology#Mitigated%20Attack) targeting you this [Combat Round](Terminology#Combat%20Round).
