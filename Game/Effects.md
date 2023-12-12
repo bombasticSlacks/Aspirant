@@ -61,7 +61,7 @@ Will be removed with time.
 ## In Melee
 *Your character moves around and connects weapons with combatants.*
 * If a character in melee moves to something further than in [Reach](Movement#Reach), others may perform [Attack of Opportunity](Reacting-To-Attacks#Attack%20of%20Opportunity) against them.
-* Characters in melee suffer a negative to attacks equal to the greatest [Threat](Stats#Threat) among [Opponent](Terminology#Opponent) within [Reach](Movement#Reach) and also in melee.
+* Characters in melee suffer a negative to [Ranged Attack](Terminology#Ranged%20Attack) equal to the greatest [Threat](Stats#Threat) among [Opponent](Terminology#Opponent) within [Reach](Movement#Reach) and also in melee.
 * Characters in melee effect being [Outnumbered](Attack-Bonuses#Outnumbered).
 
 ### Removing
