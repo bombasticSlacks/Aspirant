@@ -1125,53 +1125,34 @@ var previewbox = (function () {
 				/*	Arg:
 						<FN> callbackWhenOut = callback called when mouse is out
 				*/
-				_a_obeserveMouseOut = function (callbackWhenOut) {
-					
-					function startObeserving () {
-					
-						function judgeMouseOut (e) {
-						
-							e = _normalizeEvent(e);
-
-							var leaveFor = e.toElement || e.relatedTarget;
-
-							if (_isMouseOut(leaveFor, a)) {
-
-								// IMPORTANT: Remove and wait for the next time
-								_rmEvent(_previewbox.carpet, "mouseout", judgeMouseOut);
-								
-								callbackWhenOut();
-							}
-						};
-							
-						_rmEvent(_previewbox.iframe, "mouseover", startObeserving);
-						_addEvent(_previewbox.carpet, "mouseout", judgeMouseOut);
-					};
-					
-					_addEvent(_previewbox.iframe, "mouseover", startObeserving);
+				
+				_a_exitAnchor = function (e) {			
+					e = _normalizeEvent(e);
+					window.removeEventListener("keydown", _a_openPreviewPC);
+					_addEvent(a, "mouseover", _a_enterAnchor)
 				},
-				
+
+				_a_enterAnchor = function (e) {			
+					e = _normalizeEvent(e);
+					window.addEventListener("keydown", _a_openPreviewPC);
+					_addEvent(a, "mouseout", _a_exitAnchor)
+				},
+
 				_a_openPreviewPC = function (e) {
-				
 					e = _normalizeEvent(e);
 					
 					if (_isHref(a.href)) {
-					
+
+						// only appear if holding ctrl
 						switch (_getAppropriateMode()) {
-						
+					
 							case _CONST.modePC:
 					
 								// This is important. It prevents the preview box from being redrawn repeatedly while onmouseover
-								_rmEvent(a, "mouseover", _a_openPreviewPC);
-
-								_a_obeserveMouseOut(function () {
-								
-									_addEvent(a, "mouseover", _a_openPreviewPC);
-									
-									_hideBoxPC();
-								});
-								
-								_showBoxPC(a, e.clientX, e.clientY);
+								window.removeEventListener("keydown", _a_openPreviewPC);
+								window.addEventListener("keyup", _a_closePreviewPC);
+								var bounding = a.getBoundingClientRect();
+								_showBoxPC(a, bounding.right, bounding.bottom);
 							
 							break;
 						
@@ -1182,22 +1163,21 @@ var previewbox = (function () {
 					}
 				},
 				
-				_a_closePreviewPC = function (e) {
-			
+				_a_closePreviewPC = function (e) {			
 					e = _normalizeEvent(e);
 			
-					var leaveFor = e.toElement || e.relatedTarget;
-
-					if (_isMouseOut(leaveFor, a)) {
-						_addEvent(a, "mouseover", _a_openPreviewPC);
+					if( !e.ctrlKey ){
+						window.addEventListener("keydown", _a_openPreviewPC);
+						window.removeEventListener("keyup", _a_closePreviewPC);
 						_hideBoxPC();
 					}
 				};
+
+
 					
 				a.anchorType = 0;
 				
-				_addEvent(a, "mouseout", _a_closePreviewPC);
-				_addEvent(a, "mouseover", _a_openPreviewPC);
+				_addEvent(a, "mouseover", _a_enterAnchor);
 			}
 			return a;
 		},
@@ -1312,10 +1292,13 @@ var previewbox = (function () {
 					@ Find nothing: null
 			*/
 			regisBySearching : function () {
+				const container = document.querySelector("main")
 				var i,
-					as = document.querySelectorAll("a." + _CONST.anchorClass);
+					as = container.querySelectorAll("a");
 				for (i = 0; i < as.length; i++) {
-					_mkPreviewAnchor(as[i]);
+					if(as[i].href.includes("aspirantrpg.com") ) {
+						_mkPreviewAnchor(as[i]);
+					}
 				}
 				return (as.length > 0) ? as : null;
 			},
