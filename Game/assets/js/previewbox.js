@@ -47,6 +47,7 @@ var previewbox = (function () {
 		> regisBySearching : To search all the <a> elements with the CSS class, "previewbox-anchor", in the docuemnt and register the findings
 		> isDBG : Just for debugging & testing purpose
 */
+
 		var
 		/*	Methods:
 				[ Public ]
@@ -822,7 +823,6 @@ var previewbox = (function () {
 		*/
 		_showBox = function (previewAnchor) {
 			_previewbox.iframe.src = previewAnchor.href;
-			_previewbox.style.display = "block";
 		},
 		/*	Arg:
 				<ELM> previewAnchor = the <a> element currently being the preview target
@@ -831,75 +831,6 @@ var previewbox = (function () {
 		_showBoxPC = function (previewAnchor, mousePosX, mousePosY) {
 			_setStyle();
 			_setStylePC(mousePosX, mousePosY);
-			_showBox(previewAnchor);
-		},
-		/*	Arg:
-				<ELM> previewAnchor = the <a> element currently being the preview target
-		*/
-		_showBoxMobile = function (previewAnchor) {
-			
-			var tSec;
-			
-			_setStyle();
-			_setStyleMobile(previewAnchor);
-			
-			_previewbox.style.width =
-			_previewbox.style.height = "0%";	
-
-			if (!_settings.get("noEffectsInMobile")) {
-
-				tSec = _CONST.mobileTransitionSec;
-
-				if (_dbg.isDBG()) {
-						
-					if (isNaN(tSec) || typeof tSec != "number" || tSec < 0) {	
-					
-						_dbg.error(_dbg.formaStr("illegal value for mobile transition sec = {1}", tSec));
-					}
-				}			
-				_previewbox.style.transition = "width " + tSec + "s, height " + tSec + "s";				
-						
-				// Delay for the open transition
-				setTimeout(function () {
-				
-					_previewbox.style.width =
-					_previewbox.style.height = "100%";			
-					
-				}, 80);
-			
-			} else {				
-				
-				tSec = 80/1000;
-				
-				_previewbox.style.width =
-				_previewbox.style.height = "100%";				
-			}
-				
-			// -- Hack for the scrolling issue -- //
-			
-			_addEvent(_previewbox.iframe, "load", function posIFrameAbs() {
-			
-				// For some mobile browsers, it must be "absolute" to be able to scroll the iframe
-				_previewbox.style.position = "absolute";
-				
-				_rmEvent(_previewbox.iframe, posIFrameAbs);
-			});				
-			
-			setTimeout(function () {			
-			// Since the position will change from "fixed" to "absolute",
-			// we have to make sure that the window is scrolled to the top.
-			// And backup the original scroll position for returning later.	
-				
-				var scroll = _getDocScroll();
-				
-				_previewbox.setAttribute("data-origScrollTopInMobile",  scroll.top);	
-				
-				window.scrollTo(scroll.left, 0);
-				
-			}, tSec * 1000);
-			
-			// !-- Hack for the scrolling issue -- //
-			
 			_showBox(previewAnchor);
 		},
 		/*
@@ -1093,6 +1024,7 @@ var previewbox = (function () {
 			
 			_addEvent(_previewbox.iframe, "load", function () {
 				_previewbox.style.backgroundImage = "";
+				this.contentWindow.postMessage("minify", "*");
 			});
 			
 			return _previewbox;
@@ -1314,7 +1246,16 @@ var previewbox = (function () {
 			}
 		};
 
+		window.addEventListener("message", (e) => {
+			if (e.data === "done") {
+			  _previewbox.style.display = "block";
+			}
+		  },
+		  false)
+
 		_prepPreview();
 
 		return publicProps;
 }());
+
+
