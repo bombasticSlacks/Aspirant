@@ -7,8 +7,8 @@ Elite
 | ---------- | ---- | ------ | --------- | -------- | ---------- |
 |            |      |        |           |          |            |
 
-* [Attack(X, Y, Z)](../Game/Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
-* [Avoid(X)](../Game/Character-Actions#Avoid(X))
+* [Attack(X, Y, Z)](../Game/Core/Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
+* [Avoid(X)](../Game/Core/Character-Actions#Avoid(X))
 
 #### Rewards
 {: .no_toc }

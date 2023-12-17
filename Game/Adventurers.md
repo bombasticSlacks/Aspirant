@@ -18,14 +18,14 @@ To create a character who is already a knowledgeable adventurer. 
 * Finalize your character
 
 ## Determine Your Total XP
-First talk to your GM and other players to determine if there is a limit to how much XP the character should spend right now. This can be marked on your sheet as your [Total XP](Stats#Total%20XP).
+First talk to your GM and other players to determine if there is a limit to how much XP the character should spend right now. This can be marked on your sheet as your [Total XP](Core/Stats#Total%20XP).
 
 ## Determine Your Attributes
-Assign your [Attributes](Stats#Attributes) placing one of the two sets of values in each of the 5 attributes.
+Assign your [Attributes](Core/Stats#Attributes) placing one of the two sets of values in each of the 5 attributes.
 * 4,3,2,2,2
 * 3,3,3,2,2
 
-> So, 4 [Strength](Strength), 3 [Agility](Agility), 2 [Intelligence](Intelligence), 2 [Spirit](Spirit), 2 [Communication](Communication) is a valid stat line 
+> So, 4 [Strength](Core/Strength), 3 [Agility](Core/Agility), 2 [Intelligence](Core/Intelligence), 2 [Spirit](Core/Spirit), 2 [Communication](Core/Communication) is a valid stat line 
 
 ## Determine Your Skills
 You can put 7 ranks into skills of your choice, no skill may go above rank 2.
@@ -42,7 +42,7 @@ Your characters are guaranteed to begin play with:
 * 4 storage [Belt](Storage#Belt).
 * 10 storage [Saddlebag](Storage#Saddlebag).
 * [Camping Gear](Example-Gear#Camping%20Gear).
-* Size 1, 2, or 3 [Basic](Weapons#Basic) Weapon.
+* Size 1, 2, or 3 [Basic](Core/Weapons#Basic) Weapon.
 * Set of [Clothing](Example-Gear#Clothing) covering your entire body.
 * A wild horse [Mount](Mounts) with 1 mobility, 1 toughness, 1 combat.
 * $Silver = 50 + 10 * Total\ XP$
@@ -54,7 +54,7 @@ You also, at any point during purchasing get 5 [Downtime Activities](Activities#
 > So, you could craft an item you then buy some stuff to upgrade.
 
 ## Finalize Your Character
-Finally calculate your character other [Additional Attributes](Stats#Additional%20Attributes) and make note of your items and abilities.
+Finally calculate your character other [Additional Attributes](Core/Stats#Additional%20Attributes) and make note of your items and abilities.
 
 If you have any unspent XP you start with an additional $5 \times unspent\ XP$ silver
 

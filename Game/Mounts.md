@@ -6,14 +6,14 @@ nav_order: 2
 has_children: true
 ---
 # Mounts
-A mount is critical [Equipment](Equipment) for an adventurer. Moving with just the storage on your back would waste precious time and space. Generally, mounts consist of different breeds of horses, however more exotic mounts with special abilities aren’t unheard of.
+A mount is critical [Equipment](Core/Equipment) for an adventurer. Moving with just the storage on your back would waste precious time and space. Generally, mounts consist of different breeds of horses, however more exotic mounts with special abilities aren’t unheard of.
 
 Mounts provide a few core benefits
 - Faster land travel
 - Additional storage
 - Potential combat use   
 
-Mounts of all kinds have 3 primary stats. When you need to make a skill test on behalf of your mount, you will generally roll Relevant Stat + [Mannerism](Communication#Mannerism)
+Mounts of all kinds have 3 primary stats. When you need to make a skill test on behalf of your mount, you will generally roll Relevant Stat + [Mannerism](Core/Communication#Mannerism)
 
 ## Mobility
 How well your mount moves. Any time your mount needs to avoid something, jump, rush to a location, this is the relevant attribute.
@@ -36,7 +36,7 @@ While mounted and moving around any non-riding activities your character makes a
 > This includes combat, skilled labour, and even awareness
 
 ## Mount Prices
-A mount's value in [Currency](Equipment#Currency) is determined by its stats.
+A mount's value in [Currency](Core/Equipment#Currency) is determined by its stats.
 
 | Stat Value | Price |
 | ---------- | ----- |
@@ -50,11 +50,11 @@ A mount's value in [Currency](Equipment#Currency) is determined by its stats.
 
 ## Exotic Mounts
 Sometimes something other than a horse is used. 
-* An exotic mount requires [Mannerism](Communication#Mannerism) to be trained as a [Skills](Skills) to be able to ride at all.
+* An exotic mount requires [Mannerism](Core/Communication#Mannerism) to be trained as a [Skills](Core/Skills) to be able to ride at all.
 * Exotic mounts can have additional [Creature-Traits](Creature-Traits) which will cost between 10-50 silver.
-* Exotic mounts attributes can be determined from their [Creatures](Running-The-Game#Creatures) attributes.
+* Exotic mounts attributes can be determined from their [Creatures](Core/Running-The-Game#Creatures) attributes.
 
 ## Acquiring Mounts
 * Purchased from a merchant [Mount Prices](#Mount%20Prices)
-* [Found through play](Equipment#Looting)
-* Training with [Mannerism](Communication#Mannerism)
+* [Found through play](Core/Equipment#Looting)
+* Training with [Mannerism](Core/Communication#Mannerism)

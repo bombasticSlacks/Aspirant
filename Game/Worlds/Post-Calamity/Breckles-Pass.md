@@ -43,7 +43,7 @@ Skeptical.
 
 | Move                                                      | Initiative | Integrity | Weakness                  | Resistance |
 | --------------------------------------------------------- | ---------- | --------- | ------------------------- | ---------- |
-| [Close](../../Movement#Close) / [Far](../../Movement#Far) | 3          | 2         | [Heat](../../Injury#Heat) |            |
+| [Close](../../Core/Movement#Close) / [Far](../../Core/Movement#Far) | 3          | 2         | [Heat](../../Core/Injury#Heat) |            |
 #### Actions
 * Knife Attack (4, Rending, 1).
 * Bite Attack (3, Rending, 2).
@@ -64,10 +64,10 @@ This character gains a (+2) on actions when unseen.
 
 | Move                    | Initiative | Integrity | Weakness | Resistance |
 | ----------------------- | ---------- | --------- | -------- | ---------- |
-| [Short](Movement#Short) | 0          | -         | -        | -          |
+| [Short](../../Core/Movement#Short) | 0          | -         | -        | -          |
 #### Actions
-* Attack (3) [Minimal Injury](../../Injury#Minimal%20Injury) [Impact](../../Injury#Impact)
-* Ranged Attack (3) [Severe Injury](../../Injury#Severe%20Injury) [Piercing](../../Injury#Piercing).
+* Attack (3) [Minimal Injury](../../Core/Injury#Minimal%20Injury) [Impact](../../Core/Injury#Impact)
+* Ranged Attack (3) [Severe Injury](../../Core/Injury#Severe%20Injury) [Piercing](../../Core/Injury#Piercing).
 
 #### Reactions
 * Avoid (-2)

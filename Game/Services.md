@@ -22,12 +22,12 @@ Aspirant is a world of tradespeople, experts with something to offer a prospecti
 
 
 ### Crafting Commissions
-Getting a craftsman to make you a piece of [Equipment](Equipment).
+Getting a craftsman to make you a piece of [Equipment](Core/Equipment).
 
 | Service                                                                   | Cost                                                                            |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| Commissioning Creating A [Weapon](Weapons)                                | $5 + 20 \times size \times material\ ratio$                                     |
-| Commissioning Creating [Armour](Armour)                                   | $5 + 30 \times primary\ material\ ratio + 10 \times secondary\ material\ ratio$ |
+| Commissioning Creating A [Weapon](Core/Weapons)                                | $5 + 20 \times size \times material\ ratio$                                     |
+| Commissioning Creating [Armour](Core/Armour)                                   | $5 + 30 \times primary\ material\ ratio + 10 \times secondary\ material\ ratio$ |
 | Commissioning Master Worked Service                                       | $base\ Commission + 10$                                                         |
 | Commissioning Storage                                                     | $5$ + [Crafting Storage](Designing-Storage#Crafting%20Storage)                  |
 | Commissioning creating comestibles                                        | $4 + reagents$                                                                  |
@@ -42,7 +42,7 @@ Requesting an expert to do something for you.
 | Commissioning Performing a complex ritual                        | $12 + reagents$ |
 | Commissioning Performing a simple ritual                         | $5 + reagents$  |
 | Commissioning surgery                                            | $8$             |
-| Commissioning someone to [Bind](Terminology#Bind) an item to you | 5                |
+| Commissioning someone to [Bind](Core/Terminology#Bind) an item to you | 5                |
 
 ### Teaching
 Getting an expert to help you to become better.

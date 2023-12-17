@@ -10,7 +10,7 @@ grand_parent: Worlds
 
 # Segment 3 Spring 6 - 8
 * Found a glowing symbol on the wall
-* Started a [Project](../../Skills#Project) to clear the rubble, needed only 1 additional step
+* Started a [Project](../../Core/Skills#Project) to clear the rubble, needed only 1 additional step
 * Found the boat,
 * Greg swam across, [Alexander-Aurelius](Alexander-Aurelius) followed
 * [Arturas-Gabrys](Arturas-Gabrys) hates swimming
@@ -38,7 +38,7 @@ grand_parent: Worlds
 	* [Greg-Colter](Greg-Colter) [Socialize](../../Activities#Socialize)
 
 ## Rewards
-* Telescoping baton MW Artisan - [Folding](../../Weapon-Traits#Folding), 1 size [Disguised](../../Weapon-Traits#Disguised), 2 size [Lethal](../../Weapon-Traits#Lethal), Archeo-brass
+* Telescoping baton MW Artisan - [Folding](../../Core/Weapon-Traits#Folding), 1 size [Disguised](../../Core/Weapon-Traits#Disguised), 2 size [Lethal](../../Core/Weapon-Traits#Lethal), Archeo-brass
 * The Generator
 * Torso is 2 size worth of Archeo-brass (exotic metal)
 * Arm is a prosthetic arm with a retractable size 2 balanced sword

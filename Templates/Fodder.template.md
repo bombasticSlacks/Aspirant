@@ -7,7 +7,7 @@ Fodder
 | ---------- | ---- | ------ | --------- | -------- | ---------- |
 |            |      |        | -         | -        | -          | 
 
-* [Attack(X, Y, Z)](../Game/Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
+* [Attack(X, Y, Z)](../Game/Core/Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
 
 #### Rewards
 {: .no_toc }

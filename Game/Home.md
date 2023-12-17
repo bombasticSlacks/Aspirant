@@ -9,7 +9,7 @@ Inspired by PBtA systems, classic fantasy RPGs, and worlds where all labour has 
 
 * Learn the [Lore](Lore).
 * Learn to [How To Play](How-To-Play).
-* Remember to respect the [Code Of Conduct](https://github.com/bombasticSlacks/Aspirant/blob/main/CODE_OF_CONDUCT.md).
+* Remember to respect the [Code Of Conduct](https://github.com/bombasticSlacks/Aspirant/blob/main/CODE_OF_CONDUCT).
 * If you are going to approach difficult topics, make sure that everyone has [consented](https://www.montecookgames.com/store/product/consent-in-gaming/).
 
 ![Campfire](Content/Campfire.svg)
