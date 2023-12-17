@@ -31,7 +31,7 @@ Mounts can also have special traits which give them additional power, stuff like
 Additionally, any mount that you can use effectively is expected to have a saddle. For exotic mounts, this could mean custom construction. Additionally, mounts may have a [Saddlebag](Storage#Saddlebag) which expand your storage and barding #TODOcopy which works as armour.
 
 ## Character Activity On Mount
-While mounted and moving around any non-riding activities your character makes are at a -2. This can be mitigated with [Mounted Expert](Keeper#Mounted%20Expert)
+While mounted and moving around any non-riding activities your character makes are at a -2. This can be mitigated with [Mounted Expert](Knight#Mounted%20Expert).
 
 > This includes combat, skilled labour, and even awareness
 

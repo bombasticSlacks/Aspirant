@@ -12,7 +12,6 @@ To build a weapon:
 - Choose the [Quality](#Quality).
 - Choose a [Size](Core/Weapons#Size).
 - Select a [Damage Type](Core/Weapons#Damage%20Type).
-- Include the [[]]
 - Select a number of [Weapon Traits](Core/Weapon-Traits) for the weapon equal to the amount available based on [Quality](#Quality).
 
 ## Quality
@@ -28,7 +27,7 @@ Artisan weapons are properly built tools of war. They require some training to u
 * 1 [Weapon Traits](Core/Weapon-Traits)
 
 ### Exotic
-Exotic weapons have additional complexity over basic artisan weapons. Their mechanisms are more complex or their chance of self injury is higher. They require additional training on top of the training required for artisan weapons to be used successfully. To wield an exotic weapon, you need [Exotic Expert](Combat-Training#Exotic%20Expert).
+Exotic weapons have additional complexity over basic artisan weapons. Their mechanisms are more complex or their chance of self injury is higher. They require additional training on top of the training required for artisan weapons to be used successfully. To wield an exotic weapon, you need [Exotic Expert](Rogue#Exotic%20Expert).
 * +1 [Damage Bonus](Core/Weapons#Damage%20Bonus)
 * 2 [Weapon Traits](Core/Weapon-Traits)
 
@@ -54,7 +53,7 @@ $traits + quality$
 > A [Size](Core/Weapons#Size) 3 [Artisan](#Artisan) weapon, with the [Lethal](Core/Weapon-Traits#Lethal) [Weapon Trait](Core/Weapon-Traits) would have a damage bonus of 8, 6 from [Size Matters](Core/Weapon-Traits#Size%20Matters), 1 from [Artisan](#Artisan), 1 from [Lethal](Core/Weapon-Traits#Lethal).
 
 ## Crafting
-A character looking to craft a specific weapon first requires 2x the size worth of materials and [Craftsman](Craftsman) training saying they are able to make what they want. 
+A character looking to craft a specific weapon first requires 2x the size worth of materials and training saying they are able to make what they want. 
 
 > So, a silver sword of size 3 would require 6 size worth of pure silver, or 60 silver coins. 
 
