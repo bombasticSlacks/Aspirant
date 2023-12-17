@@ -34,8 +34,9 @@ jobs:
         uses: actions/checkout@v3
         with:
           repository: bombasticSlacks/jekylSite
-          path: Game
-          clean: false
+          path: jekyl
+      - name: move files
+        run: cp -r ./jekyl ./Game
       - name: details early
         run: cat ./Game/Example-Weapons.md
       - name: manipulate anchors
