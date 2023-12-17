@@ -1,0 +1,3 @@
+[submodule "Game/Core"]
+	path = Game/Core
+	url = https://github.com/bombasticslacks/3-skill
