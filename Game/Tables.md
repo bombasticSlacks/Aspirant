@@ -12,5 +12,5 @@ has_children: true
 ## [Example Transhumanist Effects](Example-Transhumanist-Effects)
 ## [Example Weapons](Example-Weapons)
 ## [Example-Infrastructure](Example-Infrastructure)
-## [Weapon Traits](Core/Weapon-Traits.md)
-## [Armour-Traits](Core/Armour-Traits.md)
+## [Weapon Traits](Core/Weapon-Traits)
+## [Armour-Traits](Core/Armour-Traits)

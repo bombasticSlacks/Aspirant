@@ -8,7 +8,7 @@ nav_order: 2
 # Bits
 One of the [Materials](Materials) used for crafting and trading.
 
-After killing a creature you can, unless it’s been annihilated, usually [harvest](Core/Equipment.md#Looting) some bits. Bits are a generalization of organs, glands, bones, and other valuables. Your character would intuitively know what parts of a creature are valuable, even if you don’t yet. 
+After killing a creature you can, unless it’s been annihilated, usually [harvest](Core/Equipment#Looting) some bits. Bits are a generalization of organs, glands, bones, and other valuables. Your character would intuitively know what parts of a creature are valuable, even if you don’t yet. 
 
 ## Basic Bits
 Simple unimpressive creature viscera, not useful for much more than cooking or filler.

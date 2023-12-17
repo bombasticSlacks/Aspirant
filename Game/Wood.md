@@ -8,7 +8,7 @@ nav_order: 2
 # Wood
 One of the [Materials](Materials) used for crafting and trading.
 
-Sturdy natural resource generally reclaimed or harvested from trees, useful for the construction of some [Weapons](Core/Weapons.md), and [Assets](Assets).
+Sturdy natural resource generally reclaimed or harvested from trees, useful for the construction of some [Weapons](Core/Weapons), and [Assets](Assets).
 
 ## Basic Wood
 High-quality wood that can be worked (anything worse than a hard wood isn't useful for crafting).

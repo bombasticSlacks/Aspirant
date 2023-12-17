@@ -15,7 +15,7 @@ Perform a [Travel Activity](#Travel%20Activity)
 
 ---
 ### Injury Recovery
-Remove your [Injury Penalty](Core/Injury.md#Injury%20Penalty).
+Remove your [Injury Penalty](Core/Injury#Injury%20Penalty).
 
 ---
 ### Interview
@@ -49,7 +49,7 @@ These are actions that a character can do while travelling somewhere, your spare
 ### Good Night's Rest
 *You focus on sleeping and being prepared for what lies ahead.*
 * +1 to a single skill test the next day, declared before rolling.
-* Refresh your [Power](Core/Stats.md#Max%20Power) to maximum.
+* Refresh your [Power](Core/Stats#Max%20Power) to maximum.
 
 ---
 ### Do Production Work
@@ -59,10 +59,10 @@ These are actions that a character can do while travelling somewhere, your spare
 ---
 ### On Watch
 *You organize watch for the team, taking extra shifts when necessary.*
-* When the GM rolls to determine if an [Ambush Encounter](Telling-The-Story#Ambush%20Encounter) occurs, you may have your [Grace](Core/Agility.md#Grace) provide a penalty to the roll. 
-* You receive a +3 on any [Insight](Core/Intelligence.md#Insight) tests during [Ambush Encounter](Telling-The-Story#Ambush%20Encounter).
+* When the GM rolls to determine if an [Ambush Encounter](Telling-The-Story#Ambush%20Encounter) occurs, you may have your [Grace](Core/Agility#Grace) provide a penalty to the roll. 
+* You receive a +3 on any [Insight](Core/Intelligence#Insight) tests during [Ambush Encounter](Telling-The-Story#Ambush%20Encounter).
 * You are not surprised if ambushed. 
-* You regain 1 [Power](Core/Stats.md#Max%20Power)
+* You regain 1 [Power](Core/Stats#Max%20Power)
 
 ---
 ### Scavenge
@@ -72,15 +72,15 @@ These are actions that a character can do while travelling somewhere, your spare
 ---
 ### Scout
 *You travel ahead, and plan the journey.*
-* When your GM rolls to see if you have a [Travel Encounter](Telling-The-Story#Travel%20Encounter) you may have your [Grace](Core/Agility.md#Grace) provide a penalty to the roll. 
-* The [GM](How-To-Play#GM) will describe any [Travel Encounter](Telling-The-Story#Travel%20Encounter) that occurs to you, before the [Scene](Core/Terminology.md#Scene) begins. 
+* When your GM rolls to see if you have a [Travel Encounter](Telling-The-Story#Travel%20Encounter) you may have your [Grace](Core/Agility#Grace) provide a penalty to the roll. 
+* The [GM](How-To-Play#GM) will describe any [Travel Encounter](Telling-The-Story#Travel%20Encounter) that occurs to you, before the [Scene](Core/Terminology#Scene) begins. 
 * You also gain 1 [Influencing the Story](Telling-The-Story#Influencing%20the%20Story)
 
 ---
 ### Socialize
 *You share stories, play games, or train with your friends.*
-* Any time you [Aid](Core/Skills.md#Aid%20and%20Hindrance) a character who also Socialized when selecting [Activities](Activities), you get a (+2) instead of a (+1).
-* You may spend up to 2XP [Learning](Character-Development#Learning), a skill or training another [Character](Core/Terminology.md#Character) also socializing has [Known](Character-Development#Known).
+* Any time you [Aid](Core/Skills#Aid%20and%20Hindrance) a character who also Socialized when selecting [Activities](Activities), you get a (+2) instead of a (+1).
+* You may spend up to 2XP [Learning](Character-Development#Learning), a skill or training another [Character](Core/Terminology#Character) also socializing has [Known](Character-Development#Known).
 
 ---
 ### Night Learning
@@ -100,6 +100,6 @@ Your character has a specific skill or talent that they are trained to leverage.
 ### Production Work
 Your character has a specific skill or talent and can create a certain amount of goods ready to be traded based on succeeding on a skill test of some kind. Similar to Skilled work, but your compensation will usually not be in silver, and instead in something that will need to be exchanged.
 
-Any production work you do, assuming you succeed, will pay similarly to what it costs in [Costs Of Services](Services#Costs%20Of%20Services). When you arrive in a town for the first time every week, the town should perform a [Variable Difficulty](Core/Skills.md#Variable%20Difficulty) [Wealth](Core/Running-The-Game.md#Wealth) test to determine how many people in town want production work done. If the town succeeds, 1 job + 1 per [Step Of Success](Core/Skills.md#Step%20Of%20Success) is available. 
+Any production work you do, assuming you succeed, will pay similarly to what it costs in [Costs Of Services](Services#Costs%20Of%20Services). When you arrive in a town for the first time every week, the town should perform a [Variable Difficulty](Core/Skills#Variable%20Difficulty) [Wealth](Core/Running-The-Game#Wealth) test to determine how many people in town want production work done. If the town succeeds, 1 job + 1 per [Step Of Success](Core/Skills#Step%20Of%20Success) is available. 
 
 The GM may put limits on what sorts of work the locals want done, but shouldn't be too conservative. Even a small, poor village might put their money together to get a powerful ritualist to make sure they have rain in the coming weeks.

@@ -32,11 +32,11 @@ Elite
 
 | Initiative | Move                       | Threat | Integrity | Weakness                   | Resistance             |
 | ---------- | -------------------------- | ------ | --------- | -------------------------- | ---------------------- |
-| 6          | [Short](../Core/Movement.md#Short) | 3      | 2         | [Impact](../Core/Injury.md#Impact) | [Life](../Core/Injury.md#Life) | 
+| 6          | [Short](../Core/Movement#Short) | 3      | 2         | [Impact](../Core/Injury#Impact) | [Life](../Core/Injury#Life) | 
 
-* [Attack(4, Impact, 2)](../Core/Character-Actions.md#Attack(X,%20TYPE,%20DAMAGE))
-* [Avoid(4)](../Core/Character-Actions.md#Avoid(X))
-* [Eruption(Close, Rending, 3)](../Core/Character-Actions.md#Eruption(RANGE,%20TYPE,%20DAM)) 
+* [Attack(4, Impact, 2)](../Core/Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
+* [Avoid(4)](../Core/Character-Actions#Avoid(X))
+* [Eruption(Close, Rending, 3)](../Core/Character-Actions#Eruption(RANGE,%20TYPE,%20DAM)) 
 
 #### Rewards
 {: .no_toc }
@@ -49,18 +49,18 @@ Elite
 
 | Initiative | Move                          | Threat | Integrity | Weakness                                       | Resistance                                                   |
 | ---------- | ----------------------------- | ------ | --------- | ---------------------------------------------- | ------------------------------------------------------------ |
-| 2          | [Reach](../Core/Movement.md#Reach) | 3      | 2         | [Heat](../Core/Injury.md#Heat), [Life](../Core/Injury.md#Life) | [Piercing](../Core/Injury.md#Piercing), [Cold](../Core/Injury.md#Cold) |
+| 2          | [Reach](../Core/Movement#Reach) | 3      | 2         | [Heat](../Core/Injury#Heat), [Life](../Core/Injury#Life) | [Piercing](../Core/Injury#Piercing), [Cold](../Core/Injury#Cold) |
 
-* [Attack(3, impact, 2)](../Core/Character-Actions.md#Attack(X,%20TYPE,%20DAMAGE))
-* [Grapple(3)](../Core/Character-Actions.md#Grapple(X,%20OPPOSED))
-* [Avoid(1)](../Core/Character-Actions.md#Avoid(X))
+* [Attack(3, impact, 2)](../Core/Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
+* [Grapple(3)](../Core/Character-Actions#Grapple(X,%20OPPOSED))
+* [Avoid(1)](../Core/Character-Actions#Avoid(X))
 
 
 Trait
 {: .label .label-purple }
 #### Rooted
 {: .no_toc }
-While controlling a [Grapple](../Core/Character-Actions.md#Grapple(X,%20OPPOSED)) this creature can perform [Action](../Core/Terminology.md#Action) as normal.
+While controlling a [Grapple](../Core/Character-Actions#Grapple(X,%20OPPOSED)) this creature can perform [Action](../Core/Terminology#Action) as normal.
 
 #### Rewards
 {: .no_toc }

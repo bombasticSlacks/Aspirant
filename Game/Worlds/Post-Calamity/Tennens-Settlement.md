@@ -76,11 +76,11 @@ Serving earthy, mossy ale.
 
 | Move                    | Initiative | Resistance | Integrity | Weakness                  | Resistance |
 | ----------------------- | ---------- | ---------- | --------- | ------------------------- | ---------- |
-| [Short](../../Core/Movement.md#Short) | 3          | 3          | 3         | [Heat](../../Core/Injury.md#Heat) |            | 
+| [Short](../../Core/Movement#Short) | 3          | 3          | 3         | [Heat](../../Core/Injury#Heat) |            | 
 #### Actions
 * Attack (4, Rending, 2).
-* [Attack(2, Rending, 3)](../../Core/Character-Actions.md#Attack(X,%20TYPE,%20DAMAGE)).
-* Ranged Attack (3) [Severe Injury](../../Core/Injury.md#Severe%20Injury) [Piercing](../../Core/Injury.md#Piercing).
+* [Attack(2, Rending, 3)](../../Core/Character-Actions#Attack(X,%20TYPE,%20DAMAGE)).
+* Ranged Attack (3) [Severe Injury](../../Core/Injury#Severe%20Injury) [Piercing](../../Core/Injury#Piercing).
 
 #### Reactions
 * Avoid (1)
@@ -91,10 +91,10 @@ Serving earthy, mossy ale.
 
 | Move                    | Initiative | Resistance | Integrity | Weakness | Resistance |
 | ----------------------- | ---------- | ---------- | --------- | -------- | ---------- |
-| [Close](../../Core/Movement.md#Close) | 0          | Troop      |           |          |            |
+| [Close](../../Core/Movement#Close) | 0          | Troop      |           |          |            |
 #### Actions
-* Attack (3) [Minimal Injury](../../Core/Injury.md#Minimal%20Injury) [Rending](../../Core/Injury.md#Rending).
-* Ranged Attack (3) [Severe Injury](../../Core/Injury.md#Severe%20Injury) [Piercing](../../Core/Injury.md#Piercing).
+* Attack (3) [Minimal Injury](../../Core/Injury#Minimal%20Injury) [Rending](../../Core/Injury#Rending).
+* Ranged Attack (3) [Severe Injury](../../Core/Injury#Severe%20Injury) [Piercing](../../Core/Injury#Piercing).
 
 #### Reactions
 * Avoid (-2)

@@ -28,7 +28,7 @@ nav_order: 2
 * [Backpack](Storage#Backpack).
 * Commission 20 Silver.
 * Sells for 15 Silver.
-* Holds 6 + [Strength](Core/Strength.md) size.
+* Holds 6 + [Strength](Core/Strength) size.
 
 ---
 
@@ -37,7 +37,7 @@ nav_order: 2
 * [Backpack](Storage#Backpack).
 * Commission 45 Silver.
 * Sells for 15 Silver.
-* Holds 1 + [Strength](Core/Strength.md) size.
+* Holds 1 + [Strength](Core/Strength) size.
 * Holds an additional 10 size of [Materials](Materials).
 
 ---
@@ -47,8 +47,8 @@ nav_order: 2
 * [Backpack](Storage#Backpack).
 * Commission 20 Silver.
 * Sells for 5 Silver.
-* Holds 2 + [Strength](Core/Strength.md) size.
-* Holds an additional 4 size of [Weapons](Core/Weapons.md).
+* Holds 2 + [Strength](Core/Strength) size.
+* Holds an additional 4 size of [Weapons](Core/Weapons).
 
 ---
 
@@ -57,7 +57,7 @@ nav_order: 2
 * [Backpack](Storage#Backpack).
 * Commission 10 Silver.
 * Sells for 5 Silver.
-* Holds 4 + [Strength](Core/Strength.md) size.
+* Holds 4 + [Strength](Core/Strength) size.
 
 ---
 
@@ -82,7 +82,7 @@ nav_order: 2
 * Commission 20 Silver.
 * Sells for 10 Silver.
 * Holds 3 size.
-* Holds an additional 2 size of [Munitions](Core/Comestibles.md#Munitions).
+* Holds an additional 2 size of [Munitions](Core/Comestibles#Munitions).
 
 ---
 

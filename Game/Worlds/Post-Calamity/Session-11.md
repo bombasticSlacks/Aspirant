@@ -45,11 +45,11 @@ grand_parent: Worlds
 
 | Move                          | Initiative | Integrity | Weakness                                       | Resistance                                                   |
 | ----------------------------- | ---------- | --------- | ---------------------------------------------- | ------------------------------------------------------------ |
-| [Reach](../../Core/Movement.md#Reach) | 2          | 2         | [Heat](../../Core/Injury.md#Heat), [Life](../../Core/Injury.md#Life) | [Piercing](../../Core/Injury.md#Piercing), [Cold](../../Core/Injury.md#Cold) |
+| [Reach](../../Core/Movement#Reach) | 2          | 2         | [Heat](../../Core/Injury#Heat), [Life](../../Core/Injury#Life) | [Piercing](../../Core/Injury#Piercing), [Cold](../../Core/Injury#Cold) |
 
-* [Attack(3, impact, 2)](../../Core/Character-Actions.md#Attack(X,%20TYPE,%20DAMAGE))
-* [Grapple(3)](../../Core/Character-Actions.md#Grapple(X,%20OPPOSED))
-* [Avoid(1)](../../Core/Character-Actions.md#Avoid(X))
+* [Attack(3, impact, 2)](../../Core/Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
+* [Grapple(3)](../../Core/Character-Actions#Grapple(X,%20OPPOSED))
+* [Avoid(1)](../../Core/Character-Actions#Avoid(X))
 
 ##### Rooted
 Trait when grappling they can act normally.
@@ -59,10 +59,10 @@ Trait when grappling they can act normally.
 
 | Move | Initiative | Integrity | Weakness                                       | Resistance                                                   |
 | ---- | ---------- | --------- | ---------------------------------------------- | ------------------------------------------------------------ |
-| -    | 2, 2       | 5         | [Heat](../../Core/Injury.md#Heat), [Life](../../Core/Injury.md#Life) | [Piercing](../../Core/Injury.md#Piercing), [Cold](../../Core/Injury.md#Cold) |
+| -    | 2, 2       | 5         | [Heat](../../Core/Injury#Heat), [Life](../../Core/Injury#Life) | [Piercing](../../Core/Injury#Piercing), [Cold](../../Core/Injury#Cold) |
 
-* [Multi Attack(3, impact, 2)](../../Core/Character-Actions.md#Attack(X,%20TYPE,%20DAMAGE))
-* [Multi Grapple(3)](../../Core/Character-Actions.md#Grapple(X,%20OPPOSED))
+* [Multi Attack(3, impact, 2)](../../Core/Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
+* [Multi Grapple(3)](../../Core/Character-Actions#Grapple(X,%20OPPOSED))
 * Wake The Dead
 * Resistance(1)
 
@@ -73,22 +73,22 @@ Trait when grappling they can act normally.
 
 | Move                          | Initiative | Integrity | Weakness | Resistance |
 | ----------------------------- | ---------- | --------- | -------- | ---------- |
-| [Reach](../../Core/Movement.md#Reach) | 1          | -         | -        | -          | 
+| [Reach](../../Core/Movement#Reach) | 1          | -         | -        | -          | 
 
-* [Attack(2, impact, 1)](../../Core/Character-Actions.md#Attack(X,%20TYPE,%20DAMAGE))
+* [Attack(2, impact, 1)](../../Core/Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
 
 ##### Biting
-If already in melee with an opponent, they can [Attack(4, rending, 2)](../../Core/Character-Actions.md#Attack(X,%20TYPE,%20DAMAGE)).
+If already in melee with an opponent, they can [Attack(4, rending, 2)](../../Core/Character-Actions#Attack(X,%20TYPE,%20DAMAGE)).
 
 #### Wooly Thing
 *Large megafauna like a moose covered in mushrooms and moss.*
 
 | Move                          | Initiative | Integrity | Weakness                                               | Resistance                                                     |
 | ----------------------------- | ---------- | --------- | ------------------------------------------------------ | -------------------------------------------------------------- |
-| [Close](../../Core/Movement.md#Close) | 4          | 5         | [Heat](../../Core/Injury.md#Heat), [Piercing](../../Core/Injury.md#Piercing) | [Impact](../../Core/Injury.md#Impact), [Rending](../../Core/Injury.md#Rending) |
+| [Close](../../Core/Movement#Close) | 4          | 5         | [Heat](../../Core/Injury#Heat), [Piercing](../../Core/Injury#Piercing) | [Impact](../../Core/Injury#Impact), [Rending](../../Core/Injury#Rending) |
 
-* [Attack(5, impact, 3)](../../Core/Character-Actions.md#Attack(X,%20TYPE,%20DAMAGE))
-* [Avoid(2)](../../Core/Character-Actions.md#Avoid(X))
+* [Attack(5, impact, 3)](../../Core/Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
+* [Avoid(2)](../../Core/Character-Actions#Avoid(X))
 
 ##### Pounce
 As the [Trampler](../../Knight#Trampler) training. skill test is at a (+5).

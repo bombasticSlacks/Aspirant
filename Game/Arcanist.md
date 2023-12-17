@@ -26,9 +26,9 @@ Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 * Summon a familiar that obeys
 * Conjure simple items that won't be missed (from wherever you take them).
 
- [Crafting Cost](Core/Terminology.md#Crafting%20Cost): 1 size of [Artisan](Materials#Artisan) [Materials](Materials) + a [Reagent Bag](Example-Gear#Reagent%20Bag) charge.
+ [Crafting Cost](Core/Terminology#Crafting%20Cost): 1 size of [Artisan](Materials#Artisan) [Materials](Materials) + a [Reagent Bag](Example-Gear#Reagent%20Bag) charge.
 ### Bewitched
-You can imbue magic into people as you can permanent [Equipment](Core/Equipment.md).
+You can imbue magic into people as you can permanent [Equipment](Core/Equipment).
 
 People count as Size 5, body parts as size 2
 
@@ -36,12 +36,12 @@ People count as Size 5, body parts as size 2
 You may attempt a ritual without 1 of the requirements and replace it with an amount of blood.
 
 ### Hallowed Ground
-You can imbue magic into places as you can permanent [Equipment](Core/Equipment.md).
+You can imbue magic into places as you can permanent [Equipment](Core/Equipment).
 
 Places count as Size 5
 
 ### Intellectual Methods
-[Attunement](Core/Spirit.md#Attunement) is an [Intelligence](Core/Intelligence.md) skill for you.
+[Attunement](Core/Spirit#Attunement) is an [Intelligence](Core/Intelligence) skill for you.
 
 
 
@@ -50,14 +50,14 @@ Places count as Size 5
 ## Advanced
 
 ### Expert Arcana
-*[Requirement](Core/Terminology.md#Requirement): [Amateur Arcana](#Amateur%20Arcana)*
+*[Requirement](Core/Terminology#Requirement): [Amateur Arcana](#Amateur%20Arcana)*
 Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 * Create [Harmonic](Magic-Items#Harmonic) [Magic-Items](Magic-Items).
 * Summon an animal that obeys.
 * Conjure more complex items that will be missed.
 * Teleport an exact item to yourself.
 
- [Crafting Cost](Core/Terminology.md#Crafting%20Cost): Size of target item in [Exotic](Materials#Exotic) [Materials](Materials) + Size of target item in [Artisan](Materials#Artisan) [Materials](Materials) + a [Reagent Bag](Example-Gear#Reagent%20Bag) charge.
+ [Crafting Cost](Core/Terminology#Crafting%20Cost): Size of target item in [Exotic](Materials#Exotic) [Materials](Materials) + Size of target item in [Artisan](Materials#Artisan) [Materials](Materials) + a [Reagent Bag](Example-Gear#Reagent%20Bag) charge.
 ### Invigorated Enchantment
 You can imbue two separate magical effects into an item.
 
@@ -71,11 +71,11 @@ You can hold an additional $2 \times Spirit$ Size of items. These items can be a
 ## Master
 
 ### Master Arcana
-*[Requirement](Core/Terminology.md#Requirement): [Expert Arcana](#Expert%20Arcana)*
+*[Requirement](Core/Terminology#Requirement): [Expert Arcana](#Expert%20Arcana)*
 Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 * Create [Discordant](Magic-Items#Discordant) [Magic-Items](Magic-Items).
 * Summon a magical creature that obeys.
 * Conjure an exact item of need (the owner may be angry about this).
 
- [Crafting Cost](Core/Terminology.md#Crafting%20Cost): Size of target item in [Exotic](Materials#Exotic) [Materials](Materials), but must be two separate [Materials](Materials) + Size of target item in [Artisan](Materials#Artisan) [Materials](Materials) + a [Reagent Bag](Example-Gear#Reagent%20Bag) charge.
+ [Crafting Cost](Core/Terminology#Crafting%20Cost): Size of target item in [Exotic](Materials#Exotic) [Materials](Materials), but must be two separate [Materials](Materials) + Size of target item in [Artisan](Materials#Artisan) [Materials](Materials) + a [Reagent Bag](Example-Gear#Reagent%20Bag) charge.
 

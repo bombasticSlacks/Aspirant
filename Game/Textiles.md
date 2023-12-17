@@ -8,7 +8,7 @@ nav_order: 2
 # Textiles
 One of the [Materials](Materials) used for crafting and trading.
 
-Thin strands of material carefully assembled into weaves, fabric makes an exceptional material for [Storage](Storage), and [Armour](Core/Armour.md).
+Thin strands of material carefully assembled into weaves, fabric makes an exceptional material for [Storage](Storage), and [Armour](Core/Armour).
 
 ## Basic Textiles
 Basic poorly made fabrics.

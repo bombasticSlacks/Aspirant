@@ -8,7 +8,7 @@ nav_order: 2
 # Metal
 One of the [Materials](Materials) used for crafting and trading.
 
-Rigid workable materials, making great [Armour](Core/Armour.md), [Gear](Core/Gear.md), and [Weapons](Core/Weapons.md). Generally harvested from deposits in the ground or reclaimed.
+Rigid workable materials, making great [Armour](Core/Armour), [Gear](Core/Gear), and [Weapons](Core/Weapons). Generally harvested from deposits in the ground or reclaimed.
 
 ## Basic Metal
 Poorly sourced metal that isn't very useful for working.

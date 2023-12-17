@@ -5,9 +5,9 @@ parent: Gear
 grand_parent: Equipment
 nav_order: 2
 ---
-# Example [Gear](Core/Gear.md)
+# Example [Gear](Core/Gear)
 {: .no_toc }
-This is a non-exhaustive list of the sort of gear your characters may need. If something isn't on this list work with your GM to come up with values for it, remember to [Obey Conservation Of Mass](Core/Terminology.md#Obey%20Conservation%20Of%20Mass).
+This is a non-exhaustive list of the sort of gear your characters may need. If something isn't on this list work with your GM to come up with values for it, remember to [Obey Conservation Of Mass](Core/Terminology#Obey%20Conservation%20Of%20Mass).
 * Cost is the expected cost to purchase from a merchant, commissioning also requires the commissioning fee from the tradesman.
 
 <details open markdown="block">
@@ -124,13 +124,13 @@ Size 2
 
 ---
 
-## [Toolkits](Core/Gear.md#Toolkits)
+## [Toolkits](Core/Gear#Toolkits)
 
 ### Alchemist's Tool Set
 *A collection of tools for measuring solutions, heating and diffusing materials. 3 size of [Artisan](Materials#Artisan)* materials.
 * Size 3.
 * Cost 15.
-* Used for crafting [Alchemy](Core/Comestibles.md#Alchemy).
+* Used for crafting [Alchemy](Core/Comestibles#Alchemy).
 * Used for crafting [Transhumanism](Character-Development#Transhumanism) processes.
 
 ---
@@ -138,9 +138,9 @@ Size 2
 *A collection of tools for customizing, creating, and forging weapons and armour. 3 size of [Artisan](Materials#Artisan)* materials.
 * Size 3.
 * Cost 15.
-* Used for crafting [Weapons](Core/Weapons.md).
-* Used for crafting [Armour](Core/Armour.md).
-* Used for crafting [Munitions](Core/Comestibles.md#Munitions).
+* Used for crafting [Weapons](Core/Weapons).
+* Used for crafting [Armour](Core/Armour).
+* Used for crafting [Munitions](Core/Comestibles#Munitions).
 
 ---
 ### Camping Gear
@@ -156,7 +156,7 @@ Size 2
 *A collection of items required to make the road or a traumatic event easier. Consisting of a weighted blanket, sanitary napkins, sweets, and other comforts not normally seen on the road. 1 size of [Exotic](Materials#Exotic) + charges.* 
 * Size 2.
 * Cost 13.
-* 3(1) [Charges](Core/Terminology.md#Charges).
+* 3(1) [Charges](Core/Terminology#Charges).
 * Anyone you help with your comfort kit, you receive a +1 to social skill tests with. 
 
 
@@ -166,7 +166,7 @@ Size 2
 *A musical tool of complex design. Complex instruments are expensive and produce nuanced and complex sounds. 3 size of [Artisan](Materials#Artisan) materials.* 
 * Size 3.
 * Cost 15.
-* A complex instrument provides a +2 to [Confidence](Core/Communication.md#Confidence) checks to use it.
+* A complex instrument provides a +2 to [Confidence](Core/Communication#Confidence) checks to use it.
 
 > Examples would include: Bagpipes, Dulcimer, Lute, Viol.
 
@@ -181,11 +181,11 @@ Size 2
 ---
 
 ### Explorers Kit
-*A collection of generic items an adventurer should have packed. Whether it be rope, a specific tool, climbing pitons, a torch etc. This kit is by far the most generic, but also any use of the explorers' kit should expend a use and require refilling, as the tools will be subpar. 1 size of [Artisan Metals](Metal#Artisan%20Metals) + [Charges](Core/Terminology.md#Charges).*
+*A collection of generic items an adventurer should have packed. Whether it be rope, a specific tool, climbing pitons, a torch etc. This kit is by far the most generic, but also any use of the explorers' kit should expend a use and require refilling, as the tools will be subpar. 1 size of [Artisan Metals](Metal#Artisan%20Metals) + [Charges](Core/Terminology#Charges).*
 * Size 3.
 * Cost 11.
-* 3(2) [Charges](Core/Terminology.md#Charges).
-* Can be used as a 1 use substitute tool you need for an [Action](Core/Terminology.md#Action).
+* 3(2) [Charges](Core/Terminology#Charges).
+* Can be used as a 1 use substitute tool you need for an [Action](Core/Terminology#Action).
 
 ---
 
@@ -197,11 +197,11 @@ Size 2
 ---
 
 ### Forgery Kit
-*A collection of stamps, plates, glossy paper and inks required to forge official documents. 1 size of [Exotic](Materials#Exotic) material + [Charges](Core/Terminology.md#Charges).*
+*A collection of stamps, plates, glossy paper and inks required to forge official documents. 1 size of [Exotic](Materials#Exotic) material + [Charges](Core/Terminology#Charges).*
 * Size 2.
 * Cost 25.
-* Creating a forgery is a [Accuracy](Core/Agility.md#Accuracy) [Fixed Difficulty](Core/Skills.md#Fixed%20Difficulty) skill test with a [Difficulty Value](Core/Terminology.md#Difficulty%20Value) assigned based on the complexity of the forgery. The cost in charges for the forgery is equal to 2 * the [Difficulty Value](Core/Terminology.md#Difficulty%20Value).
-* 15(1) [Charges](Core/Terminology.md#Charges).
+* Creating a forgery is a [Accuracy](Core/Agility#Accuracy) [Fixed Difficulty](Core/Skills#Fixed%20Difficulty) skill test with a [Difficulty Value](Core/Terminology#Difficulty%20Value) assigned based on the complexity of the forgery. The cost in charges for the forgery is equal to 2 * the [Difficulty Value](Core/Terminology#Difficulty%20Value).
+* 15(1) [Charges](Core/Terminology#Charges).
 
 > So, a -4 difficulty test would result in a forgery costing 8 silver.
 
@@ -223,11 +223,11 @@ Size 2
 ---
 
 ### Light Kit
-*A light source and necessary fuel, whether it is from treated torches or some form of lantern. 1 size of [Artisan](Materials#Artisan) materials + [Charges](Core/Terminology.md#Charges).*
+*A light source and necessary fuel, whether it is from treated torches or some form of lantern. 1 size of [Artisan](Materials#Artisan) materials + [Charges](Core/Terminology#Charges).*
 * Size 2.
 * Cost 10.
-* 5(1) [Charges](Core/Terminology.md#Charges).
-* Every 2 hours this provides light expends a [Charge](Core/Terminology.md#Charges)
+* 5(1) [Charges](Core/Terminology#Charges).
+* Every 2 hours this provides light expends a [Charge](Core/Terminology#Charges)
 
 
 ---
@@ -249,20 +249,20 @@ Size 2
 
 ---
 ### Patching Kit
-*A collection of pins, patches, bolts and metal bits used to repair armour in the field. 1 size of [Artisan Metals](Metal#Artisan%20Metals) + [Charges](Core/Terminology.md#Charges).*
+*A collection of pins, patches, bolts and metal bits used to repair armour in the field. 1 size of [Artisan Metals](Metal#Artisan%20Metals) + [Charges](Core/Terminology#Charges).*
 * Size 2.
 * Cost 15.
-* 5(2) [Charges](Core/Terminology.md#Charges).
-* Given 5 minutes, you can repair 1 integrity on a suit of armour for a [charge](Core/Terminology.md#Charges).
+* 5(2) [Charges](Core/Terminology#Charges).
+* Given 5 minutes, you can repair 1 integrity on a suit of armour for a [charge](Core/Terminology#Charges).
 
 ---
 
 ### Reagent Bag
-*A well constructed satchel of elixirs, dried powdered items, and other small bits of magic that can be used to perform [Rituals](Core/Spirit.md#Attunement). 1 size [Artisan Hide](Hide#Artisan%20Hide) + [Charges](Core/Terminology.md#Charges).* 
+*A well constructed satchel of elixirs, dried powdered items, and other small bits of magic that can be used to perform [Rituals](Core/Spirit#Attunement). 1 size [Artisan Hide](Hide#Artisan%20Hide) + [Charges](Core/Terminology#Charges).* 
 * Size 2.
 * Cost 15.
-* 5(2) [Charges](Core/Terminology.md#Charges).
-* You can spend a [charge](Core/Terminology.md#Charges) to perform [Ritual Magic](Magic#Ritual%20Magic).
+* 5(2) [Charges](Core/Terminology#Charges).
+* You can spend a [charge](Core/Terminology#Charges) to perform [Ritual Magic](Magic#Ritual%20Magic).
 
 A reagent bag contains 5 uses, and replenishing a use costs 2 silver.
 
@@ -294,41 +294,41 @@ A reagent bag contains 5 uses, and replenishing a use costs 2 silver.
 
 ### Tinker's Kit
 *Size 2 Cost 15*
-*A collection of scrap bits, odds and ends, adhesive and other consumables you might need to fix or quickly construct something. Any time you need scrap, replacement parts, or other machined parts you can use a tinkers kit. 1 size of [Artisan](Materials#Artisan) + [Charges](Core/Terminology.md#Charges).*
+*A collection of scrap bits, odds and ends, adhesive and other consumables you might need to fix or quickly construct something. Any time you need scrap, replacement parts, or other machined parts you can use a tinkers kit. 1 size of [Artisan](Materials#Artisan) + [Charges](Core/Terminology#Charges).*
 * Size 2.
 * Cost 15.
-* [Charges](Core/Terminology.md#Charges) 5(2).
+* [Charges](Core/Terminology#Charges) 5(2).
 * A tinkers kit charge can be used to have a bauble or small part on hand for repairs or crafting.
 
 ---
 
 ### Trap Kit
-*A collection of materials, triggers, sensors and payloads that can be used to create and customize traps on the go. 1 size of [Artisan Metals](Metal#Artisan%20Metals) + [Charges](Core/Terminology.md#Charges).* 
+*A collection of materials, triggers, sensors and payloads that can be used to create and customize traps on the go. 1 size of [Artisan Metals](Metal#Artisan%20Metals) + [Charges](Core/Terminology#Charges).* 
 * Size 2.
 * Cost 10.
-* [Charges](Core/Terminology.md#Charges) 5(1).
-* Can expend a [charge](Core/Terminology.md#Charges) to set up a trap to trigger based on certain conditions.
+* [Charges](Core/Terminology#Charges) 5(1).
+* Can expend a [charge](Core/Terminology#Charges) to set up a trap to trigger based on certain conditions.
 
 ---
 
 ### Trauma Kit
-*A collection of simple medicines, bandages, synthetic skin, coagulating powder, splints, and other things required to keep people alive after a severe or critical injury and treat the issues. 1 size of [Artisan](Materials#Artisan) + [Charges](Core/Terminology.md#Charges)* 
+*A collection of simple medicines, bandages, synthetic skin, coagulating powder, splints, and other things required to keep people alive after a severe or critical injury and treat the issues. 1 size of [Artisan](Materials#Artisan) + [Charges](Core/Terminology#Charges)* 
 * Size 2.
 * Cost 15.
-* [Charges](Core/Terminology.md#Charges) 5(2).
-* A trauma kit charge can be used to provide (+1) to [stabilization](Core/Injury.md#Stabilization) and [Surgery](Core/Injury.md#Surgery). 
-* A trauma kit [charge](Core/Terminology.md#Charges) can be used to perform first aid to alleviate the immediate effects of injuries. This is a [Application](Core/Intelligence.md#Application) [Opposed Difficulty](Core/Skills.md#Opposed%20Difficulty)([Injury Penalty](Core/Injury.md#Injury%20Penalty)). If you succeed, reduce their injury penalty by 1. If you fail a first aid test, the person still counts as [stabilized](Core/Injury.md#Stabilization).
+* [Charges](Core/Terminology#Charges) 5(2).
+* A trauma kit charge can be used to provide (+1) to [stabilization](Core/Injury#Stabilization) and [Surgery](Core/Injury#Surgery). 
+* A trauma kit [charge](Core/Terminology#Charges) can be used to perform first aid to alleviate the immediate effects of injuries. This is a [Application](Core/Intelligence#Application) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Injury Penalty](Core/Injury#Injury%20Penalty)). If you succeed, reduce their injury penalty by 1. If you fail a first aid test, the person still counts as [stabilized](Core/Injury#Stabilization).
 
 ---
 
 ### Wrangler's Kit
 *Size 2 Cost 20*
-*A collection of restraints, blinders, keys, and other bindings usable to bind creatures and humans. 1 size of [Artisan Metals](Metal#Artisan%20Metals) + [Charges](Core/Terminology.md#Charges).* 
+*A collection of restraints, blinders, keys, and other bindings usable to bind creatures and humans. 1 size of [Artisan Metals](Metal#Artisan%20Metals) + [Charges](Core/Terminology#Charges).* 
 * Size 2.
 * Cost 15.
-* [Charges](Core/Terminology.md#Charges) 5(2).
-* Using a wranglers kit on a humanoid requires 2 [Charges](Core/Terminology.md#Charges), anything smaller would be 1, larger entities up to 5.
-* A [Character](Core/Terminology.md#Character) who is secured with a wranglers kit cannot escape without external aid.
+* [Charges](Core/Terminology#Charges) 5(2).
+* Using a wranglers kit on a humanoid requires 2 [Charges](Core/Terminology#Charges), anything smaller would be 1, larger entities up to 5.
+* A [Character](Core/Terminology#Character) who is secured with a wranglers kit cannot escape without external aid.
 
 ---
 
