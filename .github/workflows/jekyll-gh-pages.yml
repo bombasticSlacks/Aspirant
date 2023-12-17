@@ -36,7 +36,7 @@ jobs:
           repository: bombasticSlacks/jekylSite
           path: Jekyl
       - name: copy config files
-        run: cp -r /home/runner/work/Aspirant/Aspirant/Jekyl/* ./Game 
+        run: cp -rv /home/runner/work/Aspirant/Aspirant/Jekyl/* ./Game 
       - name: details early
         run: cat ./Game/Example-Weapons.md
       - name: manipulate anchors
