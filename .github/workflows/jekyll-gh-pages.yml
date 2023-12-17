@@ -35,6 +35,7 @@ jobs:
         with:
           repository: bombasticSlacks/jekylSite
           path: Game
+          clean: false
       - name: details early
         run: cat ./Game/Example-Weapons.md
       - name: manipulate anchors
