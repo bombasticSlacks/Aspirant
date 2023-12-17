@@ -5,7 +5,7 @@ parent: Armour
 grand_parent: Equipment
 nav_order: 2
 ---
-# Example [Armour](Armour)
+# Example [Armour](Core/Armour.md)
 {: .no_toc }
 * This list is non-exhaustive you can instead design your own [Designing-Armour](Designing-Armour).
 * Armour sells for 5 less than the listed cost.
@@ -39,9 +39,9 @@ See [Commissions](Services#Crafting%20Commissions) for details.
 
 [Exotic](Designing-Armour#Exotic) armour made from [Exotic Hide](Hide#Exotic%20Hide), and [Exotic Hide](Hide#Exotic%20Hide).
 
-| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness | Resistance                | Traits                                 |
+| [Skill Penalty](Core/Armour.md#Skill%20Penalty) | [Armour Integrity](Core/Armour.md#Armour%20Integrity) | Weakness | Resistance                | Traits                                 |
 | --------------------------------------- | --------------------------------------------- | -------- | ------------------------- | -------------------------------------- |
-| (-1)                                    | 2                                             |          | [Rending](Injury#Rending) | [Natural Resilience](Armour-Traits#Natural%20Resilience) |
+| (-1)                                    | 2                                             |          | [Rending](Core/Injury.md#Rending) | [Natural Resilience](Core/Armour-Traits.md#Natural%20Resilience) |
 
 ---
 
@@ -50,9 +50,9 @@ See [Commissions](Services#Crafting%20Commissions) for details.
 
 [Masterwork](Designing-Armour#Masterwork) [Artisan](Designing-Armour#Artisan) armour made from [Artisan Textiles](Textiles#Artisan%20Textiles), and [Exotic Metals](Metal#Exotic%20Metals).
 
-| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance              | Traits                                 |
+| [Skill Penalty](Core/Armour.md#Skill%20Penalty) | [Armour Integrity](Core/Armour.md#Armour%20Integrity) | Weakness            | Resistance              | Traits                                 |
 | --------------------------------------- | --------------------------------------------- | ------------------- | ----------------------- | -------------------------------------- |
-| (0)                                     | 2                                             | [Heat](Injury#Heat) | [Impact](Injury#Impact) | [Lightweight Materials](Armour-Traits#Lightweight%20Materials), [Padded](Armour-Traits#Padded) |
+| (0)                                     | 2                                             | [Heat](Core/Injury.md#Heat) | [Impact](Core/Injury.md#Impact) | [Lightweight Materials](Core/Armour-Traits.md#Lightweight%20Materials), [Padded](Core/Armour-Traits.md#Padded) |
 
 ---
 
@@ -61,9 +61,9 @@ See [Commissions](Services#Crafting%20Commissions) for details.
 
 [Basic](Designing-Armour#Basic) armour made from [Artisan Textiles](Textiles#Artisan%20Textiles).
 
-| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits |
+| [Skill Penalty](Core/Armour.md#Skill%20Penalty) | [Armour Integrity](Core/Armour.md#Armour%20Integrity) | Weakness            | Resistance | Traits |
 | --------------------------------------- | --------------------------------------------- | ------------------- | ---------- | ------ |
-| (0)                                     | 1                                             | [Cold](Injury#Cold) | -          |        |
+| (0)                                     | 1                                             | [Cold](Core/Injury.md#Cold) | -          |        |
 
 ---
 
@@ -72,9 +72,9 @@ See [Commissions](Services#Crafting%20Commissions) for details.
 
 [Masterwork](Designing-Armour#Masterwork) [Exotic](Designing-Armour#Exotic) armour made from [Exotic Hide](Hide#Exotic%20Hide), and [Exotic Metals](Metal#Exotic%20Metals).
 
-| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance                                     | Traits                                                                               |
+| [Skill Penalty](Core/Armour.md#Skill%20Penalty) | [Armour Integrity](Core/Armour.md#Armour%20Integrity) | Weakness            | Resistance                                     | Traits                                                                               |
 | --------------------------------------- | --------------------------------------------- | ------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------ |
-| (0)                                     | 2                                             | [Life](Injury#Life) | [Rending](Injury#Rending), [Heat](Injury#Heat) | [Mail](Armour-Traits#Mail), [Natural Resilience](Armour-Traits#Natural%20Resilience) | 
+| (0)                                     | 2                                             | [Life](Core/Injury.md#Life) | [Rending](Core/Injury.md#Rending), [Heat](Core/Injury.md#Heat) | [Mail](Core/Armour-Traits.md#Mail), [Natural Resilience](Core/Armour-Traits.md#Natural%20Resilience) | 
 
 ---
 
@@ -83,9 +83,9 @@ See [Commissions](Services#Crafting%20Commissions) for details.
 
 [Exotic](Designing-Armour#Exotic) armour made from [Exotic Wood](Wood#Exotic%20Wood), and [Exotic Wood](Wood#Exotic%20Wood).
 
-| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits                                 |
+| [Skill Penalty](Core/Armour.md#Skill%20Penalty) | [Armour Integrity](Core/Armour.md#Armour%20Integrity) | Weakness            | Resistance | Traits                                 |
 | --------------------------------------- | --------------------------------------------- | ------------------- | ---------- | -------------------------------------- |
-| (-1)                                    | 3                                             | [Heat](Injury#Heat) |            | [Ironbark](Armour-Traits#Ironbark) |
+| (-1)                                    | 3                                             | [Heat](Core/Injury.md#Heat) |            | [Ironbark](Core/Armour-Traits.md#Ironbark) |
 
 ---
 
@@ -94,9 +94,9 @@ See [Commissions](Services#Crafting%20Commissions) for details.
 
 [Masterwork](Designing-Armour#Masterwork) [Exotic](Designing-Armour#Exotic) armour made from [Exotic Metals](Metal#Exotic%20Metals), and [Exotic Metals](Metal#Exotic%20Metals).
 
-| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness | Resistance                                             | Traits                                                                   |
+| [Skill Penalty](Core/Armour.md#Skill%20Penalty) | [Armour Integrity](Core/Armour.md#Armour%20Integrity) | Weakness | Resistance                                             | Traits                                                                   |
 | --------------------------------------- | --------------------------------------------- | -------- | ------------------------------------------------------ | ------------------------------------------------------------------------ |
-| (-1)                                    | 3                                             |          | [Rending](Injury#Rending), [Piercing](Injury#Piercing) | [Insulated](Armour-Traits#Insulated), [Tempered](Armour-Traits#Tempered) | 
+| (-1)                                    | 3                                             |          | [Rending](Core/Injury.md#Rending), [Piercing](Core/Injury.md#Piercing) | [Insulated](Core/Armour-Traits.md#Insulated), [Tempered](Core/Armour-Traits.md#Tempered) | 
 
 
 ## Hammered Iron
@@ -104,9 +104,9 @@ See [Commissions](Services#Crafting%20Commissions) for details.
 
 [Basic](Designing-Armour#Basic) armour made from [Artisan Metals](Metal#Artisan%20Metals)
 
-| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits |
+| [Skill Penalty](Core/Armour.md#Skill%20Penalty) | [Armour Integrity](Core/Armour.md#Armour%20Integrity) | Weakness            | Resistance | Traits |
 | --------------------------------------- | --------------------------------------------- | ------------------- | ---------- | ------ |
-| (-1)                                    | 2                                             | [Cold](Injury#Cold) | -          |        |
+| (-1)                                    | 2                                             | [Cold](Core/Injury.md#Cold) | -          |        |
 
 ---
 
@@ -115,9 +115,9 @@ See [Commissions](Services#Crafting%20Commissions) for details.
 
 [Artisan](Designing-Armour#Artisan) armour made from [Artisan Hide](Hide#Artisan%20Hide), and [Liquid](Liquid)
 
-| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance                | Traits                             |
+| [Skill Penalty](Core/Armour.md#Skill%20Penalty) | [Armour Integrity](Core/Armour.md#Armour%20Integrity) | Weakness            | Resistance                | Traits                             |
 | --------------------------------------- | --------------------------------------------- | ------------------- | ------------------------- | ---------------------------------- |
-| (0)                                     | 1                                             | [Life](Injury#Life) | [Rending](Injury#Rending) | [Hardened](Armour-Traits#Hardened) | 
+| (0)                                     | 1                                             | [Life](Core/Injury.md#Life) | [Rending](Core/Injury.md#Rending) | [Hardened](Core/Armour-Traits.md#Hardened) | 
 
 ---
 
@@ -126,9 +126,9 @@ See [Commissions](Services#Crafting%20Commissions) for details.
 
 [Basic](Designing-Armour#Basic) armour made from [Artisan Hide](Hide#Artisan%20Hide)
 
-| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits |
+| [Skill Penalty](Core/Armour.md#Skill%20Penalty) | [Armour Integrity](Core/Armour.md#Armour%20Integrity) | Weakness            | Resistance | Traits |
 | --------------------------------------- | --------------------------------------------- | ------------------- | ---------- | ------ |
-| (0)                                     | 1                                             | [Life](Injury#Life) | -          |        |
+| (0)                                     | 1                                             | [Life](Core/Injury.md#Life) | -          |        |
 
 ---
 
@@ -137,9 +137,9 @@ See [Commissions](Services#Crafting%20Commissions) for details.
 
 [Basic](Designing-Armour#Basic) armour made from [Artisan Wood](Wood#Artisan%20Wood).
 
-| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits |
+| [Skill Penalty](Core/Armour.md#Skill%20Penalty) | [Armour Integrity](Core/Armour.md#Armour%20Integrity) | Weakness            | Resistance | Traits |
 | --------------------------------------- | --------------------------------------------- | ------------------- | ---------- | ------ |
-| (-1)                                    | 2                                             | [Heat](Injury#Heat) | -          |        |
+| (-1)                                    | 2                                             | [Heat](Core/Injury.md#Heat) | -          |        |
 
 ---
 
@@ -148,9 +148,9 @@ See [Commissions](Services#Crafting%20Commissions) for details.
 
 [Artisan](Designing-Armour#Artisan) armour made from [Artisan Fabric](Textiles#Artisan%20Fabric) and [Artisan Metals](Metal#Artisan%20Metals)
 
-| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits                     |
+| [Skill Penalty](Core/Armour.md#Skill%20Penalty) | [Armour Integrity](Core/Armour.md#Armour%20Integrity) | Weakness            | Resistance | Traits                     |
 | --------------------------------------- | --------------------------------------------- | ------------------- | ---------- | -------------------------- |
-| (0)                                     | 1                                             | [Heat](Injury#Heat) | -          | [Fine](Armour-Traits#Fine) |
+| (0)                                     | 1                                             | [Heat](Core/Injury.md#Heat) | -          | [Fine](Core/Armour-Traits.md#Fine) |
 
 
 ---
@@ -160,9 +160,9 @@ See [Commissions](Services#Crafting%20Commissions) for details.
 
 [Artisan](Designing-Armour#Artisan) armour made from [Artisan Textiles](Textiles#Artisan%20Textiles), and [Basic Textiles](Textiles#Basic%20Textiles).
 
-| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance              | Traits                         |
+| [Skill Penalty](Core/Armour.md#Skill%20Penalty) | [Armour Integrity](Core/Armour.md#Armour%20Integrity) | Weakness            | Resistance              | Traits                         |
 | --------------------------------------- | --------------------------------------------- | ------------------- | ----------------------- | ------------------------------ |
-| (-1)                                    | 2                                             | [Heat](Injury#Heat) | [Impact](Injury#Impact) | [Padded](Armour-Traits#Padded) |
+| (-1)                                    | 2                                             | [Heat](Core/Injury.md#Heat) | [Impact](Core/Injury.md#Impact) | [Padded](Core/Armour-Traits.md#Padded) |
 
 ---
 
@@ -171,9 +171,9 @@ See [Commissions](Services#Crafting%20Commissions) for details.
 
 [Artisan](Designing-Armour#Artisan) armour made from [Artisan Metals](Metal#Artisan%20Metals), and [Basic Metal](Metal#Basic%20Metal).
 
-| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness                                         | Resistance                | Traits                     |
+| [Skill Penalty](Core/Armour.md#Skill%20Penalty) | [Armour Integrity](Core/Armour.md#Armour%20Integrity) | Weakness                                         | Resistance                | Traits                     |
 | --------------------------------------- | --------------------------------------------- | ------------------------------------------------ | ------------------------- | -------------------------- |
-| (0)                                     | 2                                             | [Cold](Injury#Cold), [Piercing](Injury#Piercing) | [Rending](Injury#Rending) | [Mail](Armour-Traits#Mail) |
+| (0)                                     | 2                                             | [Cold](Core/Injury.md#Cold), [Piercing](Core/Injury.md#Piercing) | [Rending](Core/Injury.md#Rending) | [Mail](Core/Armour-Traits.md#Mail) |
 
 ---
 
@@ -182,9 +182,9 @@ See [Commissions](Services#Crafting%20Commissions) for details.
 
 [Artisan](Designing-Armour#Artisan) armour made from [Artisan Hide](Hide#Artisan%20Hide), and [Basic Metal](Metal#Basic%20Metal)
 
-| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits                                 |
+| [Skill Penalty](Core/Armour.md#Skill%20Penalty) | [Armour Integrity](Core/Armour.md#Armour%20Integrity) | Weakness            | Resistance | Traits                                 |
 | --------------------------------------- | --------------------------------------------- | ------------------- | ---------- | -------------------------------------- |
-| (0)                                     | 2                                             | [Life](Injury#Life) |            | [Reinforced](Armour-Traits#Reinforced) | 
+| (0)                                     | 2                                             | [Life](Core/Injury.md#Life) |            | [Reinforced](Core/Armour-Traits.md#Reinforced) | 
 
 ---
 
@@ -193,9 +193,9 @@ See [Commissions](Services#Crafting%20Commissions) for details.
 
 [Artisan](Designing-Armour#Artisan) armour made from [Artisan Hide](Hide#Artisan%20Hide), and [Basic Metal](Metal#Basic%20Metal).
 
-| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness            | Resistance | Traits                                 |
+| [Skill Penalty](Core/Armour.md#Skill%20Penalty) | [Armour Integrity](Core/Armour.md#Armour%20Integrity) | Weakness            | Resistance | Traits                                 |
 | --------------------------------------- | --------------------------------------------- | ------------------- | ---------- | -------------------------------------- |
-| (0)                                     | 2                                             | [Life](Injury#Life) | -          | [Reinforced](Armour-Traits#Reinforced) |
+| (0)                                     | 2                                             | [Life](Core/Injury.md#Life) | -          | [Reinforced](Core/Armour-Traits.md#Reinforced) |
 
 ---
 
@@ -204,7 +204,7 @@ See [Commissions](Services#Crafting%20Commissions) for details.
 
 The absence of armour.
 
-| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness | Resistance | Traits |
+| [Skill Penalty](Core/Armour.md#Skill%20Penalty) | [Armour Integrity](Core/Armour.md#Armour%20Integrity) | Weakness | Resistance | Traits |
 | --------------------------------------- | --------------------------------------------- | -------- | ---------- | ------ |
 | -                                       | 0                                             | All      | -          |        |
 
@@ -215,8 +215,8 @@ The absence of armour.
 
 [Masterwork](Designing-Armour#Masterwork) [Exotic](Designing-Armour#Exotic) armour made from [Exotic Textiles](Textiles#Exotic%20Textiles), and [Exotic Textiles](Textiles#Exotic%20Textiles).
 
-| [Skill Penalty](Armour#Skill%20Penalty) | [Armour Integrity](Armour#Armour%20Integrity) | Weakness | Resistance                               | Traits                                                     |
+| [Skill Penalty](Core/Armour.md#Skill%20Penalty) | [Armour Integrity](Core/Armour.md#Armour%20Integrity) | Weakness | Resistance                               | Traits                                                     |
 | --------------------------------------- | --------------------------------------------- | -------- | ---------------------------------------- | ---------------------------------------------------------- |
-| (0)                                     | 1                                             |          | [Cold](Injury#Cold), [Life](Injury#Life) | [Fine](Armour-Traits#Fine), [Warded](Armour-Traits#Warded) | 
+| (0)                                     | 1                                             |          | [Cold](Core/Injury.md#Cold), [Life](Core/Injury.md#Life) | [Fine](Core/Armour-Traits.md#Fine), [Warded](Core/Armour-Traits.md#Warded) | 
 
 ---

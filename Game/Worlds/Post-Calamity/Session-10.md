@@ -99,11 +99,11 @@ Traveling to Breckles
 
 | Move                          | Initiative | Resistance | Integrity | Weakness            | Resistance |
 | ----------------------------- | ---------- | ---------- | --------- | ------------------- | ---------- |
-| [Reach](../../Movement#Reach) | 2          | -          | 2         | [Heat](Injury#Heat), [Life](../../Injury#Life) | [Piercing](../../Injury#Piercing), [Cold](../../Injury#Cold)          |
+| [Reach](../../Core/Movement.md#Reach) | 2          | -          | 2         | [Heat](../../Core/Injury.md#Heat), [Life](../../Core/Injury.md#Life) | [Piercing](../../Core/Injury.md#Piercing), [Cold](../../Core/Injury.md#Cold)          |
 
-* [Attack(3, impact, 2)](../../Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
-* [Grapple(3)](../../Character-Actions#Grapple(X,%20OPPOSED))
-* [Avoid(1)](../../Character-Actions#Avoid(X))
+* [Attack(3, impact, 2)](../../Core/Character-Actions.md#Attack(X,%20TYPE,%20DAMAGE))
+* [Grapple(3)](../../Core/Character-Actions.md#Grapple(X,%20OPPOSED))
+* [Avoid(1)](../../Core/Character-Actions.md#Avoid(X))
 
 ### Rooted
 Trait when grappling they can act normally.

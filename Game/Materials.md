@@ -33,4 +33,4 @@ Unless the task you need a material for is exceptionally powerful, you should tr
 
 # Acquiring Materials
 * Purchased [Costs Of Materials](Services#Costs%20Of%20Materials)
-* [Found through play](Equipment#Looting)
+* [Found through play](Core/Equipment.md#Looting)

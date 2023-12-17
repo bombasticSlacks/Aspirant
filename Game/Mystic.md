@@ -26,25 +26,25 @@ Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 * Gather information about things you could not otherwise know.
 * Command and manipulate unintelligent spirits and undead.
 * Hex something that you have a piece of.
-* Heal [Injury](Injury).
+* Heal [Injury](Core/Injury.md).
 
- [Crafting Cost](Terminology#Crafting%20Cost): 1 size of [Artisan](Materials#Artisan) [Materials](Materials) + a [Reagent Bag](Example-Gear#Reagent%20Bag) charge.
+ [Crafting Cost](Core/Terminology.md#Crafting%20Cost): 1 size of [Artisan](Materials#Artisan) [Materials](Materials) + a [Reagent Bag](Example-Gear#Reagent%20Bag) charge.
 
 ### Army Of The Dead
-You can consider allied undead and spirits to be [Followers](Terminology#Follower)
+You can consider allied undead and spirits to be [Followers](Core/Terminology.md#Follower)
 
 ### Danger Sense
-* You may [Substitute](Terminology#Substitute) [Attunement](Spirit#Attunement) for [Reflexes](Agility#Reflexes) when calculating [Initiative Value](Combat#Initiative%20Value). 
+* You may [Substitute](Core/Terminology.md#Substitute) [Attunement](Core/Spirit.md#Attunement) for [Reflexes](Core/Agility.md#Reflexes) when calculating [Initiative Value](Core/Combat.md#Initiative%20Value). 
 * You cannot be surprised.
 
 ### Dead Tongues
-You can speak to spirits and undead even if you wouldn't otherwise share a language. This includes unintelligent or non-communicative [Characters](Terminology#Character).
+You can speak to spirits and undead even if you wouldn't otherwise share a language. This includes unintelligent or non-communicative [Characters](Core/Terminology.md#Character).
 
 ### Foresight
-You may [Substitute](Terminology#Substitute) [Attunement](Spirit#Attunement) for [Avoid](Reacting-To-Attacks#Avoid) [Action](Terminology#Action).
+You may [Substitute](Core/Terminology.md#Substitute) [Attunement](Core/Spirit.md#Attunement) for [Avoid](Core/Reacting-To-Attacks.md#Avoid) [Action](Core/Terminology.md#Action).
 
 ### True Sight
-You can perceive things supernaturally within [Spirit](Spirit) x 10m.
+You can perceive things supernaturally within [Spirit](Core/Spirit.md) x 10m.
 
 
 ---
@@ -52,14 +52,14 @@ You can perceive things supernaturally within [Spirit](Spirit) x 10m.
 ## Advanced
 
 ### Expert Mysticism
-*[Requirement](Terminology#Requirement): [Amateur Mysticism](#Amateur%20Mysticism)*
+*[Requirement](Core/Terminology.md#Requirement): [Amateur Mysticism](#Amateur%20Mysticism)*
 Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 * See into the future what may happen.
 * See into the past what has happened.
 * Create undead, and transplant souls between vessels.
 * Regrow lost flesh.
 
- [Crafting Cost](Terminology#Crafting%20Cost): 1 size of [Exotic](Materials#Exotic) [Materials](Materials) + a [Reagent Bag](Example-Gear#Reagent%20Bag) charge.
+ [Crafting Cost](Core/Terminology.md#Crafting%20Cost): 1 size of [Exotic](Materials#Exotic) [Materials](Materials) + a [Reagent Bag](Example-Gear#Reagent%20Bag) charge.
 
 ### Oracle
 During [Good Night's Rest](Activities#Good%20Night's%20Rest) roll 2d6. At any point before the next meditation, you may choose to have any skill test use that roll result.
@@ -69,11 +69,11 @@ During [Good Night's Rest](Activities#Good%20Night's%20Rest) roll 2d6. At any po
 ## Master
 
 ### Master Mysticism
-*[Requirement](Terminology#Requirement): [Expert Mysticism](#Expert%20Mysticism)*
+*[Requirement](Core/Terminology.md#Requirement): [Expert Mysticism](#Expert%20Mysticism)*
 Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 * Effect what has already happened.
 * Get accurate information about the state of something.
 * Manipulate life itself and control intelligent undead.
 * Teleport yourself and others.
 
- [Crafting Cost](Terminology#Crafting%20Cost): 1 size of [Exotic](Materials#Exotic) [Materials](Materials) + 1 size of [Artisan](Materials#Artisan) [Materials](Materials) + a [Reagent Bag](Example-Gear#Reagent%20Bag) charge.
+ [Crafting Cost](Core/Terminology.md#Crafting%20Cost): 1 size of [Exotic](Materials#Exotic) [Materials](Materials) + 1 size of [Artisan](Materials#Artisan) [Materials](Materials) + a [Reagent Bag](Example-Gear#Reagent%20Bag) charge.

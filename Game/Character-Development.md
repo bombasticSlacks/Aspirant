@@ -10,7 +10,7 @@ As you adventure, your character will become stronger. This can happen in a numb
 When you rest, based on the length of the rest, you will have time which could be spent training. Spending XP to train is either a [downtime activity](Activities#Downtime%20Activity) or [travel activity](Activities#Travel%20Activity).
 
 ## Learning
-Aside from inherent progression, the experts of the world have much to teach your character. As you travel you should learn everything you can spending your XP to gain new [Skills](Skills) and [Training](#Training).
+Aside from inherent progression, the experts of the world have much to teach your character. As you travel you should learn everything you can spending your XP to gain new [Skills](Core/Skills.md) and [Training](#Training).
 
 You can learn using:
 * [Supervised Training](Activities#Supervised%20Learning).
@@ -32,9 +32,9 @@ A skill or training is considered in progress if you have spent some XP, but not
 A skill or training is considered known if you have spent the required XP on it. At this point you benefit from it.
 
 ## Progression
-As your characters gain [Total XP](Stats#Total%20XP) you gain additional benefits beyond your [Learning](#Learning). These are called [Character-Milestones](Character-Milestones) and you receive them as follows:
+As your characters gain [Total XP](Core/Stats.md#Total%20XP) you gain additional benefits beyond your [Learning](#Learning). These are called [Character-Milestones](Character-Milestones) and you receive them as follows:
 
-| [Total XP](Stats#Total%20XP) | Reward                                                            |
+| [Total XP](Core/Stats.md#Total%20XP) | Reward                                                            |
 | ---------------------------- | ----------------------------------------------------------------- |
 | 10                           | [Basic Milestones](Character-Milestones#Basic%20Milestones)       |
 | 15                           | [Basic Milestones](Character-Milestones#Basic%20Milestones)       |
@@ -47,7 +47,7 @@ As your characters gain [Total XP](Stats#Total%20XP) you gain additional benefit
 Basic, advanced, and master training represents powerful new abilities that your character can learn to possess. Trainings can either be:
 * Passive - just does something all the time for you.
 * Elective - gives you a new ability/option you can use at will.
-* Power Based - Requires spending [Power](Stats#Max%20Power) to activate.
+* Power Based - Requires spending [Power](Core/Stats.md#Max%20Power) to activate.
 * Once Per Downtime - Very powerful abilities that can only be used once before resting in a city.
 
 ### Basic Level Training
@@ -57,7 +57,7 @@ Basic training should fundamentally be known by any practitioners of the trainin
 Advanced training should be known only be those with experience, but should still be relatively ubiquitous.
 
 ### Master Level Training
-Master level trainers should be rare and not readily available. A master should be a person of notoriety, and gaining training from them should require more than just an exchange of [Currency](Equipment#Currency).
+Master level trainers should be rare and not readily available. A master should be a person of notoriety, and gaining training from them should require more than just an exchange of [Currency](Core/Equipment.md#Currency).
 
 ### Types Of Training
 There are a number of standard character archetypes and group archetypes you will run into in Aspirant. These will make up the bulk of training you can learn and have available. Some characters and groups will notably fit into more than one of these archetypes, in that case they could teach trainings from any school they fit into.
@@ -92,7 +92,7 @@ Characters in Aspirant may suffer from debilitating injury. To combat this, pros
 
 ### Acquiring Transhumanist Effects
 * Purchased: [Buying](#Buying)
-* Found through play: [Looting](Equipment#Looting)
+* Found through play: [Looting](Core/Equipment.md#Looting)
 * Crafted: [Designing-Weapons](Designing-Weapons)
 * Examples can be found in the #TODOINDEX 
 

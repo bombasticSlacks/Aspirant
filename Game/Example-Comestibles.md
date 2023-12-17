@@ -5,7 +5,7 @@ parent: Comestibles
 grand_parent: Equipment
 nav_order: 2
 ---
-# Example [Comestibles](Comestibles)
+# Example [Comestibles](Core/Comestibles.md)
 * This is a non-exhaustive list of the sort of comestibles you can create. You can also design your own [Designing-Comestibles](Designing-Comestibles).
 
 ## Alchemy
