@@ -14,7 +14,11 @@ Combat is the most rigorously kept time in Aspirant; as it is when you are most 
 Narrative time in aspirant involves characters in a place of interest doing activities, exploring, and progressing the story directly. The passage of narrative time can be a bit more ambiguous compared with combat. There aren’t rules for narrative time, this is when characters will be directing the focus and the story themselves.
 
 ## Downtime
-This tends to happen when you arrive in a safe area. Each day, in a safe area, your character may perform 1 [Downtime Activity](Activities#Downtime%20Activity). Unless you are receiving charity, your food, and housing costs 1 silver per day. If you cannot afford this, you do not get to do activities.
+This tends to happen when you are in a safe area. When in a friendly settlement with no impending danger your characters can choose to take 5 days and rest focusing on yourselves, your work, and resting up. While doing downtime each character:
+* Remove any [Long Term Injury](Core/Effects#Long%20Term%20Injury).
+* Reset [Max Power](Core/Stats#Max%20Power).
+* Performs 1 [Downtime Activity](Activities#Downtime%20Activity). 
+* Each settlement will have a cost for 5 days of lodgings, usually it will be 2 silver which will cover your food and housing for the duration.
 
 ## Travelling
 Travelling in Aspirant can take long amounts of time. Travelling involves knowing the direction or location of something and then travelling towards it. Travel will usually take a number of days. To travel you require at minimum [Camping Gear](Example-Gear#Camping%20Gear).

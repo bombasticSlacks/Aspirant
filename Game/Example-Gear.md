@@ -316,8 +316,8 @@ A reagent bag contains 5 uses, and replenishing a use costs 2 silver.
 * Size 2.
 * Cost 15.
 * [Charges](Core/Terminology#Charges) 5(2).
-* A trauma kit charge can be used to provide (+1) to [stabilization](Core/Injury#Stabilization) and [Surgery](Core/Injury#Surgery). 
-* A trauma kit [charge](Core/Terminology#Charges) can be used to perform first aid to alleviate the immediate effects of injuries. This is a [Application](Core/Intelligence#Application) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Injury Penalty](Core/Injury#Injury%20Penalty)). If you succeed, reduce their injury penalty by 1. If you fail a first aid test, the person still counts as [stabilized](Core/Injury#Stabilization).
+* A trauma kit [Charge](Core/Terminology#Charges) can be used to provide (+1) to any medical [Application](Core/Intelligence#Application) [Action](Core/Terminology#Action). 
+* A trauma kit [charge](Core/Terminology#Charges) can be used to perform first aid to remove the [Defeated](Core/Effects#Defeated) effect. This is a [Application](Core/Intelligence#Application) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Long Term Injury](Core/Effects#Long%20Term%20Injury)). If you succeed, reduce their [Long Term Injury](Core/Effects#Long%20Term%20Injury) penalty by 1. If you fail they just remove [Defeated](Core/Effects#Defeated).
 
 ---
 

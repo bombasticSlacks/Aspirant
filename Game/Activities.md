@@ -14,10 +14,6 @@ These are actions a character could spend a day doing. All characters have acces
 Perform a [Travel Activity](#Travel%20Activity)
 
 ---
-### Injury Recovery
-Remove your [Injury Penalty](Core/Injury#Injury%20Penalty).
-
----
 ### Interview
 Hiring a specific expert to aid on a job.
 

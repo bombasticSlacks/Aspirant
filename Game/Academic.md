@@ -24,7 +24,7 @@ Spend a [Power](Core/Stats#Max%20Power), you can declare your far-fetched theory
 Your far-fetched theory can help progress [Projects](Core/Skills#Project) only tangentially related.
 
 ### Autodoc
-You can perform invasive [Surgeon](#Surgeon) work on yourself and ignore your own [Injury Penalty](Core/Injury#Injury%20Penalty) when performing [Application](Core/Intelligence#Application) skill tests.
+You can perform invasive [Surgeon](#Surgeon) work on yourself and ignore your own [Long Term Injury](Core/Effects#Long%20Term%20Injury) when performing [Application](Core/Intelligence#Application) skill tests.
 
 ### Brilliant Bastard
 You have a [Critical Success](Core/Skills#Critical%20Success) on [Action](Core/Terminology#Action) on a dice roll of double 1’s.
@@ -113,10 +113,10 @@ You also count as having an [Explorers Kit](Example-Gear#Explorers%20Kit), you c
 ### Surgeon
 You may perform surgery on someone who has suffered lasting injuries to treat them. 
 
-Surgery, at a minimum, requires a flat surface and [Surgeons Tool Set](Example-Gear#Surgeons%20Tool%20Set). It is a [Application](Core/Intelligence#Application) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Injury Penalty](Core/Injury#Injury%20Penalty)), you receive a:
+Surgery, at a minimum, requires a flat surface and [Surgeons Tool Set](Example-Gear#Surgeons%20Tool%20Set). It is a [Application](Core/Intelligence#Application) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Long Term Injury](Core/Effects#Long%20Term%20Injury)), you receive a:
 * (+2) for a sterile environment.
 * (+1) for monitoring equipment. 
-A successful surgery removes the person's [Injury Penalty](Core/Injury#Injury%20Penalty). If you have access to any replacement body parts, or mostly intact severed limbs, they can be reapplied as part of surgery. 
+A successful surgery removes the person's [Long Term Injury](Core/Effects#Long%20Term%20Injury). If you have access to any replacement body parts, or mostly intact severed limbs, they can be reapplied as part of surgery. 
 
 Surgery takes 20 minutes per [Injury](Core/Injury) the person has sustained, with [Vitals](Core/Injury#Vitals) injuries taking twice as long. The total time in surgery is equal to the sum of all injuries. 
 
@@ -136,4 +136,4 @@ You cannot have [Critical Failure](Core/Skills#Critical%20Failure) in surgery.
 You can also attempt to bring someone who has died from an injury back to life. This is an [Application](Core/Intelligence#Application) [Fixed Difficulty](Core/Skills#Fixed%20Difficulty) (-3), and anyone [Aiding](Core/Skills#Aid%20and%20Hindrance) you must also have Playing God. It must be performed within 10 minutes of the injury occurring and is surgery.
 
 ### Trauma Doc
-If you successfully use a [Trauma Kit](Example-Gear#Trauma%20Kit) on someone, their [Injury Penalty](Core/Injury#Injury%20Penalty) goes away. You can also make a medical test to treat ongoing negatives that were caused by someone else's medical work.
+If you successfully use a [Trauma Kit](Example-Gear#Trauma%20Kit) on someone, their [Long Term Injury](Core/Effects#Long%20Term%20Injury) is removed. You can also attempt medical tests on someone who has already been treated.
