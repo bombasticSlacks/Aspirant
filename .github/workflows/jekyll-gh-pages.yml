@@ -38,15 +38,11 @@ jobs:
       - name: copy config files
         run: cp -rv /home/runner/work/Aspirant/Aspirant/Jekyl/* ./Game 
       - name: remove core files with conflicts
-        run: rm ./Game/Core/Home.md
-      - name: details early
-        run: cat ./Game/Example-Weapons.md
+        run: rm ./Game/Core/Home.md ./Game/Core/README.md ./Game/Core/CONTRIBUTING.md ./Game/Core/CODE_OF_CONDUCT.md
       - name: manipulate anchors
         run: python3 ./convert.py $(find ./Game -type f -name "*.md")
       - name: manipulate anchors strip %20
         run: sed -i 's/%20/-/g' $(find ./Game -type f -name "*.md")
-      - name: details later
-        run: cat ./Game/Example-Weapons.md
       - name: create index
         run: cp ./Game/Home.md ./Game/index.md
       - name: Setup Pages
