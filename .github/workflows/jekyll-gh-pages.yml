@@ -37,6 +37,8 @@ jobs:
           path: Jekyl
       - name: copy config files
         run: cp -rv /home/runner/work/Aspirant/Aspirant/Jekyl/* ./Game 
+      - name: remove core files with conflicts
+        run: rm ./Game/Core/Home.md
       - name: details early
         run: cat ./Game/Example-Weapons.md
       - name: manipulate anchors
