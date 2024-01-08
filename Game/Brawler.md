@@ -54,7 +54,7 @@ Your [Shoves](Core/Special-Combat-Actions#Shove) make people travel twice the di
 After suffering an [Injury](Core/Injury) that would make you [Wounded](Core/Effects#Wounded), you immediately get to take an additional [Combat Turn](Core/Terminology#Combat%20Turn) (in addition to your regular turn). After this [Combat Turn](Core/Terminology#Combat%20Turn), you then return to the standard [Combat Round](Core/Terminology#Combat%20Round) order, including resolving the results of your injuries.
 
 ### Cleave
-If you cause an [Injuring Attack](Core/Terminology#Injuring%20Attack) on a [Character](Core/Terminology#Character) you are [In Melee](Core/Effects#In%20Melee) with that causes a [Critical Injury](Core/Injury#Critical%20Injury) or more severe, you may make an additional [Attack](Core/Terminology#Attack) against another enemy with the same weapon and [Combat Modifiers](Core/Attacks#Combat%20Modifiers).
+If you cause a [wounding attack](Core/Terminology#Wounding%20Attack), on a [Character](Core/Terminology#Character) you are [In Melee](Core/Effects#In%20Melee), you may make an additional [Attack](Core/Terminology#Attack) against another enemy with the same weapon and [Combat Modifiers](Core/Attacks#Combat%20Modifiers).
 
 ### Clothesline
 If an [Opponent](Core/Terminology#Opponent) moves within [Reach](Core/Movement#Reach) of you, you may spend a [Reaction](Core/Terminology#Reaction) to make a [Strike](Core/Strength#Strike) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Strike](Core/Strength#Strike)+2), that if successful causes their attack to fail and knocks them prone.
@@ -77,7 +77,7 @@ When you make a [Strike](Core/Strength#Strike) skill test, spend a [Power](Core/
 On any [Combat Turn](Core/Terminology#Combat%20Turn) where you don't make an [Attack](Core/Terminology#Attack), you must roll a d6, on a 1-3 you stop being enraged.
 
 ### Relentless Attack
-When making an [All Out Attack](Core/Reacting-To-Attacks#All%20Out%20Attack), if it is an [Injuring Attack](Core/Terminology#Injuring%20Attack) you deal the next more severe type of [Injury](Core/Injury#Injury).
+When making an [All Out Attack](Core/Reacting-To-Attacks#All%20Out%20Attack), if it is an [Injuring Attack](Core/Terminology#Wounding%20Attack) you deal the next more severe type of [Injury](Core/Injury#Injury).
 
 ### Thunderous Charge
 Your [Charging](Core/Attack-Bonuses#Charging) attacks have the [Penetrating](Core/Weapon-Traits#Penetrating) trait.
