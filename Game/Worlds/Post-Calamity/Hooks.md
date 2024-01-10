@@ -14,7 +14,19 @@ For [Post-Calamity](Post-Calamity) A list of things the players know of, and que
 ## Staff Of Power
 [Vespin-Aevaris](Vespin-Aevaris) knows of a staff of power in a dead civilisation crypt to the South West of [Crosshaven](Crosshaven)
 
+## Returning The Heart
+[Causdin](Causdin)
+Bringing the dragons heart from the Imp Lord. Imp will be somewhere to the north, and gigantic.
 
+Reward: 200 Silver, imbibing from the dragons heart.
+
+## Ancient Dragon Roost
+North of [Causdin](Causdin) there is a large cave structure which used to house a dragon and wyvern. The Imp from [Returning The Heart](#Returning%20The%20Heart) might be here.
+
+## Find The Missing Shipment
+In [Causdin](Causdin), shipments are going missing. 
+
+Reward: 100 Silver, 10 silver a season in additional income from improved trade with Crosshaven.
 
 ## Ruins in the Lake
 [Arturas-Gabrys](Arturas-Gabrys) remembers hearing of ancient ruins rumors in Dorna.
