@@ -17,8 +17,10 @@ Narrative time in aspirant involves characters in a place of interest doing acti
 This tends to happen when you are in a safe area. When in a friendly settlement with no impending danger your characters can choose to take 5 days and rest focusing on yourselves, your work, and resting up. While doing downtime each character:
 * Remove any [Long Term Injury](Core/Effects#Long%20Term%20Injury).
 * Reset [Max Power](Core/Stats#Max%20Power).
+* Reset uses of all Once Per Downtime abilities.
 * Performs 1 [Downtime Activity](Activities#Downtime%20Activity). 
 * Each settlement will have a cost for 5 days of lodgings, usually it will be 2 silver which will cover your food and housing for the duration.
+* While performing downtime, players should be encouraged to still take part in scenes in [Narrative Time](#Narrative%20Time), maybe they meet local artisans, haggle with a shopkeeper, or find the start of an adventure. Time shouldn't exclusively be occupied with a [Downtime Activity](Activities#Downtime%20Activity), but it will help explain what you are doing when not otherwise occupied.
 
 ## Travelling
 Travelling in Aspirant can take long amounts of time. Travelling involves knowing the direction or location of something and then travelling towards it. Travel will usually take a number of days. To travel you require at minimum [Camping Gear](Example-Gear#Camping%20Gear).
@@ -40,14 +42,6 @@ During travel, characters may encounter other travellers, enemies or a point of 
 
 ### Ambush Encounter
 Similarly, during travel, the party may be ambushed while camping. These should be high stakes encounters that put the players in danger. Generally, danger isn't lurking around every corner and the characters should only have 1 ambush encounter per [Travel Segment](#Travel%20Segment).
-
-### Regions
-It may be useful to split your game space into regions, this will effect what [Materials](Materials) are readily available in that area and how much they cost. The five general regions are:
-* Coast
-* Forest
-* Mountain
-* Plain
-* Swamp
 
 ## Influencing the Story
 Aspirant should be a shared experience. So, when you play, the [GM](How-To-Play#GM) may ask you for suggestions or to volunteer ideas such as: “what is this town known for?”, “someone give me a cool female name.”. When these are accepted by the [GM](How-To-Play#GM), you receive 1 influence which you can spend to influence the game world in any way the GM allows. When you want to influence the world:

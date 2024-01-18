@@ -18,6 +18,9 @@ They can generally teach the following training:
 
 ## Basic
 
+### Conditioning
+When you perform [Hone Your Skills](Activities#Hone%20Your%20Skills) you may select an [Attribute](Core/Stats#Attributes) to consider as 1 greater instead of a [Skill](Core/Skills).
+
 ### Defensive Combatant
 You receive a (+1) to [Avoid](Core/Reacting-To-Attacks#Avoid) and [Parry](Core/Special-Combat-Actions#Parry) skill tests.
 
