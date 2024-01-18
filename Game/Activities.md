@@ -12,11 +12,13 @@ During [Downtime](Telling-The-Story#Downtime), or [Travelling](Telling-The-Story
 These are actions a character could spend a day doing. All characters have access to a number of these, others can be gained with [Training](Character-Development#Training).
 ### Perform Travelling Activity
 *Just because you are in a city doesn't mean you can't do the same things you do on the road!*
+
 Perform a [Travel Activity](#Travel%20Activity)
 
 ---
 ### Involved Task
 *You've been busy working on something that isn't exactly a job.*
+
 When you do an involved task, you dedicate yourself to resolving something your character needs to deal with. At the end of the task you will either get to [Influencing the Story](Telling-The-Story#Influencing%20the%20Story) without a cost, gaining some tangible benefit, or asking the GM some direct questions. In all cases, there shouldn't be a skill test involved. Some example tasks would be.
 * Hiring a specific expert to aid on a job.
 * Researching a specific topic in depth.
@@ -25,6 +27,7 @@ When you do an involved task, you dedicate yourself to resolving something your 
 ---
 ### Supervised Learning
 *You use a trainer or reference to gain new skills or training.*
+
 * You may start [Learning](Character-Development#Learning) something you have [Unknown](Character-Development#Unknown).
 * You can spend as much XP as you want, up to the total required to have it [Known](Character-Development#Known). If you don't spend the required amount of XP it is considered [In Progress](Character-Development#In%20Progress).
 * For pricing, see [Teaching](Services#Teaching).
@@ -32,6 +35,7 @@ When you do an involved task, you dedicate yourself to resolving something your 
 ---
 ### Work
 *You use your abilities to work a job.*
+
 Perform either:
 * [Day Work](#Day%20Work)
 * [Skilled Work](#Skilled%20Work)
@@ -40,6 +44,7 @@ Perform either:
 ---
 ### Call On The City
 *You are interested in what this city has to offer. You busy yourself learning its workings and what is going on.*
+
 * You may ask the GM a direct question about the place you are.
 Then you may do one of the following:
 * Ask the GM another question about the city.
@@ -50,6 +55,7 @@ Then you may do one of the following:
 ---
 ### Hone Your Skills
 *You dedicate your spare time to bettering yourself.*
+
 * Select a [Skill](Core/Skills) you will receive a (+1) on all related skill tests until your next [Downtime](Telling-The-Story#Downtime).
 
 ---
@@ -60,17 +66,20 @@ Then you may do one of the following:
 These are actions that a character can do while travelling somewhere, your spare time in the evenings or additional brain power on the road are dedicated to whatever you do. All characters have access to a number of these, others can be gained with [Training](Character-Development#Training).
 ### Good Night's Rest
 *You focus on sleeping and being prepared for what lies ahead.*
+
 * +1 to a single skill test the next day, declared before rolling.
 * Refresh your [Power](Core/Stats#Max%20Power) to maximum.
 
 ---
 ### Do Production Work
 *You tinker and work away in the evenings, maybe even while riding.*
+
 * Do everything required for some [Production Work](#Production%20Work).
 
 ---
 ### On Watch
 *You organize watch for the team, taking extra shifts when necessary.*
+
 * When the GM rolls to determine if an [Ambush Encounter](Telling-The-Story#Ambush%20Encounter) occurs, you may have your [Grace](Core/Agility#Grace) provide a penalty to the roll. 
 * You receive a +3 on any [Insight](Core/Intelligence#Insight) tests during [Ambush Encounter](Telling-The-Story#Ambush%20Encounter).
 * You are not surprised if ambushed. 
@@ -79,11 +88,13 @@ These are actions that a character can do while travelling somewhere, your spare
 ---
 ### Scavenge
 *You hunt, forage, and provide for the group.*
+
 * No one needs to spend money on food during this [Travel Segment](Telling-The-Story#Travel%20Segment).
 
 ---
 ### Scout
 *You travel ahead, and plan the journey.*
+
 * When your GM rolls to see if you have a [Travel Encounter](Telling-The-Story#Travel%20Encounter) you may have your [Grace](Core/Agility#Grace) provide a penalty to the roll. 
 * The [GM](How-To-Play#GM) will describe any [Travel Encounter](Telling-The-Story#Travel%20Encounter) that occurs to you, before the [Scene](Core/Terminology#Scene) begins. 
 * You also gain 1 [Influencing the Story](Telling-The-Story#Influencing%20the%20Story)
@@ -91,12 +102,14 @@ These are actions that a character can do while travelling somewhere, your spare
 ---
 ### Socialize
 *You share stories, play games, or train with your friends.*
+
 * Any time you [Aid](Core/Skills#Aid%20and%20Hindrance) a character who also Socialized when selecting [Activities](Activities), you get a (+2) instead of a (+1).
 * You may spend up to 2XP [Learning](Character-Development#Learning), a skill or training another [Character](Core/Terminology#Character) also socializing has [Known](Character-Development#Known).
 
 ---
 ### Night Learning
 *You work on reinforcing your learning.*
+
 * You may spend up to 2XP on [Learning](Character-Development#Learning) something [In Progress](Character-Development#In%20Progress), or something [Unknown](Character-Development#Unknown) if you have a [Training Manual](Example-Gear#Training%20Manual).
 
 ---
@@ -111,6 +124,7 @@ Jobs are ways to spend days and supplement your income. They come in 3 variants.
 
 ### Skilled Work
 *Your character has a specific skill or talent that they are trained to leverage.*
+
 * You can make the amount of silver that a [Service](Services), normally costs, that your character is capable of performing. 
 * This will require succeeding at an appropriate skill test. With failure resulting in 0 silver.
 
