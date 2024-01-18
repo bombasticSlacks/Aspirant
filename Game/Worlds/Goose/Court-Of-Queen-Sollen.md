@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Court Of Queen Sollen
-parent: Untitled-Goose-World
+parent: Goose World
 nav_order: 3
 grand_parent: Worlds
 ---

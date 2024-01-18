@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Seekers Of Truth
-parent: Untitled-Goose-World
+parent: Goose World
 nav_order: 3
 grand_parent: Worlds
 ---
