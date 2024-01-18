@@ -1,6 +1,9 @@
 ---
 layout: default
-nav_exclude: true
+title: Dora
+parent: Untitled-Goose-World
+nav_order: 3
+grand_parent: Worlds
 ---
 # Dora
 
