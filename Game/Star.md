@@ -25,6 +25,8 @@ If you have an [Simple Instrument](Example-Gear#Simple%20Instrument), or [Comple
 ### Busking
 As [Skilled Work](Activities#Skilled%20Work), you can busk. Make a [Confidence](Core/Communication#Confidence) [Variable Difficulty](Core/Skills#Variable%20Difficulty), you receive 2 silver per [Step Of Success](Core/Skills#Step%20Of%20Success).
 
+### City Soul
+When doing [Call On The City](Activities#Call%20On%20The%20City), you can select an additional option from the list.
 ### Come In Peace
 [Allies](Core/Terminology#Ally) and yourself gain a (+1) to [Social Skill Test](Core/Terminology#Social%20Action) when interacting with residents of an area.
 
@@ -70,7 +72,9 @@ You don’t need to roll [Confidence](Core/Communication#Confidence) to lie abou
 At the beginning of combat, you may opt to make neutral characters within [Communication](Core/Communication) x 10m [Follower](Core/Terminology#Follower), up to your limit. They may become angry and hostile if put in suicidal situations.
 
 ### Contacts
-As a [Downtime Activity](Activities#Downtime%20Activity), you can spend a day setting up contacts in any location. This contact network can be queried for information and will send relevant info your way.
+When performing [Call On The City](Activities#Call%20On%20The%20City) you may choose to establish a contact network, instead of one of the other options.
+
+This contact network can be queried for information and will send relevant info your way.
 
 ### Editorializing
 Once per [Downtime](Telling-The-Story#Downtime), if they are willing, you may give any [Character](Core/Terminology#Character) a single [Re-roll](Core/Terminology#Re-roll) for any dice roll.

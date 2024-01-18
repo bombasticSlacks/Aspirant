@@ -11,35 +11,51 @@ During [Downtime](Telling-The-Story#Downtime), or [Travelling](Telling-The-Story
 ## Downtime Activity
 These are actions a character could spend a day doing. All characters have access to a number of these, others can be gained with [Training](Character-Development#Training).
 ### Perform Travelling Activity
+*Just because you are in a city doesn't mean you can't do the same things you do on the road!*
 Perform a [Travel Activity](#Travel%20Activity)
 
 ---
-### Interview
-Hiring a specific expert to aid on a job.
-
----
-### Research
-Involved research.
-
----
-### Source
-Searching for a specific item to buy.
+### Involved Task
+*You've been busy working on something that isn't exactly a job.*
+When you do an involved task, you dedicate yourself to resolving something your character needs to deal with. At the end of the task you will either get to [Influencing the Story](Telling-The-Story#Influencing%20the%20Story) without a cost, gaining some tangible benefit, or asking the GM some direct questions. In all cases, there shouldn't be a skill test involved. Some example tasks would be.
+* Hiring a specific expert to aid on a job.
+* Researching a specific topic in depth.
+* Finding a really specific rare item.
 
 ---
 ### Supervised Learning
 *You use a trainer or reference to gain new skills or training.*
 * You may start [Learning](Character-Development#Learning) something you have [Unknown](Character-Development#Unknown).
-* For pricing see [Teaching](Services#Teaching).
-
----
-### Surgery
-Undergoing Surgery.
+* You can spend as much XP as you want, up to the total required to have it [Known](Character-Development#Known). If you don't spend the required amount of XP it is considered [In Progress](Character-Development#In%20Progress).
+* For pricing, see [Teaching](Services#Teaching).
 
 ---
 ### Work
-Performing an activity or job to make currency. Usually requires some training. Basic labour work pays 1 silver per day.
+*You use your abilities to work a job.*
+Perform either:
+* [Day Work](#Day%20Work)
+* [Skilled Work](#Skilled%20Work)
+* [Production Work](#Production%20Work)
 
 ---
+### Call On The City
+*You are interested in what this city has to offer. You busy yourself learning its workings and what is going on.*
+* You may ask the GM a direct question about the place you are.
+Then you may do one of the following:
+* Ask the GM another question about the city.
+* Invent something about the city, with it costing 1 less [Max Influence](Core/Stats#Max%20Influence) to do so. 
+* Gain an [Ally](Core/Terminology#Ally) for the duration of your stay. Work with the GM to determine who this is (potentially costing influence).
+* Gain an [Max Influence](Core/Stats#Max%20Influence).
+
+---
+### Hone Your Skills
+*You dedicate your spare time to bettering yourself.*
+* Select a [Skill](Core/Skills) you will receive a (+1) on all related skill tests until your next [Downtime](Telling-The-Story#Downtime).
+
+---
+
+
+
 ## Travel Activity
 These are actions that a character can do while travelling somewhere, your spare time in the evenings or additional brain power on the road are dedicated to whatever you do. All characters have access to a number of these, others can be gained with [Training](Character-Development#Training).
 ### Good Night's Rest
@@ -50,7 +66,7 @@ These are actions that a character can do while travelling somewhere, your spare
 ---
 ### Do Production Work
 *You tinker and work away in the evenings, maybe even while riding.*
-* Do everything required for some Production Work.
+* Do everything required for some [Production Work](#Production%20Work).
 
 ---
 ### On Watch
@@ -88,10 +104,15 @@ These are actions that a character can do while travelling somewhere, your spare
 Jobs are ways to spend days and supplement your income. They come in 3 variants.
 
 ### Day Work
-Your character works the day at an up front rate. This work is typically for a company or group that exists in the town and needs labourers. Almost all locations should provide a basic labourer position at 1 silver per day.
+* Depending on the settlement, any area will have specific types of labour available. These will be associated with each of the 5 [Attributes](Core/Stats#Attributes). 
+* You earn silver equal to your [Attribute](Core/Stats#Attributes) value associated with the work.
+
+> If a character was in a lumber and trapping settlement, they may have physical labour (strength) available as well as tracking labour (agility). A character could choose to do physical labour, making their strength value in silver.
 
 ### Skilled Work
-Your character has a specific skill or talent that they are trained to leverage. Usually, how this works is your character will be compensated a variable amount based on how successful you are at a skill test.
+*Your character has a specific skill or talent that they are trained to leverage.*
+* You can make the amount of silver that a [Service](Services), normally costs, that your character is capable of performing. 
+* This will require succeeding at an appropriate skill test. With failure resulting in 0 silver.
 
 ### Production Work
 Your character has a specific skill or talent and can create a certain amount of goods ready to be traded based on succeeding on a skill test of some kind. Similar to Skilled work, but your compensation will usually not be in silver, and instead in something that will need to be exchanged.
