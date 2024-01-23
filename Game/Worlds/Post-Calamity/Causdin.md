@@ -70,6 +70,8 @@ Lives in a nice if simple log cabin, few rooms, one nice object is a beautiful s
 
 The representative of the farmers and traders of Causdin, she handles logistics. Likes to open conversations with "No Relation".
 
+Knows "regular Joe" [Simple-Joe](Simple-Joe) brother.
+
 ### Ancient (They/Them)
 Sphinx, (monsters face slowly mutated into a mockery of human over years)
 

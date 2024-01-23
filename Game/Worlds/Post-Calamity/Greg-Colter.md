@@ -10,3 +10,5 @@ born in the township [Alexander-Aurelius](Alexander-Aurelius) is from. Humble be
 
 # Joshmuda
 The manticore cub Greg rescued from the manticore matriarch
+
+Can harvest venom from Muda once a week (per 5 days)

@@ -55,8 +55,6 @@ Emisary Of The Druids
 Mantle / Crown of thorns 
 Calm, singsong voice, naturalist.
 
-###
-
 ## Locations
 Near the tree - a place of power (+1 to magic tests).
 

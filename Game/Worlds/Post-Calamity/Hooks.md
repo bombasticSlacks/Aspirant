@@ -31,6 +31,8 @@ Reward: 100 Silver, 10 silver a season in additional income from improved trade 
 ## Ruins in the Lake
 [Arturas-Gabrys](Arturas-Gabrys) remembers hearing of ancient ruins rumors in Dorna.
 
+## Giants Saddle
+A giant in the north will have a saddle stuck to his back that can be used to ride anything.
 # Complete
 For [Post-Calamity](Post-Calamity) a list of completed hooks
 
