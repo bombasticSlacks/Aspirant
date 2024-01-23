@@ -7,7 +7,7 @@ grand_parent: Worlds
 ---
 ## Session 12
 [Post-Calamity](Post-Calamity)
-## Segment 12 Tussole Summer 6 - 15
+## Segment 12 Summer 6 - 15
 * everyone at a -1 from exhaustion as you push through the woods and night.
 * Moving towards Passover.
 * Got to the river, camped before the crossing.

@@ -23,4 +23,8 @@ Feast on blood
 ## Carrion
 Warriors, battlers, consume the power of their enemies.
 
-Feast on flesh
+Feast on flesh. Grow massive when devouring too much flesh becoming giant / ogre like.
+
+The greatest among look like Balrogs, effective / gluttonous warriors get to ogres size.
+
+

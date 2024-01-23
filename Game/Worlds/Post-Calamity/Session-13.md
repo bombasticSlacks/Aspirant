@@ -7,7 +7,7 @@ grand_parent: Worlds
 ---
 ## Session 13
 [Post-Calamity](Post-Calamity)
-## Tussole Summer 16-29
+## Causdin Summer 16-29
 * Travelling to [Causdin](Causdin)
 	* [Alexander-Aurelius](Alexander-Aurelius) socializing, on guard.
 	* [Vespin-Aevaris](Vespin-Aevaris) socializing. good nights rest.

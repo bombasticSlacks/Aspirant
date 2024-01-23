@@ -7,7 +7,7 @@ grand_parent: Worlds
 ---
 ## Session 7
 
-## 7th - of Summer
+## 7th - 21st of Summer
 * Travelling
 	* Casey is doing a training
 	* Bront is on watch
@@ -35,12 +35,14 @@ grand_parent: Worlds
 	* Mal Learning float like a leaf.
 	* Jarl Learning Hide In Plain Sight
 	* Rei Learning "What I Meant Was"
+	* Stem Learned "Expert Mysticism"
 * 5 days worth of downtime:
 	* Jarl Spending 2xp on pointman
-	* Bront 
+	* Bront crafted eyeballs.
 	* Casey Worked as surgeon
 	* Mal Learning Exotic Training
 	* Rei Getting +1 reflexes
+	* Stem Gathered material
 * Rei bought a new bag.
 
 ### Rewards
