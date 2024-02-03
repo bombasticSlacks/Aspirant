@@ -16,7 +16,7 @@ Narrative time in aspirant involves characters in a place of interest doing acti
 ## Downtime
 This tends to happen when you are in a safe area. When in a friendly settlement with no impending danger your characters can choose to take 5 days and rest focusing on yourselves, your work, and resting up. While doing downtime each character:
 * Remove any [Long Term Injury](Core/Effects#Long%20Term%20Injury).
-* Reset [Max Power](Core/Stats#Max%20Power).
+* Reset [Power](Additional-Attributes#Power) to your max.
 * Reset uses of all Once Per Downtime abilities.
 * Performs 1 [Downtime Activity](Activities#Downtime%20Activity). 
 * Each settlement will have a cost for 5 days of lodgings, usually it will be 2 silver which will cover your food and housing for the duration.

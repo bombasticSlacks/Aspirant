@@ -20,7 +20,7 @@ They can generally teach the following training:
 ## Basic
 
 ### Check Again
-Spend a [Power](Core/Stats#Max%20Power), you can ask the [GM](How-To-Play#GM) if there is anything of interest you haven't noticed in a room, or area. The [GM](How-To-Play#GM) will not tell you what it is, just you should continue looking.
+Spend a [Power](Additional-Attributes#Power), you can ask the [GM](How-To-Play#GM) if there is anything of interest you haven't noticed in a room, or area. The [GM](How-To-Play#GM) will not tell you what it is, just you should continue looking.
 
 ### Clever Packer
 Your [Backpack](Storage#Backpack) can hold an additional 6 size worth of items.
@@ -47,7 +47,7 @@ You receive a (+1) to all [Actions](Core/Terminology#Action) related to survivin
 You can consider tamed animals to be [Followers](Core/Terminology#Follower).
 
 ### Internal Monologue
-You receive hints and tips from the GM in the form of an internal monologue. Spend 1 [Power](Core/Stats#Max%20Power) to receive some info from the GM.
+You receive hints and tips from the GM in the form of an internal monologue. Spend 1 [Power](Additional-Attributes#Power) to receive some info from the GM.
 
 ### Leave No Trace
 You and those travelling with you cannot be tracked.
@@ -107,7 +107,7 @@ You can [Scout](Activities#Scout) while doing another [Travelling Activity](Acti
 ## Master
 
 ### Anthropologist
-You no longer have [Restrictions](Character-Development#Restrictions) when doing [Supervised Training](Activities#Supervised%20Learning). In other words, you do not need a trainer or reference to train, just [Activities](Activities) time and [Total XP](Core/Stats#Total%20XP)
+You no longer have [Restrictions](Character-Development#Restrictions) when doing [Supervised Training](Activities#Supervised%20Learning). In other words, you do not need a trainer or reference to train, just [Activities](Activities) time and [Total XP](Additional-Attributes#Total%20XP)
 ### Take Down Expert
 After successfully performing a grapple special manoeuvre against someone, you may perform one grapple action on them immediately.
 

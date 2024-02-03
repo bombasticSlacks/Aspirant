@@ -56,6 +56,8 @@ This is a list of the base values an armour with each primary material will have
 | Metal     | (-1)          | 2         | Cold     | -          |
 | Machinery | (-1)          | 1         | Impact   | -          |
 
+If a piece of armour would gain a resistance or weakness complementary to an existing Resistance or Weakness on the armour through [Armour-Traits](Armour-Traits), the two cancel out, resulting in no effect. If a piece of armour would gain a resistance or weakness it already has through [Armour-Traits](Armour-Traits), there is no effect. 
+
 ### Multiple Materials
  When multiple materials are used, one is treated as the primary material and the other as the secondary material. The armour's base attributes (Weakness, Resistance, Structure, and Max Skill) are determined by the primary material, while the secondary material represents the increase in complexity and robustness of higher quality gear.
  

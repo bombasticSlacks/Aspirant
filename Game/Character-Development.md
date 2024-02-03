@@ -32,9 +32,9 @@ A skill or training is considered in progress if you have spent some XP, but not
 A skill or training is considered known if you have spent the required XP on it. At this point you benefit from it.
 
 ## Progression
-As your characters gain [Total XP](Core/Stats#Total%20XP) you gain additional benefits beyond your [Learning](#Learning). These are called [Character-Milestones](Character-Milestones) and you receive them as follows:
+As your characters gain [Total XP](Additional-Attributes#Total%20XP) you gain additional benefits beyond your [Learning](#Learning). These are called [Character-Milestones](Character-Milestones) and you receive them as follows:
 
-| [Total XP](Core/Stats#Total%20XP) | Reward                                                            |
+| [Total XP](Additional-Attributes#Total%20XP) | Reward                                                            |
 | ---------------------------- | ----------------------------------------------------------------- |
 | 10                           | [Basic Milestones](Character-Milestones#Basic%20Milestones)       |
 | 15                           | [Basic Milestones](Character-Milestones#Basic%20Milestones)       |
@@ -47,7 +47,7 @@ As your characters gain [Total XP](Core/Stats#Total%20XP) you gain additional be
 Basic, advanced, and master training represents powerful new abilities that your character can learn to possess. Trainings can either be:
 * Passive - just does something all the time for you.
 * Elective - gives you a new ability/option you can use at will.
-* Power Based - Requires spending [Power](Core/Stats#Max%20Power) to activate.
+* Power Based - Requires spending [Power](Additional-Attributes#Power) to activate.
 * Once Per Downtime - Very powerful abilities that can only be used once before resting in a city.
 
 ### Basic Level Training

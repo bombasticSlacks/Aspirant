@@ -48,9 +48,9 @@ Perform either:
 * You may ask the GM a direct question about the place you are.
 Then you may do one of the following:
 * Ask the GM another question about the city.
-* Invent something about the city, with it costing 1 less [Max Influence](Core/Stats#Max%20Influence) to do so. 
+* Invent something about the city, with it costing 1 less [Influence](Additional-Attributes#Influence) to do so. 
 * Gain an [Ally](Core/Terminology#Ally) for the duration of your stay. Work with the GM to determine who this is (potentially costing influence).
-* Gain an [Max Influence](Core/Stats#Max%20Influence).
+* Gain an [Influence](Additional-Attributes#Influence).
 
 ---
 ### Hone Your Skills
@@ -68,7 +68,7 @@ These are actions that a character can do while travelling somewhere, your spare
 *You focus on sleeping and being prepared for what lies ahead.*
 
 * +1 to a single skill test the next day, declared before rolling.
-* Refresh your [Power](Core/Stats#Max%20Power) to maximum.
+* Refresh your [Power](Additional-Attributes#Power) to maximum.
 
 ---
 ### Do Production Work
@@ -83,7 +83,7 @@ These are actions that a character can do while travelling somewhere, your spare
 * When the GM rolls to determine if an [Ambush Encounter](Telling-The-Story#Ambush%20Encounter) occurs, you may have your [Grace](Core/Agility#Grace) provide a penalty to the roll. 
 * You receive a +3 on any [Insight](Core/Intelligence#Insight) tests during [Ambush Encounter](Telling-The-Story#Ambush%20Encounter).
 * You are not surprised if ambushed. 
-* You regain 1 [Power](Core/Stats#Max%20Power)
+* You regain 1 [Power](Additional-Attributes#Power)
 
 ---
 ### Scavenge

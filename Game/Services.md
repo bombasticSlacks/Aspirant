@@ -42,7 +42,7 @@ Requesting an expert to do something for you.
 | Commissioning Performing a complex ritual                        | $12 + reagents$ |
 | Commissioning Performing a simple ritual                         | $5 + reagents$  |
 | Commissioning surgery                                            | $8$             |
-| Commissioning someone to [Bind](Core/Terminology#Bind) an item to you | 5                |
+| Commissioning someone to [Bind](Magic-Items#Binding) an item to you | 5                |
 
 ### Teaching
 Getting an expert to help you to become better.

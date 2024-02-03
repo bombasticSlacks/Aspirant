@@ -55,7 +55,7 @@ If this is a [Successful Attack](Core/Terminology#Successful%20Attack) the [Oppo
 If this is a [Successful Attack](Core/Terminology#Successful%20Attack) the [Opponent](Core/Terminology#Opponent) performs a [Endurance](Core/Strength#Endurance) [Fixed Difficulty](Core/Skills#Fixed%20Difficulty)(0), if they fail, they become [Stunned](Core/Effects#Stunned). 
 ## Surprising
 *Action modifier (-1,-3,-5)*
-This attack has a penalty to [Avoid](Core/Reacting-To-Attacks#Avoid) equal to the selected modifier.
+This attack has a penalty to [Avoid](Core/Reacting#Avoid) equal to the selected modifier.
 ## Unavoidable
 *Action modifier (-5)*
 The [Opponent](Core/Terminology#Opponent) cannot perform [Reactions](Core/Terminology#Reaction) in response to this attack.
