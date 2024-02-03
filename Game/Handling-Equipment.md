@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Equipment In Aspirant
-has_children: true
+title: Handling Equipment
+has_children: false
 nav_order: 0
+parent: Equipment
 ---
-# Equipment
+# Handling Equipment
 Your character will need tools to survive in the world of Aspirant and to become great. Generally, all items have some utility, a size, a cost
 
 ## Size
