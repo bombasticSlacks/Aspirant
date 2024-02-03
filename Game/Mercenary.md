@@ -22,13 +22,13 @@ They can generally teach the following training:
 When you perform [Hone Your Skills](Activities#Hone%20Your%20Skills) you may select an [Attribute](Core/Stats#Attributes) to consider as 1 greater instead of a [Skill](Core/Skills).
 
 ### Defensive Combatant
-You receive a (+1) to [Avoid](Core/Reacting-To-Attacks#Avoid) and [Parry](Core/Special-Combat-Actions#Parry) skill tests.
+You receive a (+1) to [Avoid](Core/Reacting#Avoid) and [Parry](Core/Special-Combat-Actions#Parry) skill tests.
 
 ### Defensive Offhand
 When wielding two weapons of [Size](Core/Weapons#Size) 2 or less, the smaller of the two counts as having the [Balanced](Core/Weapon-Traits#Balanced) trait.
 
 ### Deflect
-You receive the benefits of your wielded weapon traits to [Avoid](Core/Reacting-To-Attacks#Avoid) non-[Melee Attacks](Core/Terminology#Melee%20Attack). 
+You receive the benefits of your wielded weapon traits to [Avoid](Core/Reacting#Avoid) non-[Melee Attacks](Core/Terminology#Melee%20Attack). 
 
 ### Feint
 Enemies receive a (-1) to [Reaction](Core/Terminology#Reaction) skill tests against you.
@@ -73,7 +73,7 @@ You can opt to make the damage type of any [Rending](Core/Injury#Rending) or [Pi
 When you [Parry](Core/Special-Combat-Actions#Parry) your opponent suffers a (-2).
 
 ### Quick Draw
-During your [Combat Turn](Core/Terminology#Combat%20Turn) you may spend 2 [Power](Core/Stats#Max%20Power) to make an attack with a [Size](Core/Weapons#Size) 1 [Weapon](Core/Weapons) as a [Free Action](Core/Terminology#Free%20Action).
+During your [Combat Turn](Core/Terminology#Combat%20Turn) you may spend 2 [Power](Additional-Attributes#Power) to make an attack with a [Size](Core/Weapons#Size) 1 [Weapon](Core/Weapons) as a [Free Action](Core/Terminology#Free%20Action).
 
 
 ---
@@ -89,7 +89,7 @@ Dance Of Death - On your [Combat Turn](Core/Terminology#Combat%20Turn), as a [Fr
 Dance of death lasts until your next [Combat Turn](Core/Terminology#Combat%20Turn).
 
 ### Master Of Arms
-You can declare a weapon you are using has an additional trait worth up to 2 trait points. It has that trait for the rest of an encounter. Using this ability costs [Power](Core/Stats#Max%20Power) equal to the trait value. If this is used additional times in a single encounter only the most recently declared Master Of Arms trait counts. 
+You can declare a weapon you are using has an additional trait worth up to 2 trait points. It has that trait for the rest of an encounter. Using this ability costs [Power](Additional-Attributes#Power) equal to the trait value. If this is used additional times in a single encounter only the most recently declared Master Of Arms trait counts. 
 
 ### Riposte
 After an [Opponent](Core/Terminology#Opponent) [In Melee](Core/Effects#In%20Melee) with you, makes a [Mitigated Attack](Core/Terminology#Mitigated%20Attack) against you, you may make an [Attack](Core/Terminology#Attack) against them.

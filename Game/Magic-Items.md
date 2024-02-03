@@ -12,14 +12,12 @@ In Aspirant magic items should be unique, interesting and full of lore. There ar
 * A monocle that gives X-ray vision.
 * A torch that never goes out.
 
-## Using Magic Items
-Enchanted and magical items need to be grounded to a [Character](Core/Terminology#Character) to work. The process to [Bind](Core/Terminology#Bind) an item to you requires either:
+## Binding
+Enchanted and magical items need to be grounded to a [Character](Core/Terminology#Character) to work. This process requires either:
 * A successful [Will](Core/Spirit#Will) [Fixed Difficulty](Core/Skills#Fixed%20Difficulty)(0).
 * An [Expert Commission](Services#Expert%20Commissions).
 
-A [Character](Core/Terminology#Character) can [Bind](Core/Terminology#Bind) to a number of items up to their [Affinity](Core/Stats#Max%20Affinity).
-
-You can [Bind](Core/Terminology#Bind) to an item once per [Downtime](Telling-The-Story#Downtime).
+A [Character](Core/Terminology#Character) can bind to a number of items up to their [Affinity](Additional-Attributes#Affinity). You can bind to an item once per [Downtime](Telling-The-Story#Downtime).
 
 ## Categories
 Magic items come in three categories based on their power.

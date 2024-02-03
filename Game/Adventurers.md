@@ -18,7 +18,7 @@ To create a character who is already a knowledgeable adventurer. 
 * Finalize your character
 
 ## Determine Your Total XP
-First talk to your GM and other players to determine if there is a limit to how much XP the character should spend right now. This can be marked on your sheet as your [Total XP](Core/Stats#Total%20XP).
+First talk to your GM and other players to determine if there is a limit to how much XP the character should spend right now. This can be marked on your sheet as your [Total XP](Additional-Attributes#Total%20XP).
 
 ## Determine Your Attributes
 Assign your [Attributes](Core/Stats#Attributes) placing one of the two sets of values in each of the 5 attributes.

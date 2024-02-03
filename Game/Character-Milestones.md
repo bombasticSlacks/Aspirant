@@ -6,7 +6,7 @@ grand_parent: Telling The Story
 nav_order: 2
 ---
 # Character Milestones
-These rewards become available as your [Character](Core/Terminology#Character) gains [Total XP](Core/Stats#Total%20XP) and has [Progression](Character-Development#Progression).
+These rewards become available as your [Character](Core/Terminology#Character) gains [Total XP](Additional-Attributes#Total%20XP) and has [Progression](Character-Development#Progression).
 
 Each milestone can be selected only once.
 
@@ -18,15 +18,15 @@ The rewards are as follows:
 Your [Damage Bonus](Core/Weapons#Damage%20Bonus) is +1 with all attacks.
 
 ### Inspired
-You have 1 additional [Max Influence](Core/Stats#Max%20Influence), you also gain 1 influence right now.
+You have 1 additional [Max Influence](Additional-Attributes#Influence), you also gain 1 [Influence](Additional-Attributes#Influence) right now.
 
 ### Magical
-You have 1 additional [Max Affinity](Core/Stats#Max%20Affinity).
+You have 1 additional [Affinity](Additional-Attributes#Affinity).
 ### Mobile
 Your [Agility](Core/Agility) counts as 1 higher for [Movement Distance](Core/Stats#Movement%20Distance).
 
 ### Powerful
-You have 1 additional [Max Power](Core/Stats#Max%20Power).
+You have 1 additional [Max Power](Additional-Attributes#Power).
 
 ### Skilful
 You gain a rank in a skill of your choice, this cannot bring a skill to rank 3.
@@ -60,4 +60,4 @@ If your piece of iconic gear is permanently lost, you can select a new piece of 
 You gain a rank in a skill of your choice.
 
 ### Very Magical
-You have 2 additional [Max Affinity](Core/Stats#Max%20Affinity).
+You have 2 additional [Affinity](Additional-Attributes#Affinity).

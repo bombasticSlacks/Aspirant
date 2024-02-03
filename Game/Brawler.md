@@ -68,7 +68,7 @@ After doing an [Attack](Core/Terminology#Attack) while unarmed, if you haven’t
 You may [Parry](Core/Special-Combat-Actions#Parry) with a [Mannerism](Core/Communication#Mannerism) [Fixed Difficulty(-2)](Core/Skills#Fixed%20Difficulty).
 
 ### Enrage
-When you make a [Strike](Core/Strength#Strike) skill test, spend a [Power](Core/Stats#Max%20Power) to become enraged. While enraged, you have: 
+When you make a [Strike](Core/Strength#Strike) skill test, spend a [Power](Additional-Attributes#Power) to become enraged. While enraged, you have: 
 * +1 [Strength](Core/Strength)
 * -1 [Intelligence](Core/Intelligence)
 * +2 to [Endurance](Core/Strength#Endurance) tests
@@ -77,7 +77,7 @@ When you make a [Strike](Core/Strength#Strike) skill test, spend a [Power](Core/
 On any [Combat Turn](Core/Terminology#Combat%20Turn) where you don't make an [Attack](Core/Terminology#Attack), you must roll a d6, on a 1-3 you stop being enraged.
 
 ### Relentless Attack
-When making an [All Out Attack](Core/Reacting-To-Attacks#All%20Out%20Attack), if it is an [Injuring Attack](Core/Terminology#Wounding%20Attack) you deal the next more severe type of [Injury](Core/Injury#Injury).
+When making an [All Out Attack](Core/Reacting#All%20Out%20Attack), if it is an [Injuring Attack](Core/Terminology#Wounding%20Attack) you deal the next more severe type of [Injury](Core/Injury#Injury).
 
 ### Thunderous Charge
 Your [Charging](Core/Attack-Bonuses#Charging) attacks have the [Penetrating](Core/Weapon-Traits#Penetrating) trait.

@@ -30,7 +30,7 @@ When using a weapon with the [Bow](Core/Weapon-Traits#Bow) [Weapon Trait](Core/W
 Weapons you use with the [Crossbow](Core/Weapon-Traits#Crossbow) [Weapon-Traits](Core/Weapon-Traits) have [Loading](Core/Terminology#Loading)(0).  
 
 ### Defy Death
-You can [Avoid](Core/Reacting-To-Attacks#Avoid) anything, even if it would seem impossible.
+You can [Avoid](Core/Reacting#Avoid) anything, even if it would seem impossible.
 
 ### Disarming Shot
 You can [Disarm](Core/Special-Combat-Actions#Disarm) someone at range, using a ranged weapon, expending 1 ammunition in the process.
@@ -48,7 +48,7 @@ On your [Combat Turn](Core/Terminology#Combat%20Turn), you may make an [Attack](
 You never trigger traps by moving over them. You also receive a +1 to [Grace](Core/Agility#Grace) skill tests related to moving silently.
 
 ### Long Shot
-When making a [Ranged Attack](Core/Terminology#Ranged%20Attack), you may spend a [Power](Core/Stats#Max%20Power) to ignore any [Distance Penalty](Core/Attack-Bonuses#Distance%20Penalty).
+When making a [Ranged Attack](Core/Terminology#Ranged%20Attack), you may spend a [Power](Additional-Attributes#Power) to ignore any [Distance Penalty](Core/Attack-Bonuses#Distance%20Penalty).
 
 ### Lost in the Crowd
 If you are [In Melee](Core/Effects#In%20Melee) you have a [Threat](Core/Stats#Threat) of 0 to [Characters](Core/Terminology#Character) not [In Melee](Core/Effects#In%20Melee) with you.
@@ -82,7 +82,7 @@ You can perform reactions during your own turn.
 [Overwatch](Core/Special-Combat-Actions#Overwatch) [Attacks](Core/Terminology#Attack) against you are at an additional -2. You can get out of being [In Melee](Core/Effects#In%20Melee) without triggering any [Reactions](Core/Terminology#Reaction).
 
 ### Meat Shield
-If you [Avoid](Core/Reacting-To-Attacks#Avoid) an [Attack](Core/Terminology#Attack) while [In Melee](Core/Effects#In%20Melee), you may have that [Attack](Core/Terminology#Attack) target someone, other than yourself or the attacker, [In Melee](Core/Effects#In%20Melee). The new target may use [Reactions](Core/Terminology#Reaction) as normal.
+If you [Avoid](Core/Reacting#Avoid) an [Attack](Core/Terminology#Attack) while [In Melee](Core/Effects#In%20Melee), you may have that [Attack](Core/Terminology#Attack) target someone, other than yourself or the attacker, [In Melee](Core/Effects#In%20Melee). The new target may use [Reactions](Core/Terminology#Reaction) as normal.
 
 ### Point Man
 You have no penalty on [Overwatch](Core/Special-Combat-Actions#Overwatch) attacks, receive no negative for delaying your action, and can perform a number of [Overwatch](Core/Special-Combat-Actions#Overwatch) attacks on a number of enemies in a turn up to your [Agility](Core/Agility).
@@ -94,7 +94,7 @@ You can manoeuvre perfectly well in the dark or when your vision is otherwise im
 Your character's [Threat](Core/Stats#Threat) is reduced by your ranks in [Grace](Core/Agility#Grace).
 
 ### Vanish
-If within [Reach](Core/Movement#Reach) of something you could use to hide, as a [Free Action](Core/Terminology#Free%20Action) you can spend 2 [Power](Core/Stats#Max%20Power) to lose all attention. If you perform any [Action](Core/Terminology#Action) you will need to continue to hide, move silently, etc. to remain hidden.
+If within [Reach](Core/Movement#Reach) of something you could use to hide, as a [Free Action](Core/Terminology#Free%20Action) you can spend 2 [Power](Additional-Attributes#Power) to lose all attention. If you perform any [Action](Core/Terminology#Action) you will need to continue to hide, move silently, etc. to remain hidden.
 
 
 ---

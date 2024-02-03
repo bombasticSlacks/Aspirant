@@ -109,7 +109,7 @@ Your character may add their [Athletics](Core/Strength#Athletics) skill to rolls
 When caught doing something illegal, as long as you are not captured, it won’t be tied back to you (though may otherwise raise suspicion).
 
 ### Obfuscate
-Spend 2 [Power](Core/Stats#Max%20Power), you can make any character/settlement re-roll a skill test related to discovering the party or their involvement in something.
+Spend 2 [Power](Additional-Attributes#Power), you can make any character/settlement re-roll a skill test related to discovering the party or their involvement in something.
 
 ### Driver
 You can drive a [Cart](Example-Infrastructure#Cart) alone.
