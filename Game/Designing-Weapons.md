@@ -37,6 +37,21 @@ A masterful blacksmith can do a lot to imbue an item with additional power and v
 * A masterwork weapon has +1 [Weapon Traits](Core/Weapon-Traits). 
 * It must be made of materials of similar quality to an exotic weapon.
 
+## Size
+Weapons, like all items, come in various sizes. However, in the case of weapons, an item's size has more effect than just the required storage space. 
+- A weapon's $size \times 2$ is added to its [Damage Bonus](Weapons#Damage%20Bonus)
+- Weapons of size 1-2 have the [One Handed](Core/Weapon-Traits#One%20Handed) trait.
+- Weapons of size 3-4 have the [Two Handed](Core/Weapon-Traits#Two%20Handed) trait.
+- Weapons of size 5 have the [Impossibly Large](Core/Weapon-Traits#Impossibly%20Large) trait.
+
+> Examples of weapon sizes are as follows:
+Size 1 - Dagger, hammer, knife
+Size 2 - Arming Sword, Mace, Truncheon
+Size 3 - Long sword, Warhammer, Spear
+Size 4 - Lance, Great Sword
+Size 5 - Giant Weapons
+
+> So, for example, a long sword is a size 3 weapon. This means it is two-handed, gets +6 damage bonus.
 ## Material
 Generally, weapons material isn’t particularly important. Cheap materials will not be usable for artisan weapons, simple but quality materials will not be usable for exotic/master worked weapons. [Costs Of Materials](Services#Costs%20Of%20Materials) has details on the crafting capacity and cost of different materials.
 
