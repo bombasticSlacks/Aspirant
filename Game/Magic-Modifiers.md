@@ -17,7 +17,6 @@ The attack affects everyone in within [Reach](Core/Movement#Reach) of the target
 *Action modifier (-1)*
 If this is a [Successful Attack](Core/Terminology#Successful%20Attack) the [Opponent](Core/Terminology#Opponent) becomes [On Fire](Core/Effects#On%20Fire).
 
-
 ## Concussive
 *Action modifier (-1)*
 After a [Successful Attack](Core/Terminology#Successful%20Attack) the [Opponent](Core/Terminology#Opponent) performs a [Grace](Core/Agility#Grace) [Fixed Difficulty(0)](Core/Skills#Fixed%20Difficulty), if they fail, they become [Prone](Core/Effects#Prone).

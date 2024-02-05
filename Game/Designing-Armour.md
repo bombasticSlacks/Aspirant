@@ -11,38 +11,38 @@ Through play and when creating a character, you may desire to protect yourself w
 To build a piece of armour:
 - Choose the [Quality](#Quality)
 - Choose [Materials](#Materials)
-- Select a number of [Armour Traits](Core/Armour-Traits) for the armour equal to the amount available based on [Quality](#Quality) and [Materials](#Materials)
+- Select a number of [Armour-Templates](Armour-Templates) for the armour equal to the amount available based on [Quality](#Quality) and [Materials](#Materials)
 
 ## Quality
 Armour comes in a variety of qualities based on the skill required to craft.
 ### Basic
 Basic armour is improvised, hastily constructed, or primitive in nature, but may save your life when no other options are available. 
 * Use a single material of at least [Artisan](Materials#Artisan) quality.
-* Have 0 [Armour-Traits](Core/Armour-Traits).
+* Have 0 [Armour-Templates](Armour-Templates).
 
 
 ### Artisan
 
 Artisan armour is expressly built for the hardships of battle. When compared to basic armour, artisan armour is more complex and more meticulously constructed, often with specific functions in mind.
 * Use 2 materials, at least 1 of which is [Artisan](Materials#Artisan).
-* Have 1 [Armour-Traits](Core/Armour-Traits).
+* Have 1 [Armour-Templates](Armour-Templates).
 
 ### Exotic
 
 Exotic armours incorporate additional complexity of both materials and design allowing for further specialization of enhanced functionality thanks to the use of rare and advanced materials and expert craftsmanship.
 * Use 2 materials, at least 1 of which is [Exotic](Materials#Exotic).
-* Have 2 [Armour-Traits](Core/Armour-Traits).
+* Have 2 [Armour-Templates](Armour-Templates).
 
 ### Masterwork
 
 Master worked armour is an artisan or exotic armour of exceptional craftsmanship and design. 
-* A piece of masterwork armour gains 1 additional trait point.
-* May take a single [Armour-Trait](Core/Armour-Traits) it does not meet the material requirement for. 
+* A piece of masterwork armour gains 1 additional [Armour-Templates](Armour-Templates).
+* May take a single [Armour-Templates](Armour-Templates) it does not meet the material requirement for. 
 * Must include at least one [Exotic](Materials#Exotic) material in its construction.
 
 
 ## Materials
-Armour is made of [Materials](Materials), which determine its characteristics, see [Materials](Core/Armour#Materials) for more details. Artisan or Exotic [Quality](Core/Armour#Quality) armour will require a small amount of secondary material to reinforce, pad, or affix the primary material to. Materials, whether they be the primary or secondary material, will also provide access to material specific [Armour-Traits](Core/Armour-Traits) for Artisan and Exotic armours.
+Armour is made of [Materials](Materials), which determine its characteristics, see [Materials](Core/Armour#Materials) for more details. Artisan or Exotic [Quality](Core/Armour#Quality) armour will require a small amount of secondary material to reinforce, pad, or affix the primary material to. Materials, whether they be the primary or secondary material, will also provide access to material specific [Armour-Templates](Armour-Templates) for Artisan and Exotic armours.
 
 ### Material Table
 This is a list of the base values an armour with each primary material will have.
@@ -56,7 +56,7 @@ This is a list of the base values an armour with each primary material will have
 | Metal     | (-1)          | 2         | Cold     | -          |
 | Machinery | (-1)          | 1         | Impact   | -          |
 
-If a piece of armour would gain a resistance or weakness complementary to an existing Resistance or Weakness on the armour through [Armour-Traits](Armour-Traits), the two cancel out, resulting in no effect. If a piece of armour would gain a resistance or weakness it already has through [Armour-Traits](Armour-Traits), there is no effect. 
+If a piece of armour would gain a resistance or weakness complementary to an existing Resistance or Weakness on the armour through [Armour-Templates](Armour-Templates), the two cancel out, resulting in no effect. If a piece of armour would gain a resistance or weakness it already has through [Armour-Templates](Armour-Templates), there is no effect. 
 
 ### Multiple Materials
  When multiple materials are used, one is treated as the primary material and the other as the secondary material. The armour's base attributes (Weakness, Resistance, Structure, and Max Skill) are determined by the primary material, while the secondary material represents the increase in complexity and robustness of higher quality gear.
