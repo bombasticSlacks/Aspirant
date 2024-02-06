@@ -35,7 +35,7 @@ You can [Avoid](Core/Reacting#Avoid) anything, even if it would seem impossible.
 ### Disarming Shot
 You can [Disarm](Core/Special-Combat-Actions#Disarm) someone at range, using a ranged weapon, expending 1 ammunition in the process.
 ### Efficient Rounds
-When you perform a [Mitigated Attack](Core/Terminology#Mitigated%20Attack) with [Comestibles](Core/Comestibles) , it is always [salvageable](Core/Comestibles#Salvaging)
+You can always salvage [Munitions](Core/Comestibles#Munitions) with the [Salvageable](Core/Weapon-Traits#Salvageable) trait.
 ### Exotic Expert
 You can use any [Exotic](Core/Weapons#Exotic) weapon without penalty.   
 ### Fast Hands
@@ -96,6 +96,9 @@ Your character's [Threat](Core/Stats#Threat) is reduced by your ranks in [Grace]
 ### Vanish
 If within [Reach](Core/Movement#Reach) of something you could use to hide, as a [Free Action](Core/Terminology#Free%20Action) you can spend 2 [Power](Additional-Attributes#Power) to lose all attention. If you perform any [Action](Core/Terminology#Action) you will need to continue to hide, move silently, etc. to remain hidden.
 
+### Marksman
+No negative on [Vitals Hit](Core/Attacks#Vitals%20Hit) with [Ranged Attack](Core/Terminology#Ranged%20Attack) if you do nothing else during your [Combat Turn](Core/Terminology#Combat%20Turn).
+
 
 ---
 
@@ -105,9 +108,6 @@ If within [Reach](Core/Movement#Reach) of something you could use to hide, as a 
 You may make a [Ranged Attack](Core/Terminology#Ranged%20Attack) on up to an [Agility](Core/Agility) number of targets within a 45-degree cone. Each [Action](Core/Terminology#Action) suffers a (-2).
 ### Hide in Plain Sight
 You do not need an item or object to hide behind when attempting to hide.
-
-### Marksman
-No negative on [Vitals Hit](Core/Attacks#Vitals%20Hit) with [Ranged Attack](Core/Terminology#Ranged%20Attack) if you do nothing else during your [Combat Turn](Core/Terminology#Combat%20Turn).
 
 ### Master Thief
 In combat you can perform a [Grace](Core/Agility#Grace) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Reflexes](Core/Agility#Reflexes)) to immediately use a piece of [Equipment](Core/Equipment) stored on another character [In Melee](Core/Effects#In%20Melee). You still need to perform any additional skill checks to use the item.
