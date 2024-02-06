@@ -156,7 +156,8 @@ Size 2
 *A collection of items required to make the road or a traumatic event easier. Consisting of a weighted blanket, sanitary napkins, sweets, and other comforts not normally seen on the road. 1 size of [Exotic](Materials#Exotic) + charges.* 
 * Size 2.
 * Cost 13.
-* 3(1) [Charges](Core/Terminology#Charges).
+* [Charges](Core/Gear#Charges)(3).
+* [Charges](Core/Gear#Charges) cost 1 silver to replace.
 * Anyone you help with your comfort kit, you receive a +1 to social skill tests with. 
 
 
@@ -181,10 +182,11 @@ Size 2
 ---
 
 ### Explorers Kit
-*A collection of generic items an adventurer should have packed. Whether it be rope, a specific tool, climbing pitons, a torch etc. This kit is by far the most generic, but also any use of the explorers' kit should expend a use and require refilling, as the tools will be subpar. 1 size of [Artisan Metals](Metal#Artisan%20Metals) + [Charges](Core/Terminology#Charges).*
+*A collection of generic items an adventurer should have packed. Whether it be rope, a specific tool, climbing pitons, a torch etc. This kit is by far the most generic, but also any use of the explorers' kit should expend a use and require refilling, as the tools will be subpar. 1 size of [Artisan Metals](Metal#Artisan%20Metals) + [Charges](Core/Gear#Charges).*
 * Size 3.
 * Cost 11.
-* 3(2) [Charges](Core/Terminology#Charges).
+* [Charges](Core/Gear#Charges)(3).
+* [Charges](Core/Gear#Charges) cost 2 silver to replace.
 * Can be used as a 1 use substitute tool you need for an [Action](Core/Terminology#Action).
 
 ---
@@ -197,11 +199,12 @@ Size 2
 ---
 
 ### Forgery Kit
-*A collection of stamps, plates, glossy paper and inks required to forge official documents. 1 size of [Exotic](Materials#Exotic) material + [Charges](Core/Terminology#Charges).*
+*A collection of stamps, plates, glossy paper and inks required to forge official documents. 1 size of [Exotic](Materials#Exotic) material + [Charges](Core/Gear#Charges).*
 * Size 2.
 * Cost 25.
 * Creating a forgery is a [Accuracy](Core/Agility#Accuracy) [Fixed Difficulty](Core/Skills#Fixed%20Difficulty) skill test with a [Difficulty Value](Core/Terminology#Difficulty%20Value) assigned based on the complexity of the forgery. The cost in charges for the forgery is equal to 2 * the [Difficulty Value](Core/Terminology#Difficulty%20Value).
-* 15(1) [Charges](Core/Terminology#Charges).
+* [Charges](Core/Gear#Charges)(15).
+* [Charges](Core/Gear#Charges) cost 1 silver to replace.
 
 > So, a -4 difficulty test would result in a forgery costing 8 silver.
 
@@ -223,11 +226,12 @@ Size 2
 ---
 
 ### Light Kit
-*A light source and necessary fuel, whether it is from treated torches or some form of lantern. 1 size of [Artisan](Materials#Artisan) materials + [Charges](Core/Terminology#Charges).*
+*A light source and necessary fuel, whether it is from treated torches or some form of lantern. 1 size of [Artisan](Materials#Artisan) materials + [Charges](Core/Gear#Charges).*
 * Size 2.
 * Cost 10.
-* 5(1) [Charges](Core/Terminology#Charges).
-* Every 2 hours this provides light expends a [Charge](Core/Terminology#Charges)
+* [Charges](Core/Gear#Charges)(5).
+* [Charges](Core/Gear#Charges) cost 1 silver to replace.
+* Every 2 hours this provides light expends a [Charges](Core/Gear#Charges)
 
 
 ---
@@ -249,20 +253,22 @@ Size 2
 
 ---
 ### Patching Kit
-*A collection of pins, patches, bolts and metal bits used to repair armour in the field. 1 size of [Artisan Metals](Metal#Artisan%20Metals) + [Charges](Core/Terminology#Charges).*
+*A collection of pins, patches, bolts and metal bits used to repair armour in the field. 1 size of [Artisan Metals](Metal#Artisan%20Metals) + [Charges](Core/Gear#Charges).*
 * Size 2.
 * Cost 15.
-* 5(2) [Charges](Core/Terminology#Charges).
-* Given 5 minutes, you can repair 1 integrity on a suit of armour for a [charge](Core/Terminology#Charges).
+* [Charges](Core/Gear#Charges)(5).
+* [Charges](Core/Gear#Charges) cost 2 silver to replace.
+* Given 5 minutes, you can repair 1 integrity on a suit of armour for a [Charge](Core/Gear#Charges).
 
 ---
 
 ### Reagent Bag
-*A well constructed satchel of elixirs, dried powdered items, and other small bits of magic that can be used to perform [Rituals](Core/Spirit#Attunement). 1 size [Artisan Hide](Hide#Artisan%20Hide) + [Charges](Core/Terminology#Charges).* 
+*A well constructed satchel of elixirs, dried powdered items, and other small bits of magic that can be used to perform [Rituals](Core/Spirit#Attunement). 1 size [Artisan Hide](Hide#Artisan%20Hide) + [Charges](Core/Gear#Charges).* 
 * Size 2.
 * Cost 15.
-* 5(2) [Charges](Core/Terminology#Charges).
-* You can spend a [charge](Core/Terminology#Charges) to perform [Ritual Magic](Magic#Ritual%20Magic).
+* [Charges](Core/Gear#Charges)(5).
+* [Charges](Core/Gear#Charges) cost 2 silver to replace.
+* You can spend a [charge](Core/Gear#Charges) to perform [Ritual Magic](Magic#Ritual%20Magic).
 
 A reagent bag contains 5 uses, and replenishing a use costs 2 silver.
 
@@ -294,40 +300,44 @@ A reagent bag contains 5 uses, and replenishing a use costs 2 silver.
 
 ### Tinker's Kit
 *Size 2 Cost 15*
-*A collection of scrap bits, odds and ends, adhesive and other consumables you might need to fix or quickly construct something. Any time you need scrap, replacement parts, or other machined parts you can use a tinkers kit. 1 size of [Artisan](Materials#Artisan) + [Charges](Core/Terminology#Charges).*
+*A collection of scrap bits, odds and ends, adhesive and other consumables you might need to fix or quickly construct something. Any time you need scrap, replacement parts, or other machined parts you can use a tinkers kit. 1 size of [Artisan](Materials#Artisan) + [Charges](Core/Gear#Charges).*
 * Size 2.
 * Cost 15.
-* [Charges](Core/Terminology#Charges) 5(2).
+* [Charges](Core/Gear#Charges)(5).
+* [Charges](Core/Gear#Charges) cost 2 silver to replace.
 * A tinkers kit charge can be used to have a bauble or small part on hand for repairs or crafting.
 
 ---
 
 ### Trap Kit
-*A collection of materials, triggers, sensors and payloads that can be used to create and customize traps on the go. 1 size of [Artisan Metals](Metal#Artisan%20Metals) + [Charges](Core/Terminology#Charges).* 
+*A collection of materials, triggers, sensors and payloads that can be used to create and customize traps on the go. 1 size of [Artisan Metals](Metal#Artisan%20Metals) + [Charges](Core/Gear#Charges).* 
 * Size 2.
 * Cost 10.
-* [Charges](Core/Terminology#Charges) 5(1).
-* Can expend a [charge](Core/Terminology#Charges) to set up a trap to trigger based on certain conditions.
+* [Charges](Core/Gear#Charges)(5).
+* [Charges](Core/Gear#Charges) cost 1 silver to replace.
+* Can expend a [charge](Core/Gear#Charges) to set up a trap to trigger based on certain conditions.
 
 ---
 
 ### Trauma Kit
-*A collection of simple medicines, bandages, synthetic skin, coagulating powder, splints, and other things required to keep people alive after a severe or critical injury and treat the issues. 1 size of [Artisan](Materials#Artisan) + [Charges](Core/Terminology#Charges)* 
+*A collection of simple medicines, bandages, synthetic skin, coagulating powder, splints, and other things required to keep people alive after a severe or critical injury and treat the issues. 1 size of [Artisan](Materials#Artisan) + [Charges](Core/Gear#Charges)* 
 * Size 2.
 * Cost 15.
-* [Charges](Core/Terminology#Charges) 5(2).
-* A trauma kit [Charge](Core/Terminology#Charges) can be used to provide (+1) to any medical [Application](Core/Intelligence#Application) [Action](Core/Terminology#Action). 
-* A trauma kit [charge](Core/Terminology#Charges) can be used to perform first aid to remove the [Defeated](Core/Effects#Defeated) effect. This is a [Application](Core/Intelligence#Application) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Long Term Injury](Core/Effects#Long%20Term%20Injury)). If you succeed, reduce their [Long Term Injury](Core/Effects#Long%20Term%20Injury) penalty by 1. If you fail they just remove [Defeated](Core/Effects#Defeated).
+* [Charges](Core/Gear#Charges)(5).
+* [Charges](Core/Gear#Charges) cost 2 silver to replace.
+* A trauma kit [Charge](Core/Gear#Charges) can be used to provide (+1) to any medical [Application](Core/Intelligence#Application) [Action](Core/Terminology#Action). 
+* A trauma kit [charge](Core/Gear#Charges) can be used to perform first aid to remove the [Defeated](Core/Effects#Defeated) effect. This is a [Application](Core/Intelligence#Application) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Long Term Injury](Core/Effects#Long%20Term%20Injury)). If you succeed, reduce their [Long Term Injury](Core/Effects#Long%20Term%20Injury) penalty by 1. If you fail they just remove [Defeated](Core/Effects#Defeated).
 
 ---
 
 ### Wrangler's Kit
 *Size 2 Cost 20*
-*A collection of restraints, blinders, keys, and other bindings usable to bind creatures and humans. 1 size of [Artisan Metals](Metal#Artisan%20Metals) + [Charges](Core/Terminology#Charges).* 
+*A collection of restraints, blinders, keys, and other bindings usable to bind creatures and humans. 1 size of [Artisan Metals](Metal#Artisan%20Metals) + [Charges](Core/Gear#Charges).* 
 * Size 2.
 * Cost 15.
-* [Charges](Core/Terminology#Charges) 5(2).
-* Using a wranglers kit on a humanoid requires 2 [Charges](Core/Terminology#Charges), anything smaller would be 1, larger entities up to 5.
+* [Charges](Core/Gear#Charges)(5).
+* [Charges](Core/Gear#Charges) cost 2 silver to replace.
+* Using a wranglers kit on a humanoid requires 2 [Charges](Core/Gear#Charges), anything smaller would be 1, larger entities up to 5.
 * A [Character](Core/Terminology#Character) who is secured with a wranglers kit cannot escape without external aid.
 
 ---
