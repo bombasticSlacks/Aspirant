@@ -18,64 +18,23 @@ Arcanists are:
 They can generally teach the following training:
 
 ## Basic
-
-### Amateur Arcana
-Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
-* Create [Ephemeral](Magic-Items#Ephemeral) [Magic-Items](Magic-Items).
-* Teleport a nearby item to yourself.
-* Summon a familiar that obeys
-* Conjure simple items that won't be missed (from wherever you take them).
-
- [Crafting Cost](Core/Terminology#Crafting%20Cost): 1 size of [Artisan](Materials#Artisan) [Materials](Materials) + a [Reagent Bag](Example-Gear#Reagent%20Bag) charge.
-### Bewitched
-You can imbue magic into people as you can permanent [Equipment](Core/Equipment).
-
-People count as Size 5, body parts as size 2
-
-### Blood Rituals
-You may attempt a ritual without 1 of the requirements and replace it with an amount of blood.
-
-### Hallowed Ground
-You can imbue magic into places as you can permanent [Equipment](Core/Equipment).
-
-Places count as Size 5
-
-### Intellectual Methods
-[Attunement](Core/Spirit#Attunement) is an [Intelligence](Core/Intelligence) skill for you.
-
+![Amateur-Arcana](Game/Blocks/Amateur-Arcana)
+![Bewitched](Game/Blocks/Bewitched)
+![Blood-Rituals](Game/Blocks/Blood-Rituals)
+![Hallowed-Ground](Game/Blocks/Hallowed-Ground)
+![Intellectual-Methods](Game/Blocks/Intellectual-Methods)
 
 
 ---
 
 ## Advanced
-
-### Expert Arcana
-*[Requirement](Core/Terminology#Requirement): [Amateur Arcana](#Amateur%20Arcana)*
-Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
-* Create [Harmonic](Magic-Items#Harmonic) [Magic-Items](Magic-Items).
-* Summon an animal that obeys.
-* Conjure more complex items that will be missed.
-* Teleport an exact item to yourself.
-
- [Crafting Cost](Core/Terminology#Crafting%20Cost): Size of target item in [Exotic](Materials#Exotic) [Materials](Materials) + Size of target item in [Artisan](Materials#Artisan) [Materials](Materials) + a [Reagent Bag](Example-Gear#Reagent%20Bag) charge.
-### Invigorated Enchantment
-You can imbue two separate magical effects into an item.
-
-### Pocket Dimension
-You can hold an additional $2 \times Spirit$ Size of items. These items can be accessed like they are on a [Belt](Storage#Belt), but are not detectable by anything but magic.
-
+![Expert-Arcana](Game/Blocks/Expert-Arcana)
+![Invigorated-Enchantment](Game/Blocks/Invigorated-Enchantment)
+![Pocket-Dimension](Game/Blocks/Pocket-Dimension)
 
 
 ---
 
 ## Master
-
-### Master Arcana
-*[Requirement](Core/Terminology#Requirement): [Expert Arcana](#Expert%20Arcana)*
-Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
-* Create [Discordant](Magic-Items#Discordant) [Magic-Items](Magic-Items).
-* Summon a magical creature that obeys.
-* Conjure an exact item of need (the owner may be angry about this).
-
- [Crafting Cost](Core/Terminology#Crafting%20Cost): Size of target item in [Exotic](Materials#Exotic) [Materials](Materials), but must be two separate [Materials](Materials) + Size of target item in [Artisan](Materials#Artisan) [Materials](Materials) + a [Reagent Bag](Example-Gear#Reagent%20Bag) charge.
+![Master-Arcana](Game/Blocks/Master-Arcana)
 
