@@ -43,7 +43,7 @@ When wielding a [Shield](Core/Terminology#Shield), and [In Melee](Core/Effects#I
 You can spend a [Reaction](Core/Terminology#Reaction) to retarget an attack targeting another [Character](Core/Terminology#Character) you are [In Melee](Core/Effects#In%20Melee) with. You can then do another [Reaction](Core/Terminology#Reaction) without spending a [Reaction](Core/Terminology#Reaction).
 
 ### Taunt
-During your [Combat-Turn](Core/Combat-Turn), you may spend a [Power](Core/Stats#Power) to cause a character to have to target you with any abilities on it's next [Combat Turn](Core/Terminology#Combat%20Turn).
+During your [Combat-Turn](Core/Combat-Turn), you may spend a [Power](Additional-Attributes#Power) to cause a character to have to target you with any abilities on it's next [Combat Turn](Core/Terminology#Combat%20Turn).
 
 ### Quick Saddles
 While [Mounted](Core/Terminology#Mounted), you may draw from your [Saddlebag](Storage#Saddlebag) as you would draw from your [Belt](Storage#Belt).

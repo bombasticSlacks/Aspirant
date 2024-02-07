@@ -51,7 +51,7 @@ You never trigger traps by moving over them. You also receive a +1 to [Grace](Co
 When making a [Ranged Attack](Core/Terminology#Ranged%20Attack), you may spend a [Power](Additional-Attributes#Power) to ignore any [Distance Penalty](Core/Attack-Bonuses#Distance%20Penalty).
 
 ### Lost in the Crowd
-If you are [In Melee](Core/Effects#In%20Melee) you have a [Threat](Core/Stats#Threat) of 0 to [Characters](Core/Terminology#Character) not [In Melee](Core/Effects#In%20Melee) with you.
+If you are [In Melee](Core/Effects#In%20Melee) you have a [Threat](Core/Weapons#Threat) of 0 to [Characters](Core/Terminology#Character) not [In Melee](Core/Effects#In%20Melee) with you.
 
 ### Olympian
 Your [Thrown Attack](Core/Terminology#Thrown%20Attack) count as having a range of 1 additional [Distance Increment](Core/Movement#Distance%20Increments). 
@@ -74,7 +74,7 @@ You get an additional 4 size worth of [Belt](Storage#Belt) space.
 While not in combat, you can make a [Grace](Core/Agility#Grace) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Insight](Core/Intelligence#Insight)) test against a [Character](Core/Terminology#Character) that is unaware of you, if you succeed, they either receive a [Lethal Injury](Core/Injury#Lethal%20Injury) to the torso, or become [Defeated](Core/Effects#Defeated).
 
 ### Cold Steel
-If you have a [Threat](Core/Stats#Threat) of 0, your attacks have the [Penetrating](Core/Weapon-Traits#Penetrating) trait.
+If you have a [Threat](Core/Weapons#Threat) of 0, your attacks have the [Penetrating](Core/Weapon-Traits#Penetrating) trait.
 
 ### Constant Movement
 You can perform reactions during your own turn.
@@ -91,7 +91,7 @@ You have no penalty on [Overwatch](Core/Special-Combat-Actions#Overwatch) attack
 You can manoeuvre perfectly well in the dark or when your vision is otherwise impaired.
 
 ### Shadow Combatant
-Your character's [Threat](Core/Stats#Threat) is reduced by your ranks in [Grace](Core/Agility#Grace).
+Your character's [Threat](Core/Weapons#Threat) is reduced by your ranks in [Grace](Core/Agility#Grace).
 
 ### Vanish
 If within [Reach](Core/Movement#Reach) of something you could use to hide, as a [Free Action](Core/Terminology#Free%20Action) you can spend 2 [Power](Additional-Attributes#Power) to lose all attention. If you perform any [Action](Core/Terminology#Action) you will need to continue to hide, move silently, etc. to remain hidden.

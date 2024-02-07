@@ -117,8 +117,8 @@ These are actions that a character can do while travelling somewhere, your spare
 Jobs are ways to spend days and supplement your income. They come in 3 variants.
 
 ### Day Work
-* Depending on the settlement, any area will have specific types of labour available. These will be associated with each of the 5 [Attributes](Core/Stats#Attributes). 
-* You earn silver equal to your [Attribute](Core/Stats#Attributes) value associated with the work.
+* Depending on the settlement, any area will have specific types of labour available. These will be associated with each of the 5 [Attributes](Core/Attributes). 
+* You earn silver equal to your [Attributes](Core/Attributes) value associated with the work.
 
 > If a character was in a lumber and trapping settlement, they may have physical labour (strength) available as well as tracking labour (agility). A character could choose to do physical labour, making their strength value in silver.
 

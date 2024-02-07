@@ -21,7 +21,7 @@ To create a character who is already a knowledgeable adventurer. 
 First talk to your GM and other players to determine if there is a limit to how much XP the character should spend right now. This can be marked on your sheet as your [Total XP](Additional-Attributes#Total%20XP).
 
 ## Determine Your Attributes
-Assign your [Attributes](Core/Stats#Attributes) placing one of the two sets of values in each of the 5 attributes.
+Assign your [Attributes](Core/Attributes) placing one of the two sets of values in each of the 5 attributes.
 * 4,3,2,2,2
 * 3,3,3,2,2
 
@@ -54,7 +54,7 @@ You also, at any point during purchasing get 5 [Downtime Activities](Activities#
 > So, you could craft an item you then buy some stuff to upgrade.
 
 ## Finalize Your Character
-Finally calculate your character other [Additional Attributes](Core/Stats#Additional%20Attributes) and make note of your items and abilities.
+Finally calculate your character other [Attributes](Core/Attributes) and make note of your items and abilities.
 
 If you have any unspent XP you start with an additional $5 \times unspent\ XP$ silver
 
