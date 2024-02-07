@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 #embeds md blocks
 import os
 import subprocess
@@ -8,16 +9,17 @@ dir = "Game/Blocks"
 
 for block in os.listdir(dir):
     # Skip .bak files
+    print(f"Pre found: {block}")
     if block.find(".bak") == -1:
         address = dir + "/" + block
         name = block.strip(".md")
         print(name)
-        f = open(address, "r")
 
-        # Wrap our block with some HTML
-        contents = '<div markdown="1" class="block">\n\n'
-        contents += f.read()
-        contents += '\n\n</div>'
+        with open(address, 'r') as f:
+            # Wrap our block with some HTML
+            contents = '<div markdown="1" class="block">\n\n'
+            contents += f.read()
+            contents += '\n\n</div>'
 
         # find the relevant files
         result = subprocess.run(["grep", "-r", "-l", f"--regexp=!\[{name}](\/Blocks\/{name})", "Game/"], capture_output=True, text=True)
