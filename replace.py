@@ -9,10 +9,9 @@ dir = "Game/Blocks"
 
 for block in os.listdir(dir):
     # Skip .bak files
-    print(f"Pre found: {block}")
     if block.find(".bak") == -1:
         address = dir + "/" + block
-        name = block.strip(".md")
+        name = block.removesuffix(".md")
         print(name)
 
         with open(address, 'r') as f:
