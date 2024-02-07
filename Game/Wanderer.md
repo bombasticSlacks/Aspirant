@@ -90,7 +90,7 @@ If you succeed on a [Memory](Core/Intelligence#Memory) skill test to know about 
 You can [Scavenge](Activities#Scavenge) while doing another [Travelling Activity](Activities#Travelling%20Activity).
 
 ### Non-Target
-As long as you have a [Threat](Core/Stats#Threat) value of 0 or less, enemies don’t consider you a threat until you attack.
+As long as you have a [Threat](Core/Weapons#Threat) value of 0 or less, enemies don’t consider you a threat until you attack.
 ### Peacekeeper
 Your inflicted [Minimal Injury](Core/Injury#Minimal%20Injury) cause opponents to become [Wounded](Core/Effects#Wounded).
 

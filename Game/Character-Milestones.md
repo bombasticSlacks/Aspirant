@@ -23,7 +23,7 @@ You have 1 additional [Max Influence](Additional-Attributes#Influence), you also
 ### Magical
 You have 1 additional [Affinity](Additional-Attributes#Affinity).
 ### Mobile
-Your [Agility](Core/Agility) counts as 1 higher for [Movement Distance](Core/Stats#Movement%20Distance).
+Your [Agility](Core/Agility) counts as 1 higher for [Movement Distance](Core/Movement#Movement%20Distance).
 
 ### Powerful
 You have 1 additional [Max Power](Additional-Attributes#Power).
@@ -32,7 +32,7 @@ You have 1 additional [Max Power](Additional-Attributes#Power).
 You gain a rank in a skill of your choice, this cannot bring a skill to rank 3.
 
 ### Threatening
-You have 2 additional [Threat](Core/Stats#Threat).
+You have 2 additional [Threat](Core/Weapons#Threat).
 
 ### Trained
 Select and learn a single [Basic Level Training](Character-Development#Basic%20Level%20Training).
@@ -55,7 +55,7 @@ You can select a piece of gear that you are known for using. This piece of gear 
 If your piece of iconic gear is permanently lost, you can select a new piece of [Equipment](Core/Equipment) to become iconic during the next [Downtime](Telling-The-Story#Downtime).
 
 ### Limit Breaker
-+1 to an [Attribute](Core/Stats#Attributes) of your choice.
++1 to an [Attribute](Core/Attributes) of your choice.
 ### Very Skilful
 You gain a rank in a skill of your choice.
 

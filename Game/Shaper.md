@@ -50,7 +50,7 @@ You do not need to move your hands to perform [Channelled Magic](Magic#Channelle
 You can cast spells normally while transformed into a non-humanoid creature, even if you couldn't hold a [Focus](Example-Gear#Focus). You can also speak normally.
 
 ### Wire Fight
-You Can Use [Spirit](Core/Spirit) instead of [Agility](Core/Agility) to Calculate [Movement Distance](Core/Stats#Movement%20Distance). 
+You Can Use [Spirit](Core/Spirit) instead of [Agility](Core/Agility) to Calculate [Movement Distance](Core/Movement#Movement%20Distance). 
 
 ---
 

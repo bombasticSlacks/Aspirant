@@ -23,11 +23,6 @@ Reward: 200 Silver, imbibing from the dragons heart.
 ## Ancient Dragon Roost
 North of [Causdin](Causdin) there is a large cave structure which used to house a dragon and wyvern. The Imp from [Returning The Heart](#Returning%20The%20Heart) might be here.
 
-## Find The Missing Shipment
-In [Causdin](Causdin), shipments are going missing. 
-
-Reward: 100 Silver, 10 silver a season in additional income from improved trade with Crosshaven.
-
 ## Ruins in the Lake
 [Arturas-Gabrys](Arturas-Gabrys) remembers hearing of ancient ruins rumors in Dorna.
 
@@ -64,3 +59,10 @@ An elemental boar has taken control of the waterway south of Tennens
 ## Breckles and Tennens War
 
 **Complete 4XP**
+
+## Find The Missing Shipment
+In [Causdin](Causdin), shipments are going missing. 
+
+Reward: 100 Silver, 10 silver a season in additional income from improved trade with Crosshaven.
+
+**Complete 2XP**

@@ -58,7 +58,7 @@ You can buy any item, even a person's personal equipment.
 You have a second identity which you can assume at any time. You don't need to make [Confidence](Core/Communication#Confidence) skill tests to pretend to be them.
 
 ### Tinge Of Truth
-After successfully lying to a [Character](Core/Terminology#Character) about something, you may spend [Influence](Core/Stats#Max%20Influence) to make it true or at least partially true. The GM should attempt to make this the case and give you a reasonable cost.
+After successfully lying to a [Character](Core/Terminology#Character) about something, you may spend [Influence](Additional-Attributes#Influence) to make it true or at least partially true. The GM should attempt to make this the case and give you a reasonable cost.
 
 ### White Lie
 You don’t need to roll [Confidence](Core/Communication#Confidence) to lie about small, insignificant things.
