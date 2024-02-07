@@ -8,7 +8,7 @@ grand_parent: Worlds
 # Greg Colter
 born in the township [Alexander-Aurelius](Alexander-Aurelius) is from. Humble beginning, stable hands' son. Takes care of the horses, riding partner as well. Infatuated with his aspirations and ideas. Believes in the dream. 
 
-# Joshmuda
+# Jashmuda
 The manticore cub Greg rescued from the manticore matriarch
 
 Can harvest venom from Muda once a week (per 5 days)
@@ -17,7 +17,7 @@ Can harvest venom from Muda once a week (per 5 days)
 
 Elite
 {: .label .label-yellow }
-### Joshmuda
+### Jashmuda
 
 | Initiative | Move                               | Threat | Integrity | Weakness | Resistance |
 | ---------- | ---------------------------------- | ------ | --------- | -------- | ---------- |
