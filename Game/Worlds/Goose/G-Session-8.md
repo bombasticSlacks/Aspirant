@@ -35,7 +35,7 @@ grand_parent: Worlds
 * Fall 1st arrive at Mornest. 
 	* Full moon on the 1st and the 15th of every month
 	* Bront and Casey went to the vampires mansion.
-	* Everyone else is going to 
+	* Everyone else is going to dimitrius to give over the spirit. 
 
 ### Rewards
 
