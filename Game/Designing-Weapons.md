@@ -66,10 +66,10 @@ By default, all weapons have:
 * [Size-Matters](Game/Blocks/Size-Matters)
 
 ## Crafting Points
-Can be spent to add either [Weapon-Traits](Game/Core/Weapon-Traits) or [Weapon-Templates](Game/Weapon-Templates) to your weapons. Traits must be negotiated with the [Game Master](Game/Core/Terminology#Game%20Master) but [Weapon-Templates](Game/Weapon-Templates) are designed to be added to weapons directly.
+Can be spent to add either [Weapon-Traits](Game/Core/Weapon-Traits) or [Weapon-Templates](Game/Weapon-Templates) to your weapons. Traits must be negotiated with the [Game Master](Game/Core/Terminology#Game%20Master), but [Weapon-Templates](Game/Weapon-Templates) are designed to be added to weapons directly.
 
 ## Calculating Damage Bonus
-A weapons damage bonus is equal to:
+A weapon's damage bonus is equal to:
 $traits + quality$
 
 > A [Size](Core/Weapons#Size) 3 [Artisan](#Artisan) weapon, with the [Lethal](Core/Weapon-Traits#Lethal) [Weapon Trait](Core/Weapon-Traits) would have a damage bonus of 8, 6 from [Size Matters](Core/Weapon-Traits#Size%20Matters), 1 from [Artisan](#Artisan), 1 from [Lethal](Core/Weapon-Traits#Lethal).
