@@ -17,10 +17,10 @@ See [Commissions](Services#Crafting%20Commissions) for details.
 | Quality                                                                       | Buy | Sell |
 | ----------------------------------------------------------------------------- | --- | ---- |
 | [Basic](Designing-Armour#Basic)                                               | 15  | 10   |
-| [Artisan](Designing-Armour#Artisan)                                           | 23  | 18   |
-| [Exotic](Designing-Armour#Exotic)                                             | 45  | 40   |
+| [Artisan](Designing-Armour#Artisan)                                           | 18  | 13   |
+| [Exotic](Designing-Armour#Exotic)                                             | 30  | 25   |
 | [Masterwork](Designing-Armour#Masterwork) [Artisan](Designing-Armour#Artisan) | 40  | 25   |
-| [Masterwork](Designing-Armour#Masterwork) [Exotic](Designing-Armour#Exotic)   | 55  | 40   |
+| [Masterwork](Designing-Armour#Masterwork) [Exotic](Designing-Armour#Exotic)   | 45  | 30   |
 
 ## Contents
 {: .no_toc }
