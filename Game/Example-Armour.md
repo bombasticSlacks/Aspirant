@@ -8,7 +8,6 @@ nav_order: 2
 # Example [Armour](Core/Armour)
 {: .no_toc }
 * This list is non-exhaustive you can instead design your own [Designing-Armour](Designing-Armour).
-* Armour sells for 5 less than the listed cost.
 * Armour always costs the value here, it will either be commissioned requiring a day of crafting, or will need refitting still costing 5 silver.
 
 ## Pricing
@@ -18,10 +17,10 @@ See [Commissions](Services#Crafting%20Commissions) for details.
 | Quality                                                                       | Buy | Sell |
 | ----------------------------------------------------------------------------- | --- | ---- |
 | [Basic](Designing-Armour#Basic)                                               | 15  | 10   |
-| [Artisan](Designing-Armour#Artisan)                                           | 23  | 18   |
-| [Exotic](Designing-Armour#Exotic)                                             | 45  | 40   | 
+| [Artisan](Designing-Armour#Artisan)                                           | 18  | 13   |
+| [Exotic](Designing-Armour#Exotic)                                             | 30  | 25   |
 | [Masterwork](Designing-Armour#Masterwork) [Artisan](Designing-Armour#Artisan) | 40  | 25   |
-| [Masterwork](Designing-Armour#Masterwork) [Exotic](Designing-Armour#Exotic)   | 55  | 40   |
+| [Masterwork](Designing-Armour#Masterwork) [Exotic](Designing-Armour#Exotic)   | 45  | 30   |
 
 ## Contents
 {: .no_toc }
