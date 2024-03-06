@@ -7,6 +7,6 @@ Elite
 | ----------------------------- | ------ | --------- | ----------------------------- | ----------------------------------------------------------------------------- |
 | [Far](Game/Core/Movement#Far) | 1      | 4         | [Heat](Game/Core/Injury#Heat) | [Rending](Game/Core/Injury#Rending), [Piercing](Game/Core/Injury#Piercing) |
 
-* Claws.
+* Attack (+5, Rending, 2)
 * Can teleport between shadows.
 * Can hide in your shadow.

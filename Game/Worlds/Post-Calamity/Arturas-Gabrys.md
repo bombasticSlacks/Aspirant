@@ -9,3 +9,6 @@ grand_parent: Worlds
 drifter / blade for hire. Was originally a member of a now extinct group of monster hunters who specialized in using tools of man / ingenuity to defeat aberrations. After tragedy, lives in exile, drifting from town to town. 
 
 Arturas was 11-14 when the [Monster-Hunters](Monster-Hunters) collapsed.
+
+## Mortimer
+Has a [Shadow-Wing](Game/Blocks/Shadow-Wing) which he uses for scouting.
