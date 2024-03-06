@@ -6,9 +6,9 @@ Elite
 
 | Initiative | Move                            | Threat | Integrity | Weakness | Resistance                                                                                                                       |     |
 | ---------- | ------------------------------- | ------ | --------- | -------- | -------------------------------------------------------------------------------------------------------------------------------- | --- |
-| 4          | [Close](../Core/Movement#Close) | 4      | Varies    |          | [Cold](../Core/Injury#Cold), [Heat](../Core/Injury#Heat), [Rending](../Core/Injury#Rending), [Piercing](../Core/Injury#Piercing) |     |
+| 4          | [Close](../Core/Movement#Close) | 3      | Varies    |          | [Cold](../Core/Injury#Cold), [Heat](../Core/Injury#Heat), [Rending](../Core/Injury#Rending), [Piercing](../Core/Injury#Piercing) |     |
 
-* [Attack(4, Rending, 3)](../Game/Core/Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
+* [Attack(6, Rending, 3)](../Game/Core/Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
 * [Avoid(3)](../Game/Core/Character-Actions#Avoid(X))
 * Teleports somewhere else possibly telefragging (3 damage).
 * Call Implings.

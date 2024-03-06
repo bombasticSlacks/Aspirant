@@ -48,6 +48,7 @@ Basic - At the beginning of any encounter, you may make one neutral or hostile [
 Advanced - You may spend a power to have your mount appear beside you, it is assumed it has been following without drawing attention for a while.
 
 ### Goods
+
 | Name        | Cost |
 | ----------- | ---- |
 | Pheonix     | 60   |

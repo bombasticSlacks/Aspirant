@@ -79,3 +79,11 @@ Typical holy warrior, would be capable of some [Miracles and Prayers](The-Holy-O
 Located at [Calphion](Calphion), an influential (second in command) at the church there.
 
 ## Caius
+
+
+## Family
+
+### Cellia Aurelius
+Terse to the point woman. Respect but thinks husband is silly. Likes [Simple-Joe](Game/Worlds/Post-Calamity/Simple-Joe). Believes adventuring is a passing fancy.
+
+

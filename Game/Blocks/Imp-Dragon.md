@@ -7,8 +7,9 @@ Boss
 | ---------- | ------------------------------- | ------ | --------- | -------- | -------------------------------------------------------------------------------------------------------------------------------- | --- |
 | 4, 5       | [Close](../Core/Movement#Close) | 4      | Varies    |          | [Cold](../Core/Injury#Cold), [Heat](../Core/Injury#Heat), [Rending](../Core/Injury#Rending), [Piercing](../Core/Injury#Piercing) |     |
 
-* [Attack(4, Rending, 3)](../Game/Core/Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
+* [Attack(+7, Rending, 3)](../Game/Core/Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
 * [Avoid(3)](../Game/Core/Character-Actions#Avoid(X))
+* Endure(3)
 * Teleports somewhere else possibly telefragging.
 * Wings knock people over.
 * Cone of hellfire breath.
