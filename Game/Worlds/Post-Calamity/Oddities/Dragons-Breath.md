@@ -14,4 +14,5 @@ Enchantment
 | [Range](Core/Weapons#Range)                         | [Close](Game/Core/Movement#Close)         |
 | [Threat](Core/Weapons#Threat)                       | 0                                         |
 | [Weapon Traits](Core/Weapon-Traits)                 | area, handless, powered, mind over matter |
+
 #TODOMigration
