@@ -8,6 +8,8 @@ grand_parent: Worlds
 # Greg Colter
 born in the township [Alexander-Aurelius](Alexander-Aurelius) is from. Humble beginning, stable hands' son. Takes care of the horses, riding partner as well. Infatuated with his aspirations and ideas. Believes in the dream. 
 
+Has black with red trim dragons wings from imbibing the [The Dragon's Heart](Game/Worlds/Post-Calamity/Causdin#The%20Dragon's%20Heart).
+
 # Jashmuda
 The manticore cub Greg rescued from the manticore matriarch
 
