@@ -105,7 +105,9 @@ This saddle can be used on any animal, including wild, at will and without needi
 
 
 ### The Dragon's Heart
-*A charged dragons heart pulsing with energy, it is said whoever devours it will gain the power of a dragon.*
+*A charged dragons heart pulsing with energy, it is said whoever devours it will gain the power of a dragon. Intrusted to the people of causdin by an ancient dragon of the north, it's dying wish was that its worshipers would continue to protect it's heart.*
+
+Used in the ascention ceremony to become a member of the "dragons cabal".
 
 When someone imbibes the dragons heart they gain one of the following enchantments:
 ![Dragons-Wings](Game/Worlds/Post-Calamity/Oddities/Dragons-Wings)
