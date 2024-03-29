@@ -7,7 +7,7 @@ grand_parent: Worlds
 ---
 # Session 10
 
-## Fall 8th -
+## Fall 8th - 23rd
 * Travelling through to Belltower (till the 13th)
 	* Mal: Drive, Socialize
 	* Rei: Drive, Scout
