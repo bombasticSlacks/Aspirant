@@ -50,9 +50,6 @@ When being paid for [Day Work](Activities#Day%20Work), you receive 1 additional 
 ### Networking
 When you perform [Day Work](Activities#Day%20Work) you can ask the GM one question about the city you are in.
 
-### Routine Maintenance
-As a [Travel Activity](Activities#Travel%20Activity) you may repair 2 points of armour integrity to each ally's armour. Each ally's weapon has +1 [Damage Bonus](Core/Weapons#Damage%20Bonus) until the next [Travel Segment](Telling-The-Story#Travel%20Segment).
-
 ### Suburbanite
 You receive a +1 to all skill tests related to surviving and navigating urban areas.
 ### Tool Master
@@ -98,6 +95,9 @@ Any people you hire at a day rate, [Costs Of Services](Services#Costs%20Of%20Ser
 
 ### Prep Cook
 You can as [Production Work](Activities#Production%20Work) create a meal to share. preparing this meal costs 1 silver per person who will share as well as some sort of [Comestible](Core/Comestibles). This meal will have a size of 2 and when shared everyone gains the benefit of the [Comestible](Core/Comestibles) that was included.
+
+### Field Maintenance
+As a [Travel Activity](Activities#Travel%20Activity) you may repair 2 points of armour integrity to each ally's armour. Each ally's weapon has +1 [Damage Bonus](Core/Weapons#Damage%20Bonus) until the next [Travel Segment](Telling-The-Story#Travel%20Segment).
 
 ### Transhumanist
 #TODOtranshumanism

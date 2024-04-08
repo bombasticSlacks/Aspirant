@@ -28,6 +28,10 @@ Verdantholm is home to a large, powerful network of thieves, black market dealer
 
 The Exchange has many meeting sites across the city, where people can buy or sell illicit goods, or simple gathering places for ne'er-do-wells, often popping up out of nowhere and vanishing on the morrow, while the location of the headquarters is a closely guarded secret, presumed to be either somewhere underground or in one of the many inconspicuous buildings one can find in the harbor or downtown core.
 
+## Mages Guild
+College style.
+
+
 ## Relics
 
 ## Troops
