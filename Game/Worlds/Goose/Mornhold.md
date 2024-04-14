@@ -11,6 +11,7 @@ has_children: false
 
 City with some intrigue. Capital of Bells Edge.
 ## Lore
+Mechatronics and dolls / toys are made here.
 
 ### Rumors
 
@@ -20,11 +21,13 @@ City with some intrigue. Capital of Bells Edge.
 ### Problems
 
 ## Services
-Mageknights guild
+### Mageknights guild
 
 Other mages are a seperate org that focuses on the other side of the war effort. Support magic / Ritualism. Magic Warriors. 
 
-Mechatronics and dolls / toys are made here.
+Using living Silver for weapons, an elemental of metal.
+
+
 
 ### Mad Alchemy
 #### Something Like That.

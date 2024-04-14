@@ -7,7 +7,7 @@ grand_parent: Worlds
 ---
 # Session 11
 
-## Year 1332 Fall 23rd -
+## Year 1332 Fall 23rd - 28th
 * Made a hand that can detect cultists need to channel magic into it.
 * More cultists to the South East.
 * The cultists were trying to summon something.
