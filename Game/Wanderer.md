@@ -108,7 +108,7 @@ If you have someone detained for any meaningful amount of time, they can hide no
 
 ### Kryptonite
 
-If you succeed on a [Memory](Core/Intelligence#Memory) skill test to know about an enemy animal or monster, you also know about how to defeat them. Your [Allies](Core/Terminology#Ally) gain a (+1) to all combat [Actions](Core/Terminology#Action) targeting the enemy.
+If you succeed on a [Understanding](Core/intelligence#Understanding) skill test to know about an enemy animal or monster, you also know about how to defeat them. Your [Allies](Core/Terminology#Ally) gain a (+1) to all combat [Actions](Core/Terminology#Action) targeting the enemy.
 
 ### Live off the Land
 

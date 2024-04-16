@@ -5,4 +5,4 @@ Academic
 Basic
 {: .label .label-purple }
 ### Parabolic Targeting
-You can make ranged attack skill tests using the [Application](Game/Core/Intelligence#Application) skill.
+You may use [Application](Game/Core/Intelligence#Application) to [Attack](Game/Core/Terminology#Attack) with weapons with [Targeted](Game/Core/Blocks/Targeted).

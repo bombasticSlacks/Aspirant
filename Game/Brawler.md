@@ -48,7 +48,7 @@ You can throw weapons and objects designed to be thrown twice the normal range. 
 
 ### Terrify
 
-After a [Successful Attack](Core/Terminology#Successful%20Attack) [In Melee](Core/Effects#In%20Melee), you can spend a [Reaction](Core/Terminology#Reaction) to intimidate an enemy with a [Mannerism](Core/Communication#Mannerism) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Identity](Core/Spirit#Identity)). If you succeed, they surrender; otherwise, they take a -2 to all actions until your next turn.
+After a [Successful Attack](Core/Terminology#Successful%20Attack) [In Melee](Core/Effects#In%20Melee), you can spend a [Reaction](Core/Terminology#Reaction) to intimidate an enemy with a [Confidence](Game/Core/Communication#Confidence) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Identity](Core/Spirit#Identity)). If you succeed, they surrender; otherwise, they take a -2 to all actions until your next turn.
 
 Some enemies are not intelligent enough or just refuse to surrender under any circumstances.
 
