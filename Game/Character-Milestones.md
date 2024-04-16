@@ -15,7 +15,7 @@ The rewards are as follows:
 ## Basic Milestones
 
 ### Harmful
-Your [Damage Bonus](Core/Weapons#Damage%20Bonus) is +1 with all attacks.
+You have a (+1) to [Extra Damage](Game/Core/Attacks#Extra%20Damage) [Attacks](Game/Core/Terminology#Attack).
 
 ### Inspired
 You have 1 additional [Max Influence](Additional-Attributes#Influence), you also gain 1 [Influence](Additional-Attributes#Influence) right now.

@@ -6,4 +6,4 @@
 {: .label .label-yellow }
 
 ### Hand and a Half
-If this weapon is otherwise usable in one hand, the weapon counts as 1 size larger while wielded in two hands.
+If this weapon is otherwise usable in one hand, the weapon deals 1 additional [Damage](Game/Core/Weapons#Damage) while wielded in 2 hands.

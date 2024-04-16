@@ -6,4 +6,4 @@
 {: .label .label-yellow }
 
 ### Multiple Damage Types
-This weapon has an additional combat profile with the default traits and a different [Types of Damage](Game/Core/Injury#Types%20of%20Damage). When you attack, select one of the two types. 
+This weapon has two options for [Damage Type](Game/Core/Weapons#Damage%20Type).

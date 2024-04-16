@@ -7,9 +7,8 @@
 
 ### Bow
 *This weapon fires arrows.* 
-* Loses the [Mass](Game/Core/Blocks/Mass) trait.
-* You can add [Strength](Game/Core/Strength) to damage *only* up to a maximum of the size of the weapon. 
 * [Loading](Game/Core/Blocks/Loading)(0).
 * Range of [Short](Game/Core/Movement#Short).
 * [Capacity](Game/Core/Blocks/Capacity) 1([Ammunition](Game/Example-Gear#Ammunition)).
 * Gains [Salvageable](Game/Core/Blocks/Salvageable).
+* Loses [Striking](Game/Core/Blocks/Striking) and gains [Targeted](Game/Core/Blocks/Targeted).

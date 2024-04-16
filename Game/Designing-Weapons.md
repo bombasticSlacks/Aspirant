@@ -13,7 +13,7 @@ To build a weapon:
 - Choose a [Size](#Size).
 - Select a [Damage Type](#Damage%20Type).
 - Spend any [Crafting Points](#Crafting%20Points).
-- Do [Calculating Damage Bonus](#Calculating%20Damage%20Bonus).
+- [Calculate Damage](#Calculate%20Damage)
 
 ## Quality
 Weapons come in a variety of qualities based on the skill required to craft.
@@ -60,19 +60,41 @@ Generally, weapons material isn’t particularly important. Cheap materials will
 
 One benefit to exotic materials, however, is their potential for harming monsters. A sword made of silver might be known to harm werewolves, a spear made from elven wood is effective against wraiths, etc. In some exceptional cases, a material may provide a trait for free, increase damage bonus, or provide some skill bonus. 
 
-## Default Traits
-By default, all weapons have:
-* [Mass](Game/Core/Blocks/Mass)
-* [Size-Matters](Game/Blocks/Size-Matters)
-
 ## Crafting Points
 Can be spent to add either [Weapon-Traits](Game/Core/Weapon-Traits) or [Weapon-Templates](Game/Weapon-Templates) to your weapons. Traits must be negotiated with the [Game Master](Game/Core/Terminology#Game%20Master), but [Weapon-Templates](Game/Weapon-Templates) are designed to be added to weapons directly.
 
-## Calculating Damage Bonus
-A weapon's damage bonus is equal to:
-$traits + quality$
+## Calculate Damage
+The choices made while building a weapon will give it damage bonus. Including templates.
 
-> A [Size](Core/Weapons#Size) 3 [Artisan](#Artisan) weapon, with the [Lethal](Core/Weapon-Traits#Lethal) [Weapon Trait](Core/Weapon-Traits) would have a damage bonus of 8, 6 from [Size Matters](Core/Weapon-Traits#Size%20Matters), 1 from [Artisan](#Artisan), 1 from [Lethal](Core/Weapon-Traits#Lethal).
+Weapons by default count their [Size](#Size) and [Weapon-Templates](Game/Weapon-Templates).
+
+This damage bonus can then be converted into a damage:
+
+| Damage Bonus | Damage | Extra Damage Penalty |
+| ------------ | ------ | -------------------- |
+| 1            | 1      | (-2)                 |
+| 2            | 1      | (-1)                 |
+| 3            | 2      | (-2)                 |
+| 4            | 2      | (-1)                 |
+| 5            | 3      | (-2)                 |
+| 6            | 3      | (-1)                 |
+| 7            | 4      | (-2)                 |
+| 8            | 4      | (-1)                 |
+| 9            | 5      | (-2)                 |
+| 10           | 5      | (-1)                 |
+| 11           | 6      | (-2)                 |
+| 12           | 6      | (-1)                 |
+| 13           | 7      | (-2)                 |
+| 14           | 7      | (-1)                 |
+| 15           | 8      | (-2)                 |
+| 16           | 8      | (-1)                 |
+| 17           | 9      | (-2)                 |
+| 18           | 9      | (-1)                 |
+| 19           | 10     | (-2)                 |
+| 20           | 10     | (-1)                 |
+
+
+> A [Size](#Size) 3 [Artisan](#Artisan) weapon, with the [Lethal](Game/Blocks/Lethal) [Weapon-Templates](Game/Weapon-Templates) would have a damage bonus of 8, 6 from [Size Matters](Core/Weapon-Traits#Size%20Matters), 1 from [Artisan](#Artisan), 1 from [Lethal](Core/Weapon-Traits#Lethal). This means it does 4 damage with an [Extra Damage](Game/Core/Attacks#Extra%20Damage) penalty of (-1).
 
 ## Crafting
 A character looking to craft a specific weapon first requires the size + 1 worth of materials and [Craftsman](Craftsman) training saying they are able to make what they want. 

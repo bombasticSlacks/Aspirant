@@ -12,4 +12,4 @@
 * Size 1-2 range of [Close](Game/Core/Movement#Close).
 * Size 3+ range of [Short](Game/Core/Movement#Short).
 * The result of attacks with this weapon are equivalent to what it is loaded with.
-* If the loaded [Throwables](Game/Core/Gear#Throwables) has the [Mass](Game/Core/Blocks/Mass) trait, it also has the [Size-Matters](Game/Blocks/Size-Matters) trait.
+* Loses [Striking](Game/Core/Blocks/Striking) and gains [Targeted](Game/Core/Blocks/Targeted).

@@ -6,4 +6,4 @@
 {: .label .label-yellow }
 
 ### Folding
-This weapon counts as two separate sizes. When stored, it is considered the smaller size. As an action, you may change which size it counts as, or at the end of any attack action you can change the size. Aside from folding the weapon can spend a seperate [Crafting Points](Game/Designing-Weapons#Crafting%20Points) in each form.
+* This weapon works as two seperate weapons. Design two seperate weapons each with[Crafting Points](Game/Designing-Weapons#Crafting%20Points) equal to 1 less than the overall weapon has. at the end of an [Attack](Game/Core/Terminology#Attack), or as an [Action](Game/Core/Terminology#Action) you can change forms. It counts as the size of the smaller weapon.
