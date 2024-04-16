@@ -7,5 +7,5 @@
 ### Fortified
 *Your armour has been affixed with additional plates and bands of metal strengthening it and creating new layers of protection.*
 * Requires [Metal](Game/Metal).
-* [Armour Integrity](Game/Core/Armour#Armour%20Integrity) +1.
+* [Armour Integrity](Game/Core/Armour#Armour%20Integrity) +2.
 * [Skill Penalty](Game/Core/Armour#Skill%20Penalty) -1.

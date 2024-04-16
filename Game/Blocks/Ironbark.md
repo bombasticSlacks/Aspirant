@@ -7,4 +7,4 @@
 ### Ironbark
 *The wood your armour is made of has extraordinary properties, giving it steel like strength.*
 * Requires [Wood](Game/Wood).
-* [Armour Integrity](Game/Core/Armour#Armour%20Integrity) +1. 
+* [Armour Integrity](Game/Core/Armour#Armour%20Integrity) +2. 

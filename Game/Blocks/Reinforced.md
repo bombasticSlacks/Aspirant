@@ -7,4 +7,4 @@
 ### Reinforced
 *Your armour utilizes additional banded plates, rivets, latches, or planks to reinforce the existing structural integrity of your armour.* 
 * Requires [Metal](Game/Metal), or [Wood](Game/Wood).
-* [Armour Integrity](Game/Core/Armour#Armour%20Integrity) is at least 2.
+* [Armour Integrity](Game/Core/Armour#Armour%20Integrity) is at least 4.

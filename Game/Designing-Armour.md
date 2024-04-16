@@ -50,18 +50,20 @@ This is a list of the base values an armour with each primary material will have
 
 | Material  | Skill Penalty | Integrity | Weakness | Resistance |
 | --------- | ------------- | --------- | -------- | ---------- |
-| Textile   | 0             | 1         | Heat     | -          |
-| Leather   | 0             | 1         | Life     | -          |
-| Wood      | (-1)          | 2         | Heat     | -          |
-| Metal     | (-1)          | 2         | Cold     | -          |
-| Machinery | (-1)          | 1         | Impact   | -          |
+| Textile   | 0             | 2         | Heat     | -          |
+| Leather   | 0             | 2         | Life     | -          |
+| Wood      | (-1)          | 3         | Heat     | -          |
+| Metal     | (-1)          | 4         | Cold     | -          |
+| Machinery | (-1)          | 2         | Impact   | -          |
 
 If a piece of armour would gain a resistance or weakness complementary to an existing Resistance or Weakness on the armour through [Armour-Templates](Armour-Templates), the two cancel out, resulting in no effect. If a piece of armour would gain a resistance or weakness it already has through [Armour-Templates](Armour-Templates), there is no effect. 
 
 ### Multiple Materials
  When multiple materials are used, one is treated as the primary material and the other as the secondary material. The armour's base attributes (Weakness, Resistance, Structure, and Max Skill) are determined by the primary material, while the secondary material represents the increase in complexity and robustness of higher quality gear.
+ 
 ### Crafting Points
  Can be spent to add either [Armour-Traits](Game/Core/Armour-Traits), or [Armour-Templates](Game/Armour-Templates) to your armour. Traits must be negotiated with the [Game Master](Game/Core/Terminology#Game%20Master), but [Armour-Templates](Game/Armour-Templates) are designed to be added to armour directly.
+ 
 ## Crafting
 A character looking to craft a specific armour requires relevant training as a [Craftsman](Craftsman), requires 2 size worth of the primary material, and 1 size worth of secondary material where applicable. Other bits, unless narratively relevant, are a negligible portion of the cost. Then, the character, as [Production Work](Activities#Production%20Work), may spend a day crafting. If they succeed on the [Application](Core/Intelligence#Application) test, the item is created successfully. If not, they must try again in the future; however, materials are not lost, just time. 
 

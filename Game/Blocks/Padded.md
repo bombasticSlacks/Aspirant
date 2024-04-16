@@ -9,4 +9,4 @@
 * Requires [Textiles](Game/Textiles).
 * [Resistance](Game/Core/Armour#Weakness%20and%20Resistance) [Impact](Game/Core/Injury#Impact).
 * [Skill Penalty](Game/Core/Armour#Skill%20Penalty) -1.
-* [Armour Integrity](Game/Core/Armour#Armour%20Integrity) +1. 
+* [Armour Integrity](Game/Core/Armour#Armour%20Integrity) +2. 
