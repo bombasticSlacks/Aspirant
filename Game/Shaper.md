@@ -40,7 +40,7 @@ You can set magical abilities you are focussed on to trigger in response to some
 
 ### Mage Assassin
 
-When you perform a magical effect you can roll [Coordination](Core/Agility#Coordination) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Insight](Core/Intelligence#Insight)) to make it seem like no magic took place.
+When you perform a magical effect you can roll [Coordination](Core/Agility#Coordination) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Understanding](Core/Intelligence#Understanding)) to make it seem like no magic took place.
 
 ### Mage Hand
 
@@ -48,7 +48,7 @@ You can levitate things up to your [Spirit](Core/Spirit) in size and [Close](Cor
 
 ### Shadow Illusionist
 
-As long as you have a focus, you can perform [Will](Core/Spirit#Will) tests to sneak, move silently, hide and do other duplicitous acts.
+As long as you have a focus, you can perform [Ascendancy](Core/Spirit#Ascendancy) tests to sneak, move silently, hide and do other duplicitous acts.
 
 ### Silent Channelling
 
@@ -89,7 +89,7 @@ Requires 2 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Example-Gear#F
 ### Kinetic Monk
 
 _[Requirement](Core/Terminology#Requirement): [Black Belt](Brawler#Black%20Belt)_
-While holding nothing but a [Focus](Example-Gear#Focus) you can [Substitute](Core/Terminology#Substitute) [Will](Core/Spirit#Will) for [Strike](Core/Strength#Strike). While doing this, your [Unarmed Attack](Core/Terminology#Unarmed%20Attack) has a [Damage Bonus](Core/Weapons#Damage%20Bonus) of $2 \times Spirit$ and a range of [Close](Core/Movement#Close).
+While holding nothing but a [Focus](Example-Gear#Focus) you can [Substitute](Core/Terminology#Substitute) [Ascendancy](Core/Spirit#Ascendancy) for [Physique](Core/Strength#Physique). While doing this, your [Unarmed Attack](Core/Terminology#Unarmed%20Attack) has a [Damage Bonus](Core/Weapons#Damage%20Bonus) of $2 \times Spirit$ and a range of [Close](Core/Movement#Close).
 
 ### Powerful Mind
 

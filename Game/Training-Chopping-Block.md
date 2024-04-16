@@ -131,7 +131,7 @@ You may keep someone's attention and interest, even in a topic you know nothing 
 
 ### Resilient
 
-Your character may add their [Athletics](Core/Strength#Athletics) skill to rolls for immediate effects of injuries, resist death from critical injuries to the chest, and to not collapse from being wounded.
+Your character may add their [Physique](Core/Strength#Physique) skill to rolls for immediate effects of injuries, resist death from critical injuries to the chest, and to not collapse from being wounded.
 
 ---
 

@@ -72,7 +72,7 @@ Tamed animals you own that are not horses may be fit with saddlebags.
 
 ### Pin And Restrain
 
-While you are successfully grappling someone on your turn, you may as an action attempt to more permanently restrain them with [Manacles](Example-Gear#Manacles) or an equivalent item. This is an [Athletics](Core/Strength#Athletics) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Athletics](Core/Strength#Athletics)).
+While you are successfully grappling someone on your turn, you may as an action attempt to more permanently restrain them with [Manacles](Example-Gear#Manacles) or an equivalent item. This is an [Physique](Core/Strength#Physique) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Physique](Core/Strength#Physique)).
 
 ### Promissory Note
 

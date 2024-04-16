@@ -47,7 +47,7 @@ Basic Training, [Flora](../../Flora) that you use count as one quality higher.
 #### Root Singing
 
 _The world speaks to you, and you speak for it._
-Advanced Training, you may spend a [Power](../../Game/Core/Blocks/Power), if you do make a [Attunement](../../Core/Spirit#Attunement) skill test to control plants.
+Advanced Training, you may spend a [Power](../../Game/Core/Blocks/Power), if you do make a [Ascendancy](../../Core/Spirit#Ascendancy) skill test to control plants.
 
 ## People
 

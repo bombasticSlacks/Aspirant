@@ -48,7 +48,7 @@ You can throw weapons and objects designed to be thrown twice the normal range. 
 
 ### Terrify
 
-After a [Successful Attack](Core/Terminology#Successful%20Attack) [In Melee](Core/Effects#In%20Melee), you can spend a [Reaction](Core/Terminology#Reaction) to intimidate an enemy with a [Confidence](Game/Core/Communication#Confidence) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Identity](Core/Spirit#Identity)). If you succeed, they surrender; otherwise, they take a -2 to all actions until your next turn.
+After a [Successful Attack](Core/Terminology#Successful%20Attack) [In Melee](Core/Effects#In%20Melee), you can spend a [Reaction](Core/Terminology#Reaction) to intimidate an enemy with a [Confidence](Game/Core/Communication#Confidence) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Volition](Core/Spirit#Volition)). If you succeed, they surrender; otherwise, they take a -2 to all actions until your next turn.
 
 Some enemies are not intelligent enough or just refuse to surrender under any circumstances.
 
@@ -70,9 +70,9 @@ If you cause a [wounding attack](Core/Terminology#Wounding%20Attack), on a [Char
 
 ### Clothesline
 
-If an [Opponent](Core/Terminology#Opponent) moves within [Reach](Core/Movement#Reach) of you, you may spend a [Reaction](Core/Terminology#Reaction) to make a [Strike](Core/Strength#Strike) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Strike](Core/Strength#Strike)+2), that if successful causes their attack to fail and knocks them prone.
+If an [Opponent](Core/Terminology#Opponent) moves within [Reach](Core/Movement#Reach) of you, you may spend a [Reaction](Core/Terminology#Reaction) to make a [Physique](Core/Strength#Physique) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Physique](Core/Strength#Physique)+2), that if successful causes their attack to fail and knocks them prone.
 
-> So the skill test would be at a (-4) penalty against someone with 2 ranks in [Strike](Core/Strength#Strike)
+> So the skill test would be at a (-4) penalty against someone with 2 ranks in [Physique](Core/Strength#Physique)
 
 ### Dragon Rush
 
@@ -84,7 +84,7 @@ You may [Parry](Core/Special-Combat-Actions#Parry) with a [Mannerism](Core/Commu
 
 ### Enrage
 
-When you make a [Strike](Core/Strength#Strike) skill test, spend a [Power](Game/Core/Blocks/Power) to become enraged. While enraged, you have:
+When you make a [Physique](Core/Strength#Physique) skill test, spend a [Power](Game/Core/Blocks/Power) to become enraged. While enraged, you have:
 
 - +1 [Strength](Core/Strength)
 - -1 [Intelligence](Core/Intelligence)

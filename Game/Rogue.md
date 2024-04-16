@@ -78,7 +78,7 @@ Your [Thrown Attack](Core/Terminology#Thrown%20Attack) count as having a range o
 
 ### Pin Down
 
-After performing a [Ranged Attack](Core/Terminology#Ranged%20Attack), the target must pass a [Identity](Core/Spirit#Identity) [Fixed Difficulty(+0)](Core/Skills#Fixed%20Difficulty) or be unable to move until your next [Combat Turn](Core/Terminology#Combat%20Turn).
+After performing a [Ranged Attack](Core/Terminology#Ranged%20Attack), the target must pass a [Volition](Core/Spirit#Volition) [Fixed Difficulty(+0)](Core/Skills#Fixed%20Difficulty) or be unable to move until your next [Combat Turn](Core/Terminology#Combat%20Turn).
 
 ### Poisoner
 
@@ -94,7 +94,7 @@ You get an additional 4 size worth of [Belt](Storage#Belt) space.
 
 ### Assassination
 
-While not in combat, you can make a [Coordination](Core/Agility#Coordination) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Insight](Core/Intelligence#Insight)) test against a [Character](Core/Terminology#Character) that is unaware of you, if you succeed, they either receive a [Lethal Injury](Core/Injury#Lethal%20Injury) to the torso, or become [Defeated](Core/Effects#Defeated).
+While not in combat, you can make a [Coordination](Core/Agility#Coordination) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Understanding](Core/Intelligence#Understanding)) test against a [Character](Core/Terminology#Character) that is unaware of you, if you succeed, they either receive a [Lethal Injury](Core/Injury#Lethal%20Injury) to the torso, or become [Defeated](Core/Effects#Defeated).
 
 ### Cold Steel
 

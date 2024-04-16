@@ -72,7 +72,7 @@ You receive a (+1) to all [Actions](Core/Terminology#Action) involving weapons.
 
 ### Head On A Swivel
 
-You may [Substitute](Core/Terminology#Substitute) [Insight](Core/Intelligence#Insight) for [Reflexes](Core/Agility#Reflexes) when calculating [Initiative Value](Core/Combat#Initiative%20Value).
+You may [Substitute](Core/Terminology#Substitute) [Understanding](Core/Intelligence#Understanding) for [Reflexes](Core/Agility#Reflexes) when calculating [Initiative Value](Core/Combat#Initiative%20Value).
 
 ---
 

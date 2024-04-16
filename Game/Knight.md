@@ -27,7 +27,7 @@ If an enemy is on the ground, and you make a [Melee Attack](Core/Terminology#Mel
 
 ### Blocking
 
-When someone performs an [Attack](Core/Terminology#Attack) where you are the [Opponent](Core/Terminology#Opponent), if you are [In Melee](Core/Effects#In%20Melee) you may [Substitute](Core/Terminology#Substitute) your [Strike](Core/Strength#Strike) for [Reflexes](Core/Agility#Reflexes).
+When someone performs an [Attack](Core/Terminology#Attack) where you are the [Opponent](Core/Terminology#Opponent), if you are [In Melee](Core/Effects#In%20Melee) you may [Substitute](Core/Terminology#Substitute) your [Physique](Core/Strength#Physique) for [Reflexes](Core/Agility#Reflexes).
 
 ### Fight Defensively
 
@@ -109,7 +109,7 @@ Your [Mounted Expert](#Mounted%20Expert) training applies to exotic forms of tra
 
 ### Sweep
 
-As a [Melee Attack](Core/Terminology#Melee%20Attack), you may make a [Strike](Core/Strength#Strike) [[Core/Skills#Fixed Difficulty]](0). If this is a [Non-mitigated Attack](Core/Terminology#Non-mitigated%20Attack), all [Opponents](Core/Terminology#Opponent) within [Reach](Core/Movement#Reach) of you are knocked [Prone](Core/Effects#Prone), they don't suffer [Injury](Core/Injury).
+As a [Melee Attack](Core/Terminology#Melee%20Attack), you may make a [Physique](Core/Strength#Physique) [[Core/Skills#Fixed Difficulty]](0). If this is a [Non-mitigated Attack](Core/Terminology#Non-mitigated%20Attack), all [Opponents](Core/Terminology#Opponent) within [Reach](Core/Movement#Reach) of you are knocked [Prone](Core/Effects#Prone), they don't suffer [Injury](Core/Injury).
 
 ### Trampler
 

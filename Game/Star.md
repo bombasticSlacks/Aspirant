@@ -56,7 +56,7 @@ You can control an additional 2 [Followers](Core/Terminology#Follower).
 
 ### Inspiring Strike
 
-After a successful [Strike](Core/Strength#Strike), all your allies receive a +1 to all attack rolls until your next [Combat Turn](Core/Terminology#Combat%20Turn).
+After a successful [Physique](Core/Strength#Physique), all your allies receive a +1 to all attack rolls until your next [Combat Turn](Core/Terminology#Combat%20Turn).
 
 ### Lookout Sir
 
@@ -142,4 +142,4 @@ Spend 1 [Power](Game/Core/Blocks/Power), instead of the normal skill for any [Ac
 
 ### Unending Fury
 
-You and your [Allies](Core/Terminology#Ally) get a (+2) to [Identity](Core/Spirit#Identity) and [Endurance](Core/Strength#Endurance) skill tests.
+You and your [Allies](Core/Terminology#Ally) get a (+2) to [Volition](Core/Spirit#Volition) and [Endurance](Core/Strength#Endurance) skill tests.

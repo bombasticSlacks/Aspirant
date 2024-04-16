@@ -5,4 +5,4 @@ Academic
 Basic
 {: .label .label-purple }
 ### Parabolic Targeting
-You may use [Application](Game/Core/Intelligence#Application) to [Attack](Game/Core/Terminology#Attack) with weapons with [Targeted](Game/Core/Blocks/Targeted).
+* You can [Substitute](Game/Core/Terminology#Substitute) [Application](Game/Core/Intelligence#Application) for [Coordination](Game/Core/Agility#Coordination) when [Attacking](Game/Core/Terminology#Attack) with a weapon with the [Targeted](Game/Core/Blocks/Targeted) trait.

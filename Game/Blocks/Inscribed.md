@@ -1,4 +1,3 @@
-
 [Weapon-Templates](Game/Weapon-Templates)
 {: .label .label-purple }
 
@@ -6,4 +5,5 @@
 {: .label .label-yellow }
 
 ### Inscribed
-This weapon counts as a Focus for [Will](Game/Core/Spirit#Will) skill tests. 
+
+This weapon counts as a Focus for [Ascendancy](Game/Core/Spirit#Ascendancy) skill tests.
