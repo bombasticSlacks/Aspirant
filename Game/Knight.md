@@ -79,7 +79,7 @@ You cannot be forced to move or knocked over.
 
 ### Bash
 
-When you [Avoid](Core/Reacting#Avoid) attacks from opponents [In Melee](Core/Effects#In%20Melee), if you succeed, the opponent must pass a [Grace](Core/Agility#Grace) [Opposed Difficulty(strike)](Core/Skills#Opposed%20Difficulty) or be knocked prone.
+When you [Avoid](Core/Reacting#Avoid) attacks from opponents [In Melee](Core/Effects#In%20Melee), if you succeed, the opponent must pass a [Coordination](Core/Agility#Coordination) [Opposed Difficulty(strike)](Core/Skills#Opposed%20Difficulty) or be knocked prone.
 
 ### Battle Mount
 

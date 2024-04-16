@@ -102,7 +102,7 @@ During your [Combat Turn](Core/Terminology#Combat%20Turn) you may spend 2 [Power
 
 While armed with only a one-handed [Weapon](Core/Weapons), you can Dance Of Death.
 
-Dance Of Death - On your [Combat Turn](Core/Terminology#Combat%20Turn), as a [Free Action](Core/Terminology#Free%20Action), you may declare you are using dance of death and every [Opponent](Core/Terminology#Opponent) [In Melee](Core/Effects#In%20Melee) with you must make a [Grace](Core/Agility#Grace) [Fixed Difficulty(0)](Core/Skills#Fixed%20Difficulty).
+Dance Of Death - On your [Combat Turn](Core/Terminology#Combat%20Turn), as a [Free Action](Core/Terminology#Free%20Action), you may declare you are using dance of death and every [Opponent](Core/Terminology#Opponent) [In Melee](Core/Effects#In%20Melee) with you must make a [Coordination](Core/Agility#Coordination) [Fixed Difficulty(0)](Core/Skills#Fixed%20Difficulty).
 
 - If they succeed, whenever you move any distance they must choose to either move with you or take an immediate [Severe Injury](Core/Injury#Severe%20Injury) to the legs.
 - If they fail, they suffer a [Severe Injury](Core/Injury#Severe%20Injury) to the legs.

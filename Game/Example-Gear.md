@@ -202,7 +202,7 @@ Size 2
 *A collection of stamps, plates, glossy paper and inks required to forge official documents. 1 size of [Exotic](Materials#Exotic) material + [Charges](Core/Gear#Charges).*
 * Size 2.
 * Cost 25.
-* Creating a forgery is a [Accuracy](Core/Agility#Accuracy) [Fixed Difficulty](Core/Skills#Fixed%20Difficulty) skill test with a [Difficulty Value](Core/Terminology#Difficulty%20Value) assigned based on the complexity of the forgery. The cost in charges for the forgery is equal to 2 * the [Difficulty Value](Core/Terminology#Difficulty%20Value).
+* Creating a forgery is a [Application](Game/Core/Intelligence#Application) [Fixed Difficulty](Core/Skills#Fixed%20Difficulty) skill test with a [Difficulty Value](Core/Terminology#Difficulty%20Value) assigned based on the complexity of the forgery. The cost in charges for the forgery is equal to 2 * the [Difficulty Value](Core/Terminology#Difficulty%20Value).
 * [Charges](Core/Gear#Charges)(15).
 * [Charges](Core/Gear#Charges) cost 1 silver to replace.
 

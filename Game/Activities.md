@@ -101,7 +101,7 @@ _You tinker and work away in the evenings, maybe even while riding._
 
 _You organize watch for the team, taking extra shifts when necessary._
 
-- When the GM rolls to determine if an [Ambush Encounter](Telling-The-Story#Ambush%20Encounter) occurs, you may have your [Grace](Core/Agility#Grace) provide a penalty to the roll.
+- When the GM rolls to determine if an [Ambush Encounter](Telling-The-Story#Ambush%20Encounter) occurs, you may have your [Coordination](Core/Agility#Coordination) provide a penalty to the roll.
 - You receive a +3 on any [Insight](Core/Intelligence#Insight) tests during [Ambush Encounter](Telling-The-Story#Ambush%20Encounter).
 - You are not surprised if ambushed.
 - You regain 1 [Power](Game/Core/Blocks/Power)
@@ -120,7 +120,7 @@ _You hunt, forage, and provide for the group._
 
 _You travel ahead, and plan the journey._
 
-- When your GM rolls to see if you have a [Travel Encounter](Telling-The-Story#Travel%20Encounter) you may have your [Grace](Core/Agility#Grace) provide a penalty to the roll.
+- When your GM rolls to see if you have a [Travel Encounter](Telling-The-Story#Travel%20Encounter) you may have your [Coordination](Core/Agility#Coordination) provide a penalty to the roll.
 - The [GM](How-To-Play#GM) will describe any [Travel Encounter](Telling-The-Story#Travel%20Encounter) that occurs to you, before the [Scene](Core/Terminology#Scene) begins.
 - You also gain 1 [Influencing the Story](Telling-The-Story#Influencing%20the%20Story)
 

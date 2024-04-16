@@ -62,7 +62,7 @@ On your [Combat Turn](Core/Terminology#Combat%20Turn), you may make an [Attack](
 
 ### Light Step
 
-You never trigger traps by moving over them. You also receive a +1 to [Grace](Core/Agility#Grace) skill tests related to moving silently.
+You never trigger traps by moving over them. You also receive a +1 to [Coordination](Core/Agility#Coordination) skill tests related to moving silently.
 
 ### Long Shot
 
@@ -94,7 +94,7 @@ You get an additional 4 size worth of [Belt](Storage#Belt) space.
 
 ### Assassination
 
-While not in combat, you can make a [Grace](Core/Agility#Grace) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Insight](Core/Intelligence#Insight)) test against a [Character](Core/Terminology#Character) that is unaware of you, if you succeed, they either receive a [Lethal Injury](Core/Injury#Lethal%20Injury) to the torso, or become [Defeated](Core/Effects#Defeated).
+While not in combat, you can make a [Coordination](Core/Agility#Coordination) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Insight](Core/Intelligence#Insight)) test against a [Character](Core/Terminology#Character) that is unaware of you, if you succeed, they either receive a [Lethal Injury](Core/Injury#Lethal%20Injury) to the torso, or become [Defeated](Core/Effects#Defeated).
 
 ### Cold Steel
 
@@ -122,7 +122,7 @@ You can manoeuvre perfectly well in the dark or when your vision is otherwise im
 
 ### Shadow Combatant
 
-Your character's [Threat](Core/Weapons#Threat) is reduced by your ranks in [Grace](Core/Agility#Grace).
+Your character's [Threat](Core/Weapons#Threat) is reduced by your ranks in [Coordination](Core/Agility#Coordination).
 
 ### Vanish
 
@@ -146,4 +146,4 @@ You do not need an item or object to hide behind when attempting to hide.
 
 ### Master Thief
 
-In combat you can perform a [Grace](Core/Agility#Grace) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Reflexes](Core/Agility#Reflexes)) to immediately use a piece of [Equipment](Core/Equipment) stored on another character [In Melee](Core/Effects#In%20Melee). You still need to perform any additional skill checks to use the item.
+In combat you can perform a [Coordination](Core/Agility#Coordination) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Reflexes](Core/Agility#Reflexes)) to immediately use a piece of [Equipment](Core/Equipment) stored on another character [In Melee](Core/Effects#In%20Melee). You still need to perform any additional skill checks to use the item.

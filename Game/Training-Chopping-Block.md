@@ -62,7 +62,7 @@ As a free action once per round, you can exchange places with another character 
 
 ### Thievery
 
-As [Skilled Work](Activities#Skilled%20Work), you can pickpocket. Make a [Variable Difficulty](Core/Skills#Variable%20Difficulty) [Grace](Core/Agility#Grace) skill test, you receive settlement wealth - 1 silver per [Step Of Success](Core/Skills#Step%20Of%20Success). If you fail this skill test you may be in trouble with the law.
+As [Skilled Work](Activities#Skilled%20Work), you can pickpocket. Make a [Variable Difficulty](Core/Skills#Variable%20Difficulty) [Coordination](Core/Agility#Coordination) skill test, you receive settlement wealth - 1 silver per [Step Of Success](Core/Skills#Step%20Of%20Success). If you fail this skill test you may be in trouble with the law.
 
 ### Improvised Munitions
 
