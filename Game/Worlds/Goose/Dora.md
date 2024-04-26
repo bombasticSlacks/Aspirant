@@ -38,8 +38,8 @@ Undead ringleader stitched skin clothing, skeletal make-up, Master level Vitoman
 Elves, scarred ex military left clan after the last military skirmishes 20-30 years ago.
 
 # Military
-## Corporal Gezz
-The military man they've been traveling with.
+
+
 
 # Hooks
 * Frederique councillors in Dora, Murdered by the Red Sun cultists

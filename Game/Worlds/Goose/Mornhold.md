@@ -21,19 +21,23 @@ Mechatronics and dolls / toys are made here.
 ### Problems
 
 ## Services
-### Mageknights guild
+### Mageknights Guild
 
 Other mages are a seperate org that focuses on the other side of the war effort. Support magic / Ritualism. Magic Warriors. 
 
 Using living Silver for weapons, an elemental of metal.
 
+Are used by the Government to help in occult / magical affairs. Avoid all out war.
+
+
+
 
 
 ### Mad Alchemy
-#### Something Like That.
+#### Something Like That
 Spend a power instead of a reagent bag charge.
 
-#### It was supposed to do that.
+#### It Was Supposed to Do that
 When using a commestible, if you roll doubles, it happens twice.
 
 ### Mage Warriors
@@ -55,6 +59,28 @@ Goblin slightly larger than Bront, lab coat, steampunk goggles. Loves to blow st
 
 Has a dorm room converted into a goblin loft. 
 
+## Marcelle and Cantor
+A mage knight (Marcelle) and Shooter hunting the cult.
+
+## Aaron Spencer (He/Him)
+a soulless Prole, who wants to avoid conflict, and has a pet dog. They have bunned silver hair, brown eyes, are well dressed
+
+He works on plants at the [Mage Warriors](#Mage%20Warriors). Has picked the ancient coral before.
+
+## Corporal Gezz
+*a pointed words, who wants to fix problems no matter the cost. They have short cropped brown hair, blue eyes.*
+
+The military man who they helped to defeat the Cardinal. 
+
+## Dres Snider (She/Her) 
+a helpful Prole, who wants to fix problems no matter the cost, and is obsessed with someone famous. They have bald black hair, brown eyes, have dark skin. Has a slight homey accent.
+
+Dressed like a bloodborne hunter, shortsword and bow. 
+
+Knows of Darcellus. 
+
+
+
 ### Willy
 An eccentric old man with a hunch, patchy grey hair, bottlecap glasses and a rhaspy voice.
 
@@ -70,6 +96,16 @@ Massive wizards guild. Mageknights are housed here. Huge mural of a knight makin
 
 Mage Warriors waiting room is clerical has a large smokey mirror that is magic (answering machine). Nasaly, older woman with thick frames. 
 
+## The Hideaway
+Military Building HQ of the anit cult taskforce. Above a bar, called the pissing pot.
+
+The Southern Military is a collection of powerful warriors funded by taxes from all the south provinces. 
+
+Can ask about "Steel Sparrows" in any city to find allies.
+
+Have storage here in Mournhold.
+
+Can sleep here for free.
 
 
 ## Relics
