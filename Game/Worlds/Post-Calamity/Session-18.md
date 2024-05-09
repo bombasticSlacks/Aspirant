@@ -7,7 +7,7 @@ grand_parent: Worlds
 ---
 ## Session 18
 [Post-Calamity](Post-Calamity)
-## Ghost Town 16 Fall - 1173
+## Ghost Town 16 Fall - 17 1173
 * Arrive 16th, most buildings destroyed (the empire built with wood). Was looted in the past.
 * Found a church worshipping the [Sunsworn](Game/Worlds/Post-Calamity/The-Empire#Sunsworn), with a cellar.
 * Resolved there project on the declaration. The [Lunarmarred](Game/Worlds/Post-Calamity/The-Empire#Lunarmarred), declared war on the [Sunsworn](Game/Worlds/Post-Calamity/The-Empire#Sunsworn).

@@ -17,3 +17,7 @@ Vespin's name is cursed, those who speak it have ill memories of it, even if the
 
 
 Who cursed Vespins name?
+
+
+After leaving the Mages Guild he was exiled and he mentioned "going home for a bit".
+
