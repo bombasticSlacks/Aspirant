@@ -34,6 +34,8 @@ the carnival master of carnival of oddities, collection of adventuring missfits.
 # Rigger Mortis
 Undead ringleader stitched skin clothing, skeletal make-up, Master level Vitomancer
 
+Drag Queen persona, very flamboyant and over emphasized.
+
 ## Oz and Otto
 Elves, scarred ex military left clan after the last military skirmishes 20-30 years ago.
 

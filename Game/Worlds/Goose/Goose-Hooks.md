@@ -5,10 +5,12 @@ parent: Goose World
 nav_order: 3
 grand_parent: Worlds
 ---
-## Magdolin
+## ~~Magdolin~~
 Dimitrius her husband had never had a funeral so she never got to rest. Haunting a lantern, she wants to get her eternal rest.
 
 Gave the lantern to Dimitrius, next time they are in [Mournest](Game/Worlds/Goose/Mournest) going to resolve maybe bringing her back.
+
+**Competed Got 1xp and the lantern.**
 
 ## Where is the Food?
 The cult is getting food from somewhere on the coast. Maybe figure out where.
@@ -18,8 +20,13 @@ An ancient hungry beast of blood and flesh in the north. Potentially once a vamp
 
 Mentioned by [Dres Snider (She/Her)](Game/Worlds/Goose/Mornhold#Dres%20Snider%20(She/Her)).
 
+Darcellus mentioned that there is a mayor of a city there Jeremia who is its thrall. 
+Darcellus wants it dead as its a blight on vampires, it also probably harbours some of the old blood. 
 
-## The Mecha 
+## The Mermaids Treasure
+[Cpt. Firebrand](Game/Worlds/Goose/Mornhold#Cpt.%20Firebrand) worked with the Merpeople to hide their treasure. We know the location.
+
+## The Mecha
 5 Size of unburnable material, 4 size of clockwork + heart itself.
 
 Roundrox could build a mecha suit that shoots lava.

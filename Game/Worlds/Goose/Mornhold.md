@@ -79,7 +79,12 @@ Dressed like a bloodborne hunter, shortsword and bow.
 
 Knows of Darcellus. 
 
+Famed monster hunter.
 
+## Cpt. Firebrand 
+Firey red hair short, braided red beard. 
+
+Shoutey Booming Voice. 
 
 ### Willy
 An eccentric old man with a hunch, patchy grey hair, bottlecap glasses and a rhaspy voice.

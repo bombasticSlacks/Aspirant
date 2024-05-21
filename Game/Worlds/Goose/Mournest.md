@@ -14,7 +14,19 @@ Flirty tinkerer blacksmith. Makes cool trick weapons.
 
 
 ### Magdolin
-Dimitrius is the husband.
+Woman who was dead at sea.
+
+### Dimitrius 
+is the husband.
 
 Older leathery fit man, thoughtful.
+
+
+## Darcellus Keep
+
+### Darcellus
+Hot boy vampire with dead wife issues, entangled with Casey.
+
+### Lurch
+Darcellus buttler, zombified slow moving buttler.
 

@@ -7,7 +7,7 @@ grand_parent: Worlds
 ---
 # Session 13
 
-## Year 1332 Winter 3rd -
+## Year 1332 Winter 3rd - 8th
 * Downtime in [Mornhold](Game/Worlds/Goose/Mornhold)
 	* Mal - Supervised Learning 
 	* Bront - Supervised Learning
