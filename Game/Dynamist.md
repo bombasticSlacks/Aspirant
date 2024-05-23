@@ -22,47 +22,23 @@ They can generally teach the following training:
 
 ## Basic
 
-### Amateur Dynamancy
+![Amateur-Dynamancy](Game/Blocks/Amateur-Dynamancy)
 
-Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
+![Magic-Artillery](Game/Blocks/Magic-Artillery)
 
-- Change the temperature of an item abruptly.
-- Disrupt a spell of an amateur level.
-- Weaken the abilities or powers of a character/creature.
-- Create a shield against a specific element around yourself.
-- Attack with magical energy. This attack deals an [Heat](Core/Injury#Heat)/[Cold](Core/Injury#Cold) [Severe Injury](Core/Injury#Severe%20Injury), with [Magic Attack](Magic-Modifiers#Magic%20Attack), and [Multiple Damage Types](Core/Weapon-Traits#Multiple%20Damage%20Types).
-- When attacking with a [Magic Attack](Magic-Modifiers#Magic%20Attack) you can use the: [Burning](Magic-Modifiers#Burning), [Lethal](Magic-Modifiers#Lethal), and [Slowing](Magic-Modifiers#Slowing) [Magic-Modifiers](Magic-Modifiers).
+![Magical-Dulling](Game/Blocks/Magical-Dulling)
 
-Requires 1 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Example-Gear#Focus)
+![Magic-Perception](Game/Blocks/Magic-Perception)
 
-### Magical Artillery
+![Spell-Sword](Game/Blocks/Spell-Sword)
 
-Anyone targeted by your [Channelled Magic](Magic#Channelled%20Magic) [Ranged Attack](Core/Terminology#Ranged%20Attack) suffers a (-1) to all [Actions](Core/Terminology#Action) until your next [Combat Turn](Core/Terminology#Combat%20Turn).
-
-### Magical Dulling
-
-All magical abilities used [Close](Core/Movement#Close) to you, including your own, are at a -1.
-
-### Magic Perception
-
-You can detect magic without needing to look for it with [Understanding](Core/Intelligence#Understanding).
-
-### Spell Sword
-
-You may use any [Artisan](Materials#Artisan) or greater [Quality](Core/Weapons#Quality) weapon as a [Focus](Example-Gear#Focus).
-
-### Vibe Casting
-
-[Ascendancy](Core/Spirit#Ascendancy) is a [Communication](Core/Communication) skill for you.
+![Vibe-Casting](Game/Blocks/Vibe-Casting)
 
 ---
 
 ## Advanced
 
-### Counter Spell
-
-_[Requirement](Core/Terminology#Requirement): [Amateur Dynamancy](#Amateur%20Dynamancy)_
-If another [Character](Core/Terminology#Character) you can see, casts a spell, you may spend a [Reaction](Core/Terminology#Reaction) to disrupt the spell assuming you have the appropriate training. The [Channelled Magic](Magic#Channelled%20Magic) action is at a (-2). This action has a range of [Close](Core/Movement#Close), but can suffer a [Distance Penalty](Core/Attack-Bonuses#Distance%20Penalty).
+![Counter-Spell](Game/Blocks/Counter-Spell)
 
 ### Elemental Strike
 
