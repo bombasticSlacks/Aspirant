@@ -21,17 +21,9 @@ They can generally teach the following training:
 
 ## Basic
 
-### Bury Them
-
-If an enemy is on the ground, and you make a [Melee Attack](Core/Terminology#Melee%20Attack) against them, you deal +1 [Damage](Core/Terminology#Damage).
-
 ### Blocking
 
 When someone performs an [Attack](Core/Terminology#Attack) where you are the [Opponent](Core/Terminology#Opponent), if you are [In Melee](Core/Effects#In%20Melee) you may [Substitute](Core/Terminology#Substitute) your [Physique](Core/Strength#Physique) for [Reflexes](Core/Agility#Reflexes).
-
-### Fight Defensively
-
-You may declare you are fighting in a defensive stance as a [Free Action](Core/Terminology#Free%20Action) at the beginning of your [Combat Turn](Core/Terminology#Combat%20Turn), you remain in a defensive stance until the start of your next [Combat Turn](Core/Terminology#Combat%20Turn). While fighting defensively, you receive a +2 to all skill tests that are [Reaction](Core/Terminology#Reaction), and a -2 to all attack skill tests.
 
 ### Knight's Vow
 
@@ -40,10 +32,6 @@ You receive a (+1) on all [Combat Skill Test](Core/Terminology#Combat%20Action),
 ### Mounted Expert
 
 No penalties for performing [Character Activity On Mount](Mounts#Character%20Activity%20On%20Mount), while riding on ground.
-
-### Perfect Fit
-
-You have 1 additional [Armour Integrity](Core/Armour#Armour%20Integrity).
 
 ### Phalanx
 
