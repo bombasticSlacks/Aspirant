@@ -31,7 +31,7 @@ grand_parent: Worlds
 ---
 
 ## Rewards
-* Spririt Lanter
+* Spririt Lantern
 	* Can hold 1 soul indefinitely.
 	* May use souls as artisan or greater material (based on the sould quality).
 	* May spend a power, and roll Attunement to capture the soul of an undead in the lantern. Very powerful undead may try to break out. 

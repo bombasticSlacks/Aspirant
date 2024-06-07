@@ -17,9 +17,15 @@ grand_parent: Worlds
 
 ## People
 
-### Xen
-*A mechanized soldier from a forgotten time. A brass knight.*
+### Xen (It/Its)
+*A mechanized soldier from a forgotten time. A brass knight. Simple legs like springs, over designed hands and a helmet for hair. Deep pausing voice.*
 Works on weapons and machinery with precision.
+
+Built during the post cataclysm power grabs. The pre Argent Hold, Argent Hold.
+
+Did terrible things in the past.
+
+Works out of an abandoned factory.
 
 ### Regular Joe
 *thin waxed moustache in black with long bunned hair, direct. Apron with the family symbol.*
@@ -42,9 +48,12 @@ Master level enchanter. "Leader" Lezwix, one of the guilds leaders.
 
 ### Mo Joe (he/him)
 *Grey robes hemmed in silver. Shaved head.*
+Bravado, over excited.
 History and ritual magic expert.
 Cousin of [Simple-Joe](Game/Worlds/Post-Calamity/Simple-Joe)
 head of the [Library](#Library).
+
+Expert Librarian. 
 
 ### Pontus
 A massive hulking knight 10-11 feet tall, met gaving alms to the poor. 

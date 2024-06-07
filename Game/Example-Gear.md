@@ -331,7 +331,6 @@ A reagent bag contains 5 uses, and replenishing a use costs 2 silver.
 ---
 
 ### Wrangler's Kit
-*Size 2 Cost 20*
 *A collection of restraints, blinders, keys, and other bindings usable to bind creatures and humans. 1 size of [Artisan Metals](Metal#Artisan%20Metals) + [Charges](Core/Gear#Charges).* 
 * Size 2.
 * Cost 15.

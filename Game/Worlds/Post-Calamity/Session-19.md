@@ -21,6 +21,7 @@ grand_parent: Worlds
 	* Going to the [The Black Leaf](Game/Worlds/Post-Calamity/Verdantholm#The%20Black%20Leaf)
 	* Met with [Roxy (Roxanne) la Croix](Game/Worlds/Post-Calamity/Verdantholm#Roxy%20(Roxanne)%20la%20Croix). Doesn't believe they have achieved what they have.
 	* Went to the mages guild, the doorman stoped them needed proof of magic. Gave them an arm band and marked their name. The group know of Vespin.
+	* Translated some more works with [Mo Joe (he/him)](Game/Worlds/Post-Calamity/Verdantholm#Mo%20Joe%20(he/him)).
 	* Alexander given a band in grey and gold.
 	* [Melany Lezwix](Game/Worlds/Post-Calamity/Verdantholm#Melany%20Lezwix) suggested to go with [Vespin-Aevaris](Game/Worlds/Post-Calamity/Vespin-Aevaris) to the "Spiral Step" a drinking location he liked. He actually hated it, sussed out that he has lost his memory.
 
