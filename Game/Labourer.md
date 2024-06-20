@@ -99,14 +99,6 @@ You can as [Production Work](Activities#Production%20Work) create a meal to shar
 ### Field Maintenance
 As a [Travel Activity](Activities#Travel%20Activity) you may repair 2 points of armour integrity to each ally's armour. Each ally's weapon has +1 [Damage Bonus](Core/Weapons#Damage%20Bonus) until the next [Travel Segment](Telling-The-Story#Travel%20Segment).
 
-### Transhumanist
-#TODOtranshumanism
-As [Production Work](Activities#Production%20Work), using a [Tinkers Kit](Example-Gear#Tinkers%20Kit) you can create [Prosthetics](Character-Development#Prosthetics) that characters can use with ease. A basic prosthetic requires 4 size of [Artisan](Materials#Artisan) [Materials](Materials) and functions similarly to the feature it is replacing.
-
-You can also create advanced prosthetics that provide additional abilities and effects in line with 
-
-As [Production Work](Activities#Production%20Work), using an [Alchemists Tool Set](Example-Gear#Alchemists%20Tool%20Set) you can manipulate and prepare mutagenic compounds for installation.
-
 
 
 ---
