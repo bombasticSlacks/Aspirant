@@ -2,6 +2,9 @@
 Arcanist
 {: .label .label-blue }
 
+General
+{: .label .label-green }
+
 Basic
 {: .label .label-purple }
 ### Amateur Arcana

@@ -1,6 +1,9 @@
 Academic
 {: .label .label-blue }
 
+General
+{: .label .label-green }
+
 Advanced
 {: .label .label-purple }
 
