@@ -39,7 +39,7 @@ They can generally teach the following training:
 
 ## Advanced
 
-![Adrenaline Response](Game/Blocks/Adrenaline%20Response)
+![Adrenaline-Response](Game/Blocks/Adrenaline-Response.md)
 
 ![Cleave](Game/Blocks/Cleave)
 
