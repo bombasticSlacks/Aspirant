@@ -99,7 +99,7 @@ You can [Concentrate](Magic#Concentration) on two spells simultaneously.
 
 ## Master
 
-## Master Shaping
+## Master ShapingG
 
 \*[Requirement](Core/Terminology#Requirement): [Expert Shaping](#Expert%20Shaping)
 Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
