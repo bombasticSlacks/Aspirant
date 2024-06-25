@@ -28,9 +28,10 @@ Artisan weapons are properly built tools of war. They require some training to u
 * 1 [Crafting Points](#Crafting%20Points)
 
 ### Exotic
-Exotic weapons have additional complexity over basic artisan weapons. Their mechanisms are more complex or their chance of self injury is higher. They require additional training on top of the training required for artisan weapons to be used successfully. To wield an exotic weapon, you need [Exotic Expert](Combat-Training#Exotic%20Expert).
-* +1 [Damage Bonus](Core/Weapons#Damage%20Bonus)
-* 2 [Crafting Points](#Crafting%20Points)
+Exotic weapons have additional complexity over basic artisan weapons. Their mechanisms are more complex or their chance of self injury is higher. They require additional training on top of the training required for artisan weapons to be used successfully. 
+* +1 [Damage Bonus](Core/Weapons#Damage%20Bonus).
+* 2 [Crafting Points](#Crafting%20Points).
+* To wield an exotic weapon, you need [Exotic Expert](Combat-Training#Exotic%20Expert) or other narrative justification.
 
 ### Master Work
 A masterful blacksmith can do a lot to imbue an item with additional power and versatility. 
