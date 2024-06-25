@@ -18,6 +18,6 @@ Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 - Disable the abilities or powers of a character/creature.
 - Create a shield against a specific element around an area.
 - Create a simple rule that manipulates reality near you.
-- When attacking with a [Magic Attack](Magic-Modifiers#Magic%20Attack) you get +1 [Damage Bonus](Core/Weapons#Damage%20Bonus), you can use the: [Area](Magic-Modifiers#Area), and [EMP](Magic-Modifiers#EMP) [Magic-Modifiers](Magic-Modifiers).
+- Your [Magical-Attacks](Game/Core/Magical-Attacks) gain +1 [Damage](Game/Core/Weapons#Damage), you can use: [Area](Game/Core/Magical-Attacks#Area), and [EMP](Game/Core/Magical-Attacks#EMP).
 
 Requires 2 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Example-Gear#Focus)

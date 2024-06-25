@@ -17,6 +17,6 @@ Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 - Reverse the abilities or powers of a character/creature making it a weakness.
 - Create more general wards of protection.
 - Create a complex / powerful rule that manipulates reality near you.
-- When attacking with a [Magic Attack](Magic-Modifiers#Magic%20Attack) you get +2 [Damage Bonus](Core/Weapons#Damage%20Bonus), you can use the: [Explosion](Magic-Modifiers#Explosion) [Magic-Modifiers](Magic-Modifiers).
+- Your [Magical-Attacks](Game/Core/Magical-Attacks) gain +1 [Damage](Game/Core/Weapons#Damage), you can use: [Explosion](Game/Core/Magical-Attacks#Explosion).
 
 Requires 3 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Example-Gear#Focus)

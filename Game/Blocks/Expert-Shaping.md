@@ -18,6 +18,6 @@ Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 - Alter the world around you.
 - Alter yourself in meaningful ways, including transforming into animals.
 - Alter others in simple ways.
-- When attacking with a [Magic Attack](Magic-Modifiers#Magic%20Attack) you get +1 [Damage](Game/Core/Weapons#Damage), you can use the: [Cone](Magic-Modifiers#Cone), and [Stunning](Magic-Modifiers#Stunning) [Magic-Modifiers](Magic-Modifiers)
+- Your [Magical-Attacks](Game/Core/Magical-Attacks) gain +1 [Damage](Game/Core/Weapons#Damage), you can use the: [Cone](Game/Core/Magical-Attacks#Cone), and [Stunning](Game/Core/Magical-Attacks#Stunning).
 
 Requires 2 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Example-Gear#Focus)

@@ -14,7 +14,14 @@ Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 - Create the illusion of something that isn’t there: noise, visuals, smell.
 - Change a comestible into something more useful.
 - Alter yourself in simple ways.
-- Attack with magical energy. This attack deals an [Impact](Core/Injury#Impact)/[Rending](Core/Injury#Rending) [Severe Injury](Core/Injury#Severe%20Injury), with [Magic Attack](Magic-Modifiers#Magic%20Attack), and [Multiple Damage Types](Core/Weapon-Traits#Multiple%20Damage%20Types).
-- When attacking with a [Magic Attack](Magic-Modifiers#Magic%20Attack) you can use the: [Concussive](Magic-Modifiers#Concussive), [Painless](Magic-Modifiers#Painless), and [Surprising](Magic-Modifiers#Surprising) [Magic-Modifiers](Magic-Modifiers)
+- When attacking with [Magical-Attacks](Game/Core/Magical-Attacks) you can use: [Concussive](Game/Core/Magical-Attacks#Concussive), and [Painless](Game/Core/Magical-Attacks#Painless).
+- You can attack with the following profile:
+
+| Default [Damage](Game/Core/Weapons#Damage)                | 3                                                                                                                            |
+| :-------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- |
+| [Extra Damage](Game/Core/Attacks#Extra%20Damage) Modifier | (-2)                                                                                                                         |
+| [Damage Type](Core/Weapons#Damage%20Type)                 | [Impact](Game/Core/Injury#Impact) or [Piercing](Game/Core/Injury#Piercing)                                                   |
+| [Range](Core/Weapons#Range)                               | [Close](Game/Core/Movement#Close)                                                                                            |
+| [Weapon Traits](Core/Weapon-Traits)                       | [One-Handed](Game/Core/Blocks/One-Handed), [Otherworldly](Game/Core/Blocks/Otherworldly) [Magical](Game/Core/Blocks/Magical) |
 
 Requires 1 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Example-Gear#Focus)
