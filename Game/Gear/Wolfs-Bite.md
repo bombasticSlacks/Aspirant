@@ -1,3 +1,6 @@
+Weapon
+{: .label .label-purple }
+
 Size 2
 {: .label .label-purple }
 
@@ -6,6 +9,10 @@ Size 2
 
 [Master Work](Game/Designing-Weapons#Master%20Work)
 {: .label .label-yellow }
+
+Unique
+{: .label .label-red }
+
 #### Wolfs Bite
 
 | Default [Damage](Core/Weapons#Damage)                     | 4 or 5                                                                                                                                                           |

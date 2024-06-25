@@ -1,5 +1,8 @@
-Size 2
+Weapon
 {: .label .label-purple }
+
+Size 2
+{: .label .label-yellow }
 
 [Artisan](Game/Designing-Weapons#Artisan)
 {: .label .label-blue }
