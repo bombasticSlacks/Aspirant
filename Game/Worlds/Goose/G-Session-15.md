@@ -30,7 +30,7 @@ grand_parent: Worlds
 #### Preparation
 Basic - You may spend a power to flash back and purchase something that was available in the last town.
 
-#### Commendeer
+#### Commandeer
 Advanced - You may borrow one item from any town you travel through related to your current objective, you are expected to return it and lose the use of this ability if you do not. 
 
 ## Basement Loot
