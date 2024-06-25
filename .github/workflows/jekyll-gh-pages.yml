@@ -36,7 +36,7 @@ jobs:
           repository: bombasticSlacks/jekylSite
           path: Jekyl
       - name: copy config files
-        run: cp -rv /home/runner/work/Aspirant/Aspirant/Jekyl/* ./Game 
+        run: cp -rv /home/runner/work/Aspirant/Aspirant/Jekyl/* ./Game
       - name: remove core files with conflicts
         run: rm ./Game/Core/Home.md ./Game/Core/README.md ./Game/Core/CONTRIBUTING.md ./Game/Core/CODE_OF_CONDUCT.md
       - name: Create indexes
@@ -46,7 +46,7 @@ jobs:
       - name: insert rules blocks
         run: python3 ./Game/Core/Scripts/replace.py Game/Blocks
       - name: manipulate anchors
-        run: python3 ./convert.py $(find ./Game -type f -name "*.md")
+        run: python3 ./Game/Core/Scripts/convert.py $(find ./Game -type f -name "*.md")
       - name: manipulate anchors strip %20
         run: sed -i 's/%20/-/g' $(find ./Game -type f -name "*.md")
       - name: manipulate anchors strip Game
