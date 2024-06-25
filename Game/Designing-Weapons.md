@@ -19,17 +19,17 @@ To build a weapon:
 Weapons come in a variety of qualities based on the skill required to craft.
 ### Basic
 Basic weapons are simple tools, improvised items, rudimentary weapons or other implements not built intentionally for harm.
-* -1 [Damage Bonus](Game/Core/Weapons#Damage%20Bonus)
+* -1 [Damage Bonus](#Damage%20Bonus)
 * 0 [Crafting Points](#Crafting%20Points)
 
 ### Artisan
 Artisan weapons are properly built tools of war. They require some training to use properly and have unique advantages over using a basic weapon.
-* +1 [Damage Bonus](Core/Weapons#Damage%20Bonus)
+* +1 [Damage Bonus](#Damage%20Bonus)
 * 1 [Crafting Points](#Crafting%20Points)
 
 ### Exotic
 Exotic weapons have additional complexity over basic artisan weapons. Their mechanisms are more complex or their chance of self injury is higher. They require additional training on top of the training required for artisan weapons to be used successfully. 
-* +1 [Damage Bonus](Core/Weapons#Damage%20Bonus).
+* +1 [Damage Bonus](#Damage%20Bonus)
 * 2 [Crafting Points](#Crafting%20Points).
 * To wield an exotic weapon, you need [Exotic Expert](Combat-Training#Exotic%20Expert) or other narrative justification.
 
@@ -40,10 +40,10 @@ A masterful blacksmith can do a lot to imbue an item with additional power and v
 
 ## Size
 Weapons, like all items, come in various sizes. However, in the case of weapons, an item's size has more effect than just the required storage space. 
-- A weapon's $size \times 2$ is added to its [Damage Bonus](Weapons#Damage%20Bonus)
+- A weapon's $size \times 2$ is added to its [Damage Bonus](#Damage%20Bonus)
 - Weapons of size 1-2 have the [One-Handed](Game/Core/Blocks/One-Handed) trait.
-- Weapons of size 3-4 have the [Two-Handed](Game/Core/Blocks/Two-Handed) trait.
-- Weapons of size 5 have the [Impossibly-Large](Game/Core/Blocks/Impossibly-Large) trait.
+- Weapons of size 3-4 have the [Two-Handed](Game/Core/Blocks/Two-Handed), and [Threatening](Game/Core/Blocks/Threatening) traits.
+- Weapons of size 5 have the [Impossibly-Large](Game/Core/Blocks/Impossibly-Large), and [Very-Threatening](Game/Core/Blocks/Very-Threatening) traits.
 
 > Examples of weapon sizes are as follows:
 Size 1 - Dagger, hammer, knife
@@ -64,6 +64,9 @@ One benefit to exotic materials, however, is their potential for harming monster
 ## Crafting Points
 Can be spent to add either [Weapon-Traits](Game/Core/Weapon-Traits) or [Weapon-Templates](Game/Weapon-Templates) to your weapons. Traits must be negotiated with the [Game Master](Game/Core/Terminology#Game%20Master), but [Weapon-Templates](Game/Weapon-Templates) are designed to be added to weapons directly.
 
+## Damage Bonus
+This is a way to [Calculate Damage](#Calculate%20Damage) for a weapon.
+
 ## Calculate Damage
 The choices made while building a weapon will give it damage bonus. Including templates.
 
@@ -73,26 +76,26 @@ This damage bonus can then be converted into a damage:
 
 | Damage Bonus | Damage | Extra Damage Penalty |
 | ------------ | ------ | -------------------- |
-| 1            | 1      | (-2)                 |
-| 2            | 1      | (-1)                 |
-| 3            | 2      | (-2)                 |
-| 4            | 2      | (-1)                 |
-| 5            | 3      | (-2)                 |
-| 6            | 3      | (-1)                 |
-| 7            | 4      | (-2)                 |
-| 8            | 4      | (-1)                 |
-| 9            | 5      | (-2)                 |
-| 10           | 5      | (-1)                 |
-| 11           | 6      | (-2)                 |
-| 12           | 6      | (-1)                 |
-| 13           | 7      | (-2)                 |
-| 14           | 7      | (-1)                 |
-| 15           | 8      | (-2)                 |
-| 16           | 8      | (-1)                 |
-| 17           | 9      | (-2)                 |
-| 18           | 9      | (-1)                 |
-| 19           | 10     | (-2)                 |
-| 20           | 10     | (-1)                 |
+| 0            | 1      | (-2)                 |
+| 1            | 1      | (-1)                 |
+| 2            | 2      | (-2)                 |
+| 3            | 2      | (-1)                 |
+| 4            | 3      | (-2)                 |
+| 5            | 3      | (-1)                 |
+| 6            | 4      | (-2)                 |
+| 7            | 4      | (-1)                 |
+| 8            | 5      | (-2)                 |
+| 9            | 5      | (-1)                 |
+| 10           | 6      | (-2)                 |
+| 11           | 6      | (-1)                 |
+| 12           | 7      | (-2)                 |
+| 13           | 7      | (-1)                 |
+| 14           | 8      | (-2)                 |
+| 15           | 8      | (-1)                 |
+| 16           | 9      | (-2)                 |
+| 17           | 9      | (-1)                 |
+| 18           | 10     | (-2)                 |
+| 19           | 10     | (-1)                 |
 
 
 > A [Size](#Size) 3 [Artisan](#Artisan) weapon, with the [Lethal](Game/Blocks/Lethal) [Weapon-Templates](Game/Weapon-Templates) would have a damage bonus of 8, 6 from [Size Matters](Core/Weapon-Traits#Size%20Matters), 1 from [Artisan](#Artisan), 1 from [Lethal](Core/Weapon-Traits#Lethal). This means it does 4 damage with an [Extra Damage](Game/Core/Attacks#Extra%20Damage) penalty of (-1).

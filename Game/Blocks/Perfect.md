@@ -6,4 +6,4 @@
 {: .label .label-yellow }
 ### Perfect
 * (+1) to [Action](Game/Core/Terminology#Action) made with this weapon.
-* (+1) to [Damage Bonus](Game/Core/Weapons#Damage%20Bonus).
+* (+1) to [Damage Bonus](Game/Designing-Weapons#Damage%20Bonus).

@@ -6,4 +6,4 @@
 {: .label .label-yellow }
 
 ### Lethal
-This weapon has 1 additional [Damage Bonus](Game/Core/Weapons#Damage%20Bonus).
+This weapon has 1 additional [Damage Bonus](Game/Designing-Weapons#Damage%20Bonus).
