@@ -1,8 +1,12 @@
-
 Academic
 {: .label .label-blue }
 
+General
+{: .label .label-green }
+
 Basic
 {: .label .label-purple }
+
 ### Sword Surgeon
-While holding a rending weapon you can [Substitute](Game/Core/Terminology#Substitute) [Application](Game/Core/Intelligence#Application) for [Strike](Game/Core/Strength#Strike).
+
+- You can [Substitute](Game/Core/Terminology#Substitute) [Application](Game/Core/Intelligence#Application) for [Physique](Game/Core/Strength#Physique) when [Attacking](Game/Core/Terminology#Attack) with a weapon with the [Striking](Game/Core/Blocks/Striking) trait.

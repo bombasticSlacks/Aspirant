@@ -39,14 +39,18 @@ jobs:
         run: cp -rv /home/runner/work/Aspirant/Aspirant/Jekyl/* ./Game 
       - name: remove core files with conflicts
         run: rm ./Game/Core/Home.md ./Game/Core/README.md ./Game/Core/CONTRIBUTING.md ./Game/Core/CODE_OF_CONDUCT.md
+      - name: Create indexes
+        run: bash lists_build.sh
+      - name: insert core rules blocks
+        run: python3 ./Game/Core/Scripts/replace.py Game/Core/Blocks
+      - name: insert rules blocks
+        run: python3 ./Game/Core/Scripts/replace.py Game/Blocks
       - name: manipulate anchors
         run: python3 ./convert.py $(find ./Game -type f -name "*.md")
       - name: manipulate anchors strip %20
         run: sed -i 's/%20/-/g' $(find ./Game -type f -name "*.md")
       - name: manipulate anchors strip Game
         run: sed -i 's/(Game/(/g' $(find ./Game -type f -name "*.md")
-      - name: insert rules blocks
-        run: python3 ./replace.py
       - name: create index
         run: cp ./Game/Home.md ./Game/index.md
       - name: Setup Pages

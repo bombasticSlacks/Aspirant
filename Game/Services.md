@@ -24,14 +24,14 @@ Aspirant is a world of tradespeople, experts with something to offer a prospecti
 ### Crafting Commissions
 Getting a craftsman to make you a piece of [Equipment](Core/Equipment).
 
-| Service                                                                   | Cost                                                                            |
-| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| Commissioning Creating A [Weapon](Core/Weapons)                                | $5 + 20 \times size \times material\ ratio$                                     |
-| Commissioning Creating [Armour](Core/Armour)                                   | $5 + 30 \times primary\ material\ ratio + 10 \times secondary\ material\ ratio$ |
-| Commissioning Master Worked Service                                       | $base\ Commission + 10$                                                         |
-| Commissioning Storage                                                     | $5$ + [Crafting Storage](Designing-Storage#Crafting%20Storage)                  |
-| Commissioning creating comestibles                                        | $4 + reagents$                                                                  |
-| Commissioning a standard days work for a tradesman                        | $5$                                                                             |
+| Service                                            | Cost                                                                            |
+| -------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Commissioning Creating A [Weapon](Core/Weapons)    | $5 + 20 \times size \times material\ ratio$                                     |
+| Commissioning Creating [Armour](Core/Armour)       | $5 + 20 \times primary\ material\ ratio + 10 \times secondary\ material\ ratio$ |
+| Commissioning Master Worked Service                | $base\ Commission + 10$                                                         |
+| Commissioning Storage                              | $5$ + [Crafting Storage](Designing-Storage#Crafting%20Storage)                  |
+| Commissioning creating comestibles                 | $4 + reagents$                                                                  |
+| Commissioning a standard days work for a tradesman | $5$                                                                             |
 
 ### Expert Commissions
 Requesting an expert to do something for you.

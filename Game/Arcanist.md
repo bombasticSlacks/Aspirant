@@ -14,27 +14,3 @@ Arcanists are:
 * Druids
 * Conjurers
 * Fairies
-
-They can generally teach the following training:
-
-## Basic
-![Amateur-Arcana](Game/Blocks/Amateur-Arcana)
-![Bewitched](Game/Blocks/Bewitched)
-![Blood-Rituals](Game/Blocks/Blood-Rituals)
-![Hallowed-Ground](Game/Blocks/Hallowed-Ground)
-![Intellectual-Methods](Game/Blocks/Intellectual-Methods)
-
-
----
-
-## Advanced
-![Expert-Arcana](Game/Blocks/Expert-Arcana)
-![Invigorated-Enchantment](Game/Blocks/Invigorated-Enchantment)
-![Pocket-Dimension](Game/Blocks/Pocket-Dimension)
-
-
----
-
-## Master
-![Master-Arcana](Game/Blocks/Master-Arcana)
-
