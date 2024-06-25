@@ -2,7 +2,7 @@ Weapon
 {: .label .label-purple }
 
 Size 4
-{: .label .label-purple }
+{: .label .label-yellow }
 
 [Basic](Game/Designing-Weapons#Basic)
 {: .label .label-blue }

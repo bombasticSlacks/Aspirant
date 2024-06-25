@@ -2,7 +2,7 @@ Weapon
 {: .label .label-purple }
 
 Size 3
-{: .label .label-purple }
+{: .label .label-yellow }
 
 [Artisan](Game/Designing-Weapons#Artisan)
 {: .label .label-blue }
