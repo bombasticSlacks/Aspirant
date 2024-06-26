@@ -35,8 +35,8 @@ grand_parent: Worlds
 	* Celestial combat log of the war machine.
 	* Small strange device (artifact). Locator beacon / sos device.
 	* Combat / Dress uniform. (ancillary + vitals) nice clothing with archeotech brass plates attached.
-* Glowing orb in the chest which they obtained.
-* Alexander + Simple, (-2) injury
+	* Glowing orb in the chest which they obtained.
+* Arturas + Simple, (-2) injury
 * Greg (-2) injury + lost a limb
 
 ### Rewards
@@ -48,7 +48,6 @@ grand_parent: Worlds
 
 ### To Do
 * Rewards codify + exp for stopping the poison.
-* Sunsworn breastplate as a curio.
 * Jasmuta new stats include magic stuff.
 ### Hooks
 

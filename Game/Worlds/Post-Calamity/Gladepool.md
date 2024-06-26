@@ -42,6 +42,7 @@ Advanced Training, you may spend a [Power](../../Additional-Attributes#Power), i
 * Wants to learn more of outside, but is scared of outsiders.
 * Wants to be brave.
 * Can use nature magic.
+* Promoted to be the Guardian Of The Glade.
 
 ### Oldy (He/Him)
 *A small creature made of smoke that seems to resemble a long flowing beard*

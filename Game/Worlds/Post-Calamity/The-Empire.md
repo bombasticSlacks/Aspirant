@@ -11,6 +11,7 @@ grand_parent: Worlds
 * worship powerful figures as Gods. Could harness magic and technology fusing the two. 
 * The names of the factions refer to both there origin/location and a name or reference interchangably. The beyond, is a place, a state and a name.
 * Powered machines using their internal power, usually starting from an amplifier device (which the group has 1 of).
+* Used the "God Killing Poison" as part of their war (found in the glade).
 ### Rumors
 
 ### Problems
