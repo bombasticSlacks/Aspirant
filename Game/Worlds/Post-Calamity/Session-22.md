@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Session 21
+title: Session 22
 parent: Post Calamity
 nav_order: 1
 grand_parent: Worlds
 ---
-## Session 21
+## Session 22
 [Post-Calamity](Post-Calamity)
 
 ## Ideas

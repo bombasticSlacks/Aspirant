@@ -62,6 +62,18 @@ A massive hulking knight 10-11 feet tall, met gaving alms to the poor.
 
 Giving grace to the "old Gods"
 
+### Merchants Guilds
+
+#### Svensens
+Led by Lacy Svensen, a cold calculating women who wants to keep trade moving no matter the cost. She wears a large wig of curls in white, with a scrawny starved physique and a collection of gorgeous flowing dresses.
+
+#### James Sons
+Led by James an ex pirate turned merchant cut throat, the brawns of the operation. Notably older with short cut grey hair they always seem to be checking a pocket watch like they are running out of time / afraid of something.
+
+#### Hahns
+
+Led by Page Hahn (they/them), a flamboyant theatrical type who things they are owed the world after their family gave them the family business. Wears colorful clothing and has longer ponytailed brown hair.
+
 
 
 ## Locations
@@ -96,5 +108,11 @@ Large crystal constructs float about helping to find books. Made of a mess of cr
 Shelves are animated and magical.
 
 ## Relics
+
+Mage Weave - Exotic Textiles Armour 30 Silver 
+Skill Penalty 0 
+Integrity 2 
+Weakness: - 
+Resistance: Cold Life
 
 ## Troops

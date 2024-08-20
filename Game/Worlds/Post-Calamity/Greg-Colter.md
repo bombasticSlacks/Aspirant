@@ -20,14 +20,19 @@ Can harvest venom from Muda once a week (per 5 days)
 Elite
 {: .label .label-yellow }
 ### Jashmuda
+*The cub of a great Manticore*
 
-| Initiative | Move                               | Threat | Integrity | Weakness | Resistance |
-| ---------- | ---------------------------------- | ------ | --------- | -------- | ---------- |
-| 3          | [Close](../../Core/Movement#Close) | 3       | 4          | [Rending](../../Core/Injury#Rending), [Heat](../../Core/Injury#Heat)         |            |
+| Move                              | Integrity | Weakness (! is vitals only)                                         | Resistance (! is ancillary only) |
+| --------------------------------- | --------- | ------------------------------------------------------------------- | -------------------------------- |
+| [Reach](Game/Core/Movement#Reach) | 8         | [Heat](Game/Core/Injury#Heat), [Rending](Game/Core/Injury#Rending)! | [Life](Game/Core/Injury#Life) |
 
-* [Attack(4, Rending, 2)](../Game/Core/Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
-* [Avoid(1)](../Game/Core/Character-Actions#Avoid(X))
-* [Attack(3, Life, 2)](../../Core/Character-Actions#Attack(X,%20TYPE,%20DAMAGE)) characters [Wounded](../../Core/Effects#Wounded) by this attack are [Stunned](../../Core/Effects#Stunned).
-
+#### Actions
+* [Attack](Game/Core/Blocks/Attack)(+4, [Rending](Game/Core/Injury#Rending), 4).
+* [Ranged-Attack](Game/Core/Blocks/Ranged-Attack)(+4, [Rending](Game/Core/Injury#Rending), 4) Attack with the power of the wind.
+* [Attack](Game/Core/Blocks/Attack)(+3, [Life](Game/Core/Injury#Life), 4) characters [Wounded](Game/Core/Effects#Wounded) by this attack are [Stunned](Game/Core/Effects#Stunned).
+#### Traits
+* [Flying](Game/Core/Blocks/Flying).
+* [Weather-Control](Game/Core/Blocks/Weather-Control).
+* [Terra-Control](Game/Core/Blocks/Terra-Control).
 
 ---
