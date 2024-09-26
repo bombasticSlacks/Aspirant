@@ -65,10 +65,10 @@ Giving grace to the "old Gods"
 ### Merchants Guilds
 
 #### Svensens
-Led by Lacy Svensen, a cold calculating women who wants to keep trade moving no matter the cost. She wears a large wig of curls in white, with a scrawny starved physique and a collection of gorgeous flowing dresses.
+Led by Lacy Svensen, a cold calculating women who wants to keep trade moving no matter the cost. She wears a large wig of curls in white, with a scrawny starved physique and a collection of gorgeous flowing dresses. Has connections to the south cities.
 
 #### James Sons
-Led by James an ex pirate turned merchant cut throat, the brawns of the operation. Notably older with short cut grey hair they always seem to be checking a pocket watch like they are running out of time / afraid of something.
+Led by James an ex pirate turned merchant cut throat, the brawns of the operation. Notably older with short cut grey hair they always seem to be checking a pocket watch like they are running out of time / afraid of something. Has connections to the west ([Argent-Hold](Game/Worlds/Post-Calamity/Argent-Hold)).
 
 #### Hahns
 

@@ -20,3 +20,6 @@ Level woman, cold gaze.
 Wants information from [Jock Tennens](#Jock%20Tennens), more on "the ritual"
 
 [Arturas-Gabrys](Arturas-Gabrys) and she exchanged pleasantries and offerings.
+
+## Kant Stone Sign
+*tanned man of poetry who is a mountain of a man. Bald*

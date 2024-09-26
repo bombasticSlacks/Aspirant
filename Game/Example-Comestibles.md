@@ -79,20 +79,3 @@ Powerful medication that can fully sedate a person. If used on an unwilling pati
 
 A specialized amphetamine that can be snorted. This compound is designed to keep technical professionals focused and working hard during the most gruelling of tasks while requiring 0 sleep. The major side effect of wake is a complete 1 track mind and an inability to socialize in any major way. Lasts a full 48 hours. While on wake you get a +1 to marksmanship tests, +1 to melee tests, +1 to technical tests of any kind, require no sleep, get a -2 to perception tests, -2 to social tests and a -2 to evasion tests.
 
----
-### Munitions
-*Explosives made with various reagents that combine with, in most cases, basic metal bits*
-
-Munitions are available to craft and purchase with various outcomes such as dealing fire damage, healing allies wounds, and utility like smoke fields and sticky. While many basic explosives are simple to craft or inexpensive to purchase, those with powerful effects will instead require complex crafting skills, exotic and rare reagents, or have scarce and costly availability. All munitions target a single opponent or a single space in combat unless enhanced beyond their natural ability. Additionally, all bombs count as 1/5 size per bomb.
-
-
-| Munition | Materials To Craft | # Created Per Craft | Description | Effect | Crafting Cost |
-| ------------ | -------------------------------------------------- | ------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------- | --------- |
-| Scrap Bomb | 1 basic metal, 1 basic liquid | 5 | A burst of scattered scrap metal | 4 + Intelligence Piercing Damage | 6 Silver |
-| Flame Bomb | 1 basic metal, 1 artisan resonant | 3 | A furious explosion of flames | 6 + Intelligence Heat Damage | 8 Silver |
-| Frost Bomb | 1 artisan metal, 1 basic resonant | 3 | A cool blast of ice | 6 + Intelligence Cold Damage | 8 Silver |
-| Echo Bomb | 1 basic metal, 1 basic resonant, 1 basic hide | 2 | A loud, but localized, burst of noise | Disorients the target, forcing them to test Identity(-Caster's Int) check or lose their next combat action | 9 Silver |
-| Sticky Bomb  | 1 basic metal, 1 artisan liquid, 1 basic bits | 3 | A gooey ichor coats nearby floors and walls, making movement difficult | Walls, ceiling, and floor within 5 feet of the impact point are covered.  Movement cost through this area is doubled.  The ichor can be frozen, causing the surface to become slippery.  All targets on the ichor must make a fixed difficulty Grace test(-2) or fall prone. | 11 Silver |
-| Smokescreen  | 1 artisan metal, 1 basic wood, 1 basic liquid | 3 | A puff of black-grey smoke fills the space, blocking vision | All enemies/allies within the smokescreen lose vision outside of it.  Ranged attacks into and out of the smokescreen are done at -5.  The smokescreen is also combustible, causing an explosion dealing 6 + the attack's modifier damage to all targets inside. | 11 Silver |
-| Force Bomb | 1 artisan metal, 1 exotic resonant, 1 basic fabric | 1 | A shockwave knocks away all combatants from the epicentre | The shockwave knocks all enemies/allies within 5 feet of the impact point away from the centre of the explosion 10 feet.  If no contact is made with another surface, make a fixed difficulty Grace or Athletics test to remain standing.  If you strike a hard surface, such as a wall, instead make a fixed difficulty Endurance test(-2).  On a pass, you remain standing and suffer no other ill effects.  On a fail, you are knocked prone and dealt 1 point of damage. | 18 Silver |
-| Healing Bomb | 1 basic metal, 1 exotic floral, 1 basic liquid | 2 | A shower of green-white liquid rains down to heal an ally | See [Healing Potion](Example-Comestibles#Healing%20Potion) | 16 Silver |

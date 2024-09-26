@@ -11,5 +11,5 @@
 * [Loading](Game/Core/Blocks/Loading)(1).
 * Range of [Short](Game/Core/Movement#Short).
 * [Capacity](Game/Core/Blocks/Capacity) 1([Ammunition](Game/Example-Gear#Ammunition)).
-* Gains [Salvageable](Game/Core/Blocks/Salvageable).
+* Gains [Salvageable-Ammo](Game/Core/Blocks/Salvageable-Ammo).
 * Loses [Striking](Game/Core/Blocks/Striking) and gains [Targeted](Game/Core/Blocks/Targeted).

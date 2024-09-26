@@ -72,6 +72,8 @@ High ranking religious figure of [The-Holy-Order](The-Holy-Order).
 * Bishop,
 * High Priest
 
+Bunned silver hair, piercing eyes, blue eyes, mixed robes / plate. 
+
 [Alexander-Aurelius](Alexander-Aurelius) knows of Ignis through his preaching of unity and togetherness. Is anti dogma and pro guidance. Has no interest in attacking the heretics. A bit of a black sheep.
 
 Typical holy warrior, would be capable of some [Miracles and Prayers](The-Holy-Order#Miracles%20and%20Prayers), and have access to the [Reliquary](The-Holy-Order#Reliquary).

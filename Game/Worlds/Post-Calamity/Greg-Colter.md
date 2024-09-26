@@ -29,7 +29,7 @@ Elite
 #### Actions
 * [Attack](Game/Core/Blocks/Attack)(+4, [Rending](Game/Core/Injury#Rending), 4).
 * [Ranged-Attack](Game/Core/Blocks/Ranged-Attack)(+4, [Rending](Game/Core/Injury#Rending), 4) Attack with the power of the wind.
-* [Attack](Game/Core/Blocks/Attack)(+3, [Life](Game/Core/Injury#Life), 4) characters [Wounded](Game/Core/Effects#Wounded) by this attack are [Stunned](Game/Core/Effects#Stunned).
+* [Attack](Game/Core/Blocks/Attack)(+3, [Life](Game/Core/Injury#Life), 4) characters [Injury Damage](Game/Core/Injury#Injury%20Damage) by this attack are [Stunned](Game/Core/Effects#Stunned).
 #### Traits
 * [Flying](Game/Core/Blocks/Flying).
 * [Weather-Control](Game/Core/Blocks/Weather-Control).
