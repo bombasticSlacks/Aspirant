@@ -59,6 +59,14 @@ Goblin slightly larger than Bront, lab coat, steampunk goggles. Loves to blow st
 
 Has a dorm room converted into a goblin loft. 
 
+
+### The Governator (He/Him)
+a pointed words Man, who wants to avoid conflict, and speaks a strange language. They have stubbled greying hair, blue tired eyes.
+* giant man from a far away land
+* Air ship.
+* Governor was appointed by the last governor.
+
+
 ## Marcelle and Cantor
 A mage knight (Marcelle) and Shooter hunting the cult.
 
@@ -100,6 +108,9 @@ Massive building / mansion. Governors mansion.
 Massive wizards guild. Mageknights are housed here. Huge mural of a knight making a helix of silver and a robed figure shooting energy into the sky.
 
 Mage Warriors waiting room is clerical has a large smokey mirror that is magic (answering machine). Nasaly, older woman with thick frames. 
+
+### Red Letter
+A punk / art bar very counter culture. 
 
 ## The Hideaway
 Military Building HQ of the anit cult taskforce. Above a bar, called the pissing pot.

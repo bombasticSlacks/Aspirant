@@ -23,6 +23,7 @@ This tends to happen when you are in a safe area. When in a friendly settlement 
 
 - Remove any [Long Term Injury](Core/Effects#Long%20Term%20Injury).
 - Reset [Power](Game/Core/Blocks/Power) to your max.
+- Reset your [Reaction](Game/Core/Blocks/Reaction) to your max.
 - Reset uses of all Once Per Downtime abilities.
 - Performs 1 [Downtime Activity](Activities#Downtime%20Activity).
 - Each settlement will have a cost for 5 days of lodgings, usually it will be 2 silver which will cover your food and housing for the duration.

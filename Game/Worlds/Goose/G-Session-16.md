@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Session 15
+title: Session 16
 parent: Goose World
 nav_order: 3
 grand_parent: Worlds
 ---
 # Session 16
 
-## Year 1332 Winter 15th -
+## Year 1332 Winter 15th - 20th
 * Darcellus explained the situation, Viking Ratkin to the north are holding 
 * 3 ships at least the Ratkin have.
 * Tried brainstorming ways to disrupt

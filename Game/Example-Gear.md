@@ -314,8 +314,8 @@ _A collection of pins, patches, bolts and metal bits used to repair armour in th
 
 - Size 2.
 - Cost 15.
-- [Charges](Core/Gear#Charges)(5).
-- [Charges](Core/Gear#Charges) cost 2 silver to replace.
+- [Charges](Core/Gear#Charges)(10).
+- [Charges](Core/Gear#Charges) cost 1 silver to replace.
 - Given 5 minutes, you can repair 1 integrity on a suit of armour for a [Charge](Core/Gear#Charges).
 
 ---

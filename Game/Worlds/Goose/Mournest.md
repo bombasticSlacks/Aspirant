@@ -27,6 +27,9 @@ Older leathery fit man, thoughtful.
 ### Darcellus
 Hot boy vampire with dead wife issues, entangled with Casey.
 
+Red Wine Trading Company.
+
+
 ### Lurch
 Darcellus buttler, zombified slow moving buttler.
 
