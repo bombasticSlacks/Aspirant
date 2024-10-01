@@ -55,9 +55,8 @@ Advanced - You may spend a power to have your mount appear beside you, it is ass
 | Shadow Wing | 45   |
 | Falcon      | 30   |
 
-![Pheonix](Game/Blocks/Pheonix)
+
 ![Shadow-Wing](Game/Blocks/Shadow-Wing)
-![Falcon](Game/Blocks/Falcon)
 
 
 ## People
