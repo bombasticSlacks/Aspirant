@@ -13,6 +13,9 @@ Fanatical heretic hunters and anti-magic religious order.
 Currently engaging in a crusade.
 
 Paladins with golden platemail and great swords, very Reynald.
+
+*May the light preserve you* 
+*May we bask in it always* 
 ## Saint Lucian
 Well renown figure of heroism and myth. The church idolizes him.
 

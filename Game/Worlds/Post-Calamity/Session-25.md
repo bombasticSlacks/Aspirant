@@ -19,6 +19,7 @@ grand_parent: Worlds
 * Went to the Church, met [Ignis Lux](Game/Worlds/Post-Calamity/Alexander-Aurelius#Ignis%20Lux) Inquisitor Lux. 
 * The woman from the attack offered to have wife fix their armour for free. 
 * Lux is the highest ranking member of the Calphion church normally. Otherwise covered by small time priests.
+* Crusade is led by [Harper Aiolfi (He/Him)](Game/Worlds/Post-Calamity/Calphion#Harper%20Aiolfi%20(He/Him))
 * Offered them retainer of silver, extended visas, and some churches treasures / confiscated goods.
 * Alexander negotiated, for getting payment up front of 100 silver.
 
@@ -35,7 +36,7 @@ grand_parent: Worlds
 * [Roxy (Roxanne) la Croix](Game/Worlds/Post-Calamity/Verdantholm#Roxy%20(Roxanne)%20la%20Croix) will think on who would make a good leader of the merchants.
 * Morty new stats.
 * Arturas looked at the autocarraige specs that Xen had, discuss costs of carraige.
-* Simple Greg, writes a letter to [Mo Joe (he/him)](Game/Worlds/Post-Calamity/Verdantholm#Mo%20Joe%20(he/him))  to ask about the observations about natural escalation.
+* Simple Greg, writes a letter to [Mo Joe (he/him)](Game/Worlds/Post-Calamity/Verdantholm#Mo%20Joe%20(he/him)) to ask about the observations about natural escalation.
 
 
 ### Hooks

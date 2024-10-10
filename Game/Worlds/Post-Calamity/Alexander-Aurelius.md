@@ -72,7 +72,7 @@ High ranking religious figure of [The-Holy-Order](The-Holy-Order).
 * Bishop,
 * High Priest
 
-Bunned silver hair, piercing eyes, blue eyes, mixed robes / plate. 
+Bunned silver hair, piercing eyes, blue eyes, mixed robes / plate. Weilds a Warhammer.
 
 [Alexander-Aurelius](Alexander-Aurelius) knows of Ignis through his preaching of unity and togetherness. Is anti dogma and pro guidance. Has no interest in attacking the heretics. A bit of a black sheep.
 
