@@ -14,6 +14,7 @@ Armour
 | [Weakness](Game/Core/Armour#Weakness%20and%20Resistance)   | [Cold](Game/Core/Injury#Cold)                                              |
 | [Resistance](Game/Core/Armour#Weakness%20and%20Resistance) | [Rending](Game/Core/Injury#Rending), [Piercing](Game/Core/Injury#Piercing) |
 | [Armour-Traits](Game/Core/Armour-Traits)                   |                                                                            |
+
 Or as an action you may change it to:
 
 | [Armour Integrity](Game/Core/Armour#Armour%20Integrity)    | 4                                                                  |
