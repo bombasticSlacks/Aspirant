@@ -29,6 +29,7 @@ grand_parent: Worlds
 * Started a Project to teleport the group, need 1 more success going to go to a leyline:
 	* The Lense, a locked wizard tower abandoned sealed for a century, sits on a Leyline 
 	* Owned by the wizard Custodia. Destroyed the tower / damaged it by focusing the power of the sun. (Tormented demons fire inside etc.) Custódia Spencer (She/Her) a brave wizard, who wants to defend their allies, and has a silly hat. They have short greying hair, blue eyes, have bloodshot eyes
+* Teleporting up to 20 people.
 * Bront talks to round rox about making 3 size 4 bombs 
 	* Asked about performance enhancers: mentions Flow - 
 * Shade was convinced to aid them but wants a relic from "The Lense" first (a piece of the sun).

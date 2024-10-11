@@ -3,7 +3,7 @@
 * Stem got kicked out from the Uni after trying to stay even after his parents stopped paying the tuition, caused a scene, he is now kinda avoiding being seen there again.
 
 ### Zom
-A mindless zombie, found as a corpse in a hospital. 
+A ~~mindless zombie~~ now smart zombie, found as a corpse in a hospital. 
 
 Has a stomach producing healing juice, and the face of an older Keanu Reaves.
 
