@@ -38,6 +38,9 @@ A masterful blacksmith can do a lot to imbue an item with additional power and v
 * A masterwork weapon has +1 [Crafting Points](#Crafting%20Points).
 * It must be made of materials of similar quality to an [Exotic](#Exotic) weapon.
 
+### Relic
+Strange or enchanted weapons, these can be anything you want but should have special rules for crafting or acquiring.
+
 ## Size
 Weapons, like all items, come in various sizes. However, in the case of weapons, an item's size has more effect than just the required storage space. 
 - A weapon's $size \times 2$ is added to its [Damage Bonus](#Damage%20Bonus)

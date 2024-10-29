@@ -16,7 +16,13 @@ Run officially, not a lot of thieves / underground there.
 ## Representatives
 8 districts, 1 rep from military as well who make up the political body.
 
+The governing body seems to respect each other. Though may be incompetent at time they are silently so. Otherwise interact with each other with respect and collaborative spirit. They all have a bias only to their districts.
+
 Military rep is Captain Talson
+
+### Bald Man (he/him)
+District 1
+Voted with the captain.
 
 ### Joseph Hensley (he/him)
 District 2
@@ -27,20 +33,23 @@ avoid conflict, loves machines
 man of industry, brings in imported invention. Plays nice with all, including the church.
 District 4
 
+Defacto speaker of the house.
+
 ### Anda Ponz (she/her)
-*matted brown hair, brown eyes, are tall*
+*matted brown hair, brown eyes, are tall towers over others*
 District 6
 Married to Vladimira
 Odd character
+Perhaps not from here.
 ### Vladimíra Ponz (she/her)
 *They have long green hair, blue eyes, colorful hair*
 District 7
 Married to Anda
 Odd character, holding on to youth.
 
-### Talon Greggor The Third
+### Talon Greggor The Third (he/him)
 Leader of the Docks
-*manic man wishing to maintain order, Long flowing silver hair, Grey eyes, Calloused scarred hands.*
+*manic man wishing to maintain order, Long flowing silver hair, Grey eyes, Calloused scarred hands. He's very direct but rambling.*
 District 8
 
 * Red and purple plumage on guards, flamboyant outfits.
