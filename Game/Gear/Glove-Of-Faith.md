@@ -13,3 +13,4 @@ Size 1
 * When [Binding](Game/Magic-Items#Binding) this item has size 0.
 * This glove can't be destroyed.
 * The hand that weilds this glove is contained in cannot be harmed.
+* If you have nothing in your gloved hand your weapons gain [Defensive-Offhand](Game/Blocks/Defensive-Offhand).
