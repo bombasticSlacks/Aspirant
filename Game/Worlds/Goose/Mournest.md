@@ -1,4 +1,10 @@
-
+---
+layout: default
+title: Mournest
+parent: Goose World
+nav_order: 3
+grand_parent: Worlds
+---
 
 ### Konstantines Farm
 Wealthy farm outside of town,
@@ -16,7 +22,7 @@ Flirty tinkerer blacksmith. Makes cool trick weapons.
 ### Magdolin
 Woman who was dead at sea.
 
-### Dimitrius 
+### Dimitrius
 is the husband.
 
 Older leathery fit man, thoughtful.
