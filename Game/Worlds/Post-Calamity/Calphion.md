@@ -28,7 +28,7 @@ Voted with the captain.
 District 2
 
 ### Marrin Tosta (he/him)
-avoid conflict, loves machines
+avoid conflict, loves machines. Moustache, glasses, slicked dark hair. 
 
 man of industry, brings in imported invention. Plays nice with all, including the church.
 District 4

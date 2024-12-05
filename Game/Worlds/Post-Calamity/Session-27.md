@@ -17,7 +17,7 @@ grand_parent: Worlds
 	* Church Figures - Need to harness the power of light to reflect a disco ball.
 * For the duration there will be spirits attempting to harm them and drain their sanity(?).
 * Need to gain each groups trust to drop the barrier and allow passage to the kings chamber. 
-## Calphion 10 Winter -
+## Calphion 10 Winter - 12 Winter
 * 
 * Next time: Talking to Shipyard owner and Diatona people, Vespin is recovering.
 * Talked to dockmaster, got a crate with a magic belt.
