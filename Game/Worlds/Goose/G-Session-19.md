@@ -19,13 +19,16 @@ grand_parent: Worlds
 ## Year 1332 Winter 25th -
 * The tower eye shot a huge laser beam at the party.
 * moved into the tower. door was hot bottom.
-* 
+* Defeated a demon, were weaked severely. 
 
 
 ---
 
 ## Rewards
 * 10 size of resonant material (basic).
+* Teleport Crystal Size 1 - Once a month you can teleport back to the tower.
+* Sun Cloak - If you act within reach of the character wearing it you take 1 heat damage. Requires attunement.
+* Teleportation Room
 
 
 ---
@@ -47,7 +50,6 @@ grand_parent: Worlds
 * Itemize The Focus, Give reloading with materials a keyword.
 * Encounter happens as they get to the Lens, for on watch.
 * Rewards, for next time (teleport crystal?) lets you recall to this tower once per month.
-* 
 
 
 
