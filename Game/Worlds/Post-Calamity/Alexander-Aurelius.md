@@ -81,6 +81,9 @@ Typical holy warrior, would be capable of some [Miracles and Prayers](The-Holy-O
 
 Located at [Calphion](Calphion), an influential (second in command) at the church there.
 
+### Unresting Faith
+Counts as on watch, can't be ambushed at night.
+
 ## Caius
 
 

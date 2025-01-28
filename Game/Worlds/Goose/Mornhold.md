@@ -7,7 +7,6 @@ nav_order: 0
 has_children: false
 ---
 # Mornhold
-{: .no_toc }
 
 City with some intrigue. Capital of Bells Edge.
 ## Lore
@@ -80,7 +79,7 @@ He works on plants at the [Mage Warriors](#Mage%20Warriors). Has picked the anci
 
 The military man who they helped to defeat the Cardinal. 
 
-## Dres Snider (She/Her) 
+## Dres Snider (She/Her)
 a helpful Prole, who wants to fix problems no matter the cost, and is obsessed with someone famous. They have bald black hair, brown eyes, have dark skin. Has a slight homey accent.
 
 Dressed like a bloodborne hunter, shortsword and bow. 
@@ -89,7 +88,7 @@ Knows of Darcellus.
 
 Famed monster hunter.
 
-## Cpt. Firebrand 
+## Cpt. Firebrand
 Firey red hair short, braided red beard. 
 
 Shoutey Booming Voice. 
@@ -108,6 +107,17 @@ Massive building / mansion. Governors mansion.
 Massive wizards guild. Mageknights are housed here. Huge mural of a knight making a helix of silver and a robed figure shooting energy into the sky.
 
 Mage Warriors waiting room is clerical has a large smokey mirror that is magic (answering machine). Nasaly, older woman with thick frames. 
+
+### The Stubbed Toe
+Adventurers bar / inn in town.
+
+### Last Light
+Home for the deathly ill
+
+#### Sella Of The Kingdom (she/they)
+a being of celestial energy with slit like eyes that move freely about their face. Feminine figure wrapped in robes. 
+
+Calm, mysterious.
 
 ### Red Letter
 A punk / art bar very counter culture. 

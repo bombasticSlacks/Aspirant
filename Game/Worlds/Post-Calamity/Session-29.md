@@ -20,7 +20,7 @@ grand_parent: Worlds
 * Lord Of The Dead boss fight
 	* Void Staff, Shadow Topper (marks people with darkness, can detonate corpses?) 5(-1), Impact, Penetrating. Counts as a focus.
 	* Damned Crown - Can speak to the dead, see the dead(?)
-## Calphion 12 Winter - 14 Winter
+## Calphion 12 Winter - 19 Winter
 * Cleared the rooms, defeated the boss easily.
 * Maria asked them to join at the Zinatu camp.
 * Headed back to calphion, going to the church
