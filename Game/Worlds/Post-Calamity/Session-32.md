@@ -141,11 +141,9 @@ end
 ### To Do
 
 * [Roxy (Roxanne) la Croix](Game/Worlds/Post-Calamity/Verdantholm#Roxy%20(Roxanne)%20la%20Croix) will think on who would make a good leader of the merchants.
-* Arturas looked at the autocarraige specs that Xen had, discuss costs of carraige.
 * Simple Greg, writes a letter to [Mo Joe (he/him)](Game/Worlds/Post-Calamity/Verdantholm#Mo%20Joe%20(he/him)) to ask about the observations about natural escalation.
 * Update games kit, doesn't do anything any more.
 	* Games kit lets 1 person socialize for free as long as you do. 
-* Itemize the loot from the dungeon.
 * Ignis combat stats + traps.
 * Wolfsbite upgrade cold damage hoarfrost stuff
 
