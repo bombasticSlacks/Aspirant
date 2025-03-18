@@ -67,7 +67,7 @@ a pointed words Man, who wants to avoid conflict, and speaks a strange language.
 
 
 ## Marcelle and Cantor
-A mage knight (Marcelle) and Shooter hunting the cult.
+A mage knight (Cantor) and Shooter (Marcelle) hunting the cult.
 
 ## Aaron Spencer (He/Him)
 a soulless Prole, who wants to avoid conflict, and has a pet dog. They have bunned silver hair, brown eyes, are well dressed

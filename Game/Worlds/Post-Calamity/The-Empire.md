@@ -24,11 +24,14 @@ grand_parent: Worlds
 ### Sunsworn
 * The group worshipping the God King lineage of the sunsworn.
 * NE Continent
+* Used powerful mechanical devices
 
 
 ### Lunarmarred
 * The group worshipping the God King lineage of the Lunarmarred. 
 * Center West
+* The [Zinatu](Game/Worlds/Post-Calamity/Zinatu) are descendants of these people.
+* Used powerful mechanical devices
 
 ### Bloody
 * South West

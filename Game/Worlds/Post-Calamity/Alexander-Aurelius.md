@@ -84,6 +84,11 @@ Located at [Calphion](Calphion), an influential (second in command) at the churc
 ### Unresting Faith
 Counts as on watch, can't be ambushed at night.
 
+## Demon Bard Wanderer (TBD)
+* Debaucherous, demon that isn't violently evil, more enjoys humans as playthings.
+* ostrasized from his own kind because of his lack of desire for violence.
+* 
+
 ## Caius
 
 

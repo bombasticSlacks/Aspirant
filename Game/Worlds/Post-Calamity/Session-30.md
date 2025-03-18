@@ -10,7 +10,7 @@ grand_parent: Worlds
 
 ## Ideas
 
-## Calphion 19 Winter - 24 Winter
+## Calphion 19 Winter - 26 Winter
 * Downtime from 19th till 24th:
 	* Arturas and Alexander build the car
 	* Vespin Finished master Arcane
