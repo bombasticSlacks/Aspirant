@@ -37,9 +37,8 @@ Exotic weapons have additional complexity over basic artisan weapons. Their mech
 A masterful blacksmith can do a lot to imbue an item with additional power and versatility. 
 * A masterwork weapon has +1 [Crafting Points](#Crafting%20Points).
 * It must be made of materials of similar quality to an [Exotic](#Exotic) weapon.
-
 ### Relic
-Strange or enchanted weapons, these can be anything you want but should have special rules for crafting or acquiring.
+Strange or enchanted weapons, these can be anything you want but should have special rules for crafting or acquiring, more so then a simple skill test.
 
 ## Size
 Weapons, like all items, come in various sizes. However, in the case of weapons, an item's size has more effect than just the required storage space. 

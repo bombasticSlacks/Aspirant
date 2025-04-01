@@ -11,6 +11,7 @@ grand_parent: Worlds
 * Monster Hunters were destroyed while fighting the vampires, church turned on them for using the arcane.
 * So Guild Hall in bottom left corner of the map, near vampire hunters. Patrolled by the church to obstruct use.
 * Gonna, for now, use the Monster Hunter Trainings
+* The hunters were destroyed 15 years ago.
 
 **There are at least some monster hunters still alive**
 ### Basic Training
@@ -33,3 +34,6 @@ Wolfs Bite
 *A husk bound to a throne of arcane technology with a lightning rod piercing their torso. Speaks with a drone and specifies precentages of current thought as it talks.*
 *Eg: "What is a dragon, 17%, one must wonder, 33%, what individuals would need this knowledge for, have dragons returned to the… 76%, ruins of dungott… dragons are wyverns with a… etc."
 A lost living computer in the basement of the building can answer questions of deep importance and knowledge. The remains of a celestial earthbound pinned to a chair and powered by lightning. 
+
+* Can answer 3 difficult questions per .5 months
+* 

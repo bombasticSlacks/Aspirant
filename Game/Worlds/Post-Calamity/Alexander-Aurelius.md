@@ -81,6 +81,9 @@ Typical holy warrior, would be capable of some [Miracles and Prayers](The-Holy-O
 
 Located at [Calphion](Calphion), an influential (second in command) at the church there.
 
+* Ignis is motivated by a lack of success by the good forces of the world. Wants to see change and safety.
+* Ignis regrets what happened to the monster hunters.
+* 
 ### Unresting Faith
 Counts as on watch, can't be ambushed at night.
 

@@ -26,18 +26,33 @@ grand_parent: Worlds
 * NE Continent
 * Used powerful mechanical devices
 
+#### Trainings
 
+ADVANCED Rebuke - Resolve times per meditation you can inflict a critical injury in sunlight with 10m of range. This is a converse test.
 ### Lunarmarred
 * The group worshipping the God King lineage of the Lunarmarred. 
 * Center West
 * The [Zinatu](Game/Worlds/Post-Calamity/Zinatu) are descendants of these people.
 * Used powerful mechanical devices
 
+BASIC Star Eyes - You can see perfectly in the dark and recieve a +1 to all skill tests at night.
+
+ADVANCED Cold Night - Successful attacks you perform cause the brittle effect.
+
 ### Bloody
 * South West
+Basic - Sustenance - You do not need food or water. 
+
+Advanced Exsanguinate - Any critical damage you inflict can kill a person.
 
 ### Earthbound
 * West
+* Hardy people who worked the land and developed technology using the bounty of the earth.
+* Were created by [The Beyond](#The%20Beyond) from the earth itself.
+
+BASIC People Of The Land - You may spend a power and exert yourself to reduce any incoming damage by 2. 
+
+ADVANCED Heart Of Stone - You may spend a power to automatically succeed at any volition skill test. 
 
 ### The Beyond
 * The precursors to the precursors, created or were the originators of the other groups (specifically, sunsworn and lunarmarred). 

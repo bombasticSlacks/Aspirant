@@ -4,13 +4,7 @@ Weapon
 Size 4
 {: .label .label-yellow }
 
-[Master Work](Game/Designing-Weapons#Master%20Work)
-{: .label .label-blue }
-
-[Exotic](Game/Designing-Weapons#Exotic)
-{: .label .label-blue }
-
-Unique
+[Relic](Game/Designing-Weapons#Relic)
 {: .label .label-red }
 
 #### Service Rifle

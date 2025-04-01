@@ -8,7 +8,8 @@ Size 2
 {: .label .label-blue }
 
 [Master Work](Game/Designing-Weapons#Master%20Work)
-{: .label .label-yellow }
+{: .label .label-red }
+
 #### Goblin Flamethrower
 
 _Promethium fuelled weapon of mass destruction. Releases torrents of metal melting flame that seem to stick to anyone targeted._

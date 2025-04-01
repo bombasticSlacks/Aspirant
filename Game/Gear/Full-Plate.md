@@ -1,4 +1,3 @@
-
 Armour
 {: .label .label-purple }
 
@@ -6,7 +5,8 @@ Armour
 {: .label .label-blue }
 
 [Master Work](Game/Designing-Weapons#Master%20Work)
-{: .label .label-yellow }
+{: .label .label-red }
+
 #### Full Plate
 
 | [Armour Integrity](Game/Core/Armour#Armour%20Integrity)    | 6                                                                          |
@@ -15,4 +15,3 @@ Armour
 | [Weakness](Game/Core/Armour#Weakness%20and%20Resistance)   | -                                                                          |
 | [Resistance](Game/Core/Armour#Weakness%20and%20Resistance) | [Rending](Game/Core/Injury#Rending), [Piercing](Game/Core/Injury#Piercing) |
 | [Armour-Traits](Game/Core/Armour-Traits)                   | -                                                                          |
-

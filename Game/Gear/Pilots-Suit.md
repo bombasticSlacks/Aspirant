@@ -1,4 +1,3 @@
-
 Armour
 {: .label .label-purple }
 
@@ -6,8 +5,10 @@ Armour
 {: .label .label-blue }
 
 [Master Work](Game/Designing-Weapons#Master%20Work)
-{: .label .label-yellow }
+{: .label .label-red }
+
 #### Pilots Suit
+
 A [Tough](Game/Blocks/Tough), [Warded](Game/Blocks/Warded), suit of archeotech brass weaved with magical fabrics.
 
 | [Armour Integrity](Game/Core/Armour#Armour%20Integrity)    | 4                                                            |

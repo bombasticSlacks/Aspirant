@@ -34,7 +34,7 @@ grand_parent: Worlds
 * Corporal thinks the Tea was poisoned. Everyone should know for certain tomorrow. 
 * Bront spent inspiration to say there was an astronomer who lived adjacent with LOS to the windows.
 * Burns Street, hooded figures, 
-* The Red Bishop entity with the hand is called the "cardinal" (don't know in game yet).
+* The Red Sun entity with the hand is called the "cardinal" (don't know in game yet).
 * The corporal knows of the documents the politician was writing, but doesn't have clearance to share.
 * **CURRENTLY MID AFTERNOON (3-4)**
 * Heading to the Astronomers

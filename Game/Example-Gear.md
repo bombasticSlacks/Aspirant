@@ -261,6 +261,7 @@ _A collection of stamps, plates, glossy paper and inks required to forge officia
 
 _A set of cards, dice, small hobby models, or other things a group of people could play with, allowing a group of people to easily pass time. 1 size of [Artisan](Materials#Artisan) materials._
 
+- If the owner of a Games Kit does the [Socialize](Game/Activities#Socialize) activity one other person may [Socialize](Game/Activities#Socialize) for free as well.
 - Size 1.
 - Cost 5.
 

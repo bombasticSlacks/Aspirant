@@ -1,4 +1,3 @@
-
 Armour
 {: .label .label-purple }
 
@@ -6,7 +5,7 @@ Armour
 {: .label .label-blue }
 
 [Master Work](Game/Designing-Weapons#Master%20Work)
-{: .label .label-yellow }
+{: .label .label-red }
 
 #### Brigadine
 
@@ -16,4 +15,3 @@ Armour
 | [Weakness](Game/Core/Armour#Weakness%20and%20Resistance)   | [Cold](Game/Core/Injury#Cold)     |
 | [Resistance](Game/Core/Armour#Weakness%20and%20Resistance) | [Impact](Game/Core/Injury#Impact) |
 | [Armour-Traits](Game/Core/Armour-Traits)                   | -                                 |
-

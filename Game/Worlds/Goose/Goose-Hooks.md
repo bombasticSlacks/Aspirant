@@ -12,9 +12,6 @@ Gave the lantern to Dimitrius, next time they are in [Mournest](Game/Worlds/Goos
 
 **Competed Got 1xp and the lantern.**
 
-## Where is the Food?
-The cult is getting food from somewhere on the coast. Maybe figure out where.
-
 ## The Great Devourer
 An ancient hungry beast of blood and flesh in the north. Potentially once a vampire but worshiped as a God of death.
 
@@ -22,14 +19,6 @@ Mentioned by [Dres Snider (She/Her)](Game/Worlds/Goose/Mornhold#Dres%20Snider%20
 
 Darcellus mentioned that there is a mayor of a city there Jeremia who is its thrall. 
 Darcellus wants it dead as its a blight on vampires, it also probably harbours some of the old blood. 
-
-## The Mermaids Treasure
-[Cpt. Firebrand](Game/Worlds/Goose/Mornhold#Cpt.%20Firebrand) worked with the Merpeople to hide their treasure. We know the location.
-
-## The Mecha
-5 Size of unburnable material, 4 size of clockwork + heart itself.
-
-Roundrox could build a mecha suit that shoots lava.
 
 
 ## Red Suns Trail

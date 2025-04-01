@@ -109,8 +109,8 @@ This saddle can be used on any animal, including wild, at will and without needi
 Used in the ascention ceremony to become a member of the "dragons cabal".
 
 When someone imbibes the dragons heart they gain one of the following enchantments:
-![Dragons-Wings](Game/Worlds/Post-Calamity/Oddities/Dragons-Wings)
-![Dragons-Scales](Game/Worlds/Post-Calamity/Oddities/Dragons-Scales)
-![Dragons-Breath](Game/Worlds/Post-Calamity/Oddities/Dragons-Breath)
+![Dragons-Wings](Game/Worlds/Oddities/Dragons-Wings)
+![Dragons-Scales](Game/Worlds/Oddities/Dragons-Scales)
+![Dragons-Breath](Game/Worlds/Oddities/Dragons-Breath)
 
 ## Troops

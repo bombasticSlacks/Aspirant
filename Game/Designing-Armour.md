@@ -33,12 +33,15 @@ Exotic armours incorporate additional complexity of both materials and design al
 * Use 2 materials, at least 1 of which is [Exotic](Materials#Exotic).
 * Have 2 [Crafting Points](#Crafting%20Points).
 
-### Masterwork
+### Master Work
 
 Master worked armour is an artisan or exotic armour of exceptional craftsmanship and design. 
 * A piece of masterwork armour gains 1 additional [Crafting Points](#Crafting%20Points)
 * May take a single [Armour-Templates](Armour-Templates) it does not meet the material requirement for. 
 * Must include at least one additional [Exotic](Materials#Exotic) material in its construction.
+
+### Relic
+Armours that go beyond what could be possible with enchanting or standard craftsmanship can be considered relics. They may still be crafted, but would require more narrative investment then a simple skill roll.
 
 
 ## Materials

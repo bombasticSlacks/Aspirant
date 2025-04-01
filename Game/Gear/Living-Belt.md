@@ -7,9 +7,6 @@ Size 2
 [Relic](Game/Designing-Weapons#Relic)
 {: .label .label-blue }
 
-[Discordant](Game/Magic-Items#Discordant)
-{: .label .label-blue }
-
 #### Living Belt
 *A magical artifact of a belt brought to life, can be used as a [Belt-Whip](Game/Gear/Belt-Whip) or can behave as an [Ally](Game/Core/Terminology#Ally)*
 

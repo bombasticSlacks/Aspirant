@@ -1,4 +1,3 @@
-
 Armour
 {: .label .label-purple }
 
@@ -6,10 +5,11 @@ Armour
 {: .label .label-blue }
 
 [Master Work](Game/Designing-Weapons#Master%20Work)
-{: .label .label-yellow }
+{: .label .label-red }
 
 #### Goblin Mech
-*A suit of massive mechanized armour powered by a core of fire.*
+
+_A suit of massive mechanized armour powered by a core of fire._
 
 | [Armour Integrity](Game/Core/Armour#Armour%20Integrity)    | 6                                                                                       |
 | :--------------------------------------------------------- | :-------------------------------------------------------------------------------------- |

@@ -12,6 +12,8 @@ Multiple families of powerful undead.
 
 ## Lunar
 
+**Generally weak to fire**
+
 Subterfuge, shadows, darkness
 
 Feast on fear,
@@ -78,6 +80,8 @@ _You extend further than what matters._
 
 ## Crimson
 
+**Generally weak to life**
+
 Blood magic, blood powers
 
 Matriarchy, led by the countess and her court of crimson ladies.
@@ -88,6 +92,8 @@ Can be identified by their sharp teeth.
 Can only cross bodies of water in deep meditation.
 
 ## Carrion
+
+**Generally weak to Cold**
 
 Warriors, battlers, consume the power of their enemies.
 
