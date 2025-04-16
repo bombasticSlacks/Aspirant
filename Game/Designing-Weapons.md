@@ -78,29 +78,29 @@ This damage bonus can then be converted into a damage:
 
 | Damage Bonus | Damage | Extra Damage Penalty |
 | ------------ | ------ | -------------------- |
-| 0            | 1      | (-2)                 |
-| 1            | 1      | (-1)                 |
-| 2            | 2      | (-2)                 |
-| 3            | 2      | (-1)                 |
-| 4            | 3      | (-2)                 |
-| 5            | 3      | (-1)                 |
-| 6            | 4      | (-2)                 |
-| 7            | 4      | (-1)                 |
-| 8            | 5      | (-2)                 |
-| 9            | 5      | (-1)                 |
-| 10           | 6      | (-2)                 |
-| 11           | 6      | (-1)                 |
-| 12           | 7      | (-2)                 |
-| 13           | 7      | (-1)                 |
-| 14           | 8      | (-2)                 |
-| 15           | 8      | (-1)                 |
-| 16           | 9      | (-2)                 |
-| 17           | 9      | (-1)                 |
-| 18           | 10     | (-2)                 |
-| 19           | 10     | (-1)                 |
+| 0            | 1      | (-3)                 |
+| 1            | 1      | (-2)                 |
+| 2            | 2      | (-3)                 |
+| 3            | 2      | (-2)                 |
+| 4            | 3      | (-3)                 |
+| 5            | 3      | (-2)                 |
+| 6            | 4      | (-3)                 |
+| 7            | 4      | (-2)                 |
+| 8            | 5      | (-3)                 |
+| 9            | 5      | (-2)                 |
+| 10           | 6      | (-3)                 |
+| 11           | 6      | (-2)                 |
+| 12           | 7      | (-3)                 |
+| 13           | 7      | (-2)                 |
+| 14           | 8      | (-3)                 |
+| 15           | 8      | (-2)                 |
+| 16           | 9      | (-3)                 |
+| 17           | 9      | (-2)                 |
+| 18           | 10     | (-3)                 |
+| 19           | 10     | (-2)                 |
 
 
-> A [Size](#Size) 3 [Artisan](#Artisan) weapon, with the [Lethal](Game/Blocks/Lethal) [Weapon-Templates](Game/Weapon-Templates) would have a damage bonus of 8, 6 from [Size Matters](Core/Weapon-Traits#Size%20Matters), 1 from [Artisan](#Artisan), 1 from [Lethal](Core/Weapon-Traits#Lethal). This means it does 4 damage with an [Extra Damage](Game/Core/Attacks#Extra%20Damage) penalty of (-1).
+> A [Size](#Size) 3 [Artisan](#Artisan) weapon, with the [Lethal](Game/Blocks/Lethal) [Weapon-Templates](Game/Weapon-Templates) would have a damage bonus of 8, 6 from [Size Matters](Core/Weapon-Traits#Size%20Matters), 1 from [Artisan](#Artisan), 1 from [Lethal](Core/Weapon-Traits#Lethal). This means it does 4 damage with an [Extra Damage](Game/Core/Attacks#Extra%20Damage) penalty of (-2).
 
 ## Crafting
 A character looking to craft a specific weapon first requires the size + 1 worth of materials and [Craftsman](Craftsman) training saying they are able to make what they want. 
