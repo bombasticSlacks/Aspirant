@@ -130,7 +130,7 @@ _You travel ahead, and plan the journey._
 
 _You share stories, play games, or train with your friends._
 
-- Any time you [Aid](Core/Skills#Aid%20and%20Hindrance) a character who also Socialized when selecting [Activities](Activities), you get a (+2) instead of a (+1).
+- Any time you [Aid](Core/Skills#Aid%20and%20Hindrance) a character who also Socialized when selecting [Activities](Activities), you count as having their bonus for the purposes of increasing their bonus. 
 - You may spend up to 2XP [Learning](Character-Development#Learning), a skill or training another [Character](Core/Terminology#Character) also socializing has [Known](Character-Development#Known).
 
 ---

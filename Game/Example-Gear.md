@@ -399,7 +399,7 @@ _A collection of simple medicines, bandages, synthetic skin, coagulating powder,
 - [Charges](Core/Gear#Charges)(5).
 - [Charges](Core/Gear#Charges) cost 2 silver to replace.
 - A trauma kit [Charge](Core/Gear#Charges) can be used to provide (+1) to any medical [Application](Core/Intelligence#Application) [Action](Core/Terminology#Action).
-- A trauma kit [charge](Core/Gear#Charges) can be used to perform first aid to remove the [Defeated](Core/Effects#Defeated) effect. This is a [Application](Core/Intelligence#Application) [Opposed Difficulty](Core/Skills#Opposed%20Difficulty)([Long Term Injury](Core/Effects#Long%20Term%20Injury)). If you succeed, reduce their [Long Term Injury](Core/Effects#Long%20Term%20Injury) penalty by 1. If you fail they just remove [Defeated](Core/Effects#Defeated).
+- A trauma kit [charge](Core/Gear#Charges) can be used to perform first aid to remove the [Defeated](Core/Effects#Defeated) effect. This is a [Application](Core/Intelligence#Application) with a penalty equal to , reduce their [Long Term Injury](Core/Effects#Long%20Term%20Injury) penalty by 1. If you fail they just remove [Defeated](Core/Effects#Defeated).
 
 ---
 
