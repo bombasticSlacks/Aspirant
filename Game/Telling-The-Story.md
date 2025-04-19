@@ -31,7 +31,7 @@ This tends to happen when you are in a safe area. When in a friendly settlement 
 
 ## Travelling
 
-Travelling in Aspirant can take long amounts of time. Travelling involves knowing the direction or location of something and then travelling towards it. Travel will usually take a number of days. To travel you require at minimum [Camping Gear](Example-Gear#Camping%20Gear).
+Travelling in Aspirant can take long amounts of time. Travelling involves knowing the direction or location of something and then travelling towards it. Travel will usually take a number of days. To travel you require at minimum [Camping Gear](Game/Example-Gear.md#Camping%20Gear).
 
 ### Travel Segment
 

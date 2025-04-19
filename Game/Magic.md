@@ -18,14 +18,14 @@ Channelling magic is a [Ascendancy](Core/Spirit#Ascendancy) [Fixed Difficulty](C
 
 Channelled Magic requires:
 
-- A [Focus](Example-Gear#Focus).
+- A [Focus](Game/Example-Gear.md#Focus).
 - [Resonant](Resonant) [Materials](Materials) to power it.
 - Training in [Ascendancy](Core/Spirit#Ascendancy).
 - Additional training to do more than simple parlour tricks.
 
 ### Magical Energy
 
-Channelled magic requires magical energy. Focused magic that can be expended to temporarily shape the world around you. [Resonant](Resonant) material has inherent magical energy based on its quality. A [Focus](Example-Gear#Focus) can be used to convert this magical energy into effects.
+Channelled magic requires magical energy. Focused magic that can be expended to temporarily shape the world around you. [Resonant](Resonant) material has inherent magical energy based on its quality. A [Focus](Game/Example-Gear.md#Focus) can be used to convert this magical energy into effects.
 
 ## Concentration
 
@@ -47,7 +47,7 @@ Ritual magic is a [Ascendancy](Core/Spirit#Ascendancy) [Fixed Difficulty](Core/S
 
 Ritual Magic requires:
 
-- A [Reagent Bag](Example-Gear#Reagent%20Bag).
+- A [Reagent Bag](Game/Example-Gear.md#Reagent%20Bag).
 - Additional [Materials](Materials).
 - Training in [Ascendancy](Core/Spirit#Ascendancy).
 - Additional training to do more than follow a ritual from a manual or book.

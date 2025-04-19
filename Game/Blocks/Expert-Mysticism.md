@@ -17,4 +17,4 @@ Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 - Create undead, and transplant souls between vessels.
 - Regrow lost flesh.
 
-[Crafting Cost](Core/Terminology#Crafting%20Cost): 1 size of [Exotic](Materials#Exotic) [Materials](Materials) + a [Reagent Bag](Example-Gear#Reagent%20Bag) charge.
+[Crafting Cost](Core/Terminology#Crafting%20Cost): 1 size of [Exotic](Materials#Exotic) [Materials](Materials) + a [Reagent Bag](Game/Example-Gear.md#Reagent%20Bag) charge.

@@ -9,7 +9,7 @@ Advanced
 {: .label .label-purple }
 ### Kinetic Monk
 
-While holding nothing but a [Focus](Example-Gear#Focus) you can [Substitute](Core/Terminology#Substitute) [Ascendancy](Core/Spirit#Ascendancy) for [Physique](Core/Strength#Physique). While doing this, you have the following weapon profile:
+While holding nothing but a [Focus](Game/Example-Gear.md#Focus) you can [Substitute](Core/Terminology#Substitute) [Ascendancy](Core/Spirit#Ascendancy) for [Physique](Core/Strength#Physique). While doing this, you have the following weapon profile:
 
 | Default [Damage](Core/Weapons#Damage)                     | 4                                                                            |
 | :-------------------------------------------------------- | :--------------------------------------------------------------------------- |
