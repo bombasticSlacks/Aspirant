@@ -9,4 +9,4 @@ Basic
 {: .label .label-purple }
 ### Shadow Illusionist
 
-As long as you have a [Focus](Game/Example-Gear.md#Focus), you can perform [Ascendancy](Core/Spirit#Ascendancy) tests to sneak, move silently, hide and do other duplicitous acts.
+As long as you have a [Focus](Game/Example-Gear#Focus), you can perform [Ascendancy](Core/Spirit#Ascendancy) tests to sneak, move silently, hide and do other duplicitous acts.

@@ -6,7 +6,7 @@ has_children: true
 # Tables
 ## [Example Armour](Example-Armour)
 ## [Example Comestibles](Example-Comestibles)
-## [Example Gear](Game/Example-Gear.md)
+## [Example Gear](Game/Example-Gear)
 ## [Example Spells](Example-Spells)
 ## [Example Storage](Example-Storage)
 ## [Example Transhumanist Effects](Example-Transhumanist-Effects)

@@ -9,6 +9,6 @@
 *This weapon fires arrows.* 
 * [Loading](Game/Core/Blocks/Loading)(0).
 * Range of [Short](Game/Core/Movement#Short).
-* [Capacity](Game/Core/Blocks/Capacity) 1([Ammunition](Game/Example-Gear.md#Ammunition)).
+* [Capacity](Game/Core/Blocks/Capacity) 1([Ammunition](Game/Example-Gear#Ammunition)).
 * Gains [Salvageable-Ammo](Game/Core/Blocks/Salvageable-Ammo).
 * Loses [Striking](Game/Core/Blocks/Striking) and gains [Targeted](Game/Core/Blocks/Targeted).

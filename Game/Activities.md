@@ -139,7 +139,7 @@ _You share stories, play games, or train with your friends._
 
 _You work on reinforcing your learning._
 
-- You may spend up to 2XP on [Learning](Character-Development#Learning) something [In Progress](Character-Development#In%20Progress), or something [Unknown](Character-Development#Unknown) if you have a [Training Manual](Game/Example-Gear.md#Training%20Manual).
+- You may spend up to 2XP on [Learning](Character-Development#Learning) something [In Progress](Character-Development#In%20Progress), or something [Unknown](Character-Development#Unknown) if you have a [Training Manual](Game/Example-Gear#Training%20Manual).
 
 ---
 

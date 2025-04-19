@@ -1,7 +1,7 @@
 Armour
 {: .label .label-purple }
 
-[Artisan](Game/Designing-Armour.md#Artisan)
+[Artisan](Game/Designing-Armour#Artisan)
 {: .label .label-blue }
 
 [Master Work](Game/Designing-Weapons#Master%20Work)

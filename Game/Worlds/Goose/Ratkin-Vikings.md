@@ -1,4 +1,4 @@
-A group of Rat humanoid vikings / Mauraders.  Trading with the Cult.
+A group of Rat humanoid vikings / Mauraders. Trading with the Cult.
 Don't speak english per se,
 
 * Are raiding with the cultists for land and stuff

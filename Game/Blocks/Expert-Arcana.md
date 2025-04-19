@@ -17,4 +17,4 @@ Your character can perform [Ritual Magic](Game/Magic#Ritual%20Magic) to:
 - Conjure more complex items that will be missed.
 - Teleport an exact item to yourself.
 
-[Crafting Cost](Game/Core/Terminology#Crafting%20Cost): Size of target item in [Exotic](Game/Materials#Exotic) [Materials](Game/Materials) + Size of target item in [Artisan](Game/Materials#Artisan) [Materials](Game/Materials) + a [Reagent Bag](Game/Example-Gear.md#Reagent%20Bag) charge.
+[Crafting Cost](Game/Core/Terminology#Crafting%20Cost): Size of target item in [Exotic](Game/Materials#Exotic) [Materials](Game/Materials) + Size of target item in [Artisan](Game/Materials#Artisan) [Materials](Game/Materials) + a [Reagent Bag](Game/Example-Gear#Reagent%20Bag) charge.

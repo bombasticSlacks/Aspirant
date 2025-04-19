@@ -15,6 +15,6 @@ Size 4
 | [Extra Damage](Game/Core/Attacks#Extra%20Damage) Modifier | (-1)                                                                                                                                                                                                                       |
 | [Damage Type](Core/Weapons#Damage%20Type)                 | [Piercing](Game/Core/Injury#Piercing)                                                                                                                                                                                      |
 | [Range](Core/Weapons#Range)                               | [Impossible](Game/Core/Movement#Impossible)*                                                                                                                                                                               |
-| [Weapon Traits](Core/Weapon-Traits)                       | [Loading](Game/Core/Blocks/Loading)(2), [Capacity](Game/Core/Blocks/Capacity)(5, [Ammunition](Game/Example-Gear.md#Ammunition)), [Targeted](Game/Core/Blocks/Targeted), [Very-Threatening](Game/Core/Blocks/Very-Threatening) |
+| [Weapon Traits](Core/Weapon-Traits)                       | [Loading](Game/Core/Blocks/Loading)(2), [Capacity](Game/Core/Blocks/Capacity)(5, [Ammunition](Game/Example-Gear#Ammunition)), [Targeted](Game/Core/Blocks/Targeted), [Very-Threatening](Game/Core/Blocks/Very-Threatening) |
 
 This weapon is accurate enough to be used over [Impossible](Game/Core/Movement#Impossible) distances when appropriate.

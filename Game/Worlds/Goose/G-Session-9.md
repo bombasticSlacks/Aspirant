@@ -7,7 +7,7 @@ grand_parent: Worlds
 ---
 # Session 9
 
-## Fall 1st - 
+## Fall 1st -
 * Doing Downtime:
 	* Bront - Skilled Work didn't make any money.
 	* Mal - Day Work 3 Silver

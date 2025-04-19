@@ -25,7 +25,7 @@ When you learn something, it will either be [Unknown](#Unknown), [In Progress](#
 
 ### Requirements
 
-A character can’t learn from nothing. When your character desires to learn something [Unknown](#Unknown), a person needs to be paid for [Teaching](Services#Teaching), or they need a [Training Manual](Game/Example-Gear.md#Training%20Manual). Either way, they will also need to have XP available to spend.
+A character can’t learn from nothing. When your character desires to learn something [Unknown](#Unknown), a person needs to be paid for [Teaching](Services#Teaching), or they need a [Training Manual](Game/Example-Gear#Training%20Manual). Either way, they will also need to have XP available to spend.
 
 ### Unknown
 

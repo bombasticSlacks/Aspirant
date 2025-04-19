@@ -10,4 +10,4 @@ Basic
 
 ### Spell Sword
 
-You may use any [Artisan](Materials#Artisan) or greater [Quality](Core/Weapons#Quality) weapon as a [Focus](Game/Example-Gear.md#Focus).
+You may use any [Artisan](Materials#Artisan) or greater [Quality](Core/Weapons#Quality) weapon as a [Focus](Game/Example-Gear#Focus).

@@ -4,7 +4,7 @@ Weapon
 Size 2
 {: .label .label-yellow }
 
-[Artisan](Game/Designing-Weapons.md#Artisan)
+[Artisan](Game/Designing-Weapons#Artisan)
 {: .label .label-blue }
 
 

@@ -24,8 +24,8 @@ grand_parent: Worlds
 * Cleared the rooms, defeated the boss easily.
 * Maria asked them to join at the Zinatu camp.
 * Headed back to calphion, going to the church
-* [Harper Aiolfi (He/Him)](Game/Worlds/Post-Calamity/Calphion.md#Harper%20Aiolfi%20(He/Him)) is going back to the tower of the saint.
-* [Ignis Lux](Game/Worlds/Post-Calamity/Alexander-Aurelius.md#Ignis%20Lux) is making rounds about town.
+* [Harper Aiolfi (He/Him)](Game/Worlds/Post-Calamity/Calphion#Harper%20Aiolfi%20(He/Him)) is going back to the tower of the saint.
+* [Ignis Lux](Game/Worlds/Post-Calamity/Alexander-Aurelius#Ignis%20Lux) is making rounds about town.
 * Downtime 14 - 19 Winter
 	* Greg - Training Battle Mount. 
 	* Alexader - Call on the city. 
@@ -34,7 +34,7 @@ grand_parent: Worlds
 	* Simple - Routine Maint.
 * Alexander getting some fancy metal. (2 size worth).
 * Told the dockmaster of the potential merchants guild coming out soon.
-* [Marrin Tosta (he/him)](Game/Worlds/Post-Calamity/Calphion.md#Marrin%20Tosta%20(he/him)) will provide them with a workshop to build their auto carraige. 
+* [Marrin Tosta (he/him)](Game/Worlds/Post-Calamity/Calphion#Marrin%20Tosta%20(he/him)) will provide them with a workshop to build their auto carraige. 
 * Alexander wants to recruit Ignis. 
 * Doing probably 1 more DT. 
 * Alexander gonna learn application by watching the car be made.

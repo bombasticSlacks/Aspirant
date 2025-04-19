@@ -14,4 +14,4 @@ Your character can perform [Ritual Magic](Game/Magic#Ritual%20Magic) to:
 * Summon a familiar that obeys
 * Conjure simple items that won't be missed (from wherever you take them).
 
- [Crafting Cost](Game/Core/Terminology#Crafting%20Cost): 1 size of [Artisan](Game/Materials#Artisan) [Materials](Game/Materials) + a [Reagent Bag](Game/Example-Gear.md#Reagent%20Bag) charge.
+ [Crafting Cost](Game/Core/Terminology#Crafting%20Cost): 1 size of [Artisan](Game/Materials#Artisan) [Materials](Game/Materials) + a [Reagent Bag](Game/Example-Gear#Reagent%20Bag) charge.

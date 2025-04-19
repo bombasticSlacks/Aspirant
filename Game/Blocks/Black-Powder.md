@@ -7,5 +7,5 @@
 * +6 [Damage Bonus](Game/Core/Weapons#Damage%20Bonus). 
 * [Loading](Game/Core/Blocks/Loading)(2).
 * Range of [Far](Game/Core/Movement#Far).
-* [Capacity](Game/Core/Blocks/Capacity)(1, [Ammunition](Game/Example-Gear.md#Ammunition)).
+* [Capacity](Game/Core/Blocks/Capacity)(1, [Ammunition](Game/Example-Gear#Ammunition)).
 * Loses [Striking](Game/Core/Blocks/Striking) and gains [Targeted](Game/Core/Blocks/Targeted).

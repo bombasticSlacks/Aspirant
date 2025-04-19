@@ -6,6 +6,6 @@ Specialized
 
 Basic
 {: .label .label-purple }
-### Sustenance 
+### Sustenance
 
 * You do not need to eat food, or drink water.
