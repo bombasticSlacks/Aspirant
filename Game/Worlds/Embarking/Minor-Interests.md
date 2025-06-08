@@ -9,7 +9,7 @@ grand_parent: Worlds
 ## Minor Interests
 *An additional portion of an aspirants interests.*
 
-![Crafter](Game/Worlds/Embarking/Embarking-Minor-Interests/Crafter)
-![Healer](Game/Worlds/Embarking/Embarking-Minor-Interests/Healer)
-![Ritualist](Game/Worlds/Embarking/Embarking-Minor-Interests/Ritualist)
-![Historian](Game/Worlds/Embarking/Embarking-Minor-Interests/Historian)
+![Crafter](Game/Worlds/Embarking/Embarking-Interests/Crafter)
+![Healer](Game/Worlds/Embarking/Embarking-Interests/Healer)
+![Witch](Game/Worlds/Embarking/Embarking-Interests/Witch)
+![Historian](Game/Worlds/Embarking/Embarking-Interests/Historian)
