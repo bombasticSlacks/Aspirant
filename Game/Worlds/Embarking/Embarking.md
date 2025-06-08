@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Goose World
+title: Embarking
 parent: Worlds
 has_children: true
 ---
