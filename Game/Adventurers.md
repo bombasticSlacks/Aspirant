@@ -31,7 +31,7 @@ Assign your [Attributes](Core/Attributes) placing one of the two sets of values 
 - 4,3,2,2,2
 - 3,3,3,2,2
 
-> So, 4 [Strength](Core/Strength), 3 [Agility](Core/Agility), 2 [Intelligence](Core/Intelligence), 2 [Spirit](Core/Spirit), 2 [Communication](Core/Communication) is a valid stat line
+> So, 4 [Strength](Core/Strength), 3 [Agility](Core/Agility), 2 [Intelligence](Core/Intelligence), 2 [Intuition](Game/Core/Intuition.md), 2 [Communication](Core/Communication) is a valid stat line
 
 ## Determine Your Skills
 

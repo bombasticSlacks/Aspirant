@@ -16,4 +16,4 @@ Remember that Aspirant is a magical world and medicine should be similarly magic
 
 ## Enchanting
 
-Similarly to the above, enchanters can produce similar items with similar effects using [Ascendancy](Core/Spirit#Ascendancy) instead of [Application](Core/Intelligence#Application).
+Similarly to the above, enchanters can produce similar items with similar effects using [Ascendancy](Game/Core/Intuition.md#Ascendancy) instead of [Application](Core/Intelligence#Application).

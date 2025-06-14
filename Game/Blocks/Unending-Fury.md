@@ -9,4 +9,4 @@ Master
 {: .label .label-purple }
 ### Unending Fury
 
-You and your [Allies](Core/Terminology#Ally) get a (+2) to [Volition](Core/Spirit#Volition) and [Endurance](Core/Strength#Endurance) skill tests.
+You and your [Allies](Core/Terminology#Ally) get a (+2) to [Volition](Game/Core/Intuition.md#Awareness) and [Endurance](Core/Strength#Endurance) skill tests.

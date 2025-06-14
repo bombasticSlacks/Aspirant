@@ -9,4 +9,4 @@ Basic
 {: .label .label-purple }
 ### Magic Perception
 
-You can detect magic passively without needing to perform an [Action](Game/Core/Terminology#Action) with [Understanding](Core/Intelligence#Understanding).
+You can detect magic passively without needing to perform an [Action](Game/Core/Terminology#Action) with [Understanding](Core/Intelligence#Memory).

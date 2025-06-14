@@ -9,4 +9,4 @@ Basic
 
 ### Knowledgeable Magi
 
-You're knowledgeable about all magic, spells, rituals, and places of power and can make [Understanding](Game/Core/intelligence#Understanding) tests to know about them.
+You're knowledgeable about all magic, spells, rituals, and places of power and can make [Understanding](Game/Core/intelligence#Memory) tests to know about them.

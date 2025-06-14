@@ -9,4 +9,4 @@ Basic
 
 ### Knowledgeable Cryptozoologist
 
-You're knowledgeable about all animals and monsters and can make [Understanding](Game/Core/intelligence#Understanding) tests to know about them.
+You're knowledgeable about all animals and monsters and can make [Understanding](Game/Core/intelligence#Memory) tests to know about them.

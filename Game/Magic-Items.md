@@ -19,7 +19,7 @@ In Aspirant magic items should be unique, interesting and full of lore. There ar
 
 Enchanted and magical items that are worn or otherwise functionaly take no space on your person need to be grounded to a [Character](Core/Terminology#Character) to work. This process requires either:
 
-- A successful [Ascendancy](Core/Spirit#Ascendancy) [Fixed Difficulty](Core/Skills#Fixed%20Difficulty)(0).
+- A successful [Ascendancy](Game/Core/Intuition.md#Ascendancy) [Fixed Difficulty](Core/Skills#Fixed%20Difficulty)(0).
 - An [Expert Commission](Services#Expert%20Commissions).
 
 A [Character](Core/Terminology#Character) can bind to a number of items up to their [Affinity](Game/Blocks/Affinity). You can bind to an item once per [Downtime](Telling-The-Story#Downtime).

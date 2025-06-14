@@ -9,4 +9,4 @@ Basic
 
 ### Knowledgeable Geographer
 
-You're knowledgeable about all geography and can make [Understanding](Game/Core/intelligence#Understanding) tests to know about them.
+You're knowledgeable about all geography and can make [Understanding](Game/Core/intelligence#Memory) tests to know about them.

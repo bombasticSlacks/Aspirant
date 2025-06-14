@@ -9,4 +9,4 @@ Basic
 
 ### Intellectual Methods
 
-[Ascendancy](Game/Core/Spirit#Ascendancy) is an [Intelligence](Game/Core/Intelligence) skill for you.
+[Ascendancy](Game/Core/Intuition.md#Ascendancy) is an [Intelligence](Game/Core/Intelligence) skill for you.
