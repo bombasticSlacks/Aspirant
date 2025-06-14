@@ -9,4 +9,4 @@ Basic
 {: .label .label-purple }
 ### Magical Dulling
 
-All [Ascendancy](Game/Core/Intuition.md#Ascendancy) [Action](Game/Core/Terminology#Action) used [Close](Game/Core/Movement#Close) to you, including your own, are at a (-1).
+All [Ascendancy](Game/Core/Intuition#Ascendancy) [Action](Game/Core/Terminology#Action) used [Close](Game/Core/Movement#Close) to you, including your own, are at a (-1).

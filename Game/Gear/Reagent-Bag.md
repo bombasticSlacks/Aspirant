@@ -5,7 +5,7 @@ Size 2
 {: .label .label-yellow }
 
 #### Reagent Bag
-_A well constructed satchel of elixirs, dried powdered items, and other small bits of magic that can be used to perform [Rituals](Game/Core/Intuition.md#Ascendancy). 1 size [Artisan Hide](Hide#Artisan%20Hide) + [Charges](Game/Core/Blocks/Charges)._
+_A well constructed satchel of elixirs, dried powdered items, and other small bits of magic that can be used to perform [Rituals](Game/Core/Intuition#Ascendancy). 1 size [Artisan Hide](Hide#Artisan%20Hide) + [Charges](Game/Core/Blocks/Charges)._
 
 - Cost 15.
 - [Charges](Game/Core/Blocks/Charges)(5).

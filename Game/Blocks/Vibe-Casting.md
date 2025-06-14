@@ -10,4 +10,4 @@ Basic
 
 ### Vibe Casting
 
-[Ascendancy](Game/Core/Intuition.md#Ascendancy) is a [Communication](Core/Communication) skill for you.
+[Ascendancy](Game/Core/Intuition#Ascendancy) is a [Communication](Core/Communication) skill for you.
