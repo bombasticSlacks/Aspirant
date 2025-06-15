@@ -13,7 +13,7 @@ The world is full of powerful and magical materials for characters to scavenge. 
 ## Basic Flora
 Simple plants useful for herbal remedies and basic purposes.
 
-> Wild flowers, tobacco
+> Wild flowers, tobacco, hard woods
 
 ## Artisan Flora
 Specialized plants with great properties possible to derive.
@@ -23,4 +23,4 @@ Specialized plants with great properties possible to derive.
 ## Exotic Flora
 Plants with truly magical properties.
 
-> Glowbulb, firegrass, noxgreen
+> Glowbulb, firegrass, noxgreen, elvish wood
