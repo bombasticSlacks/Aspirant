@@ -8,8 +8,9 @@ Armour
 {: .label .label-red }
 
 #### Brigadine
+*armour of metal plates affixed to a thick cloth gambeson. Metal with textiles.*
 
-| [Armour Integrity](Game/Core/Armour#Armour%20Integrity)    | 4                                 |
+| [Armour Integrity](Game/Core/Armour#Armour%20Integrity)    | 10                                |
 | :--------------------------------------------------------- | :-------------------------------- |
 | [Skill Penalty](Game/Core/Armour#Skill%20Penalty)          | 0                                 |
 | [Weakness](Game/Core/Armour#Weakness%20and%20Resistance)   | [Cold](Game/Core/Injury#Cold)     |

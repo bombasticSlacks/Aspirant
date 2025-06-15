@@ -57,11 +57,11 @@ This is a list of the base values an armour with each material might have.
 | ------------------------- | ------------- | --------- | ------------------------------------- |
 | [Textiles](Game/Textiles) | (+1)          | 2         | [Rending](Game/Core/Injury#Rending)   |
 | [Hide](Game/Hide)         | (+1)          | 2         | [Impact](Game/Core/Injury#Impact)     |
-| [Bits](Game/Bits)         | (0)           | 3         | [Piercing](Game/Core/Injury#Piercing) |
-| [Liquid](Game/Liquid)     | (-1)          | 4         | [Life](Game/Core/Injury#Life)         |
-| [Metal](Game/Metal)       | (-1)          | 4         | [Cold](Game/Core/Injury#Cold)         |
-| [Resonant](Game/Resonant) | (0)           | 2         | -                                     |
-| [Flora](Game/Flora)       | (0)           | 3         | [Heat](Game/Core/Injury#Heat)         |
+| [Bits](Game/Bits)         | (0)           | 4         | [Piercing](Game/Core/Injury#Piercing) |
+| [Liquid](Game/Liquid)     | (-1)          | 6         | [Life](Game/Core/Injury#Life)         |
+| [Metal](Game/Metal)       | (-1)          | 6         | [Cold](Game/Core/Injury#Cold)         |
+| [Resonant](Game/Resonant) | (0)           | 2         | Your Choice                           |
+| [Flora](Game/Flora)       | (0)           | 4         | [Heat](Game/Core/Injury#Heat)         |
 
 > Some armour concepts are obvious, such as metal, textiles and hide. Consider liquid to be things like epoxy, oil quenching, chemical treatments. Bits to be, bone, quills, feathers, living rock. Resonant to be crystals, powders and gemstones. Flora to be vines, woods and roots. 
 

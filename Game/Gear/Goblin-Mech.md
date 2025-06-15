@@ -1,17 +1,14 @@
 Armour
 {: .label .label-purple }
 
-[Exotic](Game/Designing-Armour#Exotic)
+[Relic](Game/Designing-Armour#Relic)
 {: .label .label-blue }
-
-[Master Work](Game/Designing-Weapons#Master%20Work)
-{: .label .label-red }
 
 #### Goblin Mech
 
 _A suit of massive mechanized armour powered by a core of fire._
 
-| [Armour Integrity](Game/Core/Armour#Armour%20Integrity)    | 6                                                                                       |
+| [Armour Integrity](Game/Core/Armour#Armour%20Integrity)    | 12                                                                                      |
 | :--------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
 | [Skill Penalty](Game/Core/Armour#Skill%20Penalty)          | (-2)                                                                                    |
 | [Weakness](Game/Core/Armour#Weakness%20and%20Resistance)   | [Cold](Game/Core/Injury#Cold)                                                           |
