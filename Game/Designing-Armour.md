@@ -84,14 +84,14 @@ Some armour sacrifces in one way to gain power in another. For each tradeoff you
 - Gain 2 [Critical Weakness](Game/Core/Armour#Critical%20Weakness)
 - Make a [Critical Weakness](Game/Core/Armour#Critical%20Weakness) into a [Weakness](Game/Core/Armour#Weakness%20and%20Resistance)
 - Reduce [Armour Integrity](Game/Core/Armour#Armour%20Integrity) by 2
-- Increase [Skill Penalty](Game/Core/Armour#Skill%20Penalty) by 1.
+- Increase [Reaction Penalty](Game/Core/Armour#Reaction%20Penalty) by 1.
 
 
 ### Crafting Points
  Can be spent to further modify armour. Per crafting point you can (each selectable more than once):
  * Add an [Armour-Traits](Game/Core/Armour-Traits) that can be justified based on the armour.
  * Add 2 [Armour Integrity](Game/Core/Armour#Armour%20Integrity).
- * Reduce [Skill Penalty](Game/Core/Armour#Skill%20Penalty) by 1.
+ * Reduce [Reaction Penalty](Game/Core/Armour#Reaction%20Penalty) by 1.
  * Remove 2 [Critical Weakness](Game/Core/Armour#Critical%20Weakness)
  * Make a [Weakness](Game/Core/Armour#Weakness%20and%20Resistance) into a [Critical Weakness](Game/Core/Armour#Critical%20Weakness)
  * Gain a [Resistance](Game/Core/Armour#Weakness%20and%20Resistance) and a [Critical Weakness](Game/Core/Armour#Critical%20Weakness)

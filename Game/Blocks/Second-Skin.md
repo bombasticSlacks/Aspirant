@@ -10,4 +10,4 @@ Advanced
 
 ### Second Skin
 
-You ignore [Skill Penalties](Core/Armour#Skill%20Penalty) for any [Armour](Core/Armour) you wear.
+You ignore [Skill Penalties](Core/Armour#Reaction%20Penalty) for any [Armour](Core/Armour) you wear.

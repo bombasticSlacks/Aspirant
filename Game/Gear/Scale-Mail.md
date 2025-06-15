@@ -10,7 +10,7 @@ Armour
 
 | [Armour Integrity](Game/Core/Armour#Armour%20Integrity)    | 8                                                                                                         |
 | :--------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- |
-| [Skill Penalty](Game/Core/Armour#Skill%20Penalty)          | 0                                                                                                         |
+| [Reaction Penalty](Game/Core/Armour#Reaction%20Penalty)          | 0                                                                                                         |
 | [Weakness](Game/Core/Armour#Weakness%20and%20Resistance)   | [Cold](Game/Core/Injury#Cold), [Impact](Game/Core/Injury#Impact)!, [Piercing](Game/Core/Injury#Piercing)! |
 | [Resistance](Game/Core/Armour#Weakness%20and%20Resistance) | [Rending](Game/Core/Injury#Rending)                                                                       |
 | [Armour-Traits](Game/Core/Armour-Traits)                   | -                                                                                                         |
