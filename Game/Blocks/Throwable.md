@@ -6,4 +6,4 @@
 {: .label .label-yellow }
 
 ### Throwable
-This weapon is balanced for throwing, it gains the [Thrown](Game/Core/Blocks/Thrown) trait.
+This weapon is balanced for throwing, it gains an additional attack profile with the [Thrown](Game/Core/Blocks/Thrown) trait instead of whatever other skill was originally used, and a [Range](Game/Core/Weapons#Range) of [Close](Game/Core/Movement#Close).
