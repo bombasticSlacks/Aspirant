@@ -113,6 +113,8 @@ This is a perhaps non-exhaustive list of
 *A master of defeating an enemy with preparation. You believe knowledge is power when it comes to defeating an enemy.*
 ##### Knight
 *A master of armour and defense, a knight knows how to move well in heavy armour.*
+##### Commander
+*Leaders with the expertise to support and coordinate their allies.*
 
 - [Academic](Academic)
 - [Arcanist](Arcanist)
