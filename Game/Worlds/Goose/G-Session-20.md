@@ -10,7 +10,7 @@ grand_parent: Worlds
 * Sun palace 
 	* Travel onto boats maybe?? IDFK
 
-## Year 1332 Winter 25th - 
+## Year 1332 Winter 25th -
 * The shade has already grabbed the macguffin 
 * Debated how to recover.
 * Mal is staying at tower

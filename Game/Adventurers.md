@@ -31,7 +31,7 @@ Assign your [Attributes](Core/Attributes) placing one of the two sets of values 
 - 4,3,2,2,2
 - 3,3,3,2,2
 
-> So, 4 [Strength](Core/Strength), 3 [Agility](Core/Agility), 2 [Intelligence](Core/Intelligence), 2 [Spirit](Core/Spirit), 2 [Communication](Core/Communication) is a valid stat line
+> So, 4 [Strength](Core/Strength), 3 [Agility](Core/Agility), 2 [Intelligence](Core/Intelligence), 2 [Intuition](Game/Core/Intuition), 2 [Communication](Core/Communication) is a valid stat line
 
 ## Determine Your Skills
 
@@ -52,9 +52,9 @@ Your characters are guaranteed to begin play with:
 - 6 storage [Backpack](Storage#Backpack).
 - 4 storage [Belt](Storage#Belt).
 - 10 storage [Saddlebag](Storage#Saddlebag).
-- [Camping Gear](Example-Gear#Camping%20Gear).
+- [Camping Gear](Game/Example-Gear#Camping%20Gear).
 - Size 1, 2, or 3 [Basic](Core/Weapons#Basic) Weapon.
-- Set of [Clothing](Example-Gear#Clothing) covering your entire body.
+- Set of [Clothing](Game/Example-Gear#Clothing) covering your entire body.
 - A wild horse [Mount](Mounts) with 1 mobility, 1 toughness, 1 combat.
 - $Silver = 50 + 10 * Total\ XP$
 

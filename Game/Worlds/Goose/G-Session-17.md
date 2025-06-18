@@ -7,7 +7,7 @@ grand_parent: Worlds
 ---
 # Session 17
 
-## Year 1332 Winter 20th - 
+## Year 1332 Winter 20th -
 * Waiting on the Governor doing downtime:
 	* Rei - Busking
 	* Stem - Gonna bind a spirit, needs blood
@@ -22,7 +22,7 @@ grand_parent: Worlds
 	* Heard of an underground bar called the "Red Letter".
 	* Went to checkout political satire, there is a show going on "case of complacency".
 	* Andie (he/him) and Giselmund (they/them) two buskers.
-	* [Quickthinks' Roundrox](Game/Worlds/Goose/Mornhold.md#Quickthinks'%20Roundrox) sets up anarchist groups with stuff.
+	* [Quickthinks' Roundrox](Game/Worlds/Goose/Mornhold#Quickthinks'%20Roundrox) sets up anarchist groups with stuff.
 	* show sets up governor as a clown, "I don't know, whatever is easiest" is the response that he gives everyone.
 * Stem and Casey went to go find blood.
 	* got some, failed the ritual.

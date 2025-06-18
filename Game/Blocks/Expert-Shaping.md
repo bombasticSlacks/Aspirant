@@ -20,4 +20,4 @@ Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 - Alter others in simple ways.
 - Your [Magical-Attacks](Game/Core/Magical-Attacks) gain +1 [Damage](Game/Core/Weapons#Damage), you can use the: [Cone](Game/Core/Magical-Attacks#Cone), and [Stunning](Game/Core/Magical-Attacks#Stunning).
 
-Requires 2 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Example-Gear#Focus)
+Requires 2 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Game/Example-Gear#Focus)

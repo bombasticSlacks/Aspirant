@@ -110,7 +110,7 @@ Reaction
 {: .no*toc }
 \_The air around the cardinal wreaks with an almost maddening scent that can stop you dead in your tracks.*
 
-- When a target moves within [Reach](../Core/Movement#Reach) of The Cardinal, they must succeed an [Volition](../Core/Spirit#Volition) [Fixed Difficulty](../Core/Skills#Fixed%20Difficulty)(0) or end their turn. This effect persists until The Cardinals next [Combat Turn](../Core/Terminology#Combat%20Turn).
+- When a target moves within [Reach](../Core/Movement#Reach) of The Cardinal, they must succeed an [Volition](Game/Core/Intuition#Awareness) [Fixed Difficulty](../Core/Skills#Fixed%20Difficulty)(0) or end their turn. This effect persists until The Cardinals next [Combat Turn](../Core/Terminology#Combat%20Turn).
 
 Trait
 {: .label .label-purple }

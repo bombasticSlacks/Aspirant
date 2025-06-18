@@ -18,4 +18,4 @@ Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 - Transform an item into something completely unrelated.
 - Your [Magical-Attacks](Game/Core/Magical-Attacks) gain +1 [Damage](Game/Core/Weapons#Damage), you can use: [Unavoidable](Game/Core/Magical-Attacks#Unavoidable).
 
-Requires 3 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Example-Gear#Focus)
+Requires 3 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Game/Example-Gear#Focus)

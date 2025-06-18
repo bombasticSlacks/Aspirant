@@ -50,8 +50,8 @@ grand_parent: Worlds
 	* Last siphoning was 8 days ago, was noted missing 3 days ago, Harold Roy signed off on it.
 	* Boat with weapons coming in the next 5 days.
 * Summer 24: Doing another downtime: 
-	* [Akren](Akren):  Taking Shadow Combatant training.
-	* [Alexander-Aurelius](Alexander-Aurelius):  Going to borrow characters tonts and peregrine to be temporary followers.
+	* [Akren](Akren): Taking Shadow Combatant training.
+	* [Alexander-Aurelius](Alexander-Aurelius): Going to borrow characters tonts and peregrine to be temporary followers.
 	* [Arturas-Gabrys](Arturas-Gabrys): Took Strapped training.
 	* [Greg-Colter](Greg-Colter): Took Zoologist.
 	* [Vespin-Aevaris](Vespin-Aevaris): Made 12 silver making a scale mail shirt of anti fire.

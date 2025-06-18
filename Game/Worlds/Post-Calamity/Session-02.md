@@ -25,7 +25,7 @@ grand_parent: Worlds
 * [Tellian](#Tellian) mentioned an underground civilization.
 * Nurse has a weird sorting system of codes for medicine.
 * [Vespin-Aevaris](Vespin-Aevaris) got 1 size of *necrotic flesh bits* from surgery
-* 2 [Dungeoneering Kit](../../Example-Gear#Dungeoneering%20Kit) + Excavation Tool Set + [Light Kit](../../Example-Gear#Light%20Kit) need to return all but the light kit.
+* 2 [Dungeoneering Kit](Game/Example-Gear#Dungeoneering%20Kit) + Excavation Tool Set + [Light Kit](Game/Example-Gear#Light%20Kit) need to return all but the light kit.
 * [Simple-Joe](Simple-Joe) was given 8 silver for performing surgery
 * 15 minutes into the mine travelling and getting tired. 
 * ambushed by the remains of the miners: [The Full](../../Monsters#The%20Full), and 9 of [The Hungry](../../Monsters#The%20Hungry) in the clearing where the attack took place.
@@ -34,7 +34,7 @@ grand_parent: Worlds
 
 ## Rewards
 * Apex Predator [Bits](../../Bits)
-* [Light Kit](../../Example-Gear#Light%20Kit)
+* [Light Kit](Game/Example-Gear#Light%20Kit)
 * Loaned equipment
 * 8 Silver for [Simple-Joe](Simple-Joe)
 

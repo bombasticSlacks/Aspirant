@@ -49,7 +49,7 @@ grand_parent: Worlds
 * [Roxy (Roxanne) la Croix](Game/Worlds/Post-Calamity/Verdantholm#Roxy%20(Roxanne)%20la%20Croix) will think on who would make a good leader of the merchants.
 * Morty new stats.
 * Arturas looked at the autocarraige specs that Xen had, discuss costs of carraige.
-* Simple Greg, writes a letter to [Mo Joe (he/him)](Game/Worlds/Post-Calamity/Verdantholm.md#Mo%20Joe%20(he/him)) to ask about the observations about natural escalation.
+* Simple Greg, writes a letter to [Mo Joe (he/him)](Game/Worlds/Post-Calamity/Verdantholm#Mo%20Joe%20(he/him)) to ask about the observations about natural escalation.
 * 
 
 ### Hooks
@@ -63,7 +63,7 @@ grand_parent: Worlds
 
 #### Ice Elemental
 * 6 Integrity weak to heat, immune to cold
-* attack 4, [Cold](Game/Core/Injury.md#Cold), +3
+* attack 4, [Cold](Game/Core/Injury#Cold), +3
 * (-3) grab into the ice.
 
 

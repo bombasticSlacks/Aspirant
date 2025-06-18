@@ -9,7 +9,7 @@ grand_parent: Worlds
 ## Ideas
 * Fight on boat, then maybe fight the other ship, not sure. 
 
-## Year 1332 Winter 27th -  Spring 2nd
+## Year 1332 Winter 27th - Spring 2nd
 * Teleported onto another. after 1 failure, return crystal is fizzled.
 	* On a higher deck, a large dire rat captain, with a flamboyantly large hat.
 	* First mate up there as well on the balista

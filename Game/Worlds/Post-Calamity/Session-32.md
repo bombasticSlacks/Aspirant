@@ -92,8 +92,8 @@ end
 	* Conscripts confirmed the lightning strikes the manour
 	* [Simple-Joe](Game/Worlds/Post-Calamity/Simple-Joe) finds there is no connection between the church and the lights
 	* [Alexander-Aurelius](Game/Worlds/Post-Calamity/Alexander-Aurelius) and [Akren](Game/Worlds/Post-Calamity/Akren) are getting details of when from [Celina Of Snowcrest (she/her)](Game/Worlds/Post-Calamity/Chordys#Celina%20Of%20Snowcrest%20(she/her)) 
-	* [Akren](Game/Worlds/Post-Calamity/Akren.md) discovered it happens every 14-16 days, its been 12 days since its happened, next time is between the 3rd and the 5th.
-	* [Arturas-Gabrys](Game/Worlds/Post-Calamity/Arturas-Gabrys.md) found a note suggesting to meet in Crosshaven if anyone survived. Also some firebombs. The intentional picking clean of this blind means that there are at least 1+ monster hunters still alive. 
+	* [Akren](Game/Worlds/Post-Calamity/Akren) discovered it happens every 14-16 days, its been 12 days since its happened, next time is between the 3rd and the 5th.
+	* [Arturas-Gabrys](Game/Worlds/Post-Calamity/Arturas-Gabrys) found a note suggesting to meet in Crosshaven if anyone survived. Also some firebombs. The intentional picking clean of this blind means that there are at least 1+ monster hunters still alive. 
 	* Vespin enchants Alexanders armour to be disguised and transforming to visually be other stuff.
 * Made it to the manor
 	* Ignis got them past the conscripts
@@ -105,7 +105,7 @@ end
 	* illuminated with light bulbs.
 	* found the key to the central door.
 	* Found, a book of Basic trainings of the celestials. Needs translation, and the advanced trainings are incomplete.
-	* [Arturas-Gabrys](Game/Worlds/Post-Calamity/Arturas-Gabrys.md) knows how to fix the wolfs armour.
+	* [Arturas-Gabrys](Game/Worlds/Post-Calamity/Arturas-Gabrys) knows how to fix the wolfs armour.
 	* Know from computare that:
 		* The beyond were the original group of celestial beings, spawned the others, "severed" the world when they started warring.
 		* First to ask questions in a long time

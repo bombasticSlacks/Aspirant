@@ -102,7 +102,7 @@ _You tinker and work away in the evenings, maybe even while riding._
 _You organize watch for the team, taking extra shifts when necessary._
 
 - When the GM rolls to determine if an [Ambush Encounter](Telling-The-Story#Ambush%20Encounter) occurs, you may have your [Coordination](Core/Agility#Coordination) provide a penalty to the roll.
-- You receive a +3 on any [Understanding](Core/Intelligence#Understanding) tests during [Ambush Encounter](Telling-The-Story#Ambush%20Encounter).
+- You receive a +3 on any [Awareness](Game/Core/Intuition#Awareness) tests during [Ambush Encounter](Telling-The-Story#Ambush%20Encounter).
 - You are not surprised if ambushed.
 - You regain 1 [Power](Game/Core/Blocks/Power)
 
@@ -130,7 +130,7 @@ _You travel ahead, and plan the journey._
 
 _You share stories, play games, or train with your friends._
 
-- Any time you [Aid](Core/Skills#Aid%20and%20Hindrance) a character who also Socialized when selecting [Activities](Activities), you get a (+2) instead of a (+1).
+- Any time you [Aid](Core/Skills#Aid%20and%20Hindrance) a character who also Socialized when selecting [Activities](Activities), you count as having their bonus for the purposes of increasing their bonus. 
 - You may spend up to 2XP [Learning](Character-Development#Learning), a skill or training another [Character](Core/Terminology#Character) also socializing has [Known](Character-Development#Known).
 
 ---
@@ -139,7 +139,7 @@ _You share stories, play games, or train with your friends._
 
 _You work on reinforcing your learning._
 
-- You may spend up to 2XP on [Learning](Character-Development#Learning) something [In Progress](Character-Development#In%20Progress), or something [Unknown](Character-Development#Unknown) if you have a [Training Manual](Example-Gear#Training%20Manual).
+- You may spend up to 2XP on [Learning](Character-Development#Learning) something [In Progress](Character-Development#In%20Progress), or something [Unknown](Character-Development#Unknown) if you have a [Training Manual](Game/Example-Gear#Training%20Manual).
 
 ---
 

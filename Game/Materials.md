@@ -27,7 +27,6 @@ There are generally 8 types of materials that will be used for creating:
 * [Metal](Metal)
 * [Resonant](Resonant)
 * [Textiles](Textiles)
-* [Wood](Wood)
 # Specificity
 Unless the task you need a material for is exceptionally powerful, you should try to avoid specificity. Mutating a character to have cat-like eyes might require specifically eyes from a were-cat, but a potion of night sight should require any artisan bit + artisan liquid.
 

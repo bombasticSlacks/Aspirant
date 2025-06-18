@@ -13,7 +13,7 @@ grand_parent: Worlds
 ## Verdantholm 29 Fall -
 * Shopping Session,
 	* Are gonna flashback to buy stuff for the cart, need to discuss da cart.
-* [Alexander-Aurelius](Game/Worlds/Post-Calamity/Alexander-Aurelius) requested the [Causdin](Game/Worlds/Post-Calamity/Causdin.md#Causdin) Tamers to go after the crystal he wants from Dark Mountain.
+* [Alexander-Aurelius](Game/Worlds/Post-Calamity/Alexander-Aurelius) requested the [Causdin](Game/Worlds/Post-Calamity/Causdin#Causdin) Tamers to go after the crystal he wants from Dark Mountain.
 * after they left the bar 10 people trailing
 	* 6 bruiser / thugs
 	* 2 Heavies

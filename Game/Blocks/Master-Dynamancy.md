@@ -19,4 +19,4 @@ Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 - Create a complex / powerful rule that manipulates reality near you.
 - Your [Magical-Attacks](Game/Core/Magical-Attacks) gain +1 [Damage](Game/Core/Weapons#Damage), you can use: [Explosion](Game/Core/Magical-Attacks#Explosion).
 
-Requires 3 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Example-Gear#Focus)
+Requires 3 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Game/Example-Gear#Focus)

@@ -15,7 +15,7 @@ nav_order: 2
 | [Cart](#Cart)         |                | 0          | 50        |
 
 ## Workshop
-A fully furnished shop for some sort of expert. Select a specialization from the [Tool Set](Example-Gear#Tool%20Set) list, this workshop counts as that toolkit, any skill tests related to that tool kit gain a +2. 
+A fully furnished shop for some sort of expert. Select a specialization from the [Tool Set](Game/Example-Gear#Tool%20Set) list, this workshop counts as that toolkit, any skill tests related to that tool kit gain a +2. 
 
 Costs 150 silver, you can add a second kit for an additional 100 silver.
 

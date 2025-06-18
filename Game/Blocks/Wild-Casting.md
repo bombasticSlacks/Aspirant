@@ -9,4 +9,4 @@ Basic
 {: .label .label-purple }
 ### Wild Casting
 
-You can cast spells normally while transformed into a non-humanoid creature, even if you couldn't hold a [Focus](Example-Gear#Focus). You can also speak normally.
+You can cast spells normally while transformed into a non-humanoid creature, even if you couldn't hold a [Focus](Game/Example-Gear#Focus). You can also speak normally.

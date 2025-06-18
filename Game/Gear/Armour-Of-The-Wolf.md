@@ -7,9 +7,9 @@ Armour
 #### Armour Of The Wolf
 *A suit of interlocking plates weaved with tubes and gutters to absorb blood. A person in this moves faster that could be expected for its size with the plates of living metal shifting and growing as needed.*
 
-| [Armour Integrity](Game/Core/Armour#Armour%20Integrity)    | 5   |
+| [Armour Integrity](Game/Core/Armour#Armour%20Integrity)    | 10  |
 | :--------------------------------------------------------- | :-- |
-| [Skill Penalty](Game/Core/Armour#Skill%20Penalty)          | (0) |
+| [Reaction Penalty](Game/Core/Armour#Reaction%20Penalty)          | (0) |
 | [Weakness](Game/Core/Armour#Weakness%20and%20Resistance)   | -   |
 | [Resistance](Game/Core/Armour#Weakness%20and%20Resistance) | -   |
 | [Armour-Traits](Game/Core/Armour-Traits)                   | -   |

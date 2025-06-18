@@ -48,7 +48,7 @@ Attack
 
 _You pull someone in, terrorizing them completely._
 
-- Target makes a [Volition](../../Core/Spirit#Volition) [Fixed Difficulty](../../Core/Skills#Fixed%20Difficulty)(0) test or becomes [Stunned](../../Core/Effects#Stunned). If they pass they are still [Disoriented](../../Core/Effects#Disoriented).
+- Target makes a [Volition](Game/Core/Intuition#Awareness) [Fixed Difficulty](../../Core/Skills#Fixed%20Difficulty)(0) test or becomes [Stunned](../../Core/Effects#Stunned). If they pass they are still [Disoriented](../../Core/Effects#Disoriented).
 
 Attack
 {: .label .label-red }

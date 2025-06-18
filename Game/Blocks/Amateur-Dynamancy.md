@@ -25,4 +25,4 @@ Your character can perform [Channelled Magic](Magic#Channelled%20Magic) to:
 | [Weapon Traits](Core/Weapon-Traits)                       | [One-Handed](Game/Core/Blocks/One-Handed), [Otherworldly](Game/Core/Blocks/Otherworldly) [Magical](Game/Core/Blocks/Magical) |
 
 
-Requires 1 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Example-Gear#Focus)
+Requires 1 [Magical Energy](Magic#Magical%20Energy) and a [Focus](Game/Example-Gear#Focus)

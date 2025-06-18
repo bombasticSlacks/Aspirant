@@ -82,7 +82,7 @@ You can maintain one summoned creature long term without requiring skill tests o
 
 ### Lead To Gold
 
-As [Production Work](Activities#Production%20Work), you can transform matter into gold. Perform a [[]] with a difficulty of your choice, if successful, you receive gold nuggets worth 3 times the difficulty in silver. This requires an [Alchemists Tool Set](Example-Gear#Alchemists%20Tool%20Set).
+As [Production Work](Activities#Production%20Work), you can transform matter into gold. Perform a [[]] with a difficulty of your choice, if successful, you receive gold nuggets worth 3 times the difficulty in silver. This requires an [Alchemists Tool Set](Game/Example-Gear#Alchemists%20Tool%20Set).
 
 ### Bedside Manner
 
@@ -90,7 +90,7 @@ You receive a +2 on all social interactions with people you have treated since l
 
 ### Shaman
 
-You count as having a [Trauma Kit](Example-Gear#Trauma%20Kit) even if not carrying one. However, any related medical skill tests are performed at a -2.
+You count as having a [Trauma Kit](Game/Example-Gear#Trauma%20Kit) even if not carrying one. However, any related medical skill tests are performed at a -2.
 
 ### Visual Calculus
 
@@ -98,7 +98,7 @@ You can visualize what nearby characters are doing even if you can’t directly 
 
 ### Alchemical Traps
 
-If your character has a [Trap Kit](Example-Gear#Trap%20Kit), your payloads can be much more exotic, but the skill test becomes [Application](Core/Intelligence#Application), and they take longer to prepare. They can include things like:
+If your character has a [Trap Kit](Game/Example-Gear#Trap%20Kit), your payloads can be much more exotic, but the skill test becomes [Application](Core/Intelligence#Application), and they take longer to prepare. They can include things like:
 Gravity destabilize: Everything in the trap area loses gravity for 1d3 rounds. Or gravity shifts in a direction for the same duration.
 Stasis discharge: Everything in the area is stunned for a turn.
 Magnesium Bomb: Everything in the area suffers an [Hot](Core/Injury#Hot) attack that causes a critical injury to a location and is on fire.
@@ -115,7 +115,7 @@ When crafting a weapon, instead of providing materials, you may provide another 
 
 ### Simple Repairs
 
-As [Production Work](Activities#Production%20Work), you can repair a damaged item or up to 5 rounds of ammunition. This requires a [Weapons Tool Set](Example-Gear#Weapons%20Tool%20Set), but no additional materials or currency.
+As [Production Work](Activities#Production%20Work), you can repair a damaged item or up to 5 rounds of ammunition. This requires a [Weapons Tool Set](Game/Example-Gear#Weapons%20Tool%20Set), but no additional materials or currency.
 
 ### The Muscle
 

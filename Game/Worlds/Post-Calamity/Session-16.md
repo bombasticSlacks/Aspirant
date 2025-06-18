@@ -36,7 +36,7 @@ grand_parent: Worlds
  ---
 
 ### To Do
-*  Heading back to town.
+* Heading back to town.
 
 ### Hooks
 * 

@@ -23,7 +23,7 @@ Vitals Armour:
 | [Armour Integrity](Game/Core/Armour#Armour%20Integrity)    | 3                                                                                                                                            |
 | :--------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Armour-Traits](Game/Core/Armour-Traits)                   | Spend 1 power and make a will test to deal 3 heat damage and cause [On Fire](Game/Core/Effects#On%20Fire) [Close](Game/Core/Movement#Close). |
-| [Skill Penalty](Game/Core/Armour#Skill%20Penalty)          | (-1) [Reacting](Game/Core/Reacting)                                                                                                          |
+| [Reaction Penalty](Game/Core/Armour#Reaction%20Penalty)          | (-1) [Reacting](Game/Core/Reacting)                                                                                                          |
 | [Weakness](Game/Core/Armour#Weakness%20and%20Resistance)   | Cold                                                                                                                                         |
 | [Resistance](Game/Core/Armour#Weakness%20and%20Resistance) | Fire, Impact, Slashing                                                                                                                       |
 #### Remnants of a Rifle
