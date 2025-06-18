@@ -115,6 +115,9 @@ This is a perhaps non-exhaustive list of
 *A master of armour and defense, a knight knows how to move well in heavy armour.*
 ##### Commander
 *Leaders with the expertise to support and coordinate their allies.*
+##### Assassin
+*A master of killing and stealth, specializing in using small weapons to kill.*
+
 
 - [Academic](Academic)
 - [Arcanist](Arcanist)
