@@ -117,6 +117,8 @@ This is a perhaps non-exhaustive list of
 *Leaders with the expertise to support and coordinate their allies.*
 ##### Assassin
 *A master of killing and stealth, specializing in using small weapons to kill.*
+##### Paladin
+*Holy warriors filled with faith and hope.*
 
 
 - [Academic](Academic)
