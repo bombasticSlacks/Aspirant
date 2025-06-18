@@ -9,8 +9,8 @@ grand_parent: Worlds
 ## Major Interests
 *A large portion of an aspirants interests.*
 
-![Fighter](Game/Worlds/Embarking/Embarking-Interests/Fighter)
-![Hunter](Game/Worlds/Embarking/Embarking-Interests/Hunter)
-![Elementalist](Game/Worlds/Embarking/Embarking-Interests/Elementalist)
-![Assassin](Game/Worlds/Embarking/Embarking-Interests/Assassin)
+![Fighter-Interest](Game/Worlds/Embarking/Embarking-Interests/Fighter-Interest.md)
+![Hunter-Interest](Game/Worlds/Embarking/Embarking-Interests/Hunter-Interest.md)
+![Elementalist-Interest](Game/Worlds/Embarking/Embarking-Interests/Elementalist-Interest.md)
+![Assassin-Interest](Game/Worlds/Embarking/Embarking-Interests/Assassin-Interest.md)
 
