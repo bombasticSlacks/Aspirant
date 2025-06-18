@@ -2,7 +2,7 @@
 layout: default
 title: Magic
 parent: How To Play
-nav_order: 2
+nav_order: 0
 has_children: true
 ---
 
