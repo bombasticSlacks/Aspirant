@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Embarking Adventurers
-parent: Embarking
+parent: Character Creation
 nav_order: 0
-grand_parent: Worlds
+grand_parent: How To Play
 ---
 
 ## Embarking Adventurers
@@ -23,7 +23,7 @@ Assign your [Attributes](Core/Attributes) placing one of the two sets of values 
 - 4,3,2,2,2
 - 3,3,3,2,2
 
-> So, 4 [Strength](Core/Strength), 3 [Agility](Core/Agility), 2 [Intelligence](Core/Intelligence), 2 [Spirit](Core/Spirit), 2 [Communication](Core/Communication) is a valid stat line
+> So, 4 [Strength](Core/Strength), 3 [Agility](Core/Agility), 2 [Intelligence](Core/Intelligence), 2 [Intuition](Game/Core/Intuition), 2 [Communication](Core/Communication) is a valid stat line
 
 
 ### Skills
@@ -31,10 +31,9 @@ Select 4 [Skills](Game/Core/Skills) which you have 1 rank in.
 
 ### Equipment
 An embarking aspirant begins play with:
-- 4 storage [Backpack](Storage#Backpack).
-- 4 storage [Belt](Storage#Belt).
-- 10 storage [Saddlebag](Storage#Saddlebag).
-- [Camping Gear](Example-Gear#Camping%20Gear).
+- 8+ [Strength](Game/Core/Strength) storage system, with 4 being quick.
+- 10 storage for party storage.
+- [Camping Gear](Example-Gear#Camping%20Gear), for the party.
 - A [Size-1-Basic](Game/Gear/Size-1-Basic), [Size-2-Basic](Game/Gear/Size-2-Basic), or [Size-3-Basic](Game/Gear/Size-3-Basic) Weapon. 
 - [Basic-Armour](Game/Gear/Basic-Armour).
 - A wild horse [Mount](Mounts).
