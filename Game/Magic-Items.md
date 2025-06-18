@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Magic Items
-grand_parent: Telling The Story
+grand_parent: How To Play
 nav_order: 2
 has_children: false
 parent: Magic
@@ -17,7 +17,7 @@ In Aspirant magic items should be unique, interesting and full of lore. There ar
 
 ## Binding
 
-Enchanted and magical items that are worn or otherwise functionaly take no space on your person need to be grounded to a [Character](Core/Terminology#Character) to work. This process requires either:
+Enchanted and magical items that are worn or otherwise functionally take no space on your person need to be grounded to a [Character](Core/Terminology#Character) to work. This process requires either:
 
 - A successful [Ascendancy](Game/Core/Intuition#Ascendancy) [Fixed Difficulty](Core/Skills#Fixed%20Difficulty)(0).
 - An [Expert Commission](Services#Expert%20Commissions).

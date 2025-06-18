@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Magic
-parent: Telling The Story
+parent: How To Play
 nav_order: 2
 has_children: true
 ---
