@@ -8,5 +8,5 @@
 [Master](Game/Character-Development#Master)
 {: .label .label-purple }
 ### Soldiers Of Fortune
-*You stand alone, maneuvering around even the greatest threats.*
+*No matter the odds, you and your companions stand firm.*
 * You and your [Allies](Game/Core/Terminology#Ally) never suffer from [Overwhelming Odds](Game/Core/Combat#Overwhelming%20Odds).
