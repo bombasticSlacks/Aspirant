@@ -6,7 +6,7 @@ Armour
 {: .label .label-blue }
 
 #### Studded Leather
-*Leather covered in metal rivits to provide reinforcement. Hide with metal.
+*Leather covered in metal rivets to provide reinforcement. Hide with metal.*
 
 | [Armour Integrity](Game/Core/Armour#Armour%20Integrity)    | 8                                                                  |
 | :--------------------------------------------------------- | :----------------------------------------------------------------- |
