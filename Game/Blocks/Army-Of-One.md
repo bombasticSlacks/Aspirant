@@ -10,4 +10,4 @@
 ### Army Of One
 *You stand alone, maneuvering around even the greatest threats.*
 * You **overwhelm** when you are outnumbered [In Melee](Game/Core/Effects#In%20Melee).
-* You ignore 1 [Damage](Game/Core/Terminology#Damage) per [Defeated](Game/Core/Terminology#Defeat) [Ally](Game/Core/Terminology#Ally).
+* When you suffer [Damage](Game/Core/Terminology#Damage) You ignore 1 per [Defeated](Game/Core/Terminology#Defeat) [Player Character](Game/Core/Terminology#Player%20Character).

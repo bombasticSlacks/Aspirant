@@ -128,7 +128,6 @@ This is a perhaps non-exhaustive list of
 - [Brawler](Brawler)
 - [Dynamist](Dynamist)
 - [Labourer](Labourer)
-- [Mercenary](Mercenary)
 - [Mystic](Mystic)
 - [Rogue](Rogue)
 - [Shaper](Shaper)
