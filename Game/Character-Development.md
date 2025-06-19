@@ -119,6 +119,8 @@ This is a perhaps non-exhaustive list of
 *A master of killing and stealth, specializing in using small weapons to kill.*
 ##### Paladin
 *Holy warriors filled with faith and hope.*
+##### Mercenary
+*Soldiers of fortune who believe in overwhelming odds to gain victory.*
 
 
 - [Academic](Academic)

@@ -4,7 +4,7 @@
 Size 3
 {: .label .label-yellow }
 
-#### Dungeoneering Kit
+#### Explorers Kit
 _A collection of generic items an adventurer should have packed. Whether it be rope, a specific tool, climbing pitons, a torch etc. This kit is by far the most generic, but also any use of the explorers' kit should expend a use and require refilling, as the tools will be subpar. 1 size of [Artisan Metals](Metal#Artisan%20Metals) + [Charges](Game/Core/Blocks/Charges)._
 
 - Cost 11.
