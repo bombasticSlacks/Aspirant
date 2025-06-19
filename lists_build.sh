@@ -12,6 +12,7 @@ python3 ./Game/Core/Scripts/lists.py Game/Core/Attributes.md Secondary%20Attribu
 
 
 # Aspirant Lists
+python3 ./Game/Core/Scripts/lists.py Game/Core/Attributes.md Secondary%20Attributes Game/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Trainings-List.md Discipline,Concept Game/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Trainings-List.md Specialized Game/Worlds/Oddities
 python3 ./Game/Core/Scripts/lists.py Game/Equipment-List.md Weapon,Armour,Gear Game/Gear

@@ -10,4 +10,4 @@
 ### Army Of One
 *You stand alone, maneuvering around even the greatest threats.*
 * You **overwhelm** when you are outnumbered [In Melee](Game/Core/Effects#In%20Melee).
-* When you suffer [Damage](Game/Core/Terminology#Damage) You ignore 1 per [Defeated](Game/Core/Terminology#Defeat) [Player Character](Game/Core/Terminology#Player%20Character).
+* As a [Free Action](Game/Core/Terminology#Free%20Action) you can become [Exerted](Game/Core/Effects.md#Exerted) to count as **overwhelm** until your next action. 
