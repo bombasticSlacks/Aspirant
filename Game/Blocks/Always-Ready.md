@@ -9,4 +9,4 @@
 {: .label .label-purple }
 ### Always Ready
 *Your weapons and tools are always at the ready.*
-* All of your storage counts as quick access storage. #todoRules
+* All of your [General Storage](Game/Storage#General%20Storage) counts as [Quick Access](Game/Storage#Quick%20Access).

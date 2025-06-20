@@ -1,6 +1,3 @@
----
-Size: "2"
----
 Weapon
 {: .label .label-purple }
 
