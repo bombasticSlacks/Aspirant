@@ -12,36 +12,34 @@ To build a piece of armour:
 - Choose the [Quality](#Quality)
 - Choose [Materials](#Materials)
 - Calculate the [Base Armour Value](#Base%20Armour%20Value)
-- Spend your [Crafting Points](#Crafting%20Points)
+- Select any [Features](#Features)
+- Spend your [Bonuses](#Bonuses)
 
 ## Quality
 Armour comes in various qualities based on the skill required to craft.
 ### Basic
-Basic armour is improvised, hastily constructed, or primitive in nature, but may save your life when no other options are available. 
-* Use a single material of at least [Artisan](Materials#Artisan) quality.
+*Basic armour is improvised, hastily constructed, or primitive in nature, but may save your life when no other options are available.* 
+* Use 2 materials of at least [Basic](Game/Materials#Basic) quality.
 * Has the stats of [Basic-Armour](Game/Gear/Basic-Armour)
 
 
 ### Artisan
 
-Artisan armour is expressly built for the hardships of battle. When compared to basic armour, artisan armour is more complex and more meticulously constructed, often with specific functions in mind.
-* Use 2 materials, at least 1 of which is [Artisan](Materials#Artisan).
-* Have 1 [Crafting Points](#Crafting%20Points).
+*Artisan armour is expressly built for the hardships of battle. When compared to basic armour, artisan armour is more complex and more meticulously constructed, often with specific functions in mind.*
+* Use 2 materials, of at least [Artisan](Materials#Artisan) quality.
+* Have 1 [Features](#Features)
 * May take 1 [Tradeoffs](#Tradeoffs)
 
 ### Exotic
-
-Exotic armours incorporate additional complexity of both materials and design allowing for further specialization of enhanced functionality thanks to the use of rare and advanced materials and expert craftsmanship.
-* Use 2 materials, at least 1 of which is [Exotic](Materials#Exotic).
-* Have 2 [Crafting Points](#Crafting%20Points).
+*Exotic armours incorporate additional complexity of both materials and design allowing for further specialization of enhanced functionality thanks to the use of rare and advanced materials and expert craftsmanship.*
+* Use 2 materials, of at least [Exotic](Materials#Exotic) quality.
+* Have 2 [Features](#Features)
 * May take 1 [Tradeoffs](#Tradeoffs)
 
 ### Master Work
-
-Master worked armour is an artisan or exotic armour of exceptional craftsmanship and design. 
-* A piece of masterwork armour gains 1 additional [Crafting Points](#Crafting%20Points)
+*Master worked armour is an artisan or exotic armour of exceptional craftsmanship and design.* 
+* A piece of masterwork armour gains 1 additional [Features](#Features)
 * May take 2 [Tradeoffs](#Tradeoffs). 
-* Must include at least one additional [Exotic](Materials#Exotic) material in its construction.
 
 ### Relic
 Armours that go beyond what could be possible with enchanting or standard craftsmanship can be considered relics. They may still be crafted, but would require more narrative investment then a simple skill roll.
@@ -66,7 +64,7 @@ This is a list of the base values an armour with each material might have.
 > Some armour concepts are obvious, such as metal, textiles and hide. Consider liquid to be things like epoxy, oil quenching, chemical treatments. Bits to be, bone, quills, feathers, living rock. Resonant to be crystals, powders and gemstones. Flora to be vines, woods and roots. 
 
 
-### Base Armour Value
+## Base Armour Value
  The base attributes for a suit of armour is as follows;
 
 | Attribute         | Calculation         |
@@ -79,16 +77,16 @@ This is a list of the base values an armour with each material might have.
 
 > So an armour with a primary material of metal and a secondary of textiles would result in having a skill penalty of 0, an integrity of 6, and a weakness to rending damage.
 
-### Tradeoffs
-Some armour sacrifces in one way to gain power in another. For each tradeoff you do you gain an additional [Crafting Points](#Crafting%20Points). Tradeoffs are (can be selected more than once):
+## Tradeoffs
+Some armour sacrifices in one way to gain power in another. For each tradeoff you do you gain an additional [Features](#Features). Tradeoffs are (can be selected more than once):
 - Gain 2 [Critical Weakness](Game/Core/Armour#Critical%20Weakness)
 - Make a [Critical Weakness](Game/Core/Armour#Critical%20Weakness) into a [Weakness](Game/Core/Armour#Weakness%20and%20Resistance)
 - Reduce [Armour Integrity](Game/Core/Armour#Armour%20Integrity) by 2
 - Increase [Reaction Penalty](Game/Core/Armour#Reaction%20Penalty) by 1.
 
 
-### Crafting Points
- Can be spent to further modify armour. Per crafting point you can (each selectable more than once):
+## Features
+ Can be spent to further modify armour. Features are (each selectable more than once):
  * Add an [Armour-Traits](Game/Core/Armour-Traits) that can be justified based on the armour.
  * Add 2 [Armour Integrity](Game/Core/Armour#Armour%20Integrity).
  * Reduce [Reaction Penalty](Game/Core/Armour#Reaction%20Penalty) by 1.
@@ -99,12 +97,6 @@ Some armour sacrifces in one way to gain power in another. For each tradeoff you
 
 
  
-## Crafting
-A character looking to craft a specific armour requires relevant training as a [Craftsman](Craftsman), requires 2 size worth of the primary material, and 1 size worth of secondary material where applicable. Other bits, unless narratively relevant, are a negligible portion of the cost. Then, the character, as [Production Work](Activities#Production%20Work), may spend a day crafting. If they succeed on the [Application](Core/Intelligence#Application) test, the item is created successfully. If not, they must try again in the future; however, materials are not lost, just time. 
+## Crafting Cost
+Creating armour requires 4 size worth of the primary material, and 1 size worth of secondary material. Other bits, unless narratively relevant, are a negligible portion of the cost. 
 
-The difficulty of the test is modified as follows:
-
-* Exotic Materials -1
-* Traits -1 per each
-* Poor facilities -1
-* Excellent facilities +1

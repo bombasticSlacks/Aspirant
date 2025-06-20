@@ -5,7 +5,7 @@ Size 1
 {: .label .label-yellow }
 
 [Discordant](Game/Magic-Items#Discordant)
-{: .label .label-blue }
+{: .label .label-red }
 
 #### Venomous Rebuke
 *An jewel of a cloudy green hue that can be embedded in the skin. When imbued it gives the user magical abilities.*

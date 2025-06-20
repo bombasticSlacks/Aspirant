@@ -5,7 +5,7 @@ Size 4
 {: .label .label-yellow }
 
 [Discordant](Game/Magic-Items#Discordant)
-{: .label .label-blue }
+{: .label .label-red }
 
 #### Void Staff
 

@@ -16,6 +16,9 @@ If otherwise unspecified, 1 size of liquid is up to a half litre.
 ## Currency
 The world of Aspirant has a barter heavy system, but there is generally currency for local areas. The standard currency is silver coins. 1-10 silver coins are size 1. So, a character with 46 silver coins would count as size 5. Other materials or luxury items could be more efficient space to value, for example, a bar of gold is worth 40 silver and size 1; however, it requires someone able to trade in gold bars. The [Costs Of Materials](Services#Costs%20Of%20Materials) contains a list of conversion rates from silver to other materials.
 
+## Crafting and Creating
+Some things will specify specific rules for their creation, however generally equipment requires its size + 1 in materials and detailed instructions or a manual to recreate (a trained craftsman could do better however).
+
 ## Buying
 Under most circumstances, a character won't pay exactly what it costs a craftsman to make something unless they order it specially made. Purchases of non-trivial items should be handled narratively, and characters could use mercantile skills to knock off the costs of labour or even get a discount on materials. 
 
@@ -26,7 +29,7 @@ Unless you have a buyer/contract lined up, typically items you sell are just wor
 Generally, looted items can be used by players, however in some cases they may be worn or potentially need adjustment.
 
 ### Looted Armour
-In almost all cases, looted armour will not fit you. Ill-fitting armour reduces max skill by 2 and requires an armourer to adjust it.
+In almost all cases, looted armour will not fit you. Ill-fitting armour reduces [Reaction Penalty](Game/Core/Armour#Reaction%20Penalty) by 2 and requires an armourer to adjust it.
 
 ### Looting Creatures
 In most cases, a dead creature will have 

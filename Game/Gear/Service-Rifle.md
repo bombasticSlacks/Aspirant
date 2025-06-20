@@ -5,7 +5,7 @@ Size 4
 {: .label .label-yellow }
 
 [Relic](Game/Designing-Weapons#Relic)
-{: .label .label-red }
+{: .label .label-blue }
 
 #### Service Rifle
 *A weapon out of time, this finely machined mechanical marvel stores multiple ready to fire incendiary cartridges which can be launched over long distances with accuracy and power.*

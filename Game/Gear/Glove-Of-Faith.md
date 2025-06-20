@@ -5,7 +5,7 @@ Size 1
 {: .label .label-yellow }
 
 [Harmonic](Game/Magic-Items#Harmonic)
-{: .label .label-blue }
+{: .label .label-red }
 
 #### Glove Of Faith
 *A glove of feathery light cotton as white as silk. It seems to have a shifting weave of reinforcement behind it.*

@@ -5,7 +5,7 @@ Size 1
 {: .label .label-yellow }
 
 [Discordant](Game/Magic-Items#Discordant)
-{: .label .label-blue }
+{: .label .label-red }
 
 #### Amulet Of The Mountain
 *A shard of crystaline ice, bound with silver rings and looped through a chord.*

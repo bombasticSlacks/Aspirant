@@ -24,25 +24,24 @@ Aspirant is a world of tradespeople, experts with something to offer a prospecti
 ### Crafting Commissions
 Getting a craftsman to make you a piece of [Equipment](Core/Equipment).
 
-| Service                                            | Cost                                                                            |
-| -------------------------------------------------- | ------------------------------------------------------------------------------- |
-| Commissioning Creating A [Weapon](Core/Weapons)    | $5 + 20 \times size \times material\ ratio$                                     |
-| Commissioning Creating [Armour](Core/Armour)       | $5 + 20 \times primary\ material\ ratio + 10 \times secondary\ material\ ratio$ |
-| Commissioning Master Worked Service                | $base\ Commission + 10$                                                         |
-| Commissioning Storage                              | $5$ + [Crafting Storage](Designing-Storage#Crafting%20Storage)                  |
-| Commissioning creating comestibles                 | $4 + reagents$                                                                  |
-| Commissioning a standard days work for a tradesman | $5$                                                                             |
+| Service                                            | Cost                        |
+| -------------------------------------------------- | --------------------------- |
+| Commissioning Creating A [Weapon](Core/Weapons)    | $(Size+1)*MaterialCost + 5$ |
+| Commissioning Creating [Armour](Core/Armour)       | $5*MaterialCost + 5$        |
+| Commissioning Master Worked Service                | $base\ Commission + 10$     |
+| Commissioning Storage                              | $6*MaterialCost + 5$        |
+| Commissioning a standard days work for a tradesman | $5$                         |
 
 ### Expert Commissions
 Requesting an expert to do something for you.
 
-| Service                                                          | Cost            |
-| ---------------------------------------------------------------- | --------------- |
-| Commissioning First Aid                                          | $2$             |
-| Commissioning Performing a complex ritual                        | $12 + reagents$ |
-| Commissioning Performing a simple ritual                         | $5 + reagents$  |
-| Commissioning surgery                                            | $8$             |
-| Commissioning someone to [Bind](Magic-Items#Binding) an item to you | 5                |
+| Service                                                             | Cost            |
+| ------------------------------------------------------------------- | --------------- |
+| Commissioning First Aid                                             | $2$             |
+| Commissioning Performing a complex ritual                           | $12 + reagents$ |
+| Commissioning Performing a simple ritual                            | $5 + reagents$  |
+| Commissioning surgery                                               | $8$             |
+| Commissioning someone to [Bind](Magic-Items#Binding) an item to you | 5               |
 
 ### Teaching
 Getting an expert to help you to become better.
@@ -59,11 +58,9 @@ Getting an expert to help you to become better.
 
 ## Costs Of Materials
 
-| Name             | Max Craft Quality | Ratio        | Cost Per Size (S) |
-| ---------------- | ----------------- | ------------ | ----------------- |
-| Gold             | Exotic            | $4$          | $40$              |
-| Machinery        | Exotic            | $3 \over 2$  | $15$              | 
-| Water            | -                 | $1 \over 16$ | $1$               |
-| Basic Material   | Basic             | $1 \over 4$  | $3$               |
-| Artisan Material | Artisan           | $1 \over 2$  | $5$               |
-| Exotic Material  | Exotic            | $1$          | $10$              |
+| Name             | Max Craft Quality | Cost Per Size (S) |
+| ---------------- | ----------------- | ----------------- |
+| Gold             | Exotic            | $40$              |
+| Basic Material   | Basic             | $3$               |
+| Artisan Material | Artisan           | $5$               |
+| Exotic Material  | Exotic            | $10$              |

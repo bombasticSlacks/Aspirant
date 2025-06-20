@@ -5,7 +5,7 @@ Armour
 {: .label .label-blue }
 
 [Discordant](Game/Magic-Items#Discordant)
-{: .label .label-blue }
+{: .label .label-red }
 
 [Master Work](Game/Designing-Armour#Master%20Work)
 {: .label .label-red }

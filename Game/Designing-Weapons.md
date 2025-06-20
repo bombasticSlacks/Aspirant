@@ -102,9 +102,7 @@ This damage bonus can then be converted into a damage:
 
 > A [Size](#Size) 3 [Artisan](#Artisan) weapon, with the [Lethal](Game/Blocks/Lethal) [Weapon-Templates](Game/Weapon-Templates) would have a damage bonus of 8, 6 from [Size Matters](Core/Weapon-Traits#Size%20Matters), 1 from [Artisan](#Artisan), 1 from [Lethal](Core/Weapon-Traits#Lethal). This means it does 4 damage with an [Extra Damage](Game/Core/Attacks#Extra%20Damage) penalty of (-2).
 
-## Crafting
-A character looking to craft a specific weapon first requires the size + 1 worth of materials and [Craftsman](Craftsman) training saying they are able to make what they want. 
+## Crafting Costs
+A character looking to craft a specific weapon requires the size + 1 worth of materials.
 
-> So, a silver sword of size 3 would require 4 size worth of pure silver, or 40 silver coins. 
-
-Other bits, unless narratively relevant, are a negligible portion of the cost. Then, the character, as [Production Work](Activities#Production%20Work), may spend a day crafting. If they succeed on the [Application](Core/Intelligence#Application) test, the item is created successfully. If not, they must try again in the future, however materials are not lost, just time. 
+> So, a steel sword of size 3 would require 4 size worth of steel. 

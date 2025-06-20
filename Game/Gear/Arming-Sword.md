@@ -1,7 +1,10 @@
+---
+Size: "2"
+---
 Weapon
 {: .label .label-purple }
 
-Size 2
+Size <span query="get(Size)"></span><span class="lv-live-text">2</span><span type="end"></span>
 {: .label .label-yellow }
 
 [Artisan](Game/Designing-Weapons#Artisan)
