@@ -64,15 +64,12 @@ Basic, advanced, and master training represents powerful new abilities that your
 ### Training Tiers
 Training can be split into 
 #### Basic
-
 Basic training should fundamentally be known by any practitioners of the training school.
 
 #### Advanced
-
 Advanced training should be known only be those with experience, but should still be relatively ubiquitous. Taking an Advanced training requires already having a [Basic](#Basic) training in the [Training School](#Training%20School).
 
 #### Master
-
 Master level trainers should be rare and not readily available. A master should be a person of notoriety, and gaining training from them should require more than just an exchange of [Currency](Core/Equipment#Currency). Taking a master training should require already having a [Advanced](#Advanced) training in the [Training School](#Training%20School).
 
 ### Types Of Training
@@ -105,23 +102,24 @@ flowchart LR
     B --> A1
 ```
 
-#### Training School
+### Training School
 This is a perhaps non-exhaustive list of 
-##### Weapons Enthusiast
+#### Weapons Enthusiast
 *More than just some fighter, you are a hobbyist with an interest in the workings of weapons and using them very effectively.*
-##### Hunter
+#### Hunter
 *A master of defeating an enemy with preparation. You believe knowledge is power when it comes to defeating an enemy.*
-##### Knight
+#### Knight
 *A master of armour and defense, a knight knows how to move well in heavy armour.*
-##### Commander
+#### Commander
 *Leaders with the expertise to support and coordinate their allies.*
-##### Assassin
+#### Assassin
 *A master of killing and stealth, specializing in using small weapons to kill.*
-##### Paladin
+#### Paladin
 *Holy warriors filled with faith and hope.*
-##### Mercenary
+#### Mercenary
 *Soldiers of fortune who believe in overwhelming odds to gain victory.*
-
+#### Arcanist
+*Masters of imbuing the arcane into everything around them.*
 
 - [Academic](Academic)
 - [Arcanist](Arcanist)
