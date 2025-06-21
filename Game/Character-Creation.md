@@ -14,22 +14,12 @@ Before anything else, try to imagine what your character should be. Are they a s
 Make note of your character's name and any other relevant details before moving on to giving your character rules.
 
 ## Character Creation Options
-**CHARACTER CREATION IS CURRENTLY BROKEN WHILE CORE SYSTEMS ARE REWRITTEN** #TODO 
-Your GM should discuss with your party to determine what sort of characters you want to create. There are a few separate ways to create an aspirant character based on the power level and story you are looking to tell.
-
-* [Humble-Beginnings](Humble-Beginnings) for if you would like to start with basic characters and explore / build the world together.
-* [Classes](Classes) more powerful character archetypes.
-* [Adventurers](Adventurers) for if you want your characters to already be well travelled, with knowledge of the world around them.
-
-
-Optionally, characters may also begin with one (or more) [Cultural-Mutations](Cultural-Mutations) which can further effect starting XP.
+[Embarking-Adventurers](Game/Worlds/Embarking/Embarking-Adventurers) has details for creating adventurers just at the beginning of their adventures.
 
 ## Example Characters
-A few [Classes](Classes) characters of 10XP are provided for [The Players](How-To-Play#The%20Players) and [GM](How-To-Play#GM) to use or reference.
-
-* [Tesson Ravenmark](Example-Characters/Tesson-Ravenmark) a [Barbarian](Classes#Barbarian) [Fortune Teller](Classes#Fortune%20Teller).
-* [Della](Example-Characters/Della) a [Conjurer](Classes#Conjurer) [Tactician](Classes#Tactician)
-* [Aaron Corse](Example-Characters/Aaron-Corse) a [Fighter](Classes#Fighter) [Healer](Classes#Healer)
-* [Ceradelle](Example-Characters/Ceradelle) a [Beast Master](Classes#Beast%20Master) [Archer](Classes#Archer)
-* [Granite](Example-Characters/Granite) a [Face](Classes#Face) [Brawler](Classes#Brawler)
-* [James Malt](Example-Characters/James-Malt) a [Elementalist](Classes#Elementalist) [Rogue](Classes#Rogue)
+* [Tesson Ravenmark](Example-Characters/Tesson-Ravenmark).
+* [Della](Example-Characters/Della).
+* [Aaron Corse](Example-Characters/Aaron-Corse).
+* [Ceradelle](Example-Characters/Ceradelle).
+* [Granite](Example-Characters/Granite).
+* [James Malt](Example-Characters/James-Malt).

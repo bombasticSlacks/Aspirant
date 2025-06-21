@@ -10,4 +10,4 @@ _A collection of scrap bits, odds and ends, adhesive and other consumables you m
 - Cost 15.
 - [Charges](Game/Core/Blocks/Charges)(5).
 - [Charges](Game/Core/Blocks/Charges) cost 2 silver to replace.
-- A tinkers kit charge can be used to have a bauble or small part on hand for repairs or crafting.
+- A charge can be used to have a bauble or small part on hand for repairs or crafting.

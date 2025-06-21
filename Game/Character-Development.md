@@ -120,6 +120,8 @@ This is a perhaps non-exhaustive list of
 *Soldiers of fortune who believe in overwhelming odds to gain victory.*
 #### Arcanist
 *Masters of imbuing the arcane into everything around them.*
+#### Crafter
+*Experts in creating things out of materials.*
 
 - [Academic](Academic)
 - [Arcanist](Arcanist)
