@@ -10,6 +10,7 @@ Has a stomach producing healing juice, and the face of an older Keanu Reaves.
 Can pass for a living creature (but not under scrutiny).
 
 ## Shade
+*whispered voice once was a great necromantic witch with a cloak hemmed in skulls.* 
 
 | Move                          | Integrity | Weakness (! is vitals only)    | Resistance (! is ancillary only)                                                                                 |
 | ----------------------------- | --------- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------- |

@@ -8,6 +8,10 @@ grand_parent: Worlds
 # Hooks and Intrigue
 For [Post-Calamity](Post-Calamity) A list of things the players know of, and quests they wish to complete.
 
+## Hunters Call
+Some hunters survived the battles against the church
+* Two went north to the wilds
+* One moved to Tussole
 ## Chordys
 The town of chordys used to export fancy blast powder refined of resonant materials. It is near the monster hunters guild. Heard from some hunters in [Causdin](Game/Worlds/Post-Calamity/Causdin). There was a great hunt there a few decades ago.
 ## Giants Saddle
@@ -18,12 +22,13 @@ A giant in the north will have a saddle stuck to his back that can be used to ri
 ## Ruins in the Lake
 [Arturas-Gabrys](Arturas-Gabrys) remembers hearing of ancient ruins rumors in Dorna.
 
-## Staff Of Power
-[Vespin-Aevaris](Vespin-Aevaris) knows of a staff of power in a dead civilisation crypt to the South West of [Crosshaven](Crosshaven)
+
 
 # Complete
 For [Post-Calamity](Post-Calamity) a list of completed hooks
 
+## Staff Of Power
+[Vespin-Aevaris](Vespin-Aevaris) knows of a staff of power in a dead civilisation crypt to the South West of [Crosshaven](Crosshaven)
 ## Ancient Dragon Roost
 North of [Causdin](Causdin) there is a large cave structure which used to house a dragon and wyvern. The Imp from [Returning The Heart](#Returning%20The%20Heart) might be here.
 

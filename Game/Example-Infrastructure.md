@@ -39,4 +39,4 @@ For 100 silver your cart is fully enclosed, giving privacy, and protection from 
 ### Extra Storage
 For 50 silver you gain an additional 10 storage, this can be taken 6 times.
 ### Workspace
-For 150 silver you gain 1 space worth of land to install other infrastructure.
+For 50 silver you gain 1 space worth of land to install other infrastructure.

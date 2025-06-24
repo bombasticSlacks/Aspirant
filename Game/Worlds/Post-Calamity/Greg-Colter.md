@@ -22,17 +22,18 @@ Elite
 ### Jashmuda
 *The cub of a great Manticore*
 
-| Move                              | Integrity | Weakness (! is vitals only)                                         | Resistance (! is ancillary only) |
-| --------------------------------- | --------- | ------------------------------------------------------------------- | -------------------------------- |
-| [Reach](Game/Core/Movement#Reach) | 8         | [Heat](Game/Core/Injury#Heat), [Rending](Game/Core/Injury#Rending)! | [Life](Game/Core/Injury#Life) |
+| Move                                 | Integrity | Weakness (! is vitals only)    | Resistance (! is ancillary only) |
+| ------------------------------------ | --------- | ------------------------------ | -------------------------------- |
+| [Short](Game/Core/Movement#Short) | 10        | [Heat](Game/Core/Injury#Heat)! | [Life](Game/Core/Injury#Life)    |
 
 #### Actions
 * [Attack](Game/Core/Blocks/Attack)(+4, [Rending](Game/Core/Injury#Rending), 4).
 * [Ranged-Attack](Game/Core/Blocks/Ranged-Attack)(+4, [Rending](Game/Core/Injury#Rending), 4) Attack with the power of the wind.
-* [Attack](Game/Core/Blocks/Attack)(+3, [Life](Game/Core/Injury#Life), 4) characters [Injury Damage](Game/Core/Injury#Injury%20Damage) by this attack are [Stunned](Game/Core/Effects#Stunned).
+* [Attack](Game/Core/Blocks/Attack)(+3, [Life](Game/Core/Injury#Life), 4) characters suffering [Injury Damage](Game/Core/Injury#Injury%20Damage) by this attack are [Stunned](Game/Core/Effects#Stunned).
 #### Traits
 * [Flying](Game/Core/Blocks/Flying).
 * [Weather-Control](Game/Core/Blocks/Weather-Control).
 * [Terra-Control](Game/Core/Blocks/Terra-Control).
+* Trained for riding.
 
 ---

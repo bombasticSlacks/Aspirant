@@ -28,6 +28,8 @@ Culturally related to the lunar peopel.
 ### Soulbound
 People who pass away may have their spirits bound to this plain, they exist in servitude if there will was weak, or exist as ascended beings if their will was strong. A huge motivation for all Zinatu is to gain the knowledge and capacity to ascend into something higher.
 
+Soulbonding takes place at the Lustrum.
+
 ## People
 ### Maria Archer Sign (she/her)
 Of the Zinatu tribe, mystics and ecologists that track the comings and goings of Monsters in the world.
@@ -43,3 +45,5 @@ Wants information from [Jock Tennens](#Jock%20Tennens), more on "the ritual"
 
 ### Ande Scorpion Sign (she/her)
 * A long passed on Zinatu who is Soulbound
+* Level voice,
+* knows of crosshaven.
