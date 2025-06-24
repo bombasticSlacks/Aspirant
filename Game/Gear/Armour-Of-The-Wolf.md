@@ -14,5 +14,5 @@ Armour
 | [Resistance](Game/Core/Armour#Weakness%20and%20Resistance) | -   |
 | [Armour-Traits](Game/Core/Armour-Traits)                   | -   |
 
-* After a [Successful Attack](Game/Core/Terminology#Successful%20Attack) the character wearing this may regain two [Armour Integrity](Game/Core/Armour#Armour%20Integrity).
-* After a [Successful Attack](Game/Core/Terminology#Successful%20Attack) targetting the wearer this armour, loses all [Weakness and Resistance](Game/Core/Armour#Weakness%20and%20Resistance), then gains resistance to the type of damage from the [Attack](Game/Core/Terminology#Attack).
+* After a [Non-mitigated Attack](Game/Core/Terminology#Non-mitigated%20Attack) the character wearing this may regain two [Armour Integrity](Game/Core/Armour#Armour%20Integrity).
+* After suffering [Damage](Game/Core/Terminology#Damage) the wearer this armour, loses all [Weakness and Resistance](Game/Core/Armour#Weakness%20and%20Resistance), then gains resistance to the type of [Damage](Game/Core/Terminology#Damage) inflicted.

@@ -83,7 +83,19 @@ Located at [Calphion](Calphion), an influential (second in command) at the churc
 
 * Ignis is motivated by a lack of success by the good forces of the world. Wants to see change and safety.
 * Ignis regrets what happened to the monster hunters.
+
+| Move                              | Integrity | Action | Weakness (! is vitals only)                                           | Resistance (! is ancillary only)                                        |
+| --------------------------------- | --------- | ------ | --------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [Close](Game/Core/Movement#Close) | 10        | (+5)   | [Heat](Game/Core/Injury#Heat), [Piercing](Game/Core/Injury#Piercing)! | [Rending](Game/Core/Injury#Rending)!, [Impact](Game/Core/Injury#Impact) |
+
+#### Actions
+* 5 impact as you swing your mace
+* 4 life within close as you smite, anyone smited suffers [Disoriented](Game/Core/Effects#Disoriented).
+#### Traps
+* Holy Soldier - When Ignis should be knocked unconsious he can perform 1 additional action for free.
+#### Traits
 * 
+
 ### Unresting Faith
 Counts as on watch, can't be ambushed at night.
 

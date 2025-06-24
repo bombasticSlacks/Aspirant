@@ -4,6 +4,9 @@ Weapon
 Size 4
 {: .label .label-yellow }
 
+[Relic](Game/Designing-Weapons#Relic)
+{: .label .label-blue }
+
 [Discordant](Game/Magic-Items#Discordant)
 {: .label .label-red }
 

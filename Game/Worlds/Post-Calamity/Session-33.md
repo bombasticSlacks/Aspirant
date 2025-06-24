@@ -10,7 +10,7 @@ grand_parent: Worlds
 
 ## Ideas
 * 
-## Hunters Manor 2nd Spring - 5th Spring
+## Hunters Manor 2nd Spring - 7th Spring
 * FOR NEXT TIME:
 * Potential questions:
 	* Are there any beyond structures
