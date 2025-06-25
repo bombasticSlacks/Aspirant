@@ -124,11 +124,13 @@ This is a perhaps non-exhaustive list of
 *Experts in creating things out of materials.*
 #### Dyamist
 *Experts in changing energy and elements, and how it flows all around us.*
+#### Mystic
+*Those who commune with the other side. Perceivers of things unseen.*
 
 - [Academic](Academic)
 - [Brawler](Brawler)
 - [Labourer](Labourer)
-- [Mystic](Mystic)
+
 - [Rogue](Rogue)
 - [Shaper](Shaper)
 - [Star](Star)
