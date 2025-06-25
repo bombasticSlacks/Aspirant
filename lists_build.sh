@@ -13,10 +13,10 @@ python3 ./Game/Core/Scripts/lists.py Game/Core/Attributes.md Secondary%20Attribu
 
 # Aspirant Lists
 python3 ./Game/Core/Scripts/lists.py Game/Core/Attributes.md Secondary%20Attributes Game/Blocks
-#python3 ./Game/Core/Scripts/lists.py Game/Trainings-List.md Discipline,Concept Game/Blocks
-#python3 ./Game/Core/Scripts/lists.py Game/Trainings-List.md Specialized Game/Worlds/Oddities
-python3 ./Game/Core/Scripts/lists.py Game/Trainings-List.md General,Specialized Game/Blocks
-python3 ./Game/Core/Scripts/lists.py Game/Trainings-List.md General,Specialized Game/Worlds/Oddities
+python3 ./Game/Core/Scripts/lists.py Game/Trainings-List.md Discipline,Concept Game/Blocks
+python3 ./Game/Core/Scripts/lists.py Game/Trainings-List.md Specialized Game/Worlds/Oddities
+#python3 ./Game/Core/Scripts/lists.py Game/Trainings-List.md General,Specialized Game/Blocks
+#python3 ./Game/Core/Scripts/lists.py Game/Trainings-List.md General,Specialized Game/Worlds/Oddities
 python3 ./Game/Core/Scripts/lists.py Game/Equipment-List.md Weapon,Armour,Gear,Storage Game/Gear
 python3 ./Game/Core/Scripts/lists.py Game/Weapon-Templates.md Weapon-Templates Game/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Armour-Templates.md Armour-Templates Game/Blocks
