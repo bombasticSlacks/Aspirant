@@ -27,7 +27,7 @@ Channelled Magic requires:
 
 Channelled magic requires magical energy. Focused magic that can be expended to temporarily shape the world around you. [Resonant](Resonant) material has inherent magical energy based on its quality. A [Focus](Game/Example-Gear#Focus) can be used to convert this magical energy into effects.
 
-## Concentration
+### Concentration
 
 You can only maintain one instance of channelled magic at a time. You can still perform instantaneous magic while concentrating.
 
@@ -39,7 +39,7 @@ For every hour you are concentrating on a magical effect you need to [Ascendancy
 - Creating a cloud of smoke.
 - Disrupting a troll's magic healing.
 
-# Ritual Magic
+## Ritual Magic
 
 Which is performed using advanced rituals, rites, and performances along with specific materials to permanently change the world or perceive the flow of magic itself.
 

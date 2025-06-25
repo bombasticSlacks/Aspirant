@@ -122,11 +122,11 @@ This is a perhaps non-exhaustive list of
 *Masters of imbuing the arcane into everything around them.*
 #### Crafter
 *Experts in creating things out of materials.*
+#### Dyamist
+*Experts in changing energy and elements, and how it flows all around us.*
 
 - [Academic](Academic)
-- [Arcanist](Arcanist)
 - [Brawler](Brawler)
-- [Dynamist](Dynamist)
 - [Labourer](Labourer)
 - [Mystic](Mystic)
 - [Rogue](Rogue)
