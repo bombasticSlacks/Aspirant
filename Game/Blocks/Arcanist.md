@@ -9,6 +9,7 @@
 {: .label .label-purple }
 ### Arcanist
 *You have learned how weave magic, creating and imbuing with magic.*
+
 Your character can perform [Ritual Magic](Game/Magic#Ritual%20Magic) to:
 * Create [Ephemeral](Game/Magic-Items#Ephemeral) [Magic-Items](Game/Magic-Items).
 * Teleport a nearby item to yourself.

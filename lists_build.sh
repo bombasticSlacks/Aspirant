@@ -9,6 +9,7 @@ python3 ./Game/Core/Scripts/lists.py Game/Core/Character-Traits.md Character-Tra
 python3 ./Game/Core/Scripts/lists.py Game/Core/Character-Traps.md Character-Traps Game/Core/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Core/Injury-Effects.md Injury-Effects Game/Core/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Core/Attributes.md Secondary%20Attributes Game/Core/Blocks
+python3 ./Game/Core/Scripts/lists.py Game/Core/Effects.md Effects Game/Core/Blocks
 
 
 # Aspirant Lists

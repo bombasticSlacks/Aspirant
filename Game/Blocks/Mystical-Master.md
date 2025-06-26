@@ -9,6 +9,7 @@
 {: .label .label-purple }
 ### Mystical Master
 *You live in two worlds this and the other.*
+
 Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 - Effect what has already happened.
 - Get accurate information about the state of something.

@@ -9,6 +9,7 @@
 {: .label .label-purple }
 ### Mystic
 *You can see what others can't, hear what others would not want to.*
+
 Your character can perform [Ritual Magic](Magic#Ritual%20Magic) to:
 - Detect the unseen.
 - Gather information about things you could not otherwise know.

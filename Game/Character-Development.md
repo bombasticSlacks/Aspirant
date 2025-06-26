@@ -126,6 +126,8 @@ This is a perhaps non-exhaustive list of
 *Experts in changing energy and elements, and how it flows all around us.*
 #### Mystic
 *Those who commune with the other side. Perceivers of things unseen.*
+#### Shaper
+*Sorcerers that shape the world around them.*
 
 - [Academic](Academic)
 - [Brawler](Brawler)
