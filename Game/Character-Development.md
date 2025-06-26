@@ -130,6 +130,9 @@ This is a perhaps non-exhaustive list of
 *Sorcerers that shape the world around them.*
 #### Healer
 *Those who use science or superstition to cure the sick and wounded.*
+#### Spymaster
+*Those who shape the world from the shadows.*
+
 - [Academic](Academic)
 - [Brawler](Brawler)
 - [Labourer](Labourer)
