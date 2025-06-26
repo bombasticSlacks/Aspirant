@@ -49,7 +49,7 @@ Aside from gear, your characters may need to call on the services of other exper
 ## Types Of Equipment
 * [Armour](Armour)
 * [Assets](Assets)
-* [Comestibles](Comestibles)
+* [Consumable](Game/Consumable)
 * [Gear](Gear)
 * [Mounts](Mounts)
 * [Materials](Materials)

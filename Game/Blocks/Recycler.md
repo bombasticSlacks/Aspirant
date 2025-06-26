@@ -10,4 +10,4 @@
 ### Recycler
 *You can repurpose and recycle old items into new.*
 * When you **create** you can use a similar item of similar size as the input instead of materials.
-* Things you **create** require 1 less [Size](Game/Handling-Equipment#Size) of [Materials](Game/Materials).
+* When you **create** if you use thematically appropriate [Materials](Game/Materials) the [Game Master](Game/Core/Terminology#Game%20Master) should either allow you to use worse materials ([Artisan](Game/Materials#Artisan) instead of [Exotic](Game/Materials#Exotic)) or 1 less [Materials](Game/Materials).

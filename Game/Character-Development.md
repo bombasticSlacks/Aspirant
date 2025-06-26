@@ -128,7 +128,8 @@ This is a perhaps non-exhaustive list of
 *Those who commune with the other side. Perceivers of things unseen.*
 #### Shaper
 *Sorcerers that shape the world around them.*
-
+#### Healer
+*Those who use science or superstition to cure the sick and wounded.*
 - [Academic](Academic)
 - [Brawler](Brawler)
 - [Labourer](Labourer)
