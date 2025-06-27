@@ -43,9 +43,6 @@ An embarking aspirant begins play with:
 ### Major Interest
 Embarking Aspirants have a major interest which helps to dictate their skills and abilities. 
 
-Select one of the [Major-Interests](Game/Worlds/Embarking/Major-Interests)
 
 ### Minor Interest
 Embarking Aspirants have a minor interest which further dictates their skills and abilities.
-
-Select one of the [Minor-Interests](Game/Worlds/Embarking/Minor-Interests)
