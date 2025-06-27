@@ -9,6 +9,6 @@
 {: .label .label-purple }
 ### Book Worm
 *You always have your nose in a book.*
-* You can read a book in an incredibly short about of time.
+* You can read a book in an incredibly short ammout of time.
 * You memorize any words or images you see.
 * If someone references a text you can spend a [Power](Game/Core/Blocks/Power) to have already read it (and to function as a living book able to recite it).

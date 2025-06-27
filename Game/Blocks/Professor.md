@@ -9,4 +9,4 @@
 {: .label .label-purple }
 ### Professor
 *You seem to always be espousing your ideas, at some point it rubs off.*
-* You can make [Memory](Game/Core/Intelligence#Memory) [Skill Test](Game/Core/Terminology#Skill%20Test) even when you aren't in the [Scene](Game/Core/Terminology#Scene). You must flashback to the [Scene](Game/Core/Terminology#Scene) where you talked about the information to the people in the current [Scene](Game/Core/Terminology#Scene).
+* You can make [Memory](Game/Core/Intelligence#Memory) [Skill Test](Game/Core/Terminology#Skill%20Test) even when you aren't in a [Scene](Game/Core/Terminology#Scene). Flashback to the [Scene](Game/Core/Terminology#Scene) where you talked about the information to the people in the current [Scene](Game/Core/Terminology#Scene).
