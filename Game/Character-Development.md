@@ -122,7 +122,7 @@ This is a perhaps non-exhaustive list of
 *Masters of imbuing the arcane into everything around them.*
 #### Crafter
 *Experts in creating things out of materials.*
-#### Dyamist
+#### Dynamist
 *Experts in changing energy and elements, and how it flows all around us.*
 #### Mystic
 *Those who commune with the other side. Perceivers of things unseen.*
@@ -134,11 +134,11 @@ This is a perhaps non-exhaustive list of
 *Those who shape the world from the shadows.*
 #### Scholar
 *Learned masters of the world.*
+#### Beastmaster
+*Handlers and masters of animals.*
 
-- [Academic](Academic)
 - [Brawler](Brawler)
 - [Labourer](Labourer)
-
 - [Rogue](Rogue)
 - [Shaper](Shaper)
 - [Star](Star)

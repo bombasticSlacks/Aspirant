@@ -1,5 +1,5 @@
 
-[Dyamist](Game/Character-Development#Dyamist)
+[Dynamist](Game/Character-Development#Dynamist)
 {: .label .label-blue }
 
 [Discipline](Game/Character-Development#Discipline)
