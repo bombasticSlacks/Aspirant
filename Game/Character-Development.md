@@ -132,6 +132,8 @@ This is a perhaps non-exhaustive list of
 *Those who use science or superstition to cure the sick and wounded.*
 #### Spymaster
 *Those who shape the world from the shadows.*
+#### Scholar
+*Learned masters of the world.*
 
 - [Academic](Academic)
 - [Brawler](Brawler)
