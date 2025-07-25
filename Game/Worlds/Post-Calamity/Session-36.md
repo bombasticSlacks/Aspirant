@@ -10,7 +10,7 @@ grand_parent: Worlds
 
 ## Ideas
 * Letter from Mo Joe waiting in Crosshaven.
-* Crosshaven parents will be confrontable about lineage, have the gift of the finger
+* Crosshaven parents will be confrontable about lineage, have the gift of the finger, 
 * Call with Ande should happen
 * Parents will be meetable, will have the finger to provide, were childless but prayed for a child over and over again. It was a "miracle" they were delivered Alexander.
 ## Crosshaven 12th of Spring -

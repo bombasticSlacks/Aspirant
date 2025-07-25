@@ -52,6 +52,7 @@ Some storage sacrifices in one way to gain power in another. For each tradeoff y
  * +2 [Quick Access](Game/Storage#Quick%20Access)
  * +2 [General Storage](Game/Storage#General%20Storage)
  * +1 [Specialization](Game/Storage#Specialization), -2 [General Storage](Game/Storage#General%20Storage)
+ * Add an [Storage-Traits](Game/Storage-Traits) that can be justified based on the storage.
 
 ## Calculate Storage
 After you have selected [Tradeoffs](#Tradeoffs) and [Features](#Features) apply them to the base values of:

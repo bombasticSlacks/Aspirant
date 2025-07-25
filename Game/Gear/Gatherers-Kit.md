@@ -2,15 +2,15 @@
 [Storage](Game/Storage)
 {: .label .label-purple }
 
-[Basic](Game/Designing-Storage#Basic)
+[Artisan](Game/Designing-Storage#Artisan)
 {: .label .label-blue }
 
-#### Basic Storage
-*A simple bag and belt designed to carry what a person needs.* 
+#### Gatherers Kit
+*A set of focused gear designed for collecting materials and keeping lots of things on you always.* 
 
 | [General Storage](Game/Storage#General%20Storage) | 8 + [Strength](Game/Core/Strength) |
 | ------------------------------------------------- | ---------------------------------- |
 | [Quick Access](Game/Storage#Quick%20Access)       | 4                                  |
-| [Camp Storage](Game/Storage#Camp%20Storage)       | 8                                  |
-| [Specialization](Game/Storage#Specialization)     | -                                  |
+| [Camp Storage](Game/Storage#Camp%20Storage)       | 4                                  |
+| [Specialization](Game/Storage#Specialization)     | [Materials](Game/Materials)        |
 

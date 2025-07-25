@@ -35,18 +35,18 @@ Travelling in Aspirant can take long amounts of time. Travelling involves knowin
 
 ### Travel Segment
 
-For simplicity, travel is split into:
+For simplicity, travel is:
 
 - Simply, the time to get from one location to another
-- If you are travelling a large distance, travel is split further into 5 day segments
-- A full day of travel is considered 8 hours of continual travel, this gives the horses and characters ample time to rest
-
-At the end of each segment:
-
-- characters will need to pay for the food they used (rations tend to cost 2 silver per travel segment)
-- horses will in most situations be able to feed themselves but otherwise also need 1 silver worth of food per segment
-
+- If you are travelling a large distance, travel is split further into 5 day segments.
+- A full day of travel is considered 14 hours of continual travel, this gives the characters ample time to rest.
+- At the end of the segment characters will need to pay for the food they used (rations tend to cost 2 silver per travel segment)
 - Characters at the start of each travel segment declare a [Travelling Activity](Activities#Travelling%20Activity) they will focus on during the travel.
+
+### Travel Movement
+In Aspirant movement between places should be measured in time, not distance. So a place might be a days travel, or 10 days travel, from where you are. 
+#### Travel Speed
+Some [Assets](Game/Assets) may increase the travel speed of characters. Humans have a travel speed of 1x, a traveling groups speed is equal to the lowest speed among them.
 
 ### Travel Encounter
 
@@ -81,4 +81,4 @@ Remember, as a [GM](How-To-Play#GM), this system is designed to get your players
 
 ## Creating New Content
 
-If a player has an idea for something their character wants to do that should require training but isn’t covered in the book, then if reasonable, you should let them perform it! Usually, since it is without training, there will be a large associated negative, but at that point work on making a training of an appropriate tier and let them immediately put, if available, 1XP towards it. They don’t need an expert or manual to start the training, their character invented it!
+If a player has an idea for something their character wants to do that should require training but isn’t covered in the book, then if reasonable, you should let them perform it! Usually, since it is without training, there will be a large associated negative, but at that point work on making a [Concept](Game/Character-Development#Concept) that is appropriate. They don’t need an expert or school to start the training, their character invented it!

@@ -8,18 +8,10 @@ has_children: true
 # Assets
 Asset [Equipment](Core/Equipment) is your more abstract holdings. If you own a house, business, manage a keep etc. Some of these will require active management to maintain, or have maintenance costs and potential earnings. 
 
-## Land
+## Locations
 #TODOcopy 
 
-## Infrastructure
-These are large pieces of equipment, machines, or other things that could assist your characters. These should have narrative benefits, but also may have direct mechanical benefits.
+## Camp Equipment
+These are large pieces of equipment, machines, or other things that could assist your characters but can't be taken directly into danger. These will provide benefits to travel or to characters in camp.
 
-### Space Requirement
-Some infrastructure will require being placed on [Land](#Land) to be usable. At worst, space can generally be rented for space requirement silver per day.
-
-## Acquiring Infrastructure
-* [Found through play](Core/Equipment#Looting)
-* [Purchased](Example-Infrastructure)
-
-
-
+Camp equipment cannot be stored in [General Storage](Game/Storage#General%20Storage), only [Camp Storage](Game/Storage#Camp%20Storage).

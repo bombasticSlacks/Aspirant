@@ -19,7 +19,7 @@ Items readily available to your character. Quick access items can be drawn/stowe
 
 > A character has 10 general storage holding a great sword (size 4), healers kit (size 2), ammo (size 1), crossbow (size 3). If this character has 4 quick access, they could have immediate access to their great sword, or their crossbow + ammo, or their healers kit + ammo. 
 ### Camp Storage
-Bigger longer term storage bags, sometimes saddled to horses or other pack animals, perhaps even a wagon. Camp storage is accessible at camp, while travelling, or during downtime. Usually a party will combine their party storage and all share traveling with it. 
+Bigger longer term storage bags, sometimes saddled to horses or other pack animals, perhaps even a wagon. Camp storage is accessible at camp, while travelling, or during downtime. Usually a party will combine their party storage and all share traveling with it. Camp Storage does not benefit from [Specialization](#Specialization).
 
 ## Specialization
 Some storage will be specialized to be very effective at holding a certain type of thing. If you store something that your storage specializes in it counts as half size rounding up. 
@@ -28,3 +28,6 @@ Specializations are:
 * [Weapons](Game/Core/Weapons)
 * [Materials](Game/Materials)
 * [Armour](Game/Core/Armour)
+
+## Traits
+Some storage will have specialized [Storage-Traits](Game/Storage-Traits). These should be appropriate to the construction of the equipment. 
