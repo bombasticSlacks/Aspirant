@@ -47,3 +47,10 @@ An embarking aspirant begins play with:
 
 ### Interests
 Embarking Aspirants have some trainings to help them on the road. Select 2 [Basic](Game/Character-Development#Basic) trainings to begin with.
+
+### Example Characters
+Here are some example characters:
+* [Naturalist-Witch](Game/Example-Characters/Naturalist-Witch)
+* [Scholarly-Sorcerer](Game/Example-Characters/Scholarly-Sorcerer)
+* [Wandering-Knight](Game/Example-Characters/Wandering-Knight)
+* [Tinkering-Weaponmaster](Game/Example-Characters/Tinkering-Weaponmaster)

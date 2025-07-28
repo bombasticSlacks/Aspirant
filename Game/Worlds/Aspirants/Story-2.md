@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Story 2 The Odd Job
-parent: Embarking
+parent: Aspirants
 nav_order: 3
 grand_parent: Worlds
 ---

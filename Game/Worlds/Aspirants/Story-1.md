@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Story 1 The Dread Queen
-parent: Embarking
+parent: Aspirants
 nav_order: 3
 grand_parent: Worlds
 ---

@@ -1,8 +1,11 @@
-[Camp Equipment](Game/Assets#Camp%20Equipment)
+[Gear](Game/Core/Gear)
 {: .label .label-purple }
 
 [Artisan](Game/Designing-Armour#Artisan)
 {: .label .label-blue }
+
+Size 3
+{: .label .label-yellow }
 
 #### Saddle
 *A leather seat, straps, and other fixtures required to comfortably ride a creature. 4 size of artisan hide.*

@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="Character-Sheet.svg"
+   sodipodi:docname="Witch.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,13 +24,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showguides="false"
-     inkscape:zoom="1.5382846"
-     inkscape:cx="512.58395"
-     inkscape:cy="444.00106"
-     inkscape:window-width="2542"
-     inkscape:window-height="1328"
-     inkscape:window-x="3441"
-     inkscape:window-y="1528"
+     inkscape:zoom="0.7691423"
+     inkscape:cx="429.69942"
+     inkscape:cy="601.31916"
+     inkscape:window-width="1278"
+     inkscape:window-height="1353"
+     inkscape:window-x="1273"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -809,7 +809,7 @@
              id="tspan4"
              style="fill:#cccccc;stroke:#cccccc;stroke-width:0.400396"
              x="115.01885"
-             y="47.071262">Max</tspan></text>
+             y="47.071262">3</tspan></text>
       </g>
       <g
          id="g4-1"
@@ -844,7 +844,7 @@
              id="tspan4-7"
              style="fill:#cccccc;stroke:#cccccc;stroke-width:0.400396"
              x="115.01885"
-             y="47.071262">Max</tspan></text>
+             y="47.071262">3</tspan></text>
       </g>
     </g>
     <g
@@ -883,7 +883,7 @@
              id="tspan4-5"
              style="fill:#cccccc;stroke:#cccccc;stroke-width:0.400396"
              x="115.01885"
-             y="47.071262">Max</tspan></text>
+             y="47.071262">4</tspan></text>
       </g>
       <g
          id="g4-1-9"
@@ -918,7 +918,7 @@
              id="tspan4-7-9"
              style="fill:#cccccc;stroke:#cccccc;stroke-width:0.400396"
              x="115.01885"
-             y="47.071262">Max</tspan></text>
+             y="47.071262">3</tspan></text>
       </g>
     </g>
     <g
@@ -959,7 +959,7 @@
                id="tspan4-2"
                style="fill:#cccccc;stroke:#cccccc;stroke-width:0.400396"
                x="115.01885"
-               y="47.071262">Max</tspan></text>
+               y="47.071262">2</tspan></text>
         </g>
         <g
            id="g4-1-5"
@@ -1006,9 +1006,9 @@
        id="text2"><tspan
          sodipodi:role="line"
          id="tspan2"
-         style="fill:#cccccc;stroke:#cccccc;stroke-width:0.264583"
+         style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
          x="150.84306"
-         y="18.403891">Movement</tspan></text>
+         y="18.403891">Movement: Close</tspan></text>
     <path
        style="fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.268151"
        d="M 6.6145832,219.64265 H 203.59795"
@@ -1058,5 +1058,602 @@
          style="stroke-width:0.264583"
          x="72.196999"
          y="64.616806">Training</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15.3968px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.721726"
+       x="47.203316"
+       y="43.547245"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.721726"
+         x="47.203316"
+         y="43.547245">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15.3968px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.721726"
+       x="46.827923"
+       y="79.527916"
+       id="text13-4"><tspan
+         sodipodi:role="line"
+         id="tspan13-2"
+         style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.721726"
+         x="46.827923"
+         y="79.527916">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15.3968px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.721726"
+       x="46.827923"
+       y="115.01521"
+       id="text13-6"><tspan
+         sodipodi:role="line"
+         id="tspan13-5"
+         style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.721726"
+         x="46.827923"
+         y="115.01521">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15.3968px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.721726"
+       x="46.827919"
+       y="150.50252"
+       id="text13-9"><tspan
+         sodipodi:role="line"
+         id="tspan13-1"
+         style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.721726"
+         x="46.827919"
+         y="150.50252">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15.3968px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.721726"
+       x="46.827923"
+       y="185.98982"
+       id="text13-2"><tspan
+         sodipodi:role="line"
+         id="tspan13-17"
+         style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.721726"
+         x="46.827923"
+         y="185.98982">3</tspan></text>
+    <ellipse
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       id="path13"
+       cx="53.638943"
+       cy="81.584816"
+       rx="1.7027028"
+       ry="1.7027016" />
+    <ellipse
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       id="path13-6"
+       cx="53.638527"
+       cy="89.1036"
+       rx="1.7027028"
+       ry="1.7027016" />
+    <ellipse
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       id="path13-5"
+       cx="53.638527"
+       cy="124.5909"
+       rx="1.7027028"
+       ry="1.7027016" />
+    <ellipse
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       id="path13-0"
+       cx="53.638733"
+       cy="152.5592"
+       rx="1.7027028"
+       ry="1.7027016" />
+    <ellipse
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       id="path13-50"
+       cx="53.638733"
+       cy="160.34299"
+       rx="1.7027028"
+       ry="1.7027016" />
+    <ellipse
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       id="path13-3"
+       cx="53.638733"
+       cy="188.04652"
+       rx="1.7027028"
+       ry="1.7027016" />
+    <ellipse
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       id="path13-8"
+       cx="53.638733"
+       cy="195.83031"
+       rx="1.7027028"
+       ry="1.7027016" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.33878px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.437755"
+       x="45.555214"
+       y="51.331657"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         style="stroke-width:0.437755"
+         x="45.555214"
+         y="51.331657">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.33878px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.437755"
+       x="45.555214"
+       y="59.38044"
+       id="text14-9"><tspan
+         sodipodi:role="line"
+         id="tspan14-9"
+         style="stroke-width:0.437755"
+         x="45.555214"
+         y="59.38044">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.33878px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.437755"
+       x="45.555214"
+       y="87.083961"
+       id="text14-9-4"><tspan
+         sodipodi:role="line"
+         id="tspan14-9-8"
+         style="stroke-width:0.437755"
+         x="45.555214"
+         y="87.083961">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.33878px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.437755"
+       x="45.555214"
+       y="94.867744"
+       id="text14-9-0"><tspan
+         sodipodi:role="line"
+         id="tspan14-9-9"
+         style="stroke-width:0.437755"
+         x="45.555214"
+         y="94.867744">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.33878px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.437755"
+       x="45.555214"
+       y="122.57127"
+       id="text14-9-1"><tspan
+         sodipodi:role="line"
+         id="tspan14-9-2"
+         style="stroke-width:0.437755"
+         x="45.555214"
+         y="122.57127">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.33878px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.437755"
+       x="45.555214"
+       y="130.35504"
+       id="text14-9-5"><tspan
+         sodipodi:role="line"
+         id="tspan14-9-3"
+         style="stroke-width:0.437755"
+         x="45.555214"
+         y="130.35504">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.33878px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.437755"
+       x="45.555214"
+       y="157.79356"
+       id="text14-9-3"><tspan
+         sodipodi:role="line"
+         id="tspan14-9-89"
+         style="stroke-width:0.437755"
+         x="45.555214"
+         y="157.79356">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.33878px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.437755"
+       x="45.555214"
+       y="165.84235"
+       id="text14-9-8"><tspan
+         sodipodi:role="line"
+         id="tspan14-9-85"
+         style="stroke-width:0.437755"
+         x="45.555214"
+         y="165.84235">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.33878px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.437755"
+       x="45.555214"
+       y="193.28087"
+       id="text14-9-84"><tspan
+         sodipodi:role="line"
+         id="tspan14-9-5"
+         style="stroke-width:0.437755"
+         x="45.555214"
+         y="193.28087">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.33878px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.437755"
+       x="45.555214"
+       y="201.32965"
+       id="text14-9-18"><tspan
+         sodipodi:role="line"
+         id="tspan14-9-0"
+         style="stroke-width:0.437755"
+         x="45.555214"
+         y="201.32965">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="191.79605"
+       y="219.29085"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="stroke-width:0.264583"
+         x="191.79605"
+         y="219.29085">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="146.67082"
+       y="219.29085"
+       id="text15-4"><tspan
+         sodipodi:role="line"
+         id="tspan15-1"
+         style="stroke-width:0.264583"
+         x="146.67082"
+         y="219.29085">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="165.52011"
+       y="219.29085"
+       id="text15-9"><tspan
+         sodipodi:role="line"
+         id="tspan15-8"
+         style="stroke-width:0.264583"
+         x="165.52011"
+         y="219.29085">10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="34.054054"
+       y="218.21046"
+       id="text16"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         style="stroke-width:0.264583"
+         x="34.054054"
+         y="218.21046">Basic Storage</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="13.533134"
+       y="265.25388"
+       id="text17"><tspan
+         sodipodi:role="line"
+         id="tspan17"
+         style="stroke-width:0.264583"
+         x="13.533134"
+         y="265.25388">Basic Dagger - Size 1, 1(-2) rending damage</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="13.533134"
+         y="272.30942"
+         id="tspan19">    One Handed, Striking</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="13.533134"
+         y="279.36499"
+         id="tspan18" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="15.810811"
+       y="237.89189"
+       id="text20"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         style="stroke-width:0.264583"
+         x="15.810811"
+         y="237.89189" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="12.981919"
+       y="259.53503"
+       id="text21"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="12.981919"
+         y="259.53503"
+         id="tspan22">Basic Armour - 4 Integrity, 0 Penalty, Weakness All!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="12.981919"
+       y="248.12766"
+       id="text23"><tspan
+         sodipodi:role="line"
+         id="tspan23"
+         style="stroke-width:0.264583"
+         x="12.981919"
+         y="248.12766">Explorers Kit - Size 3, Tools you need, Uses:       / 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="13.864864"
+       y="290.18918"
+       id="text24"><tspan
+         sodipodi:role="line"
+         id="tspan24"
+         style="stroke-width:0.264583"
+         x="13.864864"
+         y="290.18918">Silver 5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="12.981919"
+       y="253.81619"
+       id="text25"><tspan
+         sodipodi:role="line"
+         id="tspan25"
+         style="stroke-width:0.264583"
+         x="12.981919"
+         y="253.81619">Reagent Bag - Size 2, For rituals, Uses:        / 5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="13.533134"
+       y="223.84389"
+       id="text26"><tspan
+         sodipodi:role="line"
+         id="tspan26"
+         style="stroke-width:0.264583"
+         x="13.533134"
+         y="223.84389">Woodland Bow - Size 4, 4(-2) piercing damage</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="13.533134"
+         y="230.89944"
+         id="tspan28">    Two Handed, Loading(0), Capacity(1), </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="13.533134"
+         y="237.95499"
+         id="tspan32">    Salvageable Ammo, Targeted</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="13.461476"
+       y="243.48918"
+       id="text29"><tspan
+         sodipodi:role="line"
+         id="tspan29"
+         style="stroke-width:0.264583"
+         x="13.461476"
+         y="243.48918">Arrows x5</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="13.461476"
+         y="250.54474"
+         id="tspan30" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="13.461476"
+       y="277.84363"
+       id="text29-0"><tspan
+         sodipodi:role="line"
+         id="tspan29-8"
+         style="stroke-width:0.264583"
+         x="13.461476"
+         y="277.84363">Arrows x5</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="13.461476"
+         y="284.89917"
+         id="tspan30-0" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="6.4299259"
+       y="224.09825"
+       id="text31"><tspan
+         sodipodi:role="line"
+         id="tspan31"
+         style="stroke-width:0.264583"
+         x="6.4299259"
+         y="224.09825">Q</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="7.0392985"
+       y="242.88663"
+       id="text31-2"><tspan
+         sodipodi:role="line"
+         id="tspan31-0"
+         style="stroke-width:0.264583"
+         x="7.0392985"
+         y="242.88663">Q</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="7.0392985"
+       y="248.42358"
+       id="text31-5"><tspan
+         sodipodi:role="line"
+         id="tspan31-9"
+         style="stroke-width:0.264583"
+         x="7.0392985"
+         y="248.42358">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="7.0392985"
+       y="253.96054"
+       id="text31-3"><tspan
+         sodipodi:role="line"
+         id="tspan31-8"
+         style="stroke-width:0.264583"
+         x="7.0392985"
+         y="253.96054">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="7.0392985"
+       y="259.4975"
+       id="text31-29"><tspan
+         sodipodi:role="line"
+         id="tspan31-05"
+         style="stroke-width:0.264583"
+         x="7.0392985"
+         y="259.4975">W</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="7.0392985"
+       y="265.03445"
+       id="text31-0"><tspan
+         sodipodi:role="line"
+         id="tspan31-5"
+         style="stroke-width:0.264583"
+         x="7.0392985"
+         y="265.03445">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="7.7893028"
+       y="276.67062"
+       id="text31-52"><tspan
+         sodipodi:role="line"
+         id="tspan31-86"
+         style="stroke-width:0.264583"
+         x="7.7893028"
+         y="276.67062">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="7.568779"
+       y="289.63672"
+       id="text31-52-1"><tspan
+         sodipodi:role="line"
+         id="tspan31-86-7"
+         style="stroke-width:0.264583"
+         x="7.568779"
+         y="289.63672">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="72.196999"
+       y="69.411087"
+       id="text33"><tspan
+         sodipodi:role="line"
+         id="tspan33"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="72.196999"
+         y="69.411087">Mystic</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="72.196999"
+         y="73.820808"
+         id="tspan34" /><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="72.196999"
+         y="78.230537"
+         id="tspan35">You can see what others can’t, hear what others would not want to.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="72.196999"
+         y="82.640259"
+         id="tspan36" /><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="72.196999"
+         y="87.049988"
+         id="tspan37">Your character can perform Ritual Magic to:</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="72.196999"
+         y="91.459709"
+         id="tspan38" /><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="72.196999"
+         y="95.869438"
+         id="tspan41">    Detect the unseen.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="72.196999"
+         y="100.27916"
+         id="tspan42">    Gather information about things you could not otherwise know.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="72.196999"
+         y="104.68889"
+         id="tspan43">    Command and manipulate unintelligent spirits and undead.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="72.196999"
+         y="109.09861"
+         id="tspan44">    Hex something that you have a piece of.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="72.196999"
+         y="113.50834"
+         id="tspan45">    Remove Wounded and other non-permanent Injury.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="72.196999"
+         y="117.91806"
+         id="tspan46" /><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="72.196999"
+         y="122.32779"
+         id="tspan47">Crafting Cost: 1 size of Artisan Materials + a Reagent Bag charge.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       x="72.064713"
+       y="138.95779"
+       id="text48"><tspan
+         sodipodi:role="line"
+         id="tspan48"
+         style="stroke-width:0.264583"
+         x="72.064713"
+         y="138.95779">Hunter</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="72.064713"
+         y="143.36751"
+         id="tspan49" /><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="72.064713"
+         y="147.77722"
+         id="tspan50">You are always on the hunt, what you hunt is easier to defeat.</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="72.064713"
+         y="152.18694"
+         id="tspan51" /><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="72.064713"
+         y="156.59665"
+         id="tspan52">    * After Downtime declare your prey, you may only have one prey. </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="72.064713"
+         y="161.00636"
+         id="tspan58">    Prey may be a specific entity you know of, or a type of creature.</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="72.064713"
+         y="165.41608"
+         id="tspan53">    * You deal an additional Damage with all Attack against prey.</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="72.064713"
+         y="169.82578"
+         id="tspan56">    * You gain (+1) to all Memory and Awareness skill tests related to prey.</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="72.064713"
+         y="174.23549"
+         id="tspan57" /></text>
   </g>
 </svg>
