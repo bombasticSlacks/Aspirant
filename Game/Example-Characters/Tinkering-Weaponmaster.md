@@ -15,11 +15,11 @@
 | Stress      | 2     |
 | Movement    | Reach |
 
-### Training
-* ![Weapon-Enthusiast](Game/Blocks/Weapon-Enthusiast)
-* ![Crafter](Game/Blocks/Crafter)
+## Training
+[Weapon-Enthusiast](Game/Blocks/Weapon-Enthusiast)
+[Crafter](Game/Blocks/Crafter)
 
-### Equipment
+## Equipment
 [Basic-Storage](Game/Gear/Basic-Storage)
 * 10 [Scrap-Bomb](Game/Gear/Scrap-Bomb) {Q}
 * [Explorers-Kit](Game/Gear/Explorers-Kit)

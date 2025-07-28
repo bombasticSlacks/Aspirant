@@ -15,11 +15,11 @@
 | Stress      | 4     |
 | Movement    | Reach |
 
-### Training
-* ![Dynamist](Game/Blocks/Dynamist)
-* ![Scholar](Game/Blocks/Scholar)
+## Training
+[Dynamist](Game/Blocks/Dynamist)
+[Scholar](Game/Blocks/Scholar)
 
-### Equipment
+## Equipment
 [Basic-Storage](Game/Gear/Basic-Storage)
 * [Focus](Game/Gear/Focus) {Q}
 * Magic Crystals x2 (artisan resonant material) {Q}

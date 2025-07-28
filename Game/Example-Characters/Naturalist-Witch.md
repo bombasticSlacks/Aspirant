@@ -15,11 +15,11 @@
 | Stress      | 3     |
 | Movement    | Close |
 
-### Training
-* ![Mystic](Game/Blocks/Mystic)
-* ![Hunter](Game/Blocks/Hunter)
+## Training
+![Mystic](Game/Blocks/Mystic)
+![Hunter](Game/Blocks/Hunter)
 
-### Equipment
+## Equipment
 [Basic-Storage](Game/Gear/Basic-Storage)
 * [Woodland-Bow](Game/Gear/Woodland-Bow.md) {Q}
 * Arrows x5 {Q}

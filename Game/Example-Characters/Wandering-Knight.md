@@ -15,11 +15,11 @@
 | Stress      | 2     |
 | Movement    | Close |
 
-### Training
-* ![Knight](Game/Blocks/Knight)
-* ![Mercenary](Game/Blocks/Mercenary)
+## Training
+[Knight](Game/Blocks/Knight)
+[Mercenary](Game/Blocks/Mercenary)
 
-### Equipment
+## Equipment
 [Basic-Storage](Game/Gear/Basic-Storage)
 * [Explorers-Kit](Game/Gear/Explorers-Kit)
 * [Scale-Mail](Game/Gear/Scale-Mail)
