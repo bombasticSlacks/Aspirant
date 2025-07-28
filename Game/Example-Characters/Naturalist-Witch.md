@@ -21,11 +21,11 @@
 
 ## Equipment
 [Basic-Storage](Game/Gear/Basic-Storage)
-* [Woodland-Bow](Game/Gear/Woodland-Bow.md) {Q}
+* [Woodland-Bow](Game/Gear/Woodland-Bow) {Q}
 * Arrows x5 {Q}
-* [Explorers-Kit](Game/Gear/Explorers-Kit.md)
-* [Reagent-Bag](Game/Gear/Reagent-Bag.md)
-* [Basic-Armour](Game/Gear/Basic-Armour.md)
-* Simple Knife ([Size-1-Basic](Game/Gear/Size-1-Basic.md))
-* Arrows x5
+* [Explorers-Kit](Game/Gear/Explorers-Kit)
+* [Reagent-Bag](Game/Gear/Reagent-Bag)
+* Crows Feathers (artisan bits)
+* [Basic-Armour](Game/Gear/Basic-Armour)
+* Simple Knife ([Size-1-Basic](Game/Gear/Size-1-Basic))
 * 5 Silver
