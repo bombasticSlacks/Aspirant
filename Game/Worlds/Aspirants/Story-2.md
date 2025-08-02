@@ -23,7 +23,7 @@ grand_parent: Worlds
 - "May the maidens water overflow"
 - Pilgrimage is also called "the long path".
 
-#### Earthen bandits
+#### Earthen Bandits
 *Black leathers, 4 clay fingerprints on the left bicep of the clothes*
 6 integrity, weak to rending! and cold
 3 damage +4
@@ -41,7 +41,7 @@ Pay 5 silver per living bandit, 2 per patch.
 ##### Kala
 Whispered of the church of the maiden. Woman in flowing cloth covering her but leaving plenty of exposed skin. She likes to soak in the basin and listen to the flow of water.
 
-##### Brenna 
+##### Brenna
 *Short fit broad woman, plain features but sharp eyes. Gambeson and a large knife.* 
 Zephyrs that maintain hideaway
 Secret knock to enter the hideaway, two quick knocks followed by 3.
@@ -51,11 +51,37 @@ Looming older man , cleaner keeper.
 
 ### Ideas
 * On a quest to receive the blessing of the maiden.
+* Go from city, through a forest (bandits), to a passage (clay man), that then leads down to the pool (enemies that are specters and rain that harms a persons mind). 
+* Pool is empty until get close and then all the water drops out of the sky into its basin.
 ### Activities
 
 ### Hooks
-
+* Deal with the clay man, who is haunting the passage through to the 
 ### Enemies
+### Earthen Bandit
+*Black leathers, 4 clay fingerprints on the left bicep of the clothes*
+
+| Move                                 | Integrity | Action Bonus | Hit Modifier | Avoid Modifier | Weakness      | Resistance |
+| ------------------------------------ | --------- | ------------ | ------------ | -------------- | ------------- | ---------- |
+| [Close](Game/Core/Movement#Close) | 6         | 4            | 0            | 0              | rending! cold |            |
+#### Actions
+* Attack with my weapon for 3 damage.
+* Throw a flash bomb if I'm captain (+2 integrity, -1 avoid)
+### Clay Man
+*An imbued human who has ingested too much holy water and has become mixed with the ground.*
+
+| Move                                 | Integrity | Action Bonus | Hit Modifier | Avoid Modifier | Weakness     | Resistance    |
+| ------------------------------------ | --------- | ------------ | ------------ | -------------- | ------------ | ------------- |
+| [Reach](Game/Core/Movement#Reach) | 14        | 5            | 0            | (-2)           | !cold, !life | heat, rending |
+#### Actions
+* deal 4 impact damage when I swing wildly.
+* all within reach, I'm exerted, dealing 5 impact damage when I slam the ground.
+* Exert and Regenerate 2 + 1d6 integrity when I draw material from the ground.
+* deal 3 pierce and teleport within far as I meld with the ground and then erupt out of it.
+#### Traits
+* [Boss](Game/Core/Blocks/Boss)(3)
+#### Traps
+* When I'm hurt, harm all in melee for 1 pierce as shards slag off
 
 
 ### Notes
@@ -81,3 +107,4 @@ Looming older man , cleaner keeper.
 ### Relics
 * [Burnswift](Game/Gear/Burnswift)
 * [Amulet-Of-The-Mountain](Game/Gear/Amulet-Of-The-Mountain)
+* [Maidens-Tear](Game/Gear/Maidens-Tear)
