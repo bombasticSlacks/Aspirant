@@ -1,11 +1,13 @@
-Rogue
+
+[Burglar](Game/Character-Development#Burglar)
 {: .label .label-blue }
 
-General
+[Discipline](Game/Character-Development#Discipline)
 {: .label .label-green }
 
-Advanced
+[Advanced](Game/Character-Development#Advanced)
 {: .label .label-purple }
 ### Preternatural Senses
-
-You can manoeuvre perfectly well in the dark or when your vision is otherwise impaired.
+*Your senses are honed for the dark.*
+* You are considered to have full use of your senses while in the dark.
+* You can **vanish** while in the dark.

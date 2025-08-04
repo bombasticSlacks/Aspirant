@@ -141,12 +141,7 @@ This is a perhaps non-exhaustive list of
 #### Trader
 *You are a master of moving and haggling, bartering is your bread and butter.*
 #### Burglar
-* Vanish
-* Darkvision / Sight
-* Lost in the crowd
-* Light step
-* Hide In Plain Sight
-* Use enemies weapons and attacks against themselves.
+*A thief by trade.*
 #### Rogue
 *A trickster using any advantage they can to defeat their foes.*
 

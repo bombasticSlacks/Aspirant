@@ -1,11 +1,13 @@
-Rogue
+
+[Burglar](Game/Character-Development#Burglar)
 {: .label .label-blue }
 
-General
+[Discipline](Game/Character-Development#Discipline)
 {: .label .label-green }
 
-Basic
+[Advanced](Game/Character-Development#Advanced)
 {: .label .label-purple }
 ### Light Step
-
-You never trigger traps by moving over them. You also receive a +1 to [Coordination](Core/Agility#Coordination) skill tests related to moving silently.
+*You move with careful consideration.*
+* You can remain **vanished** while moving.
+* You never trigger traps or other hazards while **vanished**.
