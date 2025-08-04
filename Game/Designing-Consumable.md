@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Designing Comestibles
-parent: Comestibles
+title: Designing Consumable
+parent: Consumables
 grand_parent: Equipment
 nav_order: 2
 ---
 
-# Designing [Comestibles](Core/Comestibles)
+# Designing [Consumable](Game/Core/Consumable)
 
 ## Alchemy
 

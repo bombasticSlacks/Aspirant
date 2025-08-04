@@ -35,6 +35,7 @@ Armour comes in various qualities based on the skill required to craft.
 * Use 2 materials, of at least [Exotic](Materials#Exotic) quality.
 * Have 2 [Features](#Features)
 * May take 1 [Tradeoffs](#Tradeoffs)
+* Has the [Exotic-Attire](Game/Core/Blocks/Exotic-Attire) [Armour-Traits](Game/Core/Armour-Traits).
 
 ### Master Work
 *Master worked armour is an artisan or exotic armour of exceptional craftsmanship and design.* 

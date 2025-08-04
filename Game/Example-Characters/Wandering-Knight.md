@@ -1,4 +1,14 @@
-
+---
+layout: default
+title: 
+grand_parent: 
+nav_order: 0
+has_children: false
+parent: 
+nav_exclude: true
+---
+# Wandering Knight
+{: .no_toc }
 ## Attributes
 
 | Strength  | 4   | Agility      | 3   | Communication | 2   | Intelligence | 2   | Intuition  | 2   |

@@ -38,15 +38,16 @@ Travelling in Aspirant can take long amounts of time. Travelling involves knowin
 For simplicity, travel is:
 
 - Simply, the time to get from one location to another
-- If you are travelling a large distance, travel is split further into 5 day segments.
+- Most travel should focus on hitting a milestone of some kind at least within 5 days. Travel should be directed to get somewhere. Unstructured travel isn't travel, it is adventuring.
 - A full day of travel is considered 14 hours of continual travel, this gives the characters ample time to rest.
 - At the end of the segment characters will need to pay for the food they used (rations tend to cost 2 silver per travel segment)
 - Characters at the start of each travel segment declare a [Travelling Activity](Activities#Travelling%20Activity) they will focus on during the travel.
+- Some travel segments will have specific modifiers. Maybe its dangerously hot, cold, you can get sick. Otherwise some travel segments will restrict types of [Assets](Game/Assets), no [Vehicles](Game/Assets#Vehicles), no horses, etc.
 
 ### Travel Movement
-In Aspirant movement between places should be measured in time, not distance. So a place might be a days travel, or 10 days travel, from where you are. 
+In Aspirant movement between places should be measured in time, not distance. So a place might be a days travel, or 4 days travel, from where you are. 
 #### Travel Speed
-Some [Assets](Game/Assets) may increase the travel speed of characters. Humans have a travel speed of 1x, a traveling groups speed is equal to the lowest speed among them.
+Some [Assets](Game/Assets) or abilities may increase the travel speed of characters. Humans have a travel speed of 1x, a traveling groups speed is equal to the lowest speed among them.
 
 ### Travel Encounter
 

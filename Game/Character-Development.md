@@ -136,6 +136,8 @@ This is a perhaps non-exhaustive list of
 *Learned masters of the world.*
 #### Beastmaster
 *Handlers and masters of animals.*
+#### Driver
+*You are an expert in travel and Transportation*
 
 - [Brawler](Brawler)
 - [Labourer](Labourer)

@@ -1,4 +1,14 @@
-
+---
+layout: default
+title: 
+grand_parent: 
+nav_order: 0
+has_children: false
+parent: 
+nav_exclude: true
+---
+# Tinkering Weaponmaster
+{: .no_toc }
 ## Attributes
 
 | Strength  | 3   | Agility      | 2   | Communication | 2   | Intelligence | 4   | Intuition  | 2   |

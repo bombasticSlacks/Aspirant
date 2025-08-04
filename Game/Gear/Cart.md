@@ -1,4 +1,4 @@
-[Camp Equipment](Game/Assets#Camp%20Equipment)
+[Vehicles](Game/Assets#Vehicles)
 {: .label .label-purple }
 
 [Artisan](Game/Designing-Armour#Artisan)
@@ -9,4 +9,4 @@
 
 * Cost 50.
 * Provides 60 [Camp Storage](Game/Storage#Camp%20Storage).
-* If there are two available [Mount](Game/Core/Blocks/Mount), it has a [Travel Speed](Game/Telling-The-Story#Travel%20Speed) of 2.
+* With two [Mount](Game/Core/Blocks/Mount) hooked to it, it has a [Travel Speed](Game/Telling-The-Story#Travel%20Speed) of 2.

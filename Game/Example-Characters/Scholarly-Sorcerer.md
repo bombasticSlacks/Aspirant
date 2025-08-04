@@ -1,4 +1,14 @@
-
+---
+layout: default
+title: 
+grand_parent: 
+nav_order: 0
+has_children: false
+parent: 
+nav_exclude: true
+---
+# Scholarly Sorcerer
+{: .no_toc }
 ## Attributes
 
 | Strength  | 2   | Agility      | 2   | Communication | 2   | Intelligence | 3   | Intuition  | 4   |

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Example Comestibles
-parent: Comestibles
+title: Example Consumable
+parent: Consumable
 grand_parent: Equipment
 nav_order: 2
 ---
-# Example [Comestibles](Core/Comestibles)
-* This is a non-exhaustive list of the sort of comestibles you can create. You can also design your own [Designing-Comestibles](Designing-Comestibles).
+# Example [Consumable](Game/Core/Consumable.md)
+* This is a non-exhaustive list of the sort of comestibles you can create. You can also design your own [Designing-Consumable](Game/Designing-Consumable.md).
 
 ## Alchemy
 ### Adrenaline
