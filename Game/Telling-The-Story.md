@@ -17,6 +17,14 @@ Combat is the most rigorously kept time in Aspirant; as it is when you are most 
 
 Narrative time in aspirant involves characters in a place of interest doing activities, exploring, and progressing the story directly. The passage of narrative time can be a bit more ambiguous compared with combat. There aren’t rules for narrative time, this is when characters will be directing the focus and the story themselves.
 
+## Flashback
+
+Sometimes an ability or necessity will require you to explore a scene that happened in the past. If this occurs it is similar to [Narrative Time](#Narrative%20Time) with the following additional rules.
+* Nothing can occur that would contradict the present. 
+* The [Game Master](Game/Core/Terminology#Game%20Master) gets the final say on if a [Player Character](Game/Core/Terminology#Player%20Character) behavior is appropriate. 
+
+Dealing with non-linear time can be complicated and everyone should attempt to behave in good faith. 
+
 ## Downtime
 
 This tends to happen when you are in a safe area. When in a friendly settlement with no impending danger your characters can choose to take 5 days and rest focusing on yourselves, your work, and resting up. While doing downtime each character:
@@ -26,9 +34,11 @@ This tends to happen when you are in a safe area. When in a friendly settlement 
 - Reset your [Reaction](Game/Core/Blocks/Reaction) to your max.
 - Reset uses of all Once Per Downtime abilities.
 - Performs 1 [Downtime Activity](Activities#Downtime%20Activity).
-- Each settlement will have a cost for 5 days of lodgings, usually it will be 2 silver which will cover your food and housing for the duration.
+* Pay for [Lodgings](#Lodgings).
 - While performing downtime, players should be encouraged to still take part in scenes in [Narrative Time](#Narrative%20Time), maybe they meet local artisans, haggle with a shopkeeper, or find the start of an adventure. Time shouldn't exclusively be occupied with a [Downtime Activity](Activities#Downtime%20Activity), but it will help explain what you are doing when not otherwise occupied.
 
+### Lodgings
+Each settlement will have a cost for 5 days of lodgings, usually it will be 2 silver which will cover your food and housing for the duration.
 ## Travelling
 
 Travelling in Aspirant can take long amounts of time. Travelling involves knowing the direction or location of something and then travelling towards it. Travel will usually take a number of days. To travel you require at minimum [Camping Gear](Game/Example-Gear#Camping%20Gear).

@@ -1,14 +1,12 @@
-Academic
+
+[Trader](Game/Character-Development#Trader)
 {: .label .label-blue }
 
-General
+[Discipline](Game/Character-Development#Discipline)
 {: .label .label-green }
 
-Advanced
+[Advanced](Game/Character-Development#Advanced)
 {: .label .label-purple }
-
 ### I Packed It
-
-Once per [Downtime](Game/Telling-The-Story#Downtime), you can declare after the fact that you purchased an item while you were last resting in a settlement. The item would have to have been available, and you need to spend the equivalent currency it would have cost.
-
-You also count as having an [Explorers Kit](Game/Example-Gear#Explorers%20Kit), you can use it for [Power](Game/Core/Blocks/Power) instead of silver.
+*You always seem prepared, no matter how careful you are with your money.*
+* You can spend an [Influence](Game/Blocks/Influence) to [Flashback](Game/Telling-The-Story#Flashback) at anytime to you purchasing something in the last place you visited. The item would have to have been available, and you need to spend the equivalent currency it would have cost. After the [Flashback](Game/Telling-The-Story#Flashback) you have the object on hand.

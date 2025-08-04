@@ -137,7 +137,9 @@ This is a perhaps non-exhaustive list of
 #### Beastmaster
 *Handlers and masters of animals.*
 #### Driver
-*You are an expert in travel and Transportation*
+*You are an expert in travel and Transportation.*
+#### Trader
+*You are a master of moving and haggling, bartering is your bread and butter.*
 
 - [Brawler](Brawler)
 - [Labourer](Labourer)
