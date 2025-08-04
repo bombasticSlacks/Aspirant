@@ -140,10 +140,18 @@ This is a perhaps non-exhaustive list of
 *You are an expert in travel and Transportation.*
 #### Trader
 *You are a master of moving and haggling, bartering is your bread and butter.*
+#### Burglar
+* Vanish
+* Darkvision / Sight
+* Lost in the crowd
+* Light step
+* Hide In Plain Sight
+* Use enemies weapons and attacks against themselves.
+#### Rogue
+*A trickster using any advantage they can to defeat their foes.*
 
 - [Brawler](Brawler)
 - [Labourer](Labourer)
-- [Rogue](Rogue)
 - [Shaper](Shaper)
 - [Star](Star)
 - [Wanderer](Wanderer)
