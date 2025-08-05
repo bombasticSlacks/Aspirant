@@ -8,12 +8,14 @@ nav_order: 2
 
 # Designing [Consumable](Game/Core/Consumable)
 
-## Alchemy
+## Basic
 
-Alchemy, otherwise known as pharmacy, is the act of preparing plants, animal bits, and other sources of compounds for consumption. These alchemical mixtures will usually have positive effects, but poisons can potentially be crafted.
+## Artisan
 
-Remember that Aspirant is a magical world and medicine should be similarly magical. Even compounds resembling real-world effects should work faster, with less side effects, and provide more effective solutions.
+## Exotic
 
-## Enchanting
 
-Similarly to the above, enchanters can produce similar items with similar effects using [Ascendancy](Game/Core/Intuition#Ascendancy) instead of [Application](Core/Intelligence#Application).
+## SCRATCH
+Food 3 tiers (basic, artisan, exotic) - basic gain a stress, if you eat artisan no stress, if you eat exotic you get a stress back. Masterwork gives a trait from ingested and applied.
+
+Potions and such are based on their effect. Need to make a list…
