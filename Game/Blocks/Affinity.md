@@ -4,4 +4,4 @@
 ### Affinity
 The number of magic items you can [Bind](Magic-Items#Binding).
 
-Affinity is equal to your [Intuition](Game/Core/Intuition).
+Affinity is equal to your [Instinct](Game/Core/Instinct).

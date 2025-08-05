@@ -35,7 +35,7 @@ grand_parent: Worlds
 			* Settling everyones contract.
 			* Father gave him a letter from Mo Joe
 		* Arturas and Vespin going with the servants
-			* Peach blossom a local flower which [Becka](Game/Worlds/Post-Calamity/Crosshaven.md#Becka) uses to brew beer in the spring. 
+			* Peach blossom a local flower which [Becka](Game/Worlds/Post-Calamity/Crosshaven#Becka) uses to brew beer in the spring. 
 			* The staff are catty and gossipy but fun
 			* Becka implied Simple would be flirtatious with her.
 			* 

@@ -8,7 +8,7 @@ nav_order: 2
 # Liquid
 One of the [Materials](Materials) used for crafting and trading.
 
-Spirits, elixirs, strange fluids, or anything that can be used to dissolve, treat, or lubricate materials. Useful in crafting [Consumable](Game/Core/Consumable.md).
+Spirits, elixirs, strange fluids, or anything that can be used to dissolve, treat, or lubricate materials. Useful in crafting [Consumable](Game/Core/Consumable).
 
 ## Basic Liquid
 Simple bases, acids, binding agents, lubricants, Ale.

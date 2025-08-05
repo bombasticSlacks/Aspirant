@@ -14,7 +14,7 @@ Magic in aspirant is free flowing and should be created during the [Scene](Core/
 
 Which is performed on the spot and manipulates the world using [Magical Energy](#Magical%20Energy) to cause temporary changes. Its effects should be instant and related to the moment in which it happens. Channeled magic cannot cause permanent changes (unless its indirect). 
 
-Channelling magic is a [Ascendancy](Game/Core/Intuition#Ascendancy) [Fixed Difficulty](Core/Skills#Fixed%20Difficulty) skill test with a difficulty based on circumstances.
+Channelling magic is a [Ascendancy](Game/Core/Instinct#Ascendancy) [Fixed Difficulty](Core/Skills#Fixed%20Difficulty) skill test with a difficulty based on circumstances.
 
 Channelled Magic requires:
 
@@ -29,7 +29,7 @@ Channelled magic requires magical energy. Focused magic that can be expended to 
 
 You can only maintain one instance of channelled magic at a time. You can still perform instantaneous magic while concentrating.
 
-Whenever a [Scene](Game/Core/Terminology#Scene) ends, or narratively appropriate as you are put under stress you will need to make an additional [Ascendancy](Game/Core/Intuition#Ascendancy) [Fixed Difficulty](Game/Core/Skills#Fixed%20Difficulty) to maintain concentration. [Damage](Game/Core/Terminology#Damage) shouldn't cause this to occur, but [Injury](Game/Core/Injury) might.
+Whenever a [Scene](Game/Core/Terminology#Scene) ends, or narratively appropriate as you are put under stress you will need to make an additional [Ascendancy](Game/Core/Instinct#Ascendancy) [Fixed Difficulty](Game/Core/Skills#Fixed%20Difficulty) to maintain concentration. [Damage](Game/Core/Terminology#Damage) shouldn't cause this to occur, but [Injury](Game/Core/Injury) might.
 
 ### Examples
 
@@ -41,7 +41,7 @@ Whenever a [Scene](Game/Core/Terminology#Scene) ends, or narratively appropriate
 
 Which is performed using advanced rituals, rites, and performances along with specific materials to permanently change the world or perceive the flow of magic itself.
 
-Ritual magic is an [Ascendancy](Game/Core/Intuition#Ascendancy) [Fixed Difficulty](Core/Skills#Fixed%20Difficulty) skill test with a difficulty based on circumstances.
+Ritual magic is an [Ascendancy](Game/Core/Instinct#Ascendancy) [Fixed Difficulty](Core/Skills#Fixed%20Difficulty) skill test with a difficulty based on circumstances.
 
 Ritual Magic requires:
 

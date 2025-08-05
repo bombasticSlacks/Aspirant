@@ -33,12 +33,12 @@ grand_parent: Worlds
 	* Akren Scouting, Rest, Production work (anti magic dust), Social
 * Met Jezebel Argent Hold officer on the road.
 	* Mentioned that the Aurelius's treat them well, would extend the favour. 
-	* Mentioned that [Tally (Talia Defferen)](Game/Worlds/Post-Calamity/Argent-Hold.md#Tally%20(Talia%20Defferen)) is still at the Lunastrella.
+	* Mentioned that [Tally (Talia Defferen)](Game/Worlds/Post-Calamity/Argent-Hold#Tally%20(Talia%20Defferen)) is still at the Lunastrella.
 * FOR NEXT TIME:
 	* Phone Call during travel on the 10th.
 	* Crosshaven
 ### Rewards
-* got the [Staff-Of-Old-Blood](Game/Gear/Staff-Of-Old-Blood.md)
+* got the [Staff-Of-Old-Blood](Game/Gear/Staff-Of-Old-Blood)
 * 2xp for clearing the crypt
 * 
 

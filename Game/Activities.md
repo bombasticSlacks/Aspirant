@@ -102,7 +102,7 @@ _You tinker and work away in the evenings, maybe even while riding._
 _You organize watch for the team, taking extra shifts when necessary._
 
 - When the GM rolls to determine if an [Ambush Encounter](Telling-The-Story#Ambush%20Encounter) occurs, you may have your [Coordination](Core/Agility#Coordination) provide a penalty to the roll.
-- You receive a +3 on any [Awareness](Game/Core/Intuition#Awareness) tests during [Ambush Encounter](Telling-The-Story#Ambush%20Encounter).
+- You receive a +3 on any [Awareness](Game/Core/Instinct#Awareness) tests during [Ambush Encounter](Telling-The-Story#Ambush%20Encounter).
 - You are not surprised if ambushed.
 - You regain 1 [Power](Game/Core/Blocks/Power)
 

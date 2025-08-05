@@ -84,7 +84,7 @@ grand_parent: Worlds
 ---
 
 ## Monsters
- ### Effigy 
+### Effigy
  12 int, Resistant All but cold.
 * 5 heat damage range
 * 4 impact melee 

@@ -22,7 +22,7 @@ Assign your [Attributes](Game/Core/Attributes) placing one of the two sets of va
 - 4,3,2,2,2
 - 3,3,3,2,2
 
-> So, 4 [Strength](Game/Core/Strength), 3 [Agility](Game/Core/Agility), 2 [Intelligence](Game/Core/Intelligence), 2 [Intuition](Game/Core/Intuition), 2 [Communication](Game/Core/Communication) is a valid stat line
+> So, 4 [Strength](Game/Core/Strength), 3 [Agility](Game/Core/Agility), 2 [Intelligence](Game/Core/Intelligence), 2 [Instinct](Game/Core/Instinct), 2 [Communication](Game/Core/Communication) is a valid stat line
 
 
 ### Skills

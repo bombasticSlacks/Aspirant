@@ -14,7 +14,7 @@ grand_parent: Worlds
 * 3 Size of Opal (artisan resonant material) in the God's hand
 * 8 meter tall, war machine, dormant, inside, maul + cannon.
 * Temple, had a dias with an indent for the orb
-## Crosshaven 17th of Spring - 
+## Crosshaven 17th of Spring -
 * For NEXT TIME:
 	* Temple Of Excelciar
 	* Then Tower

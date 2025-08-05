@@ -5,7 +5,7 @@
 [Discipline](Game/Character-Development#Discipline)
 {: .label .label-green }
 
-[Master](Game/Character-Development.md#Master)
+[Master](Game/Character-Development#Master)
 {: .label .label-purple }
 ### Divine Champion
 *Your faith is shared by all.*

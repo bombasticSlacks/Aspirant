@@ -14,7 +14,7 @@ Before anything else, try to imagine what your character should be. Are they a s
 Make note of your character's name and any other relevant details before moving on to giving your character rules.
 
 ## Character Creation Options
-[Embarking-Adventurers](Game/Worlds/Aspirants/Embarking-Adventurers.md) has details for creating adventurers just at the beginning of their adventures.
+[Embarking-Adventurers](Game/Worlds/Aspirants/Embarking-Adventurers) has details for creating adventurers just at the beginning of their adventures.
 
 ## Example Characters
 * [Tesson Ravenmark](Example-Characters/Tesson-Ravenmark).

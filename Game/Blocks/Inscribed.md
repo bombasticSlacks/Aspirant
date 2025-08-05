@@ -6,4 +6,4 @@
 
 ### Inscribed
 
-This weapon counts as a Focus for [Ascendancy](Game/Core/Intuition#Ascendancy) skill tests.
+This weapon counts as a Focus for [Ascendancy](Game/Core/Instinct#Ascendancy) skill tests.

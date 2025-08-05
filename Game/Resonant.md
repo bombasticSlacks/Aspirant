@@ -10,7 +10,7 @@ nav_order: 2
 
 One of the [Materials](Materials) used for crafting and trading.
 
-Items with a clear magical attunement, pieces of magical items, mundane items collected from places of power and rare gemstones. Useful in powering [Focus](Game/Example-Gear#Foc[Ascendancy](Game/Core/Intuition#Ascendancy)ancy), and advanced crafting.
+Items with a clear magical attunement, pieces of magical items, mundane items collected from places of power and rare gemstones. Useful in powering magic, and advanced crafting.
 
 ## Basic Resonant
 

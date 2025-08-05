@@ -10,7 +10,7 @@
 ### Conduit
 *You are sensitive to shifts in magic, and can obsorb great amounts of power.*
 * You always know if something is magical in nature.
-* When performing [Ascendancy](Game/Core/Intuition#Ascendancy) you may opt to automatically succeed on a skill test and on the following table to see what happens to you:
+* When performing [Ascendancy](Game/Core/Instinct#Ascendancy) you may opt to automatically succeed on a skill test and on the following table to see what happens to you:
 
 | 1d6 | Outcome                                                                                                                                  |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------- |

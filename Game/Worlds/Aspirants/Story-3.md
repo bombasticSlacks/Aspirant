@@ -7,7 +7,7 @@ grand_parent: Worlds
 ---
 
 # Story 3 - Blood In The Water
-There is news in the town of Festa that people and livestock have been going missing. The Towns elder circle has negotiated a price of 30 silver for your services, plus hospitality covered for your stay.  You have lodgings at the Crooked Sign in the center of town. Your two leads are Bowe Tinsta a farmer who as had livestock go missing, and the local chirurgeon Vessa Festa. 
+There is news in the town of Festa that people and livestock have been going missing. The Towns elder circle has negotiated a price of 30 silver for your services, plus hospitality covered for your stay. You have lodgings at the Crooked Sign in the center of town. Your two leads are Bowe Tinsta a farmer who as had livestock go missing, and the local chirurgeon Vessa Festa. 
 ## Players
 
 ## Lore

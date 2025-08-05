@@ -11,7 +11,7 @@ nav_exclude: true
 {: .no_toc }
 ## Attributes
 
-| Strength  | 4   | Agility      | 3   | Communication | 2   | Intelligence | 2   | Intuition  | 2   |
+| Strength  | 4   | Agility      | 3   | Communication | 2   | Intelligence | 2   | Instinct  | 2   |
 | --------- | --- | ------------ | --- | ------------- | --- | ------------ | --- | ---------- | --- |
 | Endurance | 5   | Coordination | 1   | Confidence    | 3   | Application  | 0   | Ascendancy | 0   |
 | Physique  | 5   | Reflexes     | 4   | Connection    | 3   | Memory       | 3   | Awareness  | 3   |
