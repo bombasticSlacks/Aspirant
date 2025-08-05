@@ -26,6 +26,7 @@ Decide what type of [Munitions](Game/Munitions) you are making. A non exhaustive
 | Shot   | [Artisan](#Artisan) |
 | Ball   | [Artisan](#Artisan) |
 | Fuel   | [Artisan](#Artisan) |
+| Stone  | [Basic](#Basic)     |
 
 ## Quality
 Munitions comes in various qualities based on the skill required to craft. Uniquely, based on [Shape](#Shape) there will be a minimum quality required for the shape.

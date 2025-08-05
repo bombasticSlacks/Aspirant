@@ -15,12 +15,14 @@ Munitions may have a size of "M" which means that 5 can be stored per 1 [Size](G
 
 ## Munition Shape
 Munitions are not interchangeable, a crossbow doesn't shoot arrows, a bow doesn't fire bolts. Munitions come in many shapes but some commonplace ones are:
-* Arrow
-* Bolt
-* Bullet
-* Shot
-* Ball
-* Fuel
+### Arrow
+### Bolt
+### Bullet
+### Shot
+### Ball
+### Fuel
+
+### Stone
 
 ## Basic Munitions
 Basic objects like arrows.

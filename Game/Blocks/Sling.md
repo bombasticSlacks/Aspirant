@@ -8,7 +8,7 @@
 ### Sling
 *This weapon aids with throwing things long distances.*
 * [Loading](Game/Core/Blocks/Loading)(0).
-* [Capacity](Game/Core/Blocks/Capacity) 1([Throwables](Game/Core/Gear#Throwables)).
+* [Capacity](Game/Core/Blocks/Capacity) 1([Stone](Game/Munitions#Stone)).
 * [Launcher](Game/Core/Blocks/Launcher).
 * [Precision](Game/Core/Blocks/Precision).
 * Size 1-2 range of [Close](Game/Core/Movement#Close).
