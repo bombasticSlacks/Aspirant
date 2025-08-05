@@ -1,4 +1,4 @@
-[Vehicles](Game/Assets#Vehicles)
+[Vehicles](Game/Asset#Vehicles)
 {: .label .label-purple }
 
 [Artisan](Game/Designing-Armour#Artisan)

@@ -1,4 +1,4 @@
-[Camp Equipment](Game/Assets#Camp%20Equipment)
+[Camp Equipment](Game/Asset#Camp%20Equipment)
 {: .label .label-purple }
 
 [Artisan](Game/Designing-Armour#Artisan)

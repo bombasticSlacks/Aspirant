@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Assets
+title: Asset
 parent: Equipment
 nav_order: 2
 has_children: true
 ---
-# Assets
+# Asset
 Asset [Equipment](Core/Equipment) is your more abstract holdings. If you own a house, business, manage a keep etc. Some of these will require active management to maintain, or have maintenance costs and potential earnings. 
 
 ## Locations

@@ -18,7 +18,7 @@ Aspirant is a world of tradespeople, experts with something to offer a prospecti
 | [Travel Segment](Telling-The-Story#Travel%20Segment) of travel food       | $1$                                      |
 | Getting expertise or knowledge                                            | $4$                                      |
 | Hiring a mercenary for a day                                              | $2$                                      |
-| Moving a piece of [Infrastructure](Assets#Infrastructure) to another city | $2 \times Days\ Of\ Travel \times Space$ |
+| Moving a piece of [Infrastructure](Game/Asset#Infrastructure) to another city | $2 \times Days\ Of\ Travel \times Space$ |
 
 
 ### Crafting Commissions
