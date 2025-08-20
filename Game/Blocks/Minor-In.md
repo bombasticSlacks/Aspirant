@@ -9,5 +9,5 @@
 {: .label .label-purple }
 ### Minor In
 *You have a small interest in something strange.*
-* Select an [Advanced](Game/Character-Development#Advanced) training that you know, you don't have to have the [Basic](Game/Character-Development#Basic) required.
+* Select an [Advanced](Game/Character-Development#Advanced) training to learn from another [Discipline](Game/Character-Development#Discipline), you don't need to have the [Basic](Game/Character-Development#Basic) training required for it.
 

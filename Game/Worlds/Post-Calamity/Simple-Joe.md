@@ -16,3 +16,8 @@ Lots of his family has left to explore and not be militant in other parts of the
 
 Has an Aunt Pricidis Joe.
 
+Mom is Sloppy Joe.
+Father is Howard Johnson
+
+[Tally (Talia Defferen)](Game/Worlds/Post-Calamity/Argent-Hold#Tally%20(Talia%20Defferen))
+[Guiseppe Inverness Joe](Game/Worlds/Post-Calamity/Argent-Hold#Guiseppe%20Inverness%20Joe)

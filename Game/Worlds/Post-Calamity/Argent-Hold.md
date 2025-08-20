@@ -15,13 +15,13 @@ Swords and boards,
 Halberds
 Long Rifles
 
-
+Argent Hold mages, go insane near the nothing, need to be controlled heavily.
 
 *Onyx* - Vitomancy and Enchanting
 
 
 ## Tally (Talia Defferen)
-Field Officer
+Field Officer (highest rank officer in the field).
 
 Tight bun, younger, Black officer uniform
 
@@ -29,4 +29,8 @@ Tight bun, younger, Black officer uniform
 
 "Average" nickname
 
+## Guiseppe Inverness Joe 
+*A young man, greying at the temples (maybe a bit early) wearing a clean and standard argent hold officers uniform, w. breast plate over it.*
+GI Joe, Simples nephew. A low ranking officer in charge of the zinatu camp.
 
+Mother is Pricidis Joe.

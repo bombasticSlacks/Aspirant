@@ -26,6 +26,16 @@ Last leader of the Hunters
 ## Master Katala
 Blacksmith / crafter
 [Arturas-Gabrys](Game/Worlds/Post-Calamity/Arturas-Gabrys) knows of them but never met them directly.
+Went to Tussole works as a crafter there, under the name of "The Journeyman"
+
+## Kara Katala
+Another hunter who went north
+Went north to a monastery where they glean wisdom from a fallen angel. 
+
+## "Fell" Fellerrum
+Another hunter who went north
+In Snowcrest pledged to a house. 
+Had mastery of mutation and had transfigured features like the beasts you hunted. 
 
 # Relics
 Wolfs Bite

@@ -44,6 +44,10 @@ Wants information from [Jock Tennens](#Jock%20Tennens), more on "the ritual"
 *tanned man of poetry who is a mountain of a man. Bald*
 
 ### Ande Scorpion Sign (she/her)
-* A long passed on Zinatu who is Soulbound
+* A long passed on Zinatu who is a Perfect Soulbound
 * Level voice,
 * knows of crosshaven.
+
+### Sont Cancer Sign (they/them)
+*Waify and pale for a zinatu, hair pulled into a top bun. androgynous voice.*
+* 
