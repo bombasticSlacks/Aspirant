@@ -39,6 +39,8 @@ jobs:
         run: cp -rv /home/runner/work/Aspirant/Aspirant/Jekyl/* ./Game
       - name: remove core files with conflicts
         run: rm ./Game/Core/Home.md ./Game/Core/README.md ./Game/Core/CONTRIBUTING.md ./Game/Core/CODE_OF_CONDUCT.md
+      - name: swap links to MD style
+        run: python3 ./Game/Core/Scripts/wikitomd.py $(find ./Game -type f -name "*.md")
       - name: Create indexes
         run: bash lists_build.sh
       - name: insert core rules blocks
