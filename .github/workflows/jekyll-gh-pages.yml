@@ -49,6 +49,8 @@ jobs:
         run: python3 ./Game/Core/Scripts/replace.py Game/Gear
       - name: insert weird blocks
         run: python3 ./Game/Core/Scripts/replace.py Game/Worlds/Oddities
+      - name: swap links to MD style
+        run: python3 ./Game/Core/Scripts/wikitomd.py $(find ./Game -type f -name "*.md")
       - name: manipulate anchors
         run: python3 ./Game/Core/Scripts/convert.py $(find ./Game -type f -name "*.md")
       - name: manipulate anchors strip %20
