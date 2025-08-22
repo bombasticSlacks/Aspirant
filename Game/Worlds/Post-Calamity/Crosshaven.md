@@ -14,16 +14,16 @@ A peach blossom grows nearby in the spring which people eat and decorate.
 A number of mansions of wealthy noble caste.
 
 ## Lady Aurelius
-[Alexander-Aurelius](Alexander-Aurelius) mother, supportive of his journey but interested in making sure he is protected.
+[[Alexander-Aurelius]] mother, supportive of his journey but interested in making sure he is protected.
 
-Terse to the point woman. Respect but thinks husband is silly. Likes [Simple-Joe](Game/Worlds/Post-Calamity/Simple-Joe). Believes adventuring is a passing fancy.
+Terse to the point woman. Respect but thinks husband is silly. Likes [[Simple-Joe]]. Believes adventuring is a passing fancy.
 
 ## Lord Aurelius
 *old man with a full grey beard, small pair spectacles of brass, and a long drooping cap. *
 Alexanders father, bombastic, uncertain and bookish. 
 
 ## Jerald
-The butler of the [Alexander-Aurelius](Alexander-Aurelius) family.
+The butler of the [[Alexander-Aurelius]] family.
 Dry tone
 
 ## Becka

@@ -14,7 +14,7 @@ Industrious docks for trade and travelers.
 
 Populated, 3 merchant guilds working autonomously
 
-Capital Embassy there, Dockmaster represents the interest [Calphion](Calphion)
+Capital Embassy there, Dockmaster represents the interest [[Calphion]]
 
 3 Merchant Guilds
 

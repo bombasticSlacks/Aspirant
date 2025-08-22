@@ -6,7 +6,7 @@ nav_order: 1
 grand_parent: Worlds
 ---
 ## Session 33
-[Post-Calamity](Post-Calamity)
+[[Post-Calamity]]
 
 ## Ideas
 * 
@@ -19,10 +19,10 @@ grand_parent: Worlds
 	* Ask about the vampires
 * Taking a Downtime in the Manor
 	* Ignis bringing the guards good food to be content and not pay attention.
-	* [Alexander-Aurelius](Game/Worlds/Post-Calamity/Alexander-Aurelius) Solved the celestial training manual In TODOs.
-	* [Arturas-Gabrys](Game/Worlds/Post-Calamity/Arturas-Gabrys) converting some living metal, using exotic metal and cloth to finish wolfsbite. Made [Hoarfrost Bite](#Hoarfrost%20Bite). 
-	* [Simple-Joe](Game/Worlds/Post-Calamity/Simple-Joe) Learning second skin
-	* [Greg-Colter](Game/Worlds/Post-Calamity/Greg-Colter) Scouting
+	* [[Alexander-Aurelius]] Solved the celestial training manual In TODOs.
+	* [[Arturas-Gabrys]] converting some living metal, using exotic metal and cloth to finish wolfsbite. Made [[#Hoarfrost Bite|Hoarfrost Bite]]. 
+	* [[Simple-Joe]] Learning second skin
+	* [[Greg-Colter]] Scouting
 * Alexander Talked with Ignis about motivation
 * Alexander talked to arturas about how he's holding up
 * Alexander requires 3 living metal and to run the blood gutters for the wolfs armour.
@@ -58,8 +58,8 @@ Damage: 4 or 5 | Extra Damage: -2
 
 Damage Type: Rending Or Cold | Range: Reach
 
-* On [Non-mitigated Attack](Game/Core/Terminology#Non-mitigated%20Attack) your [Opponent](Game/Core/Terminology#Opponent) suffers brittle, (brittle causes you to lose all resistance)
-* You may spend a [Power](Game/Core/Blocks/Power) and become exerted to gain the [Area](Game/Core/Blocks/Area) trait for a [Melee Attack](Game/Core/Terminology#Melee%20Attack).
+* On [[Terminology#Non-mitigated Attack]] your [[Terminology#Opponent]] suffers brittle, (brittle causes you to lose all resistance)
+* You may spend a [[Power]] and become exerted to gain the [[Area]] trait for a [[Terminology#Melee Attack]].
 
 ### Characters
 * 
@@ -67,8 +67,8 @@ Damage Type: Rending Or Cold | Range: Reach
 
 ### To Do
 
-* [Roxy (Roxanne) la Croix](Game/Worlds/Post-Calamity/Verdantholm#Roxy%20(Roxanne)%20la%20Croix) will think on who would make a good leader of the merchants.
-* Simple Greg, writes a letter to [Mo Joe (he/him)](Game/Worlds/Post-Calamity/Verdantholm#Mo%20Joe%20(he/him)) to ask about the observations about natural escalation.
+* [[Verdantholm#Roxy (Roxanne]]%20la%20Croix) will think on who would make a good leader of the merchants.
+* Simple Greg, writes a letter to [[Verdantholm#Mo Joe (he/him]]) to ask about the observations about natural escalation.
 * Ignis combat stats + traps.
 * All basic celestial training.
 * Add finished wolfs armour.

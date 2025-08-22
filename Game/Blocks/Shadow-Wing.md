@@ -5,15 +5,15 @@ Elite
 
 | Move                          | Integrity | Weakness (! is vitals only)    | Resistance (! is ancillary only)                                           |
 | ----------------------------- | --------- | ------------------------------ | -------------------------------------------------------------------------- |
-| [Far](Game/Core/Movement#Far) | 6         | [Heat](Game/Core/Injury#Heat)! | [Rending](Game/Core/Injury#Rending), [Piercing](Game/Core/Injury#Piercing) |
+| [[Movement#Far]] | 6         | [[Injury#Heat]]! | [[Injury#Rending]], [[Injury#Piercing]] |
 
 #### Actions
-* [Attack](Game/Core/Blocks/Attack)(+5, [Rending](Game/Core/Injury#Rending), 4).
+* [[Game/Core/Blocks/Attack|Attack]](+5, [[Injury#Rending]], 4).
 #### Traps
-* [Ambush-Attack](Game/Core/Blocks/Ambush-Attack).
+* [[Ambush-Attack]].
 
 #### Traits
-* [Flying](Game/Core/Blocks/Flying).
-* [Hard-Target](Game/Core/Blocks/Hard-Target)
+* [[Flying]].
+* [[Game/Core/Blocks/Hard-Target|Hard-Target]]
 * Can Hide In Your Shadow.
 * Can Teleport Between Shadows.

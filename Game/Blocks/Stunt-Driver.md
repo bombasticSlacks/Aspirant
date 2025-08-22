@@ -1,14 +1,14 @@
 
-[Driver](Game/Character-Development#Driver)
+[[Character-Development#Driver]]
 {: .label .label-blue }
 
-[Concept](Game/Character-Development#Concept)
+[[Character-Development#Concept]]
 {: .label .label-green }
 
-[Advanced](Game/Character-Development#Advanced)
+[[Character-Development#Advanced]]
 {: .label .label-purple }
 ### Stunt Driver
 *You've never found a situation you couldn't get into or out of while driving.*
-* You can take [Vehicles](Game/Asset#Vehicles) on any [Travel Segment](Game/Telling-The-Story#Travel%20Segment).
-* You can pilot any [Vehicles](Game/Asset#Vehicles) alone.
-* You can have all [Character](Game/Core/Terminology#Character) [Travelling](Game/Telling-The-Story#Travelling) suffer a [Stress](Game/Core/Blocks/Stress) to double your [Travel Speed](Game/Telling-The-Story#Travel%20Speed).
+* You can take [[Asset#Vehicles]] on any [[Telling-The-Story#Travel Segment]].
+* You can pilot any [[Asset#Vehicles]] alone.
+* You can have all [[Terminology#Character]] [[Telling-The-Story#Travelling]] suffer a [[Stress]] to double your [[Telling-The-Story#Travel Speed]].

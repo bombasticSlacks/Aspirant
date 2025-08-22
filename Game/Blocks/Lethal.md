@@ -1,9 +1,9 @@
 
-[Weapon-Templates](Game/Weapon-Templates)
+[[Weapon-Templates]]
 {: .label .label-purple }
 
-[1 Crafting Point](Game/Designing-Weapons#Crafting%20Points)
+[[Designing-Weapons#Crafting Points]]
 {: .label .label-yellow }
 
 ### Lethal
-This weapon has 1 additional [Damage Bonus](Game/Designing-Weapons#Damage%20Bonus).
+This weapon has 1 additional [[Designing-Weapons#Damage Bonus]].

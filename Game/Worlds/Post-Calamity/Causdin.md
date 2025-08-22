@@ -9,12 +9,12 @@ grand_parent: Worlds
 
 * A settlement specializing in training and trading advanced and exotic mounts
 
-* Trade in many Dire Wolves from [Snowcrest](Snowcrest)
+* Trade in many Dire Wolves from [[Snowcrest]]
 
 ## Lore
 A settlement that exists inside the rib cage of a dragon's corpse.
 
-[Akren](Akren) family travels here to vacation.
+[[Akren]] family travels here to vacation.
 
 Causdin makes most its money from the north, being forked off the main river path. Trades for supplies with Tussole through the road through tennens. 
 
@@ -29,19 +29,19 @@ Shipments have been going missing, it is unknown the cause.
 
 ## Services
 
-Costs 1 silver to downtime here, but cannot get a good nights rest, unless staying at [Akren](Akren) idylic camping site his family uses.
+Costs 1 silver to downtime here, but cannot get a good nights rest, unless staying at [[Akren]] idylic camping site his family uses.
 
 Banding for unique and exotic mounts.
 
-[Knight](../../Knight)
-[Wanderer](../../Wanderer)
-[Rogue](../../Rogue)
+[[../../Knight|Knight]]
+[[../../Wanderer|Wanderer]]
+[[../../Rogue|Rogue]]
 ### Training
 
 #### Tamers Training
 ##### Fast Friend
 *Things have an inclination to aid you in small ways.*
-Basic - At the beginning of any encounter, you may make one neutral or hostile [Fodder](../../Core/Characters#Fodder) animal, to become your [Follower](../../Core/Terminology#Follower).
+Basic - At the beginning of any encounter, you may make one neutral or hostile [[Characters#Fodder]] animal, to become your [[Terminology#Follower]].
 
 ##### Second Shadow
 *Your mount never leaves your side, no matter how hard you try to be separated.*
@@ -56,7 +56,7 @@ Advanced - You may spend a power to have your mount appear beside you, it is ass
 | Falcon      | 30   |
 
 
-![Shadow-Wing](Game/Blocks/Shadow-Wing)
+![[Game/Blocks/Shadow-Wing|Shadow-Wing]]
 
 
 ## People
@@ -81,7 +81,7 @@ Lives in a nice if simple log cabin, few rooms, one nice object is a beautiful s
 
 The representative of the farmers and traders of Causdin, she handles logistics. Likes to open conversations with "No Relation".
 
-Knows "regular Joe" [Simple-Joe](Simple-Joe) brother.
+Knows "regular Joe" [[Simple-Joe]] brother.
 
 ### Ancient (They/Them)
 Sphinx, (monsters face slowly mutated into a mockery of human over years)
@@ -95,7 +95,7 @@ Master level wanderer, knows Zoologist.
 ### The Crown
 The head of the dragon.
 
-Where [Caleb Wyvern Rider (he/him)](#Caleb%20Wyvern%20Rider%20(he/him)) based, has a nice wood throne from the south.
+Where [[#Caleb Wyvern Rider (he/him|Caleb Wyvern Rider (he/him|[he/him)]]]]) based, has a nice wood throne from the south.
 
 
 ## Relics
@@ -109,8 +109,8 @@ This saddle can be used on any animal, including wild, at will and without needi
 Used in the ascention ceremony to become a member of the "dragons cabal".
 
 When someone imbibes the dragons heart they gain one of the following enchantments:
-![Dragons-Wings](Game/Worlds/Oddities/Dragons-Wings)
-![Dragons-Scales](Game/Worlds/Oddities/Dragons-Scales)
-![Dragons-Breath](Game/Worlds/Oddities/Dragons-Breath)
+![[Dragons-Wings]]
+![[Dragons-Scales]]
+![[Game/Worlds/Oddities/Dragons-Breath|Dragons-Breath]]
 
 ## Troops

@@ -1,9 +1,9 @@
 
-[Weapon-Templates](Game/Weapon-Templates)
+[[Weapon-Templates]]
 {: .label .label-purple }
 
-[1 Crafting Point](Game/Designing-Weapons#Crafting%20Points)
+[[Designing-Weapons#Crafting Points]]
 {: .label .label-yellow }
 
 ### Multiple Shots
-If your weapon has [Capacity](Game/Core/Blocks/Capacity) it has 3 additional.
+If your weapon has [[Capacity]] it has 3 additional.

@@ -6,14 +6,14 @@ nav_order: 1
 grand_parent: Worlds
 ---
 ## Session 23
-[Post-Calamity](Post-Calamity)
+[[Post-Calamity]]
 
 ## Ideas
 * 
 ## Verdantholm 29 Fall -
 * Shopping Session,
 	* Are gonna flashback to buy stuff for the cart, need to discuss da cart.
-* [Alexander-Aurelius](Game/Worlds/Post-Calamity/Alexander-Aurelius) requested the [Causdin](Game/Worlds/Post-Calamity/Causdin#Causdin) Tamers to go after the crystal he wants from Dark Mountain.
+* [[Alexander-Aurelius]] requested the [[Causdin#Causdin]] Tamers to go after the crystal he wants from Dark Mountain.
 * after they left the bar 10 people trailing
 	* 6 bruiser / thugs
 	* 2 Heavies
@@ -34,7 +34,7 @@ grand_parent: Worlds
 ### To Do
 * Negotiate travel and go to Calphion.
 * Do the interrogation of the Assassin. (get some merchant intel).
-* [Roxy (Roxanne) la Croix](Game/Worlds/Post-Calamity/Verdantholm#Roxy%20(Roxanne)%20la%20Croix) will think on who would make a good leader of the merchants.
+* [[Verdantholm#Roxy (Roxanne]]%20la%20Croix) will think on who would make a good leader of the merchants.
 * Rewards codify + exp for stopping the poison.
 * Jasmuta new stats include magic stuff.
 * Morty new stats.

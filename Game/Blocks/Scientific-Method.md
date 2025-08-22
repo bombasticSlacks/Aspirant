@@ -1,11 +1,11 @@
 
-[Scholar](Game/Character-Development#Scholar)
+[[Character-Development#Scholar]]
 {: .label .label-blue }
 
-[Discipline](Game/Character-Development#Discipline)
+[[Character-Development#Discipline]]
 {: .label .label-green }
 
-[Advanced](Game/Character-Development#Advanced)
+[[Character-Development#Advanced]]
 {: .label .label-purple }
 ### Scientific Method
 *You always have some theory on the go.*
@@ -13,4 +13,4 @@
 	* Why its happening.
 	* How it works.
 	* How to resolve the issue.
-* If you are validated as correct you recover 1 [Power](Game/Core/Blocks/Power).
+* If you are validated as correct you recover 1 [[Power]].

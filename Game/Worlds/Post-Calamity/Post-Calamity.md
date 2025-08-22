@@ -14,14 +14,14 @@ The continent within which this takes place, split in two, the game takes place 
 * [Dillon Matchett](https://github.com/bombasticSlacks)
 
 ## Players
-* [Akren](Akren)
-* [Alexander-Aurelius](Alexander-Aurelius)
-* [Arturas-Gabrys](Arturas-Gabrys)
-* [Greg-Colter](Greg-Colter)
-* [Simple-Joe](Simple-Joe)
-* [Vespin-Aevaris](Vespin-Aevaris)
+* [[Akren]]
+* [[Alexander-Aurelius]]
+* [[Arturas-Gabrys]]
+* [[Greg-Colter]]
+* [[Simple-Joe]]
+* [[Vespin-Aevaris]]
 
 ## Pages of Interest
-* [Crafting-Recipes](Crafting-Recipes)
-* [Hooks](Hooks)
-* [Monsters](../../Monsters)
+* [[Crafting-Recipes]]
+* [[Hooks]]
+* [[../../Monsters|Monsters]]

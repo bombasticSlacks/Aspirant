@@ -14,7 +14,7 @@ The great river that flows through the continent.
 Unique area scorched with symbols by the moon.
 
 ## Reversing Falls
-An area with a minor diety water spirit that is known to [Ancient (They/Them)](Game/Worlds/Post-Calamity/Causdin#Ancient%20(They/Them)).
+An area with a minor diety water spirit that is known to [[Causdin#Ancient (They/Them]]).
 
 ## Ghost Town
 A location of interest, a lost township of the pre cataclysm civilization.

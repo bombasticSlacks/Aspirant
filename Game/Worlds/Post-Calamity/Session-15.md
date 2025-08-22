@@ -6,11 +6,11 @@ nav_order: 1
 grand_parent: Worlds
 ---
 ## Session 15
-[Post-Calamity](Post-Calamity)
+[[Post-Calamity]]
 ## Causdin Summer 30
 * Splitting into two teams, warehouse team, and a docks team.
-* Warehouse is : [Vespin-Aevaris](Vespin-Aevaris), [Arturas-Gabrys](Arturas-Gabrys), [Greg-Colter](Greg-Colter)
-* Docks is: [Akren](Akren), [Alexander-Aurelius](Alexander-Aurelius), [Simple-Joe](Simple-Joe)
+* Warehouse is : [[Vespin-Aevaris]], [[Arturas-Gabrys]], [[Greg-Colter]]
+* Docks is: [[Akren]], [[Alexander-Aurelius]], [[Simple-Joe]]
 * Warehouse team is sneaking successfully, Docks team is failing to sneak.
 * Boat staying for night departing in the morning. Carol is the dock manager signing for the goods.
 * Half an hour walk between the docks and the warehouse. 
@@ -36,7 +36,7 @@ grand_parent: Worlds
 
 
 ### Rewards
-* Completed [Find The Missing Shipment](Hooks#Find%20The%20Missing%20Shipment).
+* Completed [[Hooks#Find The Missing Shipment]].
 
 ### Characters
  ---

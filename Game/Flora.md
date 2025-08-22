@@ -6,7 +6,7 @@ grand_parent: Equipment
 nav_order: 2
 ---
 # Flora
-One of the [Materials](Materials) used for crafting and trading.
+One of the [[Materials]] used for crafting and trading.
 
 The world is full of powerful and magical materials for characters to scavenge. Some even grow in the ground. Flora can be used for all sorts of medical and chemical processes.
 

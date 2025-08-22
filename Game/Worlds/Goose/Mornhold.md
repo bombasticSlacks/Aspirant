@@ -72,7 +72,7 @@ A mage knight (Cantor) and Shooter (Marcelle) hunting the cult.
 ## Aaron Spencer (He/Him)
 a soulless Prole, who wants to avoid conflict, and has a pet dog. They have bunned silver hair, brown eyes, are well dressed
 
-He works on plants at the [Mage Warriors](#Mage%20Warriors). Has picked the ancient coral before.
+He works on plants at the [[#Mage Warriors|Mage Warriors]]. Has picked the ancient coral before.
 
 ## Corporal Gezz
 *a pointed words, who wants to fix problems no matter the cost. They have short cropped brown hair, blue eyes.*
@@ -141,7 +141,7 @@ Can sleep here for free.
 
 * Mageknights are there.
 * Government and soldiers are there.
-* The missing son Thomas from [G-Session-9](Game/Worlds/Goose/G-Session-9) is there.
+* The missing son Thomas from [[G-Session-9]] is there.
 * Bronts Aunt is there too.
 * 
 

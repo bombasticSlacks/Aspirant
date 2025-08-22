@@ -6,7 +6,7 @@ nav_order: 1
 grand_parent: Worlds
 ---
 ## Session 36
-[Post-Calamity](Post-Calamity)
+[[Post-Calamity]]
 
 ## Ideas
 * Letter from Mo Joe waiting in Crosshaven.
@@ -17,7 +17,7 @@ grand_parent: Worlds
 * FOR THIS TIME:
 	* Phone Call during travel on the 10th.
 	* Crosshaven
-* Speaking to [Ande Scorpion Sign (she/her)](Game/Worlds/Post-Calamity/Zinatu#Ande%20Scorpion%20Sign%20(she/her))
+* Speaking to [[Zinatu#Ande Scorpion Sign (she/her]])
 	* Deciding what to do with the Lunastrella
 	* The city of Lustrum is now a pigrimage site for the Zinatu,
 	* They do their soulbonding there.
@@ -35,7 +35,7 @@ grand_parent: Worlds
 			* Settling everyones contract.
 			* Father gave him a letter from Mo Joe
 		* Arturas and Vespin going with the servants
-			* Peach blossom a local flower which [Becka](Game/Worlds/Post-Calamity/Crosshaven#Becka) uses to brew beer in the spring. 
+			* Peach blossom a local flower which [[Crosshaven#Becka]] uses to brew beer in the spring. 
 			* The staff are catty and gossipy but fun
 			* Becka implied Simple would be flirtatious with her.
 			* 
@@ -75,7 +75,7 @@ grand_parent: Worlds
 
 ### To Do
 
-* [Roxy (Roxanne) la Croix](Game/Worlds/Post-Calamity/Verdantholm#Roxy%20(Roxanne)%20la%20Croix) will think on who would make a good leader of the merchants.
+* [[Verdantholm#Roxy (Roxanne]]%20la%20Croix) will think on who would make a good leader of the merchants.
 * Sizing for enchanting. 
 * Rules for barding 1 piece oversized armour. 
 * Crafting is more generic, the crafting abilities. 

@@ -6,7 +6,7 @@ grand_parent: Equipment
 nav_order: 2
 ---
 
-# Designing [Consumable](Game/Core/Consumable)
+# Designing [[Consumable]]
 
 ## Basic
 

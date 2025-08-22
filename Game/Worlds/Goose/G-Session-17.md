@@ -22,7 +22,7 @@ grand_parent: Worlds
 	* Heard of an underground bar called the "Red Letter".
 	* Went to checkout political satire, there is a show going on "case of complacency".
 	* Andie (he/him) and Giselmund (they/them) two buskers.
-	* [Quickthinks' Roundrox](Game/Worlds/Goose/Mornhold#Quickthinks'%20Roundrox) sets up anarchist groups with stuff.
+	* [[Mornhold#Quickthinks' Roundrox]] sets up anarchist groups with stuff.
 	* show sets up governor as a clown, "I don't know, whatever is easiest" is the response that he gives everyone.
 * Stem and Casey went to go find blood.
 	* got some, failed the ritual.

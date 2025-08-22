@@ -1,9 +1,9 @@
-[Weapon-Templates](Game/Weapon-Templates)
+[[Weapon-Templates]]
 {: .label .label-purple }
 
-[1 Crafting Point](Game/Designing-Weapons#Crafting%20Points)
+[[Designing-Weapons#Crafting Points]]
 {: .label .label-yellow }
 
 ### Inscribed
 
-This weapon counts as a Focus for [Ascendancy](Game/Core/Instinct#Ascendancy) skill tests.
+This weapon counts as a Focus for [[Instinct#Ascendancy]] skill tests.

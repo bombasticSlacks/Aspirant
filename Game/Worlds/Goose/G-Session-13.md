@@ -8,7 +8,7 @@ grand_parent: Worlds
 # Session 13
 
 ## Year 1332 Winter 3rd - 8th
-* Downtime in [Mornhold](Game/Worlds/Goose/Mornhold)
+* Downtime in [[Mornhold]]
 	* Mal - Supervised Learning 
 	* Bront - Supervised Learning
 	* Casey - Routine Maint
@@ -17,8 +17,8 @@ grand_parent: Worlds
 	* Barrel of fish - 5 silver.
 	* Bront maybe going to try to disable the cyclops laser powers for the fight.
 * Stem spent 6 silver on a big banner for the group.
-* Going to see [Corporal Gezz](Game/Worlds/Goose/Dora#Corporal%20Gezz) 
-* Met [Corporal Gezz](Game/Worlds/Goose/Mornhold#Corporal%20Gezz) and [Dres Snider (She/Her)](Game/Worlds/Goose/Mornhold#Dres%20Snider%20(She/Her)), they asked about the cult, mentioned they using corpses to power their army.
+* Going to see [[Dora#Corporal Gezz]] 
+* Met [[Mornhold#Corporal Gezz]] and [[Mornhold#Dres Snider (She/Her]]), they asked about the cult, mentioned they using corpses to power their army.
 	* Offering 60 silver monthly
 	* Cult has a full city in the south east they have constructed.
 	* Can ask about "Steel Sparrows" in any city to find allies.

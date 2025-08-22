@@ -1,11 +1,11 @@
 
-[Spymaster](Game/Blocks/Spymaster)
+[[Spymaster]]
 {: .label .label-blue }
 
-[Discipline](Game/Character-Development#Discipline)
+[[Character-Development#Discipline]]
 {: .label .label-green }
 
-[Master](Game/Character-Development#Master)
+[[Character-Development#Master]]
 {: .label .label-purple }
 ### Faceless
 *You are a person of many faces, and none.*

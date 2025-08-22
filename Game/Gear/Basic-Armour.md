@@ -2,15 +2,15 @@
 Armour
 {: .label .label-purple }
 
-[Basic](Game/Designing-Armour#Basic)
+[[Designing-Armour#Basic]]
 {: .label .label-blue }
 
 #### Basic Armour
 *Little more than clothing, intentionally built and made for the road. Reinforce in major areas but with notable weaknesses throughout.* 
 
-| [Armour Integrity](Game/Core/Armour#Armour%20Integrity)    | 4    |
+| [[Armour#Armour Integrity]]    | 4    |
 | :--------------------------------------------------------- | :--- |
-| [Reaction Penalty](Game/Core/Armour#Reaction%20Penalty)          | 0    |
-| [Weakness](Game/Core/Armour#Weakness%20and%20Resistance)   | !All |
-| [Resistance](Game/Core/Armour#Weakness%20and%20Resistance) | -    |
-| [Armour-Traits](Game/Core/Armour-Traits)                   | -    |
+| [[Armour#Reaction Penalty]]          | 0    |
+| [[Armour#Weakness and Resistance]]   | !All |
+| [[Armour#Weakness and Resistance]] | -    |
+| [[Armour-Traits]]                   | -    |

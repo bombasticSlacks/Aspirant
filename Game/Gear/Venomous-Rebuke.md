@@ -4,7 +4,7 @@ Gear
 Size 1
 {: .label .label-yellow }
 
-[Discordant](Game/Magic-Items#Discordant)
+[[Magic-Items#Discordant]]
 {: .label .label-red }
 
 #### Venomous Rebuke
@@ -13,11 +13,11 @@ Size 1
 You may, once per downtime, attack with the following:
 
 
-| Default [Damage](Core/Weapons#Damage)                     | 3                                                                                                                       |
+| Default [[Weapons#Damage]]                     | 3                                                                                                                       |
 | :-------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------- |
-| [Extra Damage](Game/Core/Attacks#Extra%20Damage) Modifier | (-1)                                                                                                                    |
-| [Damage Type](Core/Weapons#Damage%20Type)                 | [Life](Game/Core/Injury#Life)                                                                                           |
-| [Range](Core/Weapons#Range)                               | [Short](Game/Core/Movement#Short)                                                                                       |
-| [Weapon Traits](Core/Weapon-Traits)                       | [Handless](Game/Core/Blocks/Handless),  [Otherworldly](Game/Core/Blocks/Otherworldly), [Area](Game/Core/Blocks/Area) |
+| [[Attacks#Extra Damage]] Modifier | (-1)                                                                                                                    |
+| [[Weapons#Damage Type]]                 | [[Injury#Life]]                                                                                           |
+| [[Weapons#Range]]                               | [[Movement#Short]]                                                                                       |
+| [[Weapon-Traits|Weapon Traits]]                       | [[Handless]],  [[Otherworldly]], [[Area]] |
 
-This item also counts as size 0 while [Binding](Game/Magic-Items#Binding).
+This item also counts as size 0 while [[Magic-Items#Binding]].

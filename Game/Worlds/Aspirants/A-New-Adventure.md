@@ -12,8 +12,8 @@ grand_parent: Worlds
 Whenever you begin a new adventure in a new place you:
 * Talk about what your characters been up to.
 * Spend any available experience.
-* [Follow A Thread](#Follow%20A%20Thread).
-* Figure out [What's Been Going Wrong](#What's%20Been%20Going%20Wrong).
+* [[#Follow A Thread|Follow A Thread]].
+* Figure out [[#What's Been Going Wrong|What's Been Going Wrong]].
 
 
 ## Follow A Thread

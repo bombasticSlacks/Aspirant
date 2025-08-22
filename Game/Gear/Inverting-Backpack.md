@@ -1,19 +1,19 @@
-[Storage](Game/Storage)
+[[Storage]]
 {: .label .label-purple }
 
-[Basic](Game/Designing-Armour#Basic)
+[[Designing-Armour#Basic]]
 {: .label .label-blue }
 
-[Harmonic](Game/Magic-Items#Harmonic)
+[[Magic-Items#Harmonic]]
 {: .label .label-red }
 
 #### Inverting Backpack
 *A normal enough looking backpack, but feels like a different texture on the inside.*
 
-| [General Storage](Game/Storage#General%20Storage) | 8 + [Strength](Game/Core/Strength) |
+| [[Storage#General Storage]] | 8 + [[Strength]] |
 | ------------------------------------------------- | ---------------------------------- |
-| [Quick Access](Game/Storage#Quick%20Access)       | 4                                  |
-| [Camp Storage](Game/Storage#Camp%20Storage)       | 8                                  |
-| [Specialization](Game/Storage#Specialization)     | -                                  |
+| [[Storage#Quick Access]]       | 4                                  |
+| [[Storage#Camp Storage]]       | 8                                  |
+| [[Storage#Specialization]]     | -                                  |
 
-Once obtained you can place a second [Storage](Game/Storage) item inside of it which becomes its other side. Given about 15 seconds you can turn the inverting backpack inside out to get access to the other [Storage](Game/Storage) and its contents and vice versa.
+Once obtained you can place a second [[Storage]] item inside of it which becomes its other side. Given about 15 seconds you can turn the inverting backpack inside out to get access to the other [[Storage]] and its contents and vice versa.

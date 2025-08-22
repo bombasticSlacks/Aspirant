@@ -4,14 +4,14 @@ Weapon
 Size 4
 {: .label .label-yellow }
 
-[Artisan](Game/Designing-Weapons#Artisan)
+[[Designing-Weapons#Artisan]]
 {: .label .label-blue }
 
 #### Woodland Bow
 
-| Default [Damage](Core/Weapons#Damage)                     | 5                                                                                                                                                                                                                                                           |
+| Default [[Weapons#Damage]]                     | 5                                                                                                                                                                                                                                                           |
 | :-------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Extra Damage](Game/Core/Attacks#Extra%20Damage) Modifier | (-1)                                                                                                                                                                                                                                                        |
-| [Damage Type](Core/Weapons#Damage%20Type)                 | [Piercing](Game/Core/Injury#Piercing)                                                                                                                                                                                                                       |
-| [Range](Core/Weapons#Range)                               | [Short](Game/Core/Movement#Short)                                                                                                                                                                                                                           |
-| [Weapon Traits](Core/Weapon-Traits)                       | [Two-Handed](Game/Core/Blocks/Two-Handed), [Loading](Game/Core/Blocks/Loading)(0), [Capacity](Game/Core/Blocks/Capacity)(1, [Arrow](Game/Munitions#Arrow)), [Salvageable-Ammo](Game/Core/Blocks/Salvageable-Ammo), [Targeted](Game/Core/Blocks/Targeted) |
+| [[Attacks#Extra Damage]] Modifier | (-1)                                                                                                                                                                                                                                                        |
+| [[Weapons#Damage Type]]                 | [[Injury#Piercing]]                                                                                                                                                                                                                       |
+| [[Weapons#Range]]                               | [[Movement#Short]]                                                                                                                                                                                                                           |
+| [[0|[Weapon-Traits|Weapon Traits]], [[Capacity]](1, [[Munitions#Arrow]], [[Salvageable-Ammo]], [[Targeted]] |

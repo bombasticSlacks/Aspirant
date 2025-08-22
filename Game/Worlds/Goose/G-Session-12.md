@@ -16,14 +16,14 @@ grand_parent: Worlds
 	* Stem: Gathering
 * Bumped into some large eagles while travelling. 
 * Soot causes weakness (-1 STR, -1 AGI).
-* Arrived at [Village Of Sheogul](Game/Worlds/Goose/Gore-Mountain#Village%20Of%20Sheogul), met two people who were helping.
+* Arrived at [[Gore-Mountain#Village Of Sheogul]], met two people who were helping.
 * Set of full plate, and great hammer on display. Gas Masks as well.
 * Presented the mark,
 * Got the silver,
 * killed 3 smoke elementals,
-* Met the [The Lava Shapers](Game/Worlds/Goose/Gore-Mountain#The%20Lava%20Shapers) and [Goldrin The Suffused](Game/Worlds/Goose/Gore-Mountain#Goldrin%20The%20Suffused).
+* Met the [[Gore-Mountain#The Lava Shapers]] and [[Gore-Mountain#Goldrin The Suffused]].
 * Mal got his living metal which slithered up his arm.
-* They made it back to [Mournest](Game/Worlds/Goose/Mournest).
+* They made it back to [[Mournest]].
 
 
 ---

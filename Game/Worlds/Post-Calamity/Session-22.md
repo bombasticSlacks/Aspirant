@@ -6,10 +6,10 @@ nav_order: 1
 grand_parent: Worlds
 ---
 ## Session 22
-[Post-Calamity](Post-Calamity)
+[[Post-Calamity]]
 
 ## Ideas
-* Woodland Fairy Settlement [Gladepool](Game/Worlds/Post-Calamity/Gladepool)
+* Woodland Fairy Settlement [[Gladepool]]
 ## Verdantholm 29 Fall -
 * The monster hunters guild used devices like the locators that Arturas had in hand.
 * Vespin healed the boys.
@@ -41,7 +41,7 @@ Special Training - While sleeping you may teleport yourself plus a small number 
  ---
 
 ### To Do
-* [Roxy (Roxanne) la Croix](Game/Worlds/Post-Calamity/Verdantholm#Roxy%20(Roxanne)%20la%20Croix) will think on who would make a good leader of the merchants.
+* [[Verdantholm#Roxy (Roxanne]]%20la%20Croix) will think on who would make a good leader of the merchants.
 * Rewards codify + exp for stopping the poison.
 * Jasmuta new stats include magic stuff.
 * Morty new stats.

@@ -27,15 +27,15 @@ grand_parent: Worlds
 		* Going to try to gain the assistance of allies.
 			* Mal + Bront talking to the mages
 			* Casey wants to talk to the harvesters and the vampire
-			* Casey writes letter to [Darcellus](Game/Worlds/Goose/Mournest#Darcellus) asking for assistance with stuff. Letter filled w. hearts.
+			* Casey writes letter to [[Mournest#Darcellus]] asking for assistance with stuff. Letter filled w. hearts.
 			* Harvesters in town to talk to.
 			* Mages need to be talked to with presentation.
 			* Bront and Mal gonna need 2 days to prep before presentation. Applying for join municipality university grant to blow up cult city.
-			* Rei coming back to the [The Stubbed Toe](Game/Worlds/Goose/Mornhold#The%20Stubbed%20Toe) tomorrow to meet some mercenaries out of work
+			* Rei coming back to the [[Mornhold#The Stubbed Toe]] tomorrow to meet some mercenaries out of work
 			* Casey goes to see harvesters didn't get anywhere.
 			* Rei is going to meet with the mercenaries in town, try to find some. Tries 
 	* Casey wants to find something interesting
-		* found [Sella Of The Kingdom (she/they)](Game/Worlds/Goose/Mornhold#Sella%20Of%20The%20Kingdom%20(she/they)), was healing the sick. Gave a signet ring and a drop of kingdoms dew. 
+		* found [[Mornhold#Sella Of The Kingdom (she/they]]), was healing the sick. Gave a signet ring and a drop of kingdoms dew. 
 
 
 ---

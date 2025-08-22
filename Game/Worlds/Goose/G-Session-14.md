@@ -23,7 +23,7 @@ grand_parent: Worlds
 	* Stem did the ritual and brought back Magdolin, flesh shaping her old body basically. 
 	* Rei figured out Michelle was mad at them. Smoothed stuff over.
 	* Casey met with Darcellus, got greeted with clothes and wine.
-		* Learnt that [Dres Snider (She/Her)](Game/Worlds/Goose/Mornhold#Dres%20Snider%20(She/Her)) is a monster hunter and not a vampire.
+		* Learnt that [[Mornhold#Dres Snider (She/Her]]) is a monster hunter and not a vampire.
 	* Darcellus has crow spies.
 	* Darcellus wants them to hunt down two abominations in the basement
 		* An owlbear hybrid and the "Shade". 

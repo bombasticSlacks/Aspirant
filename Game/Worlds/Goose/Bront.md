@@ -1,3 +1,3 @@
-* Aunt is [Quickthinks' Roundrox](Game/Worlds/Goose/Mornhold#Quickthinks'%20Roundrox)
+* Aunt is [[Mornhold#Quickthinks' Roundrox]]
 * Caretaker was Corinthia
 * 

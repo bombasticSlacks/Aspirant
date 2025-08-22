@@ -1,18 +1,18 @@
 Armour
 {: .label .label-purple }
 
-[Exotic](Game/Designing-Armour#Exotic)
+[[Designing-Armour#Exotic]]
 {: .label .label-blue }
 
-[Master Work](Game/Designing-Weapons#Master%20Work)
+[[Designing-Weapons#Master Work]]
 {: .label .label-red }
 
 #### Full Plate
 *Glorious high grade metal quenched and heat treated in exotic oils to further temper the armour. Metal with Liquid.*
 
-| [Armour Integrity](Game/Core/Armour#Armour%20Integrity)    | 16                                                                                            |
+| [[Armour#Armour Integrity]]    | 16                                                                                            |
 | :--------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
-| [Reaction Penalty](Game/Core/Armour#Reaction%20Penalty)    | (-2)                                                                                          |
-| [Weakness](Game/Core/Armour#Weakness%20and%20Resistance)   | [Cold](Game/Core/Injury#Cold), [Life](Game/Core/Injury#Life)!, [Heat](Game/Core/Injury#Heat)! |
-| [Resistance](Game/Core/Armour#Weakness%20and%20Resistance) | [Rending](Game/Core/Injury#Rending)                                                           |
-| [Armour-Traits](Game/Core/Armour-Traits)                   | [Exotic-Attire](Game/Core/Blocks/Exotic-Attire)                                               |
+| [[Armour#Reaction Penalty]]    | (-2)                                                                                          |
+| [[Armour#Weakness and Resistance]]   | [[Injury#Cold]], [[Injury#Life]]!, [[Injury#Heat]]! |
+| [[Armour#Weakness and Resistance]] | [[Injury#Rending]]                                                           |
+| [[Armour-Traits]]                   | [[Exotic-Attire]]                                               |

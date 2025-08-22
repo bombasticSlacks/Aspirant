@@ -12,8 +12,8 @@ nav_order: 2
 
 Costs 60 Silver
 
-| [Combat](Mounts#Combat) | [Mobility](Mounts#Mobility) | [Toughness](Mounts#Toughness) |
+| [[Mounts#Combat]] | [[Mounts#Mobility]] | [[Mounts#Toughness]] |
 | ----------------------- | --------------------------- | ----------------------------- |
 | 3                       | 2                           | 2                             | 
 
-Has the [Maul](Creature-Traits#Maul) trait
+Has the [[Creature-Traits#Maul]] trait

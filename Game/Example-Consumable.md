@@ -5,8 +5,8 @@ parent: Consumable
 grand_parent: Equipment
 nav_order: 2
 ---
-# Example [Consumable](Game/Core/Consumable)
-* This is a non-exhaustive list of the sort of comestibles you can create. You can also design your own [Designing-Consumable](Game/Designing-Consumable).
+# Example [[Consumable]]
+* This is a non-exhaustive list of the sort of comestibles you can create. You can also design your own [[Designing-Consumable]].
 
 ## Alchemy
 ### Adrenaline

@@ -6,22 +6,22 @@ nav_order: 1
 grand_parent: Worlds
 ---
 ## Session 16
-[Post-Calamity](Post-Calamity)
+[[Post-Calamity]]
 ## North Of Causdin 1 Fall - 6 Fall
 * Heading north to the Ancient Dragon Roost
 * Traveling:
-	* [Alexander-Aurelius](Game/Worlds/Post-Calamity/Alexander-Aurelius) Socialize
-	* [Arturas-Gabrys](Game/Worlds/Post-Calamity/Arturas-Gabrys) Scout, watch
-	* [Greg-Colter](Game/Worlds/Post-Calamity/Greg-Colter) Socialize, driving cart
-	* [Simple-Joe](Game/Worlds/Post-Calamity/Simple-Joe) Socialize, routine maint
-	* [Vespin-Aevaris](Game/Worlds/Post-Calamity/Vespin-Aevaris) Scavenge
+	* [[Alexander-Aurelius]] Socialize
+	* [[Arturas-Gabrys]] Scout, watch
+	* [[Greg-Colter]] Socialize, driving cart
+	* [[Simple-Joe]] Socialize, routine maint
+	* [[Vespin-Aevaris]] Scavenge
 * Arrive
 * Started to get cold,
 * Couldn't pick up the trail but found a cave smelling of sulpher.
 * Made some poison bombs.
 * Pushed into the cave.
 * avoided some traps.
-* killed an [Impling](Game/Blocks/Impling).
+* killed an [[Game/Blocks/Impling|Impling]].
 * Killed some more implings
 * Met and defeated the boss.
 * Vespin at (-1) to all actions till rest from severe.

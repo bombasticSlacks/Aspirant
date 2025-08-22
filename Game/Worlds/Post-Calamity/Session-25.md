@@ -6,7 +6,7 @@ nav_order: 1
 grand_parent: Worlds
 ---
 ## Session 25
-[Post-Calamity](Post-Calamity)
+[[Post-Calamity]]
 ## Calphion 09 Winter -
 * Calphion militia have blockaded the bay, we will start there next time. 
 * Made it into the city, were stopped and informed of quarantine, given passes for 36 hours.
@@ -16,10 +16,10 @@ grand_parent: Worlds
 * They took them down.
 * Holy knights guard the church.
 * 3 candles at the front of the church. 
-* Went to the Church, met [Ignis Lux](Game/Worlds/Post-Calamity/Alexander-Aurelius#Ignis%20Lux) Inquisitor Lux. 
+* Went to the Church, met [[Alexander-Aurelius#Ignis Lux]] Inquisitor Lux. 
 * The woman from the attack offered to have wife fix their armour for free. 
 * Lux is the highest ranking member of the Calphion church normally. Otherwise covered by small time priests.
-* Crusade is led by [Harper Aiolfi (He/Him)](Game/Worlds/Post-Calamity/Calphion#Harper%20Aiolfi%20(He/Him))
+* Crusade is led by [[Calphion#Harper Aiolfi (He/Him]])
 * Offered them retainer of silver, extended visas, and some churches treasures / confiscated goods.
 * Alexander negotiated, for getting payment up front of 100 silver.
 
@@ -33,10 +33,10 @@ grand_parent: Worlds
 
 ### To Do
 
-* [Roxy (Roxanne) la Croix](Game/Worlds/Post-Calamity/Verdantholm#Roxy%20(Roxanne)%20la%20Croix) will think on who would make a good leader of the merchants.
+* [[Verdantholm#Roxy (Roxanne]]%20la%20Croix) will think on who would make a good leader of the merchants.
 * Morty new stats.
 * Arturas looked at the autocarraige specs that Xen had, discuss costs of carraige.
-* Simple Greg, writes a letter to [Mo Joe (he/him)](Game/Worlds/Post-Calamity/Verdantholm#Mo%20Joe%20(he/him)) to ask about the observations about natural escalation.
+* Simple Greg, writes a letter to [[Verdantholm#Mo Joe (he/him]]) to ask about the observations about natural escalation.
 
 
 ### Hooks

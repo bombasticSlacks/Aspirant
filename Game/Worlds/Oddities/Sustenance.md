@@ -1,4 +1,4 @@
-[Bloody](Game/Worlds/Post-Calamity/The-Empire#Bloody)
+[[The-Empire#Bloody]]
 {: .label .label-blue }
 
 Specialized

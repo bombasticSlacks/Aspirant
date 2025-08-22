@@ -20,16 +20,16 @@ Impressive materials, sourced from unique locations and situations with powerful
 
 ## Material Types
 There are generally 8 types of materials that will be used for creating:
-* [Bits](Bits)
-* [Flora](Flora)
-* [Hide](Hide)
-* [Liquid](Liquid)
-* [Metal](Metal)
-* [Resonant](Resonant)
-* [Textiles](Textiles)
+* [[Bits]]
+* [[Flora]]
+* [[Hide]]
+* [[Liquid]]
+* [[Metal]]
+* [[Resonant]]
+* [[Textiles]]
 # Specificity
 Unless the task you need a material for is exceptionally powerful, you should try to avoid specificity. Mutating a character to have cat-like eyes might require specifically eyes from a were-cat, but a potion of night sight should require any artisan bit + artisan liquid.
 
 # Acquiring Materials
-* Purchased [Costs Of Materials](Services#Costs%20Of%20Materials)
-* [Found through play](Core/Equipment#Looting)
+* Purchased [[Services#Costs Of Materials]]
+* [[Equipment#Looting]]

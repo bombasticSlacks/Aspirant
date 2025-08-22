@@ -1,11 +1,11 @@
 
-[Paladin](Game/Character-Development#Paladin)
+[[Character-Development#Paladin]]
 {: .label .label-blue }
 
-[Discipline](Game/Character-Development#Discipline)
+[[Character-Development#Discipline]]
 {: .label .label-green }
 
-[Master](Game/Character-Development#Master)
+[[Character-Development#Master]]
 {: .label .label-purple }
 ### Divine Champion
 *Your faith is shared by all.*

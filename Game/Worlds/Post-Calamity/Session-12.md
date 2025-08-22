@@ -6,7 +6,7 @@ nav_order: 1
 grand_parent: Worlds
 ---
 ## Session 12
-[Post-Calamity](Post-Calamity)
+[[Post-Calamity]]
 ## Segment 12 Summer 6 - 15
 * everyone at a -1 from exhaustion as you push through the woods and night.
 * Moving towards Passover.
@@ -18,8 +18,8 @@ grand_parent: Worlds
 * Alexander moved to set up in the middle of the clearing.
 * Found remnants of the ancient feasts the peoples had here, however the marks of the tables have grown over with grass.
 * Started an impromptu festival, building a magical table, creating it there with the people.
-* Arturas noticed [Jock Tennens](Tennens-Settlement#Jock%20Tennens) was nowhere to be seen at the festival gathering.
-* Jock fled south, towards [Tussole](Tussole) road, fled with a retinue. Took a relic from [Tennens-Settlement](Tennens-Settlement) with him.
+* Arturas noticed [[Tennens-Settlement#Jock Tennens]] was nowhere to be seen at the festival gathering.
+* Jock fled south, towards [[Tussole]] road, fled with a retinue. Took a relic from [[Tennens-Settlement]] with him.
 * Alexander wants some religious forest figures, not many left after exodus.
 * The table was created beautifully and enchanted to last for eternity in this clearing.
 * The group tells stories and shares food with the communities.
@@ -27,17 +27,17 @@ grand_parent: Worlds
 * Recieved the title of Ender of the blood war.
 * Brought up plan to end the elemental titan. Want to seal it away and let it decay.
 * Woke up in the morning after the party, needed to sleep it off 
-* Vespin started a project for [Sealing Away The Forest Titan](Projects#Sealing%20Away%20The%20Forest%20Titan). 2/4 steps.
+* Vespin started a project for [[Projects#Sealing Away The Forest Titan]]. 2/4 steps.
 * Had some ideas for what to do next.
 * Instructions:
 	* Tennens send forest walkers to the titans site with all their written info and tomes.
 	* Breckles adding manpower.
-* Party unlocked a shortcut to the Forest Titan clearing from north, by [Breckles-Pass](Breckles-Pass).
+* Party unlocked a shortcut to the Forest Titan clearing from north, by [[Breckles-Pass]].
 * Alexander knows of a powerful stone they can use to empower the ritual + step on the project.
 * However, if they use the magic rock then if the rock is stolen the forest titan will be broken out.
-* Yosseh amongst those who failed to deliver the tomes to [Alexander-Aurelius](Alexander-Aurelius), 2 men died in Jocks home.
+* Yosseh amongst those who failed to deliver the tomes to [[Alexander-Aurelius]], 2 men died in Jocks home.
 * 4 days of travel back and forth.
-* Shadow magic, from the [Vampire-Lords](Vampire-Lords) specifically [Lunar](Vampire-Lords#Lunar) Jock Tennens sentient shadow killed the soldier.
+* Shadow magic, from the [[Vampire-Lords]] specifically [[Vampire-Lords#Lunar]] Jock Tennens sentient shadow killed the soldier.
 * Alexander thinks that the vampires were controlling, Jock, influencing him.
 * Got the remaining pieces to do the ritual. Gonna do it?
 * Downtime
@@ -56,15 +56,15 @@ grand_parent: Worlds
 ### Rewards
 * Tomes of Basic Mysticism
 * Shield Generator - Celestial tech, produces a barrier at a short distance. Destroys projectiles, disrupts magic, deals 1 damage to anyone passing through, injury effect is to get knocked back. 
-* 10 size of [Basic Wood](../../Wood#Basic%20Wood) from Vespin asking people to prep stuff.
+* 10 size of [[../../Wood#Basic Wood]] from Vespin asking people to prep stuff.
 
 
 ### Characters
  ---
 
 ### To Do
-* Make the tamer trainings from [Causdin](Causdin).
-* Heading to [Causdin](Causdin).
+* Make the tamer trainings from [[Causdin]].
+* Heading to [[Causdin]].
 * Potentially haggling for money maybe.
 
 

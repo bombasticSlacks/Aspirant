@@ -1,13 +1,13 @@
 
-[Scholar](Game/Character-Development#Scholar)
+[[Character-Development#Scholar]]
 {: .label .label-blue }
 
-[Discipline](Game/Character-Development#Discipline)
+[[Character-Development#Discipline]]
 {: .label .label-green }
 
-[Advanced](Game/Character-Development#Advanced)
+[[Character-Development#Advanced]]
 {: .label .label-purple }
 ### Minor In
 *You have a small interest in something strange.*
-* Select an [Advanced](Game/Character-Development#Advanced) training to learn from another [Discipline](Game/Character-Development#Discipline), you don't need to have the [Basic](Game/Character-Development#Basic) training required for it.
+* Select an [[Character-Development#Advanced]] training to learn from another [[Character-Development#Discipline]], you don't need to have the [[Character-Development#Basic]] training required for it.
 

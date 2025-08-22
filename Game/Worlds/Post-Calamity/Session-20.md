@@ -6,7 +6,7 @@ nav_order: 1
 grand_parent: Worlds
 ---
 ## Session 20
-[Post-Calamity](Post-Calamity)
+[[Post-Calamity]]
 
 ## Verdantholm 23 Fall - 28 Fall
 * Zinatu Letter: Arturas, Something has awoken near Calphion, a dark evil unearthed. *Maria*
@@ -14,10 +14,10 @@ grand_parent: Worlds
 	* Simple Training, Second Skin
 	* Greg Training strange riding,
 	* Alexander Research, 
-	* Arturas, going to meet [Xen](Game/Worlds/Post-Calamity/Verdantholm#Xen).
+	* Arturas, going to meet [[Verdantholm#Xen]].
 		* Alexander wants to know about materials that can absorb and resonates with magic. Called Shadestone. From the Darkmountain.
 		* Xen will train Arturas but he will need to leave wolfsbite for some time.
-	* [Simple-Joe](Game/Worlds/Post-Calamity/Simple-Joe) sent a letter to Average Joe, let her know that the Umbral Courts actors are doing stuff. Also pushed her to start a Mercenary company instead of being Argent Hold.
+	* [[Simple-Joe]] sent a letter to Average Joe, let her know that the Umbral Courts actors are doing stuff. Also pushed her to start a Mercenary company instead of being Argent Hold.
 	* Brought the Precursor pieces to Xen who recognized them as Pre calamity. Mentioned the precursers could power them with their body.
 	* Heading to the Glade, 
 		* Got attacked by undead animals marked with cursed symbols
@@ -35,7 +35,7 @@ grand_parent: Worlds
 * Sunsworn breastplate as a curio.
 * Jasmuta new stats include magic stuff.
 ### Hooks
-* [Roxy (Roxanne) la Croix](Game/Worlds/Post-Calamity/Verdantholm#Roxy%20(Roxanne)%20la%20Croix) wants them to get an artifact from the glad, if they do will join there "team" and provide them info from Verdantholm.
+* [[Verdantholm#Roxy (Roxanne]]%20la%20Croix) wants them to get an artifact from the glad, if they do will join there "team" and provide them info from Verdantholm.
 * Mage Guild will pay 10 silver for any meaningful translated passage of text in the pre calamity tongue.
 * Something evil has awoken near Calphion says Maria
 

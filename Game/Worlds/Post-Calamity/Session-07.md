@@ -6,19 +6,19 @@ nav_order: 1
 grand_parent: Worlds
 ---
 # Session 7
-[Post-Calamity](Post-Calamity)
+[[Post-Calamity]]
 # Segment 10 Tussole Summer 1
 * Capitol representative, said the local guilds would be unhappy with the boars death, were using it to generate a monopoly.
 * "Representative wages" on signs
-* [Greg-Colter](Greg-Colter) told the dockworkers the boar was killed, everyone cheered made plans for collective bargain
+* [[Greg-Colter]] told the dockworkers the boar was killed, everyone cheered made plans for collective bargain
 * Women at the capitol office, seemed panicked when they mentioned boar, warned of merchant heavies.
 * One of the dockworkers wife is from Tennens, heard about how bad it is.
 * Travelling to Tennens
-	* [Alexander-Aurelius](Alexander-Aurelius) Scout + good nights rest
-	* [Arturas-Gabrys](Arturas-Gabrys) good nights rest + Socialize
-	* [Greg-Colter](Greg-Colter) cub duty + cart drive
-	* [Simple-Joe](Simple-Joe) watch + socialize
-	* [Vespin-Aevaris](Vespin-Aevaris) Scavenge Learning amateur divination
+	* [[Alexander-Aurelius]] Scout + good nights rest
+	* [[Arturas-Gabrys]] good nights rest + Socialize
+	* [[Greg-Colter]] cub duty + cart drive
+	* [[Simple-Joe]] watch + socialize
+	* [[Vespin-Aevaris]] Scavenge Learning amateur divination
 * On the road found 7 Tennens, killed brennens and are hanging them. 3 well armed soldiers, 4 conscripts.
 * 5 guild heavies, 2 Xbows (SI) + knives (MI), 3 scimitars (SI), full leathers 2 integrity, evade 3 (1), attack 4
 * Greg went after the horse in the woods

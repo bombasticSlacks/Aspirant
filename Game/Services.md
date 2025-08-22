@@ -5,7 +5,7 @@ has_children: false
 parent: Telling The Story
 ---
 # Services
-![Market](Content/Market.svg)
+![[Market.svg]]
 Aspirant is a world of tradespeople, experts with something to offer a prospective adventurer. 
 
 ## Costs Of Services
@@ -14,20 +14,20 @@ Aspirant is a world of tradespeople, experts with something to offer a prospecti
 | ------------------------------------------------------------------------- | ---------------------------------------- |
 | Hiring A guide through a known trail                               | $2$                                      |
 | Hiring A guide through a not well-known trail                      | $5$                                      |
-| [Downtime](Telling-The-Story#Downtime) of lodgings                                                          | $1$                                      |
-| [Travel Segment](Telling-The-Story#Travel%20Segment) of travel food       | $1$                                      |
+| [[Telling-The-Story#Downtime]] of lodgings                                                          | $1$                                      |
+| [[Telling-The-Story#Travel Segment]] of travel food       | $1$                                      |
 | Getting expertise or knowledge                                            | $4$                                      |
 | Hiring a mercenary for a day                                              | $2$                                      |
-| Moving a piece of [Infrastructure](Game/Asset#Infrastructure) to another city | $2 \times Days\ Of\ Travel \times Space$ |
+| Moving a piece of [[Asset#Infrastructure]] to another city | $2 \times Days\ Of\ Travel \times Space$ |
 
 
 ### Crafting Commissions
-Getting a craftsman to make you a piece of [Equipment](Core/Equipment).
+Getting a craftsman to make you a piece of [[Equipment]].
 
 | Service                                            | Cost                        |
 | -------------------------------------------------- | --------------------------- |
-| Commissioning Creating A [Weapon](Core/Weapons)    | $(Size+1)*MaterialCost + 5$ |
-| Commissioning Creating [Armour](Core/Armour)       | $5*MaterialCost + 5$        |
+| Commissioning Creating A [[Weapons|Weapon]]    | $(Size+1)*MaterialCost + 5$ |
+| Commissioning Creating [[Armour]]       | $5*MaterialCost + 5$        |
 | Commissioning Master Worked Service                | $base\ Commission + 10$     |
 | Commissioning Storage                              | $6*MaterialCost + 5$        |
 | Commissioning a standard days work for a tradesman | $5$                         |
@@ -41,7 +41,7 @@ Requesting an expert to do something for you.
 | Commissioning Performing a complex ritual                           | $12 + reagents$ |
 | Commissioning Performing a simple ritual                            | $5 + reagents$  |
 | Commissioning surgery                                               | $8$             |
-| Commissioning someone to [Bind](Magic-Items#Binding) an item to you | 5               |
+| Commissioning someone to [[Magic-Items#Binding]] an item to you | 5               |
 
 ### Teaching
 Getting an expert to help you to become better.

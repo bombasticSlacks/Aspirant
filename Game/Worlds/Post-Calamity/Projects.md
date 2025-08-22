@@ -13,7 +13,7 @@ grand_parent: Worlds
 _Completed_
 Greg was worried about his first time killing a person.
 
-- Started a project with **2 steps required**, to find meaning in killing, reward is a single use auto-pass on a [Volition](Game/Core/Instinct#Awareness) test.
+- Started a project with **2 steps required**, to find meaning in killing, reward is a single use auto-pass on a [[Instinct#Awareness]] test.
 
 ## Peace Talks
 

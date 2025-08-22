@@ -6,10 +6,10 @@ nav_order: 1
 grand_parent: Worlds
 ---
 ## Session 14
-[Post-Calamity](Post-Calamity)
+[[Post-Calamity]]
 ## Causdin Summer 29 -
 * Thinking about upgrades for enchanting.
-* [Simple-Joe](Simple-Joe) and [Alexander-Aurelius](Alexander-Aurelius) talking to [Perigrin Vesta (she/her)](Causdin#Perigrin%20Vesta%20(she/her))
+* [[Simple-Joe]] and [[Alexander-Aurelius]] talking to [[Causdin#Perigrin Vesta (she/her]])
 	* Signors are Harold, Jarold, and Carol
 	* Perigrin thinks she might be able to ID a group by their clothes.
 	* Perigrin is going to get 3 men to get tails for the signors.
@@ -18,7 +18,7 @@ grand_parent: Worlds
 	* Sometimes semi-new covering new guards.
 	* The name of the Warehouse manager is Frank.
 	* Arturas spotted a chest with the markings of his guild inside the warehouse. 
-	* Ogre barding was missing. 2 factions use these, [Verdantholm](Verdantholm) with arcane golems, [Vampire-Lords](Vampire-Lords) with house Carrion.
+	* Ogre barding was missing. 2 factions use these, [[Verdantholm]] with arcane golems, [[Vampire-Lords]] with house Carrion.
 	* Simple heard, that there are sign in sheets for stuff
 	* Arturas found some falconry gear, and a universal monster calling whistle
 	* Got info on who it could be and the vampires.

@@ -10,7 +10,7 @@ Small settlement of a few families and seasonal workers.
 4 multigenerational families that live here/work here.
 
 ## Lore
-* Very fundamentalist, very respectful of [The-Holy-Order](Game/Worlds/Post-Calamity/The-Holy-Order) ideals.
+* Very fundamentalist, very respectful of [[The-Holy-Order]] ideals.
 * Used to make fancy explosive resonant materials with work through the hunters, this was stomped out by the church. 
 
 ### Rumors
@@ -29,9 +29,9 @@ Breeders and slaughters of pack/work animals. Cattle, bison.
 ### Celina Of Snowcrest (she/her)
 *In robes of church, older greying woman with scars and frostbite marks.*
 *An easily shaken woman whos confidence breaks quickly.*
-A woman who was excised from [Snowcrest](Game/Worlds/Post-Calamity/Snowcrest) for being a supporter of the [The-Holy-Order](Game/Worlds/Post-Calamity/The-Holy-Order). Works as a priest in the city. 
+A woman who was excised from [[Snowcrest]] for being a supporter of the [[The-Holy-Order]]. Works as a priest in the city. 
 
-Knows [Akren](Game/Worlds/Post-Calamity/Akren)
+Knows [[Akren]]
 
 ### Karen Amethyst (she/her)
 Woman from the amethyst family

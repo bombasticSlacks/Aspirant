@@ -6,10 +6,10 @@ nav_order: 1
 grand_parent: Worlds
 ---
 ## Session 21
-[Post-Calamity](Post-Calamity)
+[[Post-Calamity]]
 
 ## Ideas
-* Woodland Fairy Settlement [Gladepool](Game/Worlds/Post-Calamity/Gladepool)
+* Woodland Fairy Settlement [[Gladepool]]
 * The mechanical creature will be a dungeon with traps and issues:
 	* Excavating out a doorway / finding a way in.
 	* Identifying the source of the illness.

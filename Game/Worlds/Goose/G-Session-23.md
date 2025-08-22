@@ -10,11 +10,11 @@ grand_parent: Worlds
 * 
 
 ## Year 1332 Spring 7th - 12th
-* Mal sending a message to the [Pale-Elves](Game/Worlds/Goose/Pale-Elves)
+* Mal sending a message to the [[Pale-Elves]]
 	* Mentions success in breaking logistics network
 	* Worry of global threat
 	* looking for assistance when taking the cultist camp
-* Need Governors approval for the [Pale-Elves](Game/Worlds/Goose/Pale-Elves) to move into the city.
+* Need Governors approval for the [[Pale-Elves]] to move into the city.
 * Bront + Mal Mages Grant Proposal
 	* Getting witnesses
 	* Jeremiah, soldier saved in Bastico. Jeremia is joining as witness.
@@ -30,7 +30,7 @@ grand_parent: Worlds
 	* Mage contract was accepted
 	* Mercenaries can be approved through his office
 	* Mentioned waiting on the trade co.
-* Rei Mercenaries at the [The Stubbed Toe](Game/Worlds/Goose/Mornhold#The%20Stubbed%20Toe)
+* Rei Mercenaries at the [[Mornhold#The Stubbed Toe]]
 	* Meeting with the Freagles led by Marcelle.
 	* Agree to do it at their normal rate. 30 Mercs. 
 * Vampire Waiting on Letter

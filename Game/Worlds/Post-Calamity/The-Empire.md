@@ -32,7 +32,7 @@ ADVANCED Rebuke - Resolve times per meditation you can inflict a critical injury
 ### Lunarmarred
 * The group worshipping the God King lineage of the Lunarmarred. 
 * Center West
-* The [Zinatu](Game/Worlds/Post-Calamity/Zinatu) are descendants of these people.
+* The [[Zinatu]] are descendants of these people.
 * Used powerful mechanical devices
 
 BASIC Star Eyes - You can see perfectly in the dark and recieve a +1 to all skill tests at night.
@@ -48,7 +48,7 @@ Advanced Exsanguinate - Any critical damage you inflict can kill a person.
 ### Earthbound
 * West
 * Hardy people who worked the land and developed technology using the bounty of the earth.
-* Were created by [The Beyond](#The%20Beyond) from the earth itself.
+* Were created by [[#The Beyond|The Beyond]] from the earth itself.
 
 BASIC People Of The Land - You may spend a power and exert yourself to reduce any incoming damage by 2. 
 

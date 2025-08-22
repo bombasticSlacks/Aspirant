@@ -1,14 +1,14 @@
 
-[Beastmaster](Game/Blocks/Beastmaster)
+[[Beastmaster]]
 {: .label .label-blue }
 
-[Discipline](Game/Character-Development#Discipline)
+[[Character-Development#Discipline]]
 {: .label .label-green }
 
-[Advanced](Game/Character-Development#Advanced)
+[[Character-Development#Advanced]]
 {: .label .label-purple }
 ### Animal Affinity
 *Animals naturally like you and want to help you.*
-* You consider all non-hostile non-humanoid [Characters](Game/Core/Characters) to be [Allies](Game/Core/Terminology#Ally)
-* If [Mounted](Game/Core/Terminology#Mounted) When targeted with an [Attack](Game/Core/Terminology#Attack) you may instead choose to have your mount suffer the [Attack](Game/Core/Terminology#Attack) if not already targeted.
-* If [Mounted](Game/Core/Terminology#Mounted) When your mount is targeted with an [Attack](Game/Core/Terminology#Attack) you may instead choose to suffer the [Attack](Game/Core/Terminology#Attack) yourself if not already targeted.
+* You consider all non-hostile non-humanoid [[Characters]] to be [[Terminology#Ally]]
+* If [[Terminology#Mounted]] When targeted with an [[Terminology#Attack]] you may instead choose to have your mount suffer the [[Terminology#Attack]] if not already targeted.
+* If [[Terminology#Mounted]] When your mount is targeted with an [[Terminology#Attack]] you may instead choose to suffer the [[Terminology#Attack]] yourself if not already targeted.

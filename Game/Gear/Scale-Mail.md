@@ -2,15 +2,15 @@
 Armour
 {: .label .label-purple }
 
-[Artisan](Game/Designing-Armour#Artisan)
+[[Designing-Armour#Artisan]]
 {: .label .label-blue }
 
 #### Scale Mail
 *Plates of metal affixed over leather patterned like scales. Metal with hide*
 
-| [Armour Integrity](Game/Core/Armour#Armour%20Integrity)    | 8                                                                                                         |
+| [[Armour#Armour Integrity]]    | 8                                                                                                         |
 | :--------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- |
-| [Reaction Penalty](Game/Core/Armour#Reaction%20Penalty)          | 0                                                                                                         |
-| [Weakness](Game/Core/Armour#Weakness%20and%20Resistance)   | [Cold](Game/Core/Injury#Cold), [Impact](Game/Core/Injury#Impact)!, [Piercing](Game/Core/Injury#Piercing)! |
-| [Resistance](Game/Core/Armour#Weakness%20and%20Resistance) | [Rending](Game/Core/Injury#Rending)                                                                       |
-| [Armour-Traits](Game/Core/Armour-Traits)                   | -                                                                                                         |
+| [[Armour#Reaction Penalty]]          | 0                                                                                                         |
+| [[Armour#Weakness and Resistance]]   | [[Injury#Cold]], [[Injury#Impact]]!, [[Injury#Piercing]]! |
+| [[Armour#Weakness and Resistance]] | [[Injury#Rending]]                                                                       |
+| [[Armour-Traits]]                   | -                                                                                                         |

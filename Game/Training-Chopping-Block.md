@@ -14,15 +14,15 @@ You may opt to take a negative on an attack to get an equivalent bonus to damage
 
 ### Greater Cleave
 
-If you have [Cleave](#Cleave) training, when making a charge you may target anyone with cleave who was in weapon range along the path.
+If you have [[#Cleave|Cleave]] training, when making a charge you may target anyone with cleave who was in weapon range along the path.
 
 ### Tumbling
 
-As skilled work, you can do acrobatic routines / dance. Make a [Variable Difficulty](Core/Skills#Variable%20Difficulty) [reflexes](Core/Agility#Reflexes) skill test, you receive 2 silver per [Step Of Success](Core/Skills#Step%20Of%20Success).
+As skilled work, you can do acrobatic routines / dance. Make a [[Skills#Variable Difficulty]] [[Agility#Reflexes]] skill test, you receive 2 silver per [[Skills#Step Of Success]].
 
 ### Heavy Hitter
 
-While wearing metal arm armour, you can parry and block using your arms and all of your attacks may knock back enemies [Strength](Core/Strength) meters.
+While wearing metal arm armour, you can parry and block using your arms and all of your attacks may knock back enemies [[Strength]] meters.
 
 ### Cross Arm Block
 
@@ -62,19 +62,19 @@ As a free action once per round, you can exchange places with another character 
 
 ### Thievery
 
-As [Skilled Work](Activities#Skilled%20Work), you can pickpocket. Make a [Variable Difficulty](Core/Skills#Variable%20Difficulty) [Coordination](Core/Agility#Coordination) skill test, you receive settlement wealth - 1 silver per [Step Of Success](Core/Skills#Step%20Of%20Success). If you fail this skill test you may be in trouble with the law.
+As [[Activities#Skilled Work]], you can pickpocket. Make a [[Skills#Variable Difficulty]] [[Agility#Coordination]] skill test, you receive settlement wealth - 1 silver per [[Skills#Step Of Success]]. If you fail this skill test you may be in trouble with the law.
 
 ### Improvised Munitions
 
-As an [evening activities](Activities#Travel%20Activity), you can scavenge 1d6 ammunition for a ranged weapon. This ammo makes the weapon deal 2 less damage, and may potentially remove traits, though that is at the discretion of the GM.
+As an [[Activities#Travel Activity]], you can scavenge 1d6 ammunition for a ranged weapon. This ammo makes the weapon deal 2 less damage, and may potentially remove traits, though that is at the discretion of the GM.
 
 ### Double Tap
 
-As a [Special Manoeuvre](Core/Combat#Special%20Manoeuvres), make two ranged attacks on the same person at a -2 to each. The enemy can as a single reaction attempt to avoid both attacks.
+As a [[Combat#Special Manoeuvres]], make two ranged attacks on the same person at a -2 to each. The enemy can as a single reaction attempt to avoid both attacks.
 
 ### Eradicate
 
-As a [Special Manoeuvre](Core/Combat#Special%20Manoeuvres) you can make a ranged attack that costs 3 ammo is at a -2 for the skill test, can’t be combined with any other special manoeuvres, you can’t apply the called shot combat modifier to it, and you always count as rolling a 6 on the damage for this attack.
+As a [[Combat#Special Manoeuvres]] you can make a ranged attack that costs 3 ammo is at a -2 for the skill test, can’t be combined with any other special manoeuvres, you can’t apply the called shot combat modifier to it, and you always count as rolling a 6 on the damage for this attack.
 
 ### Bound Summon
 
@@ -82,7 +82,7 @@ You can maintain one summoned creature long term without requiring skill tests o
 
 ### Lead To Gold
 
-As [Production Work](Activities#Production%20Work), you can transform matter into gold. Perform a [[]] with a difficulty of your choice, if successful, you receive gold nuggets worth 3 times the difficulty in silver. This requires an [Alchemists Tool Set](Game/Example-Gear#Alchemists%20Tool%20Set).
+As [[Activities#Production Work]], you can transform matter into gold. Perform a [[Game/Example-Gear#Alchemists Tool Set]].
 
 ### Bedside Manner
 
@@ -90,7 +90,7 @@ You receive a +2 on all social interactions with people you have treated since l
 
 ### Shaman
 
-You count as having a [Trauma Kit](Game/Example-Gear#Trauma%20Kit) even if not carrying one. However, any related medical skill tests are performed at a -2.
+You count as having a [[Game/Example-Gear#Trauma Kit]] even if not carrying one. However, any related medical skill tests are performed at a -2.
 
 ### Visual Calculus
 
@@ -98,16 +98,16 @@ You can visualize what nearby characters are doing even if you can’t directly 
 
 ### Alchemical Traps
 
-If your character has a [Trap Kit](Game/Example-Gear#Trap%20Kit), your payloads can be much more exotic, but the skill test becomes [Application](Core/Intelligence#Application), and they take longer to prepare. They can include things like:
+If your character has a [[Game/Example-Gear#Trap Kit]], your payloads can be much more exotic, but the skill test becomes [[Intelligence#Application]], and they take longer to prepare. They can include things like:
 Gravity destabilize: Everything in the trap area loses gravity for 1d3 rounds. Or gravity shifts in a direction for the same duration.
 Stasis discharge: Everything in the area is stunned for a turn.
-Magnesium Bomb: Everything in the area suffers an [Hot](Core/Injury#Hot) attack that causes a critical injury to a location and is on fire.
+Magnesium Bomb: Everything in the area suffers an [[Injury#Hot]] attack that causes a critical injury to a location and is on fire.
 Corrosive Gas: Everything in the area loses all resistance for its armour
 
 ### Naturalist
 
 _moved to holistic tools_
-You don’t need a tool kit to do [Production Work](Activities#Production%20Work), however any skill tests are at a -1.
+You don’t need a tool kit to do [[Activities#Production Work]], however any skill tests are at a -1.
 
 ### Recycler
 
@@ -115,11 +115,11 @@ When crafting a weapon, instead of providing materials, you may provide another 
 
 ### Simple Repairs
 
-As [Production Work](Activities#Production%20Work), you can repair a damaged item or up to 5 rounds of ammunition. This requires a [Weapons Tool Set](Game/Example-Gear#Weapons%20Tool%20Set), but no additional materials or currency.
+As [[Activities#Production Work]], you can repair a damaged item or up to 5 rounds of ammunition. This requires a [[Game/Example-Gear#Weapons Tool Set]], but no additional materials or currency.
 
 ### The Muscle
 
-You may perform [Connection](Core/Communication#Connection) skill tests to interact with people using [Strength](Core/Strength).
+You may perform [[Communication#Connection]] skill tests to interact with people using [[Strength]].
 
 ### Explorer
 
@@ -131,7 +131,7 @@ You may keep someone's attention and interest, even in a topic you know nothing 
 
 ### Resilient
 
-Your character may add their [Physique](Core/Strength#Physique) skill to rolls for immediate effects of injuries, resist death from critical injuries to the chest, and to not collapse from being wounded.
+Your character may add their [[Strength#Physique]] skill to rolls for immediate effects of injuries, resist death from critical injuries to the chest, and to not collapse from being wounded.
 
 ---
 
@@ -143,11 +143,11 @@ When caught doing something illegal, as long as you are not captured, it won’t
 
 ### Obfuscate
 
-Spend 2 [Power](Game/Core/Blocks/Power), you can make any character/settlement re-roll a skill test related to discovering the party or their involvement in something.
+Spend 2 [[Power]], you can make any character/settlement re-roll a skill test related to discovering the party or their involvement in something.
 
 ### Driver
 
-You can drive a [Cart](Example-Infrastructure#Cart) alone.
+You can drive a [[Example-Infrastructure#Cart]] alone.
 
 ### Vitruvian
 
@@ -190,12 +190,12 @@ You are an expert in a specific ritual of your choice, which you can perform at 
 
 ### Find A Buyer
 
-As a [Downtime Activities](Activities#Downtime%20Activity), you can spend a day finding someone interested in purchasing an item for full price (materials + labour). This is a skill test based on the settlement's Wealth + your [Connection](Core/Communication#Connection), and a difficulty based on the rarity of the item.
+As a [[Activities#Downtime Activity]], you can spend a day finding someone interested in purchasing an item for full price (materials + labour). This is a skill test based on the settlement's Wealth + your [[Communication#Connection]], and a difficulty based on the rarity of the item.
 
 ### Protect the Head
 
-You may change the [Hit Locations](Core/Combat#Hit%20Locations) of any attack from the head, to the body.
+You may change the [[Combat#Hit Locations]] of any attack from the head, to the body.
 
 ### Strike True
 
-No negative for [Called Shot](Core/Combat#Called%20Shot) with [Melee Attacks](Core/Terminology#Melee%20Attack).
+No negative for [[Combat#Called Shot]] with [[Terminology#Melee Attack]].

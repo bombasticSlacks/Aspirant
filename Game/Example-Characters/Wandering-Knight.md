@@ -26,13 +26,13 @@ nav_exclude: true
 | Movement    | Close |
 
 ## Training
-[Knight](Game/Blocks/Knight)
-[Mercenary](Game/Blocks/Mercenary)
+[[Game/Blocks/Knight|Knight]]
+[[Game/Blocks/Mercenary|Mercenary]]
 
 ## Equipment
-[Basic-Storage](Game/Gear/Basic-Storage)
-* [Explorers-Kit](Game/Gear/Explorers-Kit)
-* [Scale-Mail](Game/Gear/Scale-Mail)
-* Simple Sword ([Size-2-Basic](Game/Gear/Size-2-Basic)) {Q}
-* [Heater-Shield](Game/Gear/Heater-Shield) {Q}
+[[Basic-Storage]]
+* [[Explorers-Kit]]
+* [[Scale-Mail]]
+* Simple Sword ([[Size-2-Basic]]) {Q}
+* [[Heater-Shield]] {Q}
 * 5 Silver

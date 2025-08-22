@@ -4,14 +4,14 @@ Weapon
 Size 3
 {: .label .label-yellow }
 
-[Basic](Game/Designing-Weapons#Basic)
+[[Designing-Weapons#Basic]]
 {: .label .label-blue }
 
 #### Size 3 Basic
 
-| Default [Damage](Core/Weapons#Damage)                     | 3                                                                                   |
+| Default [[Weapons#Damage]]                     | 3                                                                                   |
 | :-------------------------------------------------------- | :---------------------------------------------------------------------------------- |
-| [Extra Damage](Game/Core/Attacks#Extra%20Damage) Modifier | (-1)                                                                                |
-| [Damage Type](Core/Weapons#Damage%20Type)                 | Depends                                                                             |
-| [Range](Core/Weapons#Range)                               | [Reach](Core/Movement#Reach)                                                        |
-| [Weapon Traits](Core/Weapon-Traits)                       | [Two-Handed](Game/Core/Blocks/Two-Handed), [Striking](Game/Core/Blocks/Striking) |
+| [[Attacks#Extra Damage]] Modifier | (-1)                                                                                |
+| [[Weapons#Damage Type]]                 | Depends                                                                             |
+| [[Weapons#Range]]                               | [[Movement#Reach]]                                                        |
+| [[Weapon-Traits|Weapon Traits]]                       | [[Two-Handed]], [[Striking]] |

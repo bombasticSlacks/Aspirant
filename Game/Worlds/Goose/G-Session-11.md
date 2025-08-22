@@ -11,7 +11,7 @@ grand_parent: Worlds
 * Made a hand that can detect cultists need to channel magic into it.
 * More cultists to the South East.
 * The cultists were trying to summon something.
-* Arrived in [Mornhold](Game/Worlds/Goose/Mornhold) (24th), Downtime:
+* Arrived in [[Mornhold]] (24th), Downtime:
 	* Jarl: Call on City
 	* Rei: Performing (busking)
 	* Mal: Learning Expert Dynamacy
@@ -33,7 +33,7 @@ grand_parent: Worlds
  ---
 
 ## To Do
-* Jarl is on the [Mage Warriors](Game/Worlds/Goose/Mornhold#Mage%20Warriors) mailing list.
+* Jarl is on the [[Mornhold#Mage Warriors]] mailing list.
 * Zombie Status
 * Bront gave aunt the Cardinals Coal, said she is doing something with it.
 * Bront wants to rent a storage unit.

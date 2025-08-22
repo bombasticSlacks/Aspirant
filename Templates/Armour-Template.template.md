@@ -1,8 +1,8 @@
 
-[Armour-Templates](Game/Armour-Templates)
+[[Armour-Templates]]
 {: .label .label-purple }
 
-[1 Crafting Point](Game/Designing-Weapons#Crafting%20Points) or [2 Crafting Points](Game/Designing-Weapons#Crafting%20Points)
+[[Designing-Weapons#Crafting Points]] or [[Designing-Weapons#Crafting Points]]
 {: .label .label-yellow }
 ### Name
 *Description*

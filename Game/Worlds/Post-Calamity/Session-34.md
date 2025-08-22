@@ -6,7 +6,7 @@ nav_order: 1
 grand_parent: Worlds
 ---
 ## Session 34
-[Post-Calamity](Post-Calamity)
+[[Post-Calamity]]
 
 ## Ideas
 * Have to mix certain pedigrees of blood to move forward.
@@ -54,8 +54,8 @@ grand_parent: Worlds
 
 ### To Do
 
-* [Roxy (Roxanne) la Croix](Game/Worlds/Post-Calamity/Verdantholm#Roxy%20(Roxanne)%20la%20Croix) will think on who would make a good leader of the merchants.
-* Simple Greg, writes a letter to [Mo Joe (he/him)](Game/Worlds/Post-Calamity/Verdantholm#Mo%20Joe%20(he/him)) to ask about the observations about natural escalation.
+* [[Verdantholm#Roxy (Roxanne]]%20la%20Croix) will think on who would make a good leader of the merchants.
+* Simple Greg, writes a letter to [[Verdantholm#Mo Joe (he/him]]) to ask about the observations about natural escalation.
 * Ignis combat stats + traps.
 * Sizing for enchanting. 
 

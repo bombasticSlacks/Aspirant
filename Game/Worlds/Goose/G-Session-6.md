@@ -8,7 +8,7 @@ grand_parent: Worlds
 ## Session 6
 
 ## Step 2 4th - 6th of Summer
-* Bront collected the coal from the [The Cardinal](../../Monster-Types/Undead#The%20Cardinal).
+* Bront collected the coal from the [[../../Monster-Types/Undead#The Cardinal]].
 * Stemm took some clothing, wants to check if clothing is of this world.
 * Heading back to the safehouse, militants are hesitant
 * Military Officer writing a commendation IOU.

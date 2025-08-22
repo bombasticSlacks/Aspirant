@@ -6,7 +6,7 @@ nav_order: 1
 grand_parent: Worlds
 ---
 ## Session 28
-[Post-Calamity](Post-Calamity)
+[[Post-Calamity]]
 
 ## Ideas
 * Once entering catacombs there will be a large area with a huge spirit / zombie population (those that were burried with the king pharo style)
@@ -46,9 +46,9 @@ grand_parent: Worlds
 
 ### To Do
 
-* [Roxy (Roxanne) la Croix](Game/Worlds/Post-Calamity/Verdantholm#Roxy%20(Roxanne)%20la%20Croix) will think on who would make a good leader of the merchants.
+* [[Verdantholm#Roxy (Roxanne]]%20la%20Croix) will think on who would make a good leader of the merchants.
 * Arturas looked at the autocarraige specs that Xen had, discuss costs of carraige.
-* Simple Greg, writes a letter to [Mo Joe (he/him)](Game/Worlds/Post-Calamity/Verdantholm#Mo%20Joe%20(he/him)) to ask about the observations about natural escalation.
+* Simple Greg, writes a letter to [[Verdantholm#Mo Joe (he/him]]) to ask about the observations about natural escalation.
 * Update games kit, doesn't do anything any more.
 
 
@@ -57,7 +57,7 @@ grand_parent: Worlds
 ### Monsters
 
 ### Damned Husk
-Basic enemy, attack (+3, [Impact](Game/Core/Injury#Impact), 3)
+Basic enemy, attack (+3, [[Injury#Impact]], 3)
 ### Undead Thugs (The Damned)
 *Remains of people brought back to life. Move and act as they would have when alive. *
 (4, mixed, 2) 6 integrity, weak to life.
@@ -68,12 +68,12 @@ Trait: Undying, need to be killed to be stopped.
 
 | Move                              | Integrity | Weakness (! is vitals only)                                   | Resistance (! is ancillary only) |
 | --------------------------------- | --------- | ------------------------------------------------------------- | -------------------------------- |
-| [Short](Game/Core/Movement#Short) | 20        | [Heat](Game/Core/Injury#Heat)!, [Life](Game/Core/Injury#Life) | Physical!                        |
+| [[Movement#Short]] | 20        | [[Injury#Heat]]!, [[Injury#Life]] | Physical!                        |
 
 #### Actions
-* [Attack](Game/Core/Blocks/Attack)(+5, [Impact](Game/Core/Injury#Impact), 6) leaves residual darkness which deals 1 armour damage when you act if you don't pass a volition skill test.
+* [[Game/Core/Blocks/Attack|Attack]](+5, [[Injury#Impact]] leaves residual darkness which deals 1 armour damage when you act if you don't pass a volition skill test.
 * Confine To Darkness - Opponent must make a (-3) volition or be stunned.
-* Spread Darkness - Destroy an ally to deal 6 [Life](Game/Core/Injury#Life) damage in an [Area](Game/Core/Blocks/Area).
+* Spread Darkness - Destroy an ally to deal 6 [[Injury#Life]] damage in an [[Area]].
 #### Traits
 * Everywhere - Cannot be outnumbered.
 * Hard To Avoid - (-2) to reactions.

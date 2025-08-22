@@ -4,14 +4,14 @@ Weapon
 Size <span query="get(Size)"></span><span class="lv-live-text">2</span><span type="end"></span>
 {: .label .label-yellow }
 
-[Artisan](Game/Designing-Weapons#Artisan)
+[[Designing-Weapons#Artisan]]
 {: .label .label-blue }
 
 #### Arming Sword
 
-| Default [Damage](Core/Weapons#Damage)                     | 3                                                                                                                                            |
+| Default [[Weapons#Damage]]                     | 3                                                                                                                                            |
 | :-------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Extra Damage](Game/Core/Attacks#Extra%20Damage) Modifier | (-1)                                                                                                                                         |
-| [Damage Type](Core/Weapons#Damage%20Type)                 | [Rending](Core/Injury#Rending), [Piercing](Game/Core/Injury#Piercing)                                                                     |
-| [Range](Core/Weapons#Range)                               | [Reach](Core/Movement#Reach)                                                                                                                 |
-| [Weapon Traits](Core/Weapon-Traits)                       | [One Handed](Game/Core/Blocks/One-Handed), [Striking](Game/Core/Blocks/Striking), [Multiple-Damage-Types](Game/Blocks/Multiple-Damage-Types) |
+| [[Attacks#Extra Damage]] Modifier | (-1)                                                                                                                                         |
+| [[Weapons#Damage Type]]                 | [[Injury#Rending]], [[Injury#Piercing]]                                                                     |
+| [[Weapons#Range]]                               | [[Movement#Reach]]                                                                                                                 |
+| [[Weapon-Traits|Weapon Traits]]                       | [[One-Handed|One Handed]], [[Striking]], [[Game/Blocks/Multiple-Damage-Types|Multiple-Damage-Types]] |

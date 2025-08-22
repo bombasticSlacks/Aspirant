@@ -6,7 +6,7 @@ nav_order: 1
 grand_parent: Worlds
 ---
 ## Session 24
-[Post-Calamity](Post-Calamity)
+[[Post-Calamity]]
 
 ## Ideas
 * 3 merchant houses. Talk about them
@@ -14,7 +14,7 @@ grand_parent: Worlds
 * 2 options to travel down the river an Ardent Hold Vessel and a Vessel where they could be labour.
 * 
 ## Travelling 29 Fall - 09 Winter
-* Attack was focused by just [Svensens](Game/Worlds/Post-Calamity/Verdantholm#Svensens) but now the other groups will consider them a real threat.
+* Attack was focused by just [[Verdantholm#Svensens]] but now the other groups will consider them a real threat.
 * Know that the party was working with the underground. 
 * Curious Traveller merchant boat.
 * Dawns March Ardent boat.
@@ -46,10 +46,10 @@ grand_parent: Worlds
 
 ### To Do
 
-* [Roxy (Roxanne) la Croix](Game/Worlds/Post-Calamity/Verdantholm#Roxy%20(Roxanne)%20la%20Croix) will think on who would make a good leader of the merchants.
+* [[Verdantholm#Roxy (Roxanne]]%20la%20Croix) will think on who would make a good leader of the merchants.
 * Morty new stats.
 * Arturas looked at the autocarraige specs that Xen had, discuss costs of carraige.
-* Simple Greg, writes a letter to [Mo Joe (he/him)](Game/Worlds/Post-Calamity/Verdantholm#Mo%20Joe%20(he/him)) to ask about the observations about natural escalation.
+* Simple Greg, writes a letter to [[Verdantholm#Mo Joe (he/him]]) to ask about the observations about natural escalation.
 * 
 
 ### Hooks
@@ -63,7 +63,7 @@ grand_parent: Worlds
 
 #### Ice Elemental
 * 6 Integrity weak to heat, immune to cold
-* attack 4, [Cold](Game/Core/Injury#Cold), +3
+* attack 4, [[Injury#Cold]], +3
 * (-3) grab into the ice.
 
 

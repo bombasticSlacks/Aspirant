@@ -30,7 +30,7 @@ They live in the erroded root network of an ancient giant magic tree, shaping wa
 #### One With The Forest
 
 _you move with the forest as though it were part of you._
-Basic Training, While in foliage or forest your movement is [Far](../../Core/Movement#Far), and you can hide or otherwise sneak even when it would seem impossible.
+Basic Training, While in foliage or forest your movement is [[Movement#Far]], and you can hide or otherwise sneak even when it would seem impossible.
 
 #### Float Like Leaves
 
@@ -42,12 +42,12 @@ Advanced training, you no longer can harm yourself by falling, and can jump impo
 #### Floral Patterns
 
 _The earths pieces nurtured are greater than imagined._
-Basic Training, [Flora](../../Flora) that you use count as one quality higher.
+Basic Training, [[Flora]] that you use count as one quality higher.
 
 #### Root Singing
 
 _The world speaks to you, and you speak for it._
-Advanced Training, you may spend a [Power](../../Game/Core/Blocks/Power), if you do make a [Ascendancy](Game/Core/Instinct#Ascendancy) skill test to control plants.
+Advanced Training, you may spend a [[../../Game/Core/Blocks/Power|Power]], if you do make a [[Instinct#Ascendancy]] skill test to control plants.
 
 ## People
 
@@ -58,7 +58,7 @@ Wears a black coiffed cape with a bald head. The marking of a ruler is tattooed 
 
 Jaded, resigned to his fate.
 
-Carries the [Knife Of Fate](#Knife%20Of%20Fate)
+Carries the [[#Knife Of Fate|Knife Of Fate]]
 
 ### Allanon
 

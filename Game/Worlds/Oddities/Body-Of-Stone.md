@@ -1,4 +1,4 @@
-[Earthbound](Game/Worlds/Post-Calamity/The-Empire#Earthbound)
+[[The-Empire#Earthbound]]
 {: .label .label-blue }
 
 Specialized
@@ -8,4 +8,4 @@ Basic
 {: .label .label-purple }
 ### Body Of Stone
 
-* Whenever someone performs a [Successful Attack](Game/Core/Terminology#Successful%20Attack) against you, they suffer 1 [Damage](Game/Core/Terminology#Damage).
+* Whenever someone performs a [[Terminology#Successful Attack]] against you, they suffer 1 [[Terminology#Damage]].

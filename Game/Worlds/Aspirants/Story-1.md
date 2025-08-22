@@ -46,5 +46,5 @@ A younger man with the physique of a farm boy. Has a prosthetic leg that they sl
 * Might know of Celcy with a roll.
 
 ### Relics
-* [Burnswift](Game/Gear/Burnswift)
-* [Amulet-Of-The-Mountain](Game/Gear/Amulet-Of-The-Mountain)
+* [[Burnswift]]
+* [[Amulet-Of-The-Mountain]]

@@ -17,12 +17,12 @@ In Aspirant magic items should be unique, interesting and full of lore. There ar
 
 ## Binding
 
-Enchanted and magical items that are worn or otherwise functionally take no space on your person need to be grounded to a [Character](Core/Terminology#Character) to work. This process requires either:
+Enchanted and magical items that are worn or otherwise functionally take no space on your person need to be grounded to a [[Terminology#Character]] to work. This process requires either:
 
-- A successful [Ascendancy](Game/Core/Instinct#Ascendancy) [Fixed Difficulty](Core/Skills#Fixed%20Difficulty)(0).
-- An [Expert Commission](Services#Expert%20Commissions).
+- A successful [[0|[Instinct#Ascendancy]].
+- An [[Services#Expert Commissions]].
 
-A [Character](Core/Terminology#Character) can bind to a number of items up to their [Affinity](Game/Blocks/Affinity). You can bind to an item once per [Downtime](Telling-The-Story#Downtime).
+A [[Terminology#Character]] can bind to a number of items up to their [[Game/Blocks/Affinity|Affinity]]. You can bind to an item once per [[Telling-The-Story#Downtime]].
 
 > A amulet or suit of magic armour needs binding, a magic sword does not.
 
@@ -46,7 +46,7 @@ Magic items that have magic abilities that are related to the original function 
 
 ### Discordant
 
-Magic items that have magic abilities that are unrelated to the original function are considered discordant. Discordant items disrupt the physical world in ways that are unaligned with the item's expected function, meaning they are harder to create. These items aren't more powerful necessarily than [Harmonic](#Harmonic), but they are more erratic.
+Magic items that have magic abilities that are unrelated to the original function are considered discordant. Discordant items disrupt the physical world in ways that are unaligned with the item's expected function, meaning they are harder to create. These items aren't more powerful necessarily than [[#Harmonic|Harmonic]], but they are more erratic.
 
 > A backpack that expels large spews of fire.
 > A shield that lets you speak any language.
@@ -57,16 +57,16 @@ When you create a magic item, it should:
 
 - Have a beneficial power or ability. This can be passive or require activation.
 - Have some visual distinction for this power.
-- Based on the power level of the benefit, it should have a [Drawback](#Drawback) or catch.
+- Based on the power level of the benefit, it should have a [[#Drawback|Drawback]] or catch.
 
 ### Drawback
 
 Your item's drawback shouldn't be crippling, the item shouldn't feel cursed. The drawback should add some flavour or maybe lead to interesting or problematic scenarios.
 
-The drawback to [Ephemeral](#Ephemeral) items is usually that they can be exhausted.
+The drawback to [[#Ephemeral|Ephemeral]] items is usually that they can be exhausted.
 
 > Perhaps boots that give you the ability to jump massive distances make your feet smell like an ogres.
 
 ### Player Crafted Magic Items
 
-Should follow the same rules as above, but [The Players](How-To-Play#The%20Players) and [GM](How-To-Play#GM) should collaborate to come up with a power and drawback.
+Should follow the same rules as above, but [[How-To-Play#The Players]] and [[How-To-Play#GM]] should collaborate to come up with a power and drawback.

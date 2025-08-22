@@ -7,7 +7,7 @@ grand_parent: Worlds
 ---
 * Using Arcane Technology
 * This is the connection between everyone
-* When [Alexander-Aurelius](Alexander-Aurelius) is believed in will bring them to the base.
+* When [[Alexander-Aurelius]] is believed in will bring them to the base.
 * Monster Hunters were destroyed while fighting the vampires, church turned on them for using the arcane.
 * So Guild Hall in bottom left corner of the map, near vampire hunters. Patrolled by the church to obstruct use.
 * Gonna, for now, use the Monster Hunter Trainings
@@ -25,7 +25,7 @@ Last leader of the Hunters
 
 ## Master Katala
 Blacksmith / crafter
-[Arturas-Gabrys](Game/Worlds/Post-Calamity/Arturas-Gabrys) knows of them but never met them directly.
+[[Arturas-Gabrys]] knows of them but never met them directly.
 Went to Tussole works as a crafter there, under the name of "The Journeyman"
 
 ## Kara Katala

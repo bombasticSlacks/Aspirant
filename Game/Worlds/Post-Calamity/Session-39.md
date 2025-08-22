@@ -6,7 +6,7 @@ nav_order: 1
 grand_parent: Worlds
 ---
 ## Session 39
-[Post-Calamity](Post-Calamity)
+[[Post-Calamity]]
 
 ## Ideas
 
@@ -23,7 +23,7 @@ grand_parent: Worlds
 	* Maria and Arturas are gonna dig over some tomes tomorrow.
 * Greg took Jasmuta to moms death spot, told her the story, Jasmuta said that only caregiver is Greg.
 * **21st of spring**
-	* At the banquet [Ande Scorpion Sign (she/her)](Game/Worlds/Post-Calamity/Zinatu.md#Ande%20Scorpion%20Sign%20(she/her))  mentioned the creature the "multiheaded beast" that lives under the Lustrum, and the "worshiper" that is imbued with horrible visions of the creature and worships it with a flock. 
+	* At the banquet [[Zinatu#Ande Scorpion Sign (she/her]])  mentioned the creature the "multiheaded beast" that lives under the Lustrum, and the "worshiper" that is imbued with horrible visions of the creature and worships it with a flock. 
 	* Alexander passed a check to know that its a Hydra under the Lustrum.
 	* Ande describes the stone structures as the "archway". Were brought to disuse with time. 
 	* Arturas discovered a site that was a target of the Lunarmarred, south of the Lunar Mark, 
@@ -44,7 +44,7 @@ grand_parent: Worlds
 
 ### To Do
 
-* [Roxy (Roxanne) la Croix](Game/Worlds/Post-Calamity/Verdantholm#Roxy%20(Roxanne)%20la%20Croix) will think on who would make a good leader of the merchants.
+* [[Verdantholm#Roxy (Roxanne]]%20la%20Croix) will think on who would make a good leader of the merchants.
 * Consumable rules
 * 
 

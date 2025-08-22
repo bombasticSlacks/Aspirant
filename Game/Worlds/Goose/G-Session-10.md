@@ -18,7 +18,7 @@ grand_parent: Worlds
 * More attacks on the south, people need papers to travel right now.
 * Guard cpt. gave letter to get documents of travel at Bastico.
 * Got their papers and arrived at Belltower.
-* 13th: Going to do a downtime in [Belltower](Game/Worlds/Goose/Belltower) till the (18th)
+* 13th: Going to do a downtime in [[Belltower]] till the (18th)
 	* Mal: Working at the docks for 3 Silver.
 	* Rei: Working on Expert Shaping
 	* Bront: Learned Identity 1

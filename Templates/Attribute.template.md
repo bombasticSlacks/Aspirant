@@ -1,4 +1,4 @@
-[Secondary Attributes](Game/Core/Attributes#Secondary%20Attributes)
+[[Attributes#Secondary Attributes]]
 {: .label .label-blue }
 
 ### Name

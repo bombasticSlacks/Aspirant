@@ -1,11 +1,11 @@
 
-[Burglar](Game/Character-Development#Burglar)
+[[Character-Development#Burglar]]
 {: .label .label-blue }
 
-[Discipline](Game/Character-Development#Discipline)
+[[Character-Development#Discipline]]
 {: .label .label-green }
 
-[Advanced](Game/Character-Development#Advanced)
+[[Character-Development#Advanced]]
 {: .label .label-purple }
 ### Light Step
 *You move with careful consideration.*

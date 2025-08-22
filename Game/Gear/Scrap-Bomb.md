@@ -4,14 +4,14 @@ Weapon
 Size Ammo
 {: .label .label-yellow }
 
-[Artisan](Game/Designing-Weapons#Artisan)
+[[Designing-Weapons#Artisan]]
 {: .label .label-blue }
 
 #### Scrap Bomb
 
-| Default [Damage](Core/Weapons#Damage)                     | 4                                                                                                                                                                             |
+| Default [[Weapons#Damage]]                     | 4                                                                                                                                                                             |
 | :-------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Extra Damage](Game/Core/Attacks#Extra%20Damage) Modifier | (-1)                                                                                                                                                                          |
-| [Damage Type](Core/Weapons#Damage%20Type)                 | [Rending](Game/Core/Injury#Rending)                                                                                                                                           |
-| [Range](Core/Weapons#Range)                               | [Close](Game/Core/Movement#Close)                                                                                                                                             |
-| [Weapon Traits](Core/Weapon-Traits)                       | [One Handed](Game/Core/Blocks/One-Handed), [Thrown](Game/Core/Blocks/Thrown), [Consumable-Weapon](Game/Core/Blocks/Consumable-Weapon), [Salvageable](Game/Core/Blocks/Salvageable) |
+| [[Attacks#Extra Damage]] Modifier | (-1)                                                                                                                                                                          |
+| [[Weapons#Damage Type]]                 | [[Injury#Rending]]                                                                                                                                           |
+| [[Weapons#Range]]                               | [[Movement#Close]]                                                                                                                                             |
+| [[Weapon-Traits|Weapon Traits]]                       | [[One-Handed|One Handed]], [[Thrown]], [[Consumable-Weapon]], [[Salvageable]] |

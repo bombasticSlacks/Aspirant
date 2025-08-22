@@ -7,5 +7,5 @@ Enchantment
 
 * You have the levitation trait.
 * You recieve a (+1) to all reactions.
-* You count as having +1 [Agility](Game/Core/Agility) for [Movement Action Penalty](Game/Core/Movement#Movement%20Action%20Penalty).
-* You cannot be knocked [Prone](Game/Core/Effects#Prone) unwillingly.
+* You count as having +1 [[Agility]] for [[Movement#Movement Action Penalty]].
+* You cannot be knocked [[Effects#Prone]] unwillingly.

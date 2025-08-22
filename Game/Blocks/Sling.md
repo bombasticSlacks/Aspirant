@@ -1,15 +1,15 @@
 
-[Weapon-Templates](Game/Weapon-Templates)
+[[Weapon-Templates]]
 {: .label .label-purple }
 
-[1 Crafting Point](Game/Designing-Weapons#Crafting%20Points)
+[[Designing-Weapons#Crafting Points]]
 {: .label .label-yellow }
 
 ### Sling
 *This weapon aids with throwing things long distances.*
-* [Loading](Game/Core/Blocks/Loading)(0).
-* [Capacity](Game/Core/Blocks/Capacity) 1([Stone](Game/Munitions#Stone)).
-* [Launcher](Game/Core/Blocks/Launcher).
-* [Precision](Game/Core/Blocks/Precision).
-* Size 1-2 range of [Close](Game/Core/Movement#Close).
-* Size 3+ range of [Short](Game/Core/Movement#Short).
+* [[Loading]](0).
+* [[Capacity]] 1([[Munitions#Stone]]).
+* [[Launcher]].
+* [[Precision]].
+* Size 1-2 range of [[Movement#Close]].
+* Size 3+ range of [[Movement#Short]].

@@ -6,7 +6,7 @@ nav_order: 2
 grand_parent: Worlds
 ---
 # Argent Hold
-The remnants of the ancient empire. Use mages as slaves to power their machines of war and empower their push into the [Calamity](Calamity).
+The remnants of the ancient empire. Use mages as slaves to power their machines of war and empower their push into the [[Calamity]].
 
 Black, red decorated armour, capes, pointed nosed helmets
 
@@ -25,7 +25,7 @@ Field Officer (highest rank officer in the field).
 
 Tight bun, younger, Black officer uniform
 
-[Simple-Joe](Simple-Joe) younger sister
+[[Simple-Joe]] younger sister
 
 "Average" nickname
 

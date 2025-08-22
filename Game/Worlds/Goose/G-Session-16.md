@@ -35,9 +35,9 @@ grand_parent: Worlds
 * Players defeated the Effigy,
 * The ritual was completed, elsewhere, the cultists brought the pieces to finish to there.
 * Players wonder if the cultists are some sort of hive mind, since the basic soldiers are husks. 
-* [Cpt. Firebrand](Game/Worlds/Goose/Mornhold#Cpt.%20Firebrand) said that they are always welcome abord the ship.
-* [Corporal Gezz](Game/Worlds/Goose/Mornhold#Corporal%20Gezz) going to schedule an appointment with the Governor.
-* [Dres Snider (She/Her)](Game/Worlds/Goose/Mornhold#Dres%20Snider%20(She/Her)) offered Jarl to come along on a hunt tracking horrors. Jarl is going to be departing for a while.
+* [[Mornhold#Cpt. Firebrand]] said that they are always welcome abord the ship.
+* [[Mornhold#Corporal Gezz]] going to schedule an appointment with the Governor.
+* [[Mornhold#Dres Snider (She/Her]]) offered Jarl to come along on a hunt tracking horrors. Jarl is going to be departing for a while.
 * 
 
 ---

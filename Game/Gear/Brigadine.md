@@ -1,18 +1,18 @@
 Armour
 {: .label .label-purple }
 
-[Artisan](Game/Designing-Armour#Artisan)
+[[Designing-Armour#Artisan]]
 {: .label .label-blue }
 
-[Master Work](Game/Designing-Weapons#Master%20Work)
+[[Designing-Weapons#Master Work]]
 {: .label .label-red }
 
 #### Brigadine
 *armour of metal plates affixed to a thick cloth gambeson. Metal with textiles.*
 
-| [Armour Integrity](Game/Core/Armour#Armour%20Integrity)    | 10                                |
+| [[Armour#Armour Integrity]]    | 10                                |
 | :--------------------------------------------------------- | :-------------------------------- |
-| [Reaction Penalty](Game/Core/Armour#Reaction%20Penalty)          | 0                                 |
-| [Weakness](Game/Core/Armour#Weakness%20and%20Resistance)   | [Cold](Game/Core/Injury#Cold)     |
-| [Resistance](Game/Core/Armour#Weakness%20and%20Resistance) | [Impact](Game/Core/Injury#Impact) |
-| [Armour-Traits](Game/Core/Armour-Traits)                   | -                                 |
+| [[Armour#Reaction Penalty]]          | 0                                 |
+| [[Armour#Weakness and Resistance]]   | [[Injury#Cold]]     |
+| [[Armour#Weakness and Resistance]] | [[Injury#Impact]] |
+| [[Armour-Traits]]                   | -                                 |

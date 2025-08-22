@@ -1,5 +1,5 @@
 
-[Dynamist](Game/Dynamist)
+[[Game/Dynamist|Dynamist]]
 {: .label .label-blue }
 
 General/Specialized
@@ -9,4 +9,4 @@ Basic
 {: .label .label-purple }
 ### Magic Perception
 
-You can detect magic passively without needing to perform an [Action](Game/Core/Terminology#Action) with [Understanding](Core/Intelligence#Memory).
+You can detect magic passively without needing to perform an [[Terminology#Action]] with [[Intelligence#Memory]].

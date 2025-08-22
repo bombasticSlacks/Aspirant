@@ -24,7 +24,7 @@ grand_parent: Worlds
 	* Magical Creatures that are mind controll immune
 	* Rei knows that creatures of singular purpose are immune to mind control
 * Stem looking for engineer / artisan for glass making
-	* Met with [Willy](Game/Worlds/Goose/Mornhold#Willy) and got a prototype comissioned. 
+	* Met with [[Mornhold#Willy]] and got a prototype comissioned. 
 * Rei + Casey going to University
 	* Talking to Roundrox, gonna use mech to mock the evil sun
 * Bront and Mal going to the beach 

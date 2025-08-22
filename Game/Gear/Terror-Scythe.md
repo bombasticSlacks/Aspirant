@@ -4,15 +4,15 @@ Weapon
 Size 4
 {: .label .label-yellow }
 
-[Exotic](Game/Designing-Weapons#Exotic)
+[[Designing-Weapons#Exotic]]
 {: .label .label-blue }
 
 #### Terror Scythe
 *A horrible weapon of war designed to rip and pull at material*
 
-| Default [Damage](Core/Weapons#Damage)                     | 5                                                                                                                                                               |
+| Default [[Weapons#Damage]]                     | 5                                                                                                                                                               |
 | :-------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Extra Damage](Game/Core/Attacks#Extra%20Damage) Modifier | (-1)                                                                                                                                                            |
-| [Damage Type](Core/Weapons#Damage%20Type)                 | [Rending](Core/Injury#Rending)                                                                                                                                  |
-| [Range](Core/Weapons#Range)                               | [Reach](Core/Movement#Reach)                                                                                                                                    |
-| [Weapon Traits](Core/Weapon-Traits)                       | [Two-Handed](Game/Core/Blocks/Two-Handed), [Striking](Game/Core/Blocks/Striking), [Sundering](Game/Core/Blocks/Sundering), [Exotic](Game/Core/Blocks/Exotic) |
+| [[Attacks#Extra Damage]] Modifier | (-1)                                                                                                                                                            |
+| [[Weapons#Damage Type]]                 | [[Injury#Rending]]                                                                                                                                  |
+| [[Weapons#Range]]                               | [[Movement#Reach]]                                                                                                                                    |
+| [[Weapon-Traits|Weapon Traits]]                       | [[Two-Handed]], [[Striking]], [[Sundering]], [[Exotic]] |

@@ -67,11 +67,11 @@ grand_parent: Worlds
 
 | Move                              | Integrity | Weakness (! is vitals only)   | Resistance (! is ancillary only) |
 | --------------------------------- | --------- | ----------------------------- | -------------------------------- |
-| [Reach](Game/Core/Movement#Reach) | 12        | [Cold](Game/Core/Injury#Cold) | All!                             |
+| [[Movement#Reach]] | 12        | [[Injury#Cold]] | All!                             |
 
 #### Actions
-* [Attack](Game/Core/Blocks/Attack)(+6, [Impact](Game/Core/Injury#Impact), 6)
-* [Ranged-Attack](Game/Core/Blocks/Ranged-Attack)(+7, [Heat](Game/Core/Injury#Heat), 6) in a [Reach](Game/Core/Movement#Reach) area.
+* [[Game/Core/Blocks/Attack|Attack]](+6, [[Injury#Impact]]
+* [[Game/Core/Blocks/Ranged-Attack|Ranged-Attack]](+7, [[Injury#Heat]] in a [[Movement#Reach]] area.
 * Blinding Rush (causes blindness in a person).
 #### Traits
 * Everywhere - Cannot be outnumbered.

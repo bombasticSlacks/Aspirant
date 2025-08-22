@@ -1,12 +1,12 @@
 
-[Beastmaster](Game/Blocks/Beastmaster)
+[[Beastmaster]]
 {: .label .label-blue }
 
-[Discipline](Game/Character-Development#Discipline)
+[[Character-Development#Discipline]]
 {: .label .label-green }
 
-[Advanced](Game/Character-Development#Advanced)
+[[Character-Development#Advanced]]
 {: .label .label-purple }
 ### Sick Em
 *You control animals with accuracy and specificity.*
-* After an [Action](Game/Core/Terminology#Action) you can become [Exerted](Game/Core/Blocks/Exerted) to have a non-human [Ally](Game/Core/Terminology#Ally) perform an [Action](Game/Core/Terminology#Action).
+* After an [[Terminology#Action]] you can become [[Exerted]] to have a non-human [[Terminology#Ally]] perform an [[Terminology#Action]].

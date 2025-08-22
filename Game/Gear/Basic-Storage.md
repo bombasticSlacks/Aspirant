@@ -1,16 +1,16 @@
 
-[Storage](Game/Storage)
+[[Storage]]
 {: .label .label-purple }
 
-[Basic](Game/Designing-Storage#Basic)
+[[Designing-Storage#Basic]]
 {: .label .label-blue }
 
 #### Basic Storage
 *A simple bag and belt designed to carry what a person needs.* 
 
-| [General Storage](Game/Storage#General%20Storage) | 8 + [Strength](Game/Core/Strength) |
+| [[Storage#General Storage]] | 8 + [[Strength]] |
 | ------------------------------------------------- | ---------------------------------- |
-| [Quick Access](Game/Storage#Quick%20Access)       | 4                                  |
-| [Camp Storage](Game/Storage#Camp%20Storage)       | 8                                  |
-| [Specialization](Game/Storage#Specialization)     | -                                  |
+| [[Storage#Quick Access]]       | 4                                  |
+| [[Storage#Camp Storage]]       | 8                                  |
+| [[Storage#Specialization]]     | -                                  |
 

@@ -5,7 +5,7 @@ parent: Telling The Story
 nav_order: 0
 ---
 # First Session
-![House](Content/House.svg)
+![[House.svg]]
 The world of Aspirant is big, but it will start out small. During the first session, a number of questions about the world will be answered.
 
 Start off with where you live:

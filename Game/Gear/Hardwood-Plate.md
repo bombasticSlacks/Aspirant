@@ -2,15 +2,15 @@
 Armour
 {: .label .label-purple }
 
-[Exotic](Game/Designing-Armour#Exotic)
+[[Designing-Armour#Exotic]]
 {: .label .label-blue }
 
 #### Hardwood Plate
 *A set of waxed cotton plates wrapped around cores of dense hard woods. These panels are then affixed to padded armour. Flora with Textiles.*
 
-| [Armour Integrity](Game/Core/Armour#Armour%20Integrity)    | 6                                                                                      |
+| [[Armour#Armour Integrity]]    | 6                                                                                      |
 | :--------------------------------------------------------- | :------------------------------------------------------------------------------------- |
-| [Reaction Penalty](Game/Core/Armour#Reaction%20Penalty)    | (0)                                                                                    |
-| [Weakness](Game/Core/Armour#Weakness%20and%20Resistance)   | [Heat](Game/Core/Injury#Heat)                                                          |
-| [Resistance](Game/Core/Armour#Weakness%20and%20Resistance) | [Impact](Game/Core/Injury#Impact)                                                      |
-| [Armour-Traits](Game/Core/Armour-Traits)                   | [Ablative](Game/Core/Blocks/Ablative), [Exotic-Attire](Game/Core/Blocks/Exotic-Attire) |
+| [[Armour#Reaction Penalty]]    | (0)                                                                                    |
+| [[Armour#Weakness and Resistance]]   | [[Injury#Heat]]                                                          |
+| [[Armour#Weakness and Resistance]] | [[Injury#Impact]]                                                      |
+| [[Armour-Traits]]                   | [[Ablative]], [[Exotic-Attire]] |

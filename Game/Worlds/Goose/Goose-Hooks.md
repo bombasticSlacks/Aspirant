@@ -8,14 +8,14 @@ grand_parent: Worlds
 ## ~~Magdolin~~
 Dimitrius her husband had never had a funeral so she never got to rest. Haunting a lantern, she wants to get her eternal rest.
 
-Gave the lantern to Dimitrius, next time they are in [Mournest](Game/Worlds/Goose/Mournest) going to resolve maybe bringing her back.
+Gave the lantern to Dimitrius, next time they are in [[Mournest]] going to resolve maybe bringing her back.
 
 **Competed Got 1xp and the lantern.**
 
 ## The Great Devourer
 An ancient hungry beast of blood and flesh in the north. Potentially once a vampire but worshiped as a God of death.
 
-Mentioned by [Dres Snider (She/Her)](Game/Worlds/Goose/Mornhold#Dres%20Snider%20(She/Her)).
+Mentioned by [[Mornhold#Dres Snider (She/Her]]).
 
 Darcellus mentioned that there is a mayor of a city there Jeremia who is its thrall. 
 Darcellus wants it dead as its a blight on vampires, it also probably harbours some of the old blood. 

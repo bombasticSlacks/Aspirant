@@ -1,4 +1,4 @@
-[Lunarmarred](Game/Worlds/Post-Calamity/The-Empire#Lunarmarred)
+[[The-Empire#Lunarmarred]]
 {: .label .label-blue }
 
 Specialized
@@ -9,4 +9,4 @@ Basic
 ### Starry Eyed
 
 * You can see perfectly in up to pitch darkness.
-* You recieve a (+1) to all [Action](Game/Core/Terminology#Action) at night.
+* You recieve a (+1) to all [[Terminology#Action]] at night.

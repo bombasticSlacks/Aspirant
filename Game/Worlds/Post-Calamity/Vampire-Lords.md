@@ -34,12 +34,12 @@ _A character using their shadow magic to pull the strings, controlling places an
 
 | Initiative | Move                               | Threat | Integrity | Weakness                                                       | Resistance                         |
 | ---------- | ---------------------------------- | ------ | --------- | -------------------------------------------------------------- | ---------------------------------- |
-| 4, 2       | [Short](../../Core/Movement#Short) | 2      | 5         | [Heat](../../Core/Injury#Heat), [Life](../../Core/Injury#Life) | [Impact](../../Core/Injury#Impact) |
+| 4, 2       | [[Movement#Short]] | 2      | 5         | [[Injury#Heat]], [[Injury#Life]] | [[Injury#Impact]] |
 
-- [Resistance(3)](<../../Core/Character-Actions#Resistance(X)>)
-- [Attack](<../Game/Core/Character-Actions#Attack(X,%20TYPE,%20DAMAGE)>)(3, [Cold](../../Core/Injury#Cold), 2)
-- [Ranged Attack(5, Life, 3, Far)](<../../Core/Character-Actions#Ranged%20Attack(X,%20TYPE,%20DAMAGE,%20RANGE)>)
-- [Avoid(3)](<../Game/Core/Character-Actions#Avoid(X)>)
+- [[<../../Core/Character-Actions#Resistance(X]]>)
+- [[<../Game/Core/Character-Actions#Attack(X, TYPE, DAMAGE]]>)(3, [[Injury#Cold]], 2)
+- [[<../../Core/Character-Actions#Ranged Attack(X, TYPE, DAMAGE, RANGE]]>)
+- [[<../Game/Core/Character-Actions#Avoid(X]]>)
 
 Attack
 {: .label .label-red }
@@ -48,7 +48,7 @@ Attack
 
 _You pull someone in, terrorizing them completely._
 
-- Target makes a [Volition](Game/Core/Instinct#Awareness) [Fixed Difficulty](../../Core/Skills#Fixed%20Difficulty)(0) test or becomes [Stunned](../../Core/Effects#Stunned). If they pass they are still [Disoriented](../../Core/Effects#Disoriented).
+- Target makes a [[0|[Instinct#Awareness]] test or becomes [[Effects#Stunned]]. If they pass they are still [[Effects#Disoriented]].
 
 Attack
 {: .label .label-red }
@@ -66,15 +66,15 @@ Trait
 
 _You extend further than what matters._
 
-- Any non [Vitals](../../Core/Injury#Vitals) strike against you causes 0 damage.
+- Any non [[Injury#Vitals]] strike against you causes 0 damage.
 
 #### Rewards
 
 {: .no_toc }
 
-- Black Irises, 1 size [Exotic Bits](../../Bits#Exotic%20Bits).
+- Black Irises, 1 size [[Bits#Exotic Bits]].
 - 15 silver.
-- 2 size [Exotic Textiles](../../Textiles#Exotic%20Textiles) living shadow.
+- 2 size [[Textiles#Exotic Textiles]] living shadow.
 
 ---
 

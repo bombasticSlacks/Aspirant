@@ -8,7 +8,7 @@ nav_order: 2
 
 # Character Milestones
 
-These rewards become available as your [Character](Core/Terminology#Character) gains [Total XP](Game/Blocks/Total-XP) and has [Progression](Character-Development#Progression).
+These rewards become available as your [[Terminology#Character]] gains [[Total-XP|Total XP]] and has [[Character-Development#Progression]].
 
 Each milestone can be selected only once.
 
@@ -18,23 +18,23 @@ The rewards are as follows:
 
 ### Harmful
 
-You have a (+1) to [Extra Damage](Game/Core/Attacks#Extra%20Damage) [Attacks](Game/Core/Terminology#Attack).
+You have a (+1) to [[Attacks#Extra Damage]] [[Terminology#Attack]].
 
 ### Inspired
 
-You have 1 additional [Max Influence](Game/Blocks/Influence), you also gain 1 [Influence](Game/Blocks/Influence) right now.
+You have 1 additional [[Influence|Max Influence]], you also gain 1 [[Influence]] right now.
 
 ### Magical
 
-You have 1 additional [Affinity](Game/Blocks/Affinity).
+You have 1 additional [[Affinity]].
 
 ### Mobile
 
-Your [Agility](Core/Agility) counts as 1 higher for [Movement Distance](Core/Movement#Movement%20Distance).
+Your [[Agility]] counts as 1 higher for [[Movement#Movement Distance]].
 
 ### Powerful
 
-You have 1 additional [Max Power](Game/Core/Blocks/Power).
+You have 1 additional [[Power|Max Power]].
 
 ### Skilful
 
@@ -42,11 +42,11 @@ You gain a rank in a skill of your choice, this cannot bring a skill to rank 3.
 
 ### Threatening
 
-You have 2 additional [Threat](Core/Weapons#Threat).
+You have 2 additional [[Weapons#Threat]].
 
 ### Trained
 
-Select and learn a single [Basic Level Training](Character-Development#Basic%20Level%20Training).
+Select and learn a single [[Character-Development#Basic Level Training]].
 
 ---
 
@@ -54,20 +54,20 @@ Select and learn a single [Basic Level Training](Character-Development#Basic%20L
 
 ### Expertly Trained
 
-Select and learn a single [Advanced Level Training](Character-Development#Advanced%20Level%20Training).
+Select and learn a single [[Character-Development#Advanced Level Training]].
 
 ### Iconic Gear
 
 You can select a piece of gear that you are known for using. This piece of gear either:
 
-- Becomes a [Harmonic](Magic-Items#Harmonic) magical item [Designed](Magic-Items#Designing%20Magic%20Items) with the way you use it in mind.
-- Loses its [Drawback](Magic-Items#Drawback).
+- Becomes a [[Magic-Items#Harmonic]] magical item [[Magic-Items#Designing Magic Items]] with the way you use it in mind.
+- Loses its [[Magic-Items#Drawback]].
 
-If your piece of iconic gear is permanently lost, you can select a new piece of [Equipment](Core/Equipment) to become iconic during the next [Downtime](Telling-The-Story#Downtime).
+If your piece of iconic gear is permanently lost, you can select a new piece of [[Equipment]] to become iconic during the next [[Telling-The-Story#Downtime]].
 
 ### Limit Breaker
 
-+1 to an [Attribute](Core/Attributes) of your choice.
++1 to an [[Attributes|Attribute]] of your choice.
 
 ### Very Skilful
 
@@ -75,4 +75,4 @@ You gain a rank in a skill of your choice.
 
 ### Very Magical
 
-You have 2 additional [Affinity](Game/Blocks/Affinity).
+You have 2 additional [[Affinity]].

@@ -26,11 +26,11 @@ Ancient settlement of the woodland spirits. They normally don't allow outsiders.
 
 #### Floral Patterns
 *The earths pieces nurtured are greater than imagined.*
-Basic Training, [Flora](../../Flora) that you use count as one quality higher.
+Basic Training, [[Flora]] that you use count as one quality higher.
 
 #### Root Singing
 *The world speaks to you, and you speak for it.*
-Advanced Training, you may spend a [Power](../../Additional-Attributes#Power), if you do make a [Attunement](Game/Core/Instinct#Attunement) skill test to control plants.
+Advanced Training, you may spend a [[../../Additional-Attributes#Power]], if you do make a [[Instinct#Attunement]] skill test to control plants.
 
 ### Training
 
@@ -56,7 +56,7 @@ Advanced Training, you may spend a [Power](../../Additional-Attributes#Power), i
 * Speaks through the wind.
 * Wants to be left alone.
 * Wants to protect nature.
-* Can perform [Root Singers Training](#Root%20Singers%20Training)
+* Can perform [[#Root Singers Training|Root Singers Training]]
 
 
 

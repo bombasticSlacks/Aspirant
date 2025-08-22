@@ -58,9 +58,9 @@ Ogre has 4 armour and a great sword.
 
 | Initiative | Move                          | Threat | Integrity | Weakness | Resistance |
 | ---------- | ----------------------------- | ------ | --------- | -------- | ---------- |
-| 3          | [Close](../Core/Movement#Close) | 4      | 4         | Fire, Impact    | Rending   |
+| 3          | [[../Core/Movement#Close]] | 4      | 4         | Fire, Impact    | Rending   |
 
-* [Attack(5, Rending, 3)](../Core/Character-Actions#Attack(X,%20TYPE,%20DAMAGE))
+* [[../Core/Character-Actions#Attack(X, TYPE, DAMAGE]])
 * avoid(2)
 
 #### Rewards

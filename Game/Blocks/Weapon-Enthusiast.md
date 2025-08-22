@@ -1,14 +1,14 @@
 
-[Weapons Enthusiast](Game/Character-Development#Weapons%20Enthusiast)
+[[Character-Development#Weapons Enthusiast]]
 {: .label .label-blue }
 
-[Discipline](Game/Character-Development#Discipline)
+[[Character-Development#Discipline]]
 {: .label .label-green }
 
-[Basic](Game/Character-Development#Basic)
+[[Character-Development#Basic]]
 {: .label .label-purple }
 ### Weapon Enthusiast
 *You love weapons, and everything about them. So much there is one you take extra care with.*
-* You can use any [Exotic](Game/Core/Blocks/Exotic) weapon.
-* After [Downtime](Game/Telling-The-Story#Downtime) declare a **favourite weapon**, you may only have 1 **favourite weapon** at a time.
-* You have a (+1) to all [Action](Game/Core/Terminology#Action) made with your **favourite weapon**.
+* You can use any [[Exotic]] weapon.
+* After [[Telling-The-Story#Downtime]] declare a **favourite weapon**, you may only have 1 **favourite weapon** at a time.
+* You have a (+1) to all [[Terminology#Action]] made with your **favourite weapon**.

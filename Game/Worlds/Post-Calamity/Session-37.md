@@ -6,7 +6,7 @@ nav_order: 1
 grand_parent: Worlds
 ---
 ## Session 37
-[Post-Calamity](Post-Calamity)
+[[Post-Calamity]]
 
 ## Ideas
 * Found a monument to Excelliar, the God of the Sun. Orb, incandescent in hand, stone sword above head in the other.
@@ -47,7 +47,7 @@ grand_parent: Worlds
 
 ### To Do
 
-* [Roxy (Roxanne) la Croix](Game/Worlds/Post-Calamity/Verdantholm#Roxy%20(Roxanne)%20la%20Croix) will think on who would make a good leader of the merchants.
+* [[Verdantholm#Roxy (Roxanne]]%20la%20Croix) will think on who would make a good leader of the merchants.
 * Sizing for enchanting. 
 * Rules for barding 1 piece oversized armour. 
 * Crafting is more generic, the crafting abilities. 

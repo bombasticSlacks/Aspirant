@@ -6,7 +6,7 @@ nav_order: 1
 grand_parent: Worlds
 ---
 # Session 4
-[Post-Calamity](Post-Calamity)
+[[Post-Calamity]]
 
 # Segment 4 Spring 8 - Spring 12
 * Set out for Dorna
@@ -18,18 +18,18 @@ grand_parent: Worlds
 * Temple, had a dias with an indent for the orb
 
 # Segment 5 Dorna Spring 13 - 14
-* Went to meet [Jordan](Dorna#Jordan), spotted [Arturas-Gabrys](Arturas-Gabrys) Axe, had heard stories from father about the axe being used to slay.
-* Told to meet [Katherine](Dorna#Katherine) about payment
+* Went to meet [[Dorna#Jordan]], spotted [[Arturas-Gabrys]] Axe, had heard stories from father about the axe being used to slay.
+* Told to meet [[Dorna#Katherine]] about payment
 * *Downtime*
-	* Arturas [Night Training](../../Activities#Night%20Learning)
+	* Arturas [[Activities#Night Learning]]
 	* Akren helped with Dynamite for 5 silver
-	* [Alexander-Aurelius](Alexander-Aurelius) did [Contacts](../../Chronicler#Contacts)
-	* [Greg-Colter](Greg-Colter) did basic labour
-	* [Vespin-Aevaris](Vespin-Aevaris) learned [Expert Enchanting](../../Enchanter#Expert%20Enchanting)
+	* [[Alexander-Aurelius]] did [[../../Chronicler#Contacts]]
+	* [[Greg-Colter]] did basic labour
+	* [[Vespin-Aevaris]] learned [[../../Enchanter#Expert Enchanting]]
 * While labouring, Greg spotted a box of armour in the back of the local tailors shop.
-* [Vespin-Aevaris](Vespin-Aevaris) went to see [Tally (Talia Defferen)](Dorna#Tally%20(Talia%20Defferen))
+* [[Vespin-Aevaris]] went to see [[Dorna#Tally (Talia Defferen]])
 * The last group of mercenaries "departed", 10-15 days ago (stopped ordering drinks)
-* [Arturas-Gabrys](Arturas-Gabrys) talking to [Alexander-Aurelius](Alexander-Aurelius)
+* [[Arturas-Gabrys]] talking to [[Alexander-Aurelius]]
 
 ## Rewards
 * Got paid their 30 silver
@@ -38,10 +38,10 @@ grand_parent: Worlds
  ---
 
 ## To Do
-* [Alexander-Aurelius](Alexander-Aurelius) wants to talk to the Truthsayer, get info on the manticore and SI fighting.
+* [[Alexander-Aurelius]] wants to talk to the Truthsayer, get info on the manticore and SI fighting.
 
 ## Hooks
-* [Arturas-Gabrys](Arturas-Gabrys) got information on the symbol
+* [[Arturas-Gabrys]] got information on the symbol
 
 
 ## Monsters

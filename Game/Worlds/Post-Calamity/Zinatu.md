@@ -19,7 +19,7 @@ Response
 
 Culturally related to the lunar peopel.
 
-* about a dozen people + [Soulbound](Game/Worlds/Post-Calamity/Zinatu#Soulbound) workin at the camp
+* about a dozen people + [[Zinatu#Soulbound]] workin at the camp
 * Will be preparing to leave as the issues have completed from nearby
 * Tents with pack beasts 
 * some farmable land quickly
@@ -36,9 +36,9 @@ Of the Zinatu tribe, mystics and ecologists that track the comings and goings of
 
 Level woman, cold gaze.
 
-Wants information from [Jock Tennens](#Jock%20Tennens), more on "the ritual"
+Wants information from [[#Jock Tennens|Jock Tennens]], more on "the ritual"
 
-[Arturas-Gabrys](Arturas-Gabrys) and she exchanged pleasantries and offerings.
+[[Arturas-Gabrys]] and she exchanged pleasantries and offerings.
 
 ### Kant Stone Sign (he/him)
 *tanned man of poetry who is a mountain of a man. Bald*

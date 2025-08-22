@@ -1,5 +1,5 @@
-* Originally from [Belltower](Game/Worlds/Goose/Belltower) where he studied. Had a great tutor from here.
-* Had a mentor in [Belltower](Game/Worlds/Goose/Belltower) 
+* Originally from [[Belltower]] where he studied. Had a great tutor from here.
+* Had a mentor in [[Belltower]] 
 * Stem got kicked out from the Uni after trying to stay even after his parents stopped paying the tuition, caused a scene, he is now kinda avoiding being seen there again.
 
 ### Zom
@@ -14,14 +14,14 @@ Can pass for a living creature (but not under scrutiny).
 
 | Move                          | Integrity | Weakness (! is vitals only)    | Resistance (! is ancillary only)                                                                                 |
 | ----------------------------- | --------- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
-| [Far](Game/Core/Movement#Far) | 6         | [Heat](Game/Core/Injury#Heat)! | [Rending](Game/Core/Injury#Rending), [Piercing](Game/Core/Injury#Piercing), [Impact](Game/Core/Injury#Impact) |
+| [[Movement#Far]] | 6         | [[Injury#Heat]]! | [[Injury#Rending]], [[Injury#Piercing]], [[Injury#Impact]] |
 
 #### Actions
 * Attacks with the opposite of whatever an enemy can do.
 #### Traps
-* [Ambush-Attack](Game/Core/Blocks/Ambush-Attack).
+* [[Ambush-Attack]].
 
 #### Traits
-* [Hard-Target](Game/Core/Blocks/Hard-Target)
+* [[Game/Core/Blocks/Hard-Target|Hard-Target]]
 * Can Hide In Your Shadow.
 * Can Teleport Between Shadows.

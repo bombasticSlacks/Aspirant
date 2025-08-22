@@ -1,14 +1,14 @@
 
-[Healer](Game/Character-Development#Healer)
+[[Character-Development#Healer]]
 {: .label .label-blue }
 
-[Discipline](Game/Character-Development#Discipline)
+[[Character-Development#Discipline]]
 {: .label .label-green }
 
-[Advanced](Game/Character-Development#Advanced)
+[[Character-Development#Advanced]]
 {: .label .label-purple }
 ### Combat Doc
 *You know how to get into the thick of it.*
-* You never die outright from [Injury](Game/Core/Injury).
-* You automatically succeed on any [Application](Game/Core/Intelligence#Application) where you are targeting yourself.
-* After an [Action](Game/Core/Terminology#Action) you can become [Exerted](Game/Core/Blocks/Exerted) to use a [Toolkits](Game/Core/Blocks/Toolkits) or [Ingested and Applied](Game/Consumable#Ingested%20and%20Applied) as a [Free Action](Game/Core/Terminology#Free%20Action).
+* You never die outright from [[Injury]].
+* You automatically succeed on any [[Intelligence#Application]] where you are targeting yourself.
+* After an [[Terminology#Action]] you can become [[Exerted]] to use a [[Toolkits]] or [[Game/Consumable#Ingested and Applied]] as a [[Terminology#Free Action]].

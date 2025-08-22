@@ -15,7 +15,7 @@ grand_parent: Worlds
 	* Jarl - Honed Grace.
 	* Told the families, one woman's son Thomas went after a friend training in Mornhold, mentioned a conspiracy was very frightened. Demeton is the friend. People at his school have been going missing.
 	* Handheld flash device, Flamethrower, special weapons on sale.
-	* [Konstantines Farm](Game/Worlds/Goose/Mournest#Konstantines%20Farm) a man on a farm out of town has a wagon for sale.
+	* [[Mournest#Konstantines Farm]] a man on a farm out of town has a wagon for sale.
 	* Konstantine sold them the wagon, chatted a bit. Harvesters travelled north a day ago, not sure where.
 	* Bibkins, flora eating blobs to the north devouring a forest.
 * 2 days north on the 6th Travelling to the forest the Bibkins are in.

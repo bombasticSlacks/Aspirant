@@ -63,7 +63,7 @@ Looming older man , cleaner keeper.
 
 | Move                                 | Integrity | Action Bonus | Hit Modifier | Avoid Modifier | Weakness      | Resistance |
 | ------------------------------------ | --------- | ------------ | ------------ | -------------- | ------------- | ---------- |
-| [Close](Game/Core/Movement#Close) | 6         | 4            | 0            | 0              | rending! cold |            |
+| [[Movement#Close]] | 6         | 4            | 0            | 0              | rending! cold |            |
 #### Actions
 * Attack with my weapon for 3 damage.
 * Throw a flash bomb if I'm captain (+2 integrity, -1 avoid)
@@ -72,14 +72,14 @@ Looming older man , cleaner keeper.
 
 | Move                                 | Integrity | Action Bonus | Hit Modifier | Avoid Modifier | Weakness     | Resistance    |
 | ------------------------------------ | --------- | ------------ | ------------ | -------------- | ------------ | ------------- |
-| [Reach](Game/Core/Movement#Reach) | 14        | 5            | 0            | (-2)           | !cold, !life | heat, rending |
+| [[Movement#Reach]] | 14        | 5            | 0            | (-2)           | !cold, !life | heat, rending |
 #### Actions
 * deal 4 impact damage when I swing wildly.
 * all within reach, I'm exerted, dealing 5 impact damage when I slam the ground.
 * Exert and Regenerate 2 + 1d6 integrity when I draw material from the ground.
 * deal 3 pierce and teleport within far as I meld with the ground and then erupt out of it.
 #### Traits
-* [Boss](Game/Core/Blocks/Boss)(3)
+* [[3|[Boss]]
 #### Traps
 * When I'm hurt, harm all in melee for 1 pierce as shards slag off
 
@@ -105,6 +105,6 @@ Looming older man , cleaner keeper.
 - Kala going to prep info from the bandit torture for tomorrow.
 
 ### Relics
-* [Burnswift](Game/Gear/Burnswift)
-* [Amulet-Of-The-Mountain](Game/Gear/Amulet-Of-The-Mountain)
-* [Maidens-Tear](Game/Gear/Maidens-Tear)
+* [[Burnswift]]
+* [[Amulet-Of-The-Mountain]]
+* [[Maidens-Tear]]

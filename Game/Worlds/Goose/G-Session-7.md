@@ -23,7 +23,7 @@ grand_parent: Worlds
 * 11th of Summer you arrive at the hidden village.
 * Barroth, Cantra, Timmn The Pale Elf Assassins leading them deeper in the village.
 * Barroth taking rei to the horses,
-* Mal and crew waiting to see the king [Destall Aclypse](Pale-Elves#Destall%20Aclypse).
+* Mal and crew waiting to see the king [[Pale-Elves#Destall Aclypse]].
 * Bront went to see the druid
 * After 15 minutes brought in to see the king.
 * Everyone got free nice Elven Clothing.

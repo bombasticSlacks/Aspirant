@@ -6,20 +6,20 @@ nav_order: 1
 grand_parent: Worlds
 ---
 ## Session 31
-[Post-Calamity](Post-Calamity)
+[[Post-Calamity]]
 
 ## Ideas
 * Zinatu camp
-	* about a dozen people + [Soulbound](Game/Worlds/Post-Calamity/Zinatu#Soulbound) workin at the camp
+	* about a dozen people + [[Zinatu#Soulbound]] workin at the camp
 	* Will be preparing to leave as the issues have completed from nearby
 	* Will be splitting up, some community is going north towards the Lunastrella a new device which is under partial Hedgemony watch but they hope to study.
 	* Some going to the south towards Chordys to resupply and gain materials. They have heard whisperings of an arcane infused beast to the south east and a cursed mansion to the south west. 
 
 ## Zinatu Camp 26 Winter - 30th Winter
-* [Alexander-Aurelius](Game/Worlds/Post-Calamity/Alexander-Aurelius) sword is named Aubade
+* [[Alexander-Aurelius]] sword is named Aubade
 * Did a firing test of the rifle, Ignis mentioned fighting similar weapons south
-* [Maria Archer Sign](Game/Worlds/Post-Calamity/Zinatu#Maria%20Archer%20Sign) told of the other hooks in the area
-	* Mentioned Ascended heading to the Lunastrella [Ande Scorpion Sign (she/her)](Game/Worlds/Post-Calamity/Zinatu#Ande%20Scorpion%20Sign%20(she/her))
+* [[Zinatu#Maria Archer Sign]] told of the other hooks in the area
+	* Mentioned Ascended heading to the Lunastrella [[Zinatu#Ande Scorpion Sign (she/her]])
 * Boys mentioned the south of the map being hard to traverse
 * Maria will check the phone on the 10, 20, 30 of spring.
 * Travel 27-30th Winter To Chordys
@@ -28,9 +28,9 @@ grand_parent: Worlds
 	* Greg: Socialize
 	* Akren: Scout, Socialize, Production Work
 	* Ignis On Watch
-* Arrive in [Chordys](Game/Worlds/Post-Calamity/Chordys)
-* talked to [Celina Of Snowcrest (she/her)](Game/Worlds/Post-Calamity/Chordys#Celina%20Of%20Snowcrest%20(she/her))
-* They mentioned a [Rumors](Game/Worlds/Post-Calamity/Chordys#Rumors) about the lightning
+* Arrive in [[Chordys]]
+* talked to [[Chordys#Celina Of Snowcrest (she/her]])
+* They mentioned a [[Chordys#Rumors]] about the lightning
 * Arturas is eyeing the ruins
 	* Patrolled by church members
 	* not in ruin but not maintained
@@ -38,7 +38,7 @@ grand_parent: Worlds
 * FOR NEXT TIME:
 * Investigating the lights in the sky
 	* Greg talks to the animals
-	* Akren talking to [Celina Of Snowcrest (she/her)](Game/Worlds/Post-Calamity/Chordys#Celina%20Of%20Snowcrest%20(she/her))
+	* Akren talking to [[Chordys#Celina Of Snowcrest (she/her]])
 ### Rewards
 * 
 ### Characters
@@ -47,9 +47,9 @@ grand_parent: Worlds
 
 ### To Do
 
-* [Roxy (Roxanne) la Croix](Game/Worlds/Post-Calamity/Verdantholm#Roxy%20(Roxanne)%20la%20Croix) will think on who would make a good leader of the merchants.
+* [[Verdantholm#Roxy (Roxanne]]%20la%20Croix) will think on who would make a good leader of the merchants.
 * Arturas looked at the autocarraige specs that Xen had, discuss costs of carraige.
-* Simple Greg, writes a letter to [Mo Joe (he/him)](Game/Worlds/Post-Calamity/Verdantholm#Mo%20Joe%20(he/him)) to ask about the observations about natural escalation.
+* Simple Greg, writes a letter to [[Verdantholm#Mo Joe (he/him]]) to ask about the observations about natural escalation.
 * Update games kit, doesn't do anything any more.
 	* Games kit lets 1 person socialize for free as long as you do. 
 * Itemize the loot from the dungeon.

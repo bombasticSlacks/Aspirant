@@ -11,7 +11,7 @@ Gameplay in Aspirant is generally split into a few different types of gameplay: 
 
 ## Combat
 
-Combat is the most rigorously kept time in Aspirant; as it is when you are most likely to be injured and die. Combat is covered in more detail [here](Core/Combat), but in general, characters take turns acting in 5 second increments.
+Combat is the most rigorously kept time in Aspirant; as it is when you are most likely to be injured and die. Combat is covered in more detail [[Combat|here]], but in general, characters take turns acting in 5 second increments.
 
 ## Narrative Time
 
@@ -19,9 +19,9 @@ Narrative time in aspirant involves characters in a place of interest doing acti
 
 ## Flashback
 
-Sometimes an ability or necessity will require you to explore a scene that happened in the past. If this occurs it is similar to [Narrative Time](#Narrative%20Time) with the following additional rules.
+Sometimes an ability or necessity will require you to explore a scene that happened in the past. If this occurs it is similar to [[#Narrative Time|Narrative Time]] with the following additional rules.
 * Nothing can occur that would contradict the present. 
-* The [Game Master](Game/Core/Terminology#Game%20Master) gets the final say on if a [Player Character](Game/Core/Terminology#Player%20Character) behavior is appropriate. 
+* The [[Terminology#Game Master]] gets the final say on if a [[Terminology#Player Character]] behavior is appropriate. 
 
 Dealing with non-linear time can be complicated and everyone should attempt to behave in good faith. 
 
@@ -29,19 +29,19 @@ Dealing with non-linear time can be complicated and everyone should attempt to b
 
 This tends to happen when you are in a safe area. When in a friendly settlement with no impending danger your characters can choose to take 5 days and rest focusing on yourselves, your work, and resting up. While doing downtime each character:
 
-- Remove any [Long Term Injury](Core/Effects#Long%20Term%20Injury).
-- Reset [Power](Game/Core/Blocks/Power) to your max.
-- Reset your [Reaction](Game/Core/Blocks/Reaction) to your max.
+- Remove any [[Effects#Long Term Injury]].
+- Reset [[Power]] to your max.
+- Reset your [[Reaction]] to your max.
 - Reset uses of all Once Per Downtime abilities.
-- Performs 1 [Downtime Activity](Activities#Downtime%20Activity).
-* Pay for [Lodgings](#Lodgings).
-- While performing downtime, players should be encouraged to still take part in scenes in [Narrative Time](#Narrative%20Time), maybe they meet local artisans, haggle with a shopkeeper, or find the start of an adventure. Time shouldn't exclusively be occupied with a [Downtime Activity](Activities#Downtime%20Activity), but it will help explain what you are doing when not otherwise occupied.
+- Performs 1 [[Activities#Downtime Activity]].
+* Pay for [[#Lodgings|Lodgings]].
+- While performing downtime, players should be encouraged to still take part in scenes in [[#Narrative Time|Narrative Time]], maybe they meet local artisans, haggle with a shopkeeper, or find the start of an adventure. Time shouldn't exclusively be occupied with a [[Activities#Downtime Activity]], but it will help explain what you are doing when not otherwise occupied.
 
 ### Lodgings
 Each settlement will have a cost for 5 days of lodgings, usually it will be 2 silver which will cover your food and housing for the duration.
 ## Travelling
 
-Travelling in Aspirant can take long amounts of time. Travelling involves knowing the direction or location of something and then travelling towards it. Travel will usually take a number of days. To travel you require at minimum [Camping Gear](Game/Example-Gear#Camping%20Gear).
+Travelling in Aspirant can take long amounts of time. Travelling involves knowing the direction or location of something and then travelling towards it. Travel will usually take a number of days. To travel you require at minimum [[Game/Example-Gear#Camping Gear]].
 
 ### Travel Segment
 
@@ -51,29 +51,29 @@ For simplicity, travel is:
 - Most travel should focus on hitting a milestone of some kind at least within 5 days. Travel should be directed to get somewhere. Unstructured travel isn't travel, it is adventuring.
 - A full day of travel is considered 14 hours of continual travel, this gives the characters ample time to rest.
 - At the end of the segment characters will need to pay for the food they used (rations tend to cost 2 silver per travel segment)
-- Characters at the start of each travel segment declare a [Travelling Activity](Activities#Travelling%20Activity) they will focus on during the travel.
-- Some travel segments will have specific modifiers. Maybe its dangerously hot, cold, you can get sick. Otherwise some travel segments will restrict types of [Asset](Game/Asset), no [Vehicles](Game/Asset#Vehicles), no horses, etc.
+- Characters at the start of each travel segment declare a [[Activities#Travelling Activity]] they will focus on during the travel.
+- Some travel segments will have specific modifiers. Maybe its dangerously hot, cold, you can get sick. Otherwise some travel segments will restrict types of [[Asset]], no [[Asset#Vehicles]], no horses, etc.
 
 ### Travel Movement
 In Aspirant movement between places should be measured in time, not distance. So a place might be a days travel, or 4 days travel, from where you are. 
 #### Travel Speed
-Some [Asset](Game/Asset) or abilities may increase the travel speed of characters. Humans have a travel speed of 1x, a traveling groups speed is equal to the lowest speed among them.
+Some [[Asset]] or abilities may increase the travel speed of characters. Humans have a travel speed of 1x, a traveling groups speed is equal to the lowest speed among them.
 
 ### Travel Encounter
 
-During travel, characters may encounter other travellers, enemies or a point of interest. These will be handled by the GM and should lend to the danger and intrigue of the surrounding world. Generally, the world is sparse and most characters should only have 1 travel encounter per [Travel Segment](#Travel%20Segment), though in very dense or dangerous areas the GM can roll for more. If your players were attacked by wolves a number of times travelling through a forest instead, that should be handled as one extended narrative / combat [Scene](Core/Terminology#Scene) where they realize they’ve entered dangerous territory and need to navigate out of it.
+During travel, characters may encounter other travellers, enemies or a point of interest. These will be handled by the GM and should lend to the danger and intrigue of the surrounding world. Generally, the world is sparse and most characters should only have 1 travel encounter per [[#Travel Segment|Travel Segment]], though in very dense or dangerous areas the GM can roll for more. If your players were attacked by wolves a number of times travelling through a forest instead, that should be handled as one extended narrative / combat [[Terminology#Scene]] where they realize they’ve entered dangerous territory and need to navigate out of it.
 
 ### Ambush Encounter
 
-Similarly, during travel, the party may be ambushed while camping. These should be high stakes encounters that put the players in danger. Generally, danger isn't lurking around every corner and the characters should only have 1 ambush encounter per [Travel Segment](#Travel%20Segment).
+Similarly, during travel, the party may be ambushed while camping. These should be high stakes encounters that put the players in danger. Generally, danger isn't lurking around every corner and the characters should only have 1 ambush encounter per [[#Travel Segment|Travel Segment]].
 
 ## Influencing the Story
 
-Aspirant should be a shared experience. So, when you play, the [GM](How-To-Play#GM) may ask you for suggestions or to volunteer ideas such as: “what is this town known for?”, “someone give me a cool female name.”. When these are accepted by the [GM](How-To-Play#GM), you receive 1 influence which you can spend to influence the game world in any way the GM allows. When you want to influence the world:
+Aspirant should be a shared experience. So, when you play, the [[How-To-Play#GM]] may ask you for suggestions or to volunteer ideas such as: “what is this town known for?”, “someone give me a cool female name.”. When these are accepted by the [[How-To-Play#GM]], you receive 1 influence which you can spend to influence the game world in any way the GM allows. When you want to influence the world:
 
-- You will ask the [GM](How-To-Play#GM), “Can this thing be the case?”
-- The [GM](How-To-Play#GM) will deliberate and assign an influence cost required “For it to be so you will need to spend X influence.”
-- Then you and any [players](How-To-Play#The%20Players) who would like to contribute can spend the required influence to make this happen.
+- You will ask the [[How-To-Play#GM]], “Can this thing be the case?”
+- The [[How-To-Play#GM]] will deliberate and assign an influence cost required “For it to be so you will need to spend X influence.”
+- Then you and any [[How-To-Play#The Players]] who would like to contribute can spend the required influence to make this happen.
 - If you don’t have the influence, feel free to try to negotiate for something similarly useful to your character or of interest.
 
 > So as an example, if you wanted to train a specific duellist training you could have this conversation:
@@ -88,8 +88,8 @@ Aspirant should be a shared experience. So, when you play, the [GM](How-To-Play#
 
 > GM: “Great, spend 2 influence each, now tell me more about this swordsman. What is their name? What are they doing here?”
 
-Remember, as a [GM](How-To-Play#GM), this system is designed to get your players involved in building the world. Costs aren’t provided here since different [GMs](How-To-Play#GM) will ask their players more or less for help building the world, but some opportunity to shape it should be provided.
+Remember, as a [[How-To-Play#GM]], this system is designed to get your players involved in building the world. Costs aren’t provided here since different [[How-To-Play#GM]] will ask their players more or less for help building the world, but some opportunity to shape it should be provided.
 
 ## Creating New Content
 
-If a player has an idea for something their character wants to do that should require training but isn’t covered in the book, then if reasonable, you should let them perform it! Usually, since it is without training, there will be a large associated negative, but at that point work on making a [Concept](Game/Character-Development#Concept) that is appropriate. They don’t need an expert or school to start the training, their character invented it!
+If a player has an idea for something their character wants to do that should require training but isn’t covered in the book, then if reasonable, you should let them perform it! Usually, since it is without training, there will be a large associated negative, but at that point work on making a [[Game/Character-Development#Concept]] that is appropriate. They don’t need an expert or school to start the training, their character invented it!

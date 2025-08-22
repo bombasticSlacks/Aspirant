@@ -1,7 +1,7 @@
-[Consumable](Game/Core/Consumable)
+[[Consumable]]
 {: .label .label-purple }
 
-[Artisan](Game/Designing-Consumable#Artisan)
+[[Designing-Consumable#Artisan]]
 {: .label .label-blue }
 
 #### Artisan Food

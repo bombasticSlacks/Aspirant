@@ -6,11 +6,11 @@ nav_order: 1
 grand_parent: Worlds
 ---
 ## Session 32
-[Post-Calamity](Post-Calamity)
+[[Post-Calamity]]
 
 ## Ideas
 * Zinatu camp
-	* about a dozen people + [Soulbound](Game/Worlds/Post-Calamity/Zinatu#Soulbound) workin at the camp
+	* about a dozen people + [[Zinatu#Soulbound]] workin at the camp
 	* Will be preparing to leave as the issues have completed from nearby
 	* Will be splitting up, some community is going north towards the Lunastrella a new device which is under partial Hedgemony watch but they hope to study.
 	* Some going to the south towards Chordys to resupply and gain materials. They have heard whisperings of an arcane infused beast to the south east and a cursed mansion to the south west. 
@@ -85,15 +85,15 @@ end
 * FOR NEXT TIME:
 * Investigating the lights in the sky
 	* Greg talks to the animals
-	* Akren talking to [Celina Of Snowcrest (she/her)](Game/Worlds/Post-Calamity/Chordys#Celina%20Of%20Snowcrest%20(she/her))
+	* Akren talking to [[Chordys#Celina Of Snowcrest (she/her]])
 * 1st of Spring
-	* Biggy the Bison [Greg-Colter](Game/Worlds/Post-Calamity/Greg-Colter) talking to.
+	* Biggy the Bison [[Greg-Colter]] talking to.
 	* Birds took him to the manor
 	* Conscripts confirmed the lightning strikes the manour
-	* [Simple-Joe](Game/Worlds/Post-Calamity/Simple-Joe) finds there is no connection between the church and the lights
-	* [Alexander-Aurelius](Game/Worlds/Post-Calamity/Alexander-Aurelius) and [Akren](Game/Worlds/Post-Calamity/Akren) are getting details of when from [Celina Of Snowcrest (she/her)](Game/Worlds/Post-Calamity/Chordys#Celina%20Of%20Snowcrest%20(she/her)) 
-	* [Akren](Game/Worlds/Post-Calamity/Akren) discovered it happens every 14-16 days, its been 12 days since its happened, next time is between the 3rd and the 5th.
-	* [Arturas-Gabrys](Game/Worlds/Post-Calamity/Arturas-Gabrys) found a note suggesting to meet in Crosshaven if anyone survived. Also some firebombs. The intentional picking clean of this blind means that there are at least 1+ monster hunters still alive. 
+	* [[Simple-Joe]] finds there is no connection between the church and the lights
+	* [[Alexander-Aurelius]] and [[Akren]] are getting details of when from [[Chordys#Celina Of Snowcrest (she/her]]) 
+	* [[Akren]] discovered it happens every 14-16 days, its been 12 days since its happened, next time is between the 3rd and the 5th.
+	* [[Arturas-Gabrys]] found a note suggesting to meet in Crosshaven if anyone survived. Also some firebombs. The intentional picking clean of this blind means that there are at least 1+ monster hunters still alive. 
 	* Vespin enchants Alexanders armour to be disguised and transforming to visually be other stuff.
 * Made it to the manor
 	* Ignis got them past the conscripts
@@ -105,7 +105,7 @@ end
 	* illuminated with light bulbs.
 	* found the key to the central door.
 	* Found, a book of Basic trainings of the celestials. Needs translation, and the advanced trainings are incomplete.
-	* [Arturas-Gabrys](Game/Worlds/Post-Calamity/Arturas-Gabrys) knows how to fix the wolfs armour.
+	* [[Arturas-Gabrys]] knows how to fix the wolfs armour.
 	* Know from computare that:
 		* The beyond were the original group of celestial beings, spawned the others, "severed" the world when they started warring.
 		* First to ask questions in a long time
@@ -140,8 +140,8 @@ end
 
 ### To Do
 
-* [Roxy (Roxanne) la Croix](Game/Worlds/Post-Calamity/Verdantholm#Roxy%20(Roxanne)%20la%20Croix) will think on who would make a good leader of the merchants.
-* Simple Greg, writes a letter to [Mo Joe (he/him)](Game/Worlds/Post-Calamity/Verdantholm#Mo%20Joe%20(he/him)) to ask about the observations about natural escalation.
+* [[Verdantholm#Roxy (Roxanne]]%20la%20Croix) will think on who would make a good leader of the merchants.
+* Simple Greg, writes a letter to [[Verdantholm#Mo Joe (he/him]]) to ask about the observations about natural escalation.
 * Update games kit, doesn't do anything any more.
 	* Games kit lets 1 person socialize for free as long as you do. 
 * Ignis combat stats + traps.

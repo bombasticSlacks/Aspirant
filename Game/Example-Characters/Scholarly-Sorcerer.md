@@ -26,14 +26,14 @@ nav_exclude: true
 | Movement    | Reach |
 
 ## Training
-[Dynamist](Game/Blocks/Dynamist)
-[Scholar](Game/Blocks/Scholar)
+[[Game/Blocks/Dynamist|Dynamist]]
+[[Game/Blocks/Scholar|Scholar]]
 
 ## Equipment
-[Basic-Storage](Game/Gear/Basic-Storage)
-* [Focus](Game/Gear/Focus) {Q}
+[[Basic-Storage]]
+* [[Focus]] {Q}
 * Magic Crystals x2 (artisan resonant material) {Q}
-* [Explorers-Kit](Game/Gear/Explorers-Kit)
-* [Basic-Armour](Game/Gear/Basic-Armour)
-* Walking staff ([Size-3-Basic](Game/Gear/Size-3-Basic))
+* [[Explorers-Kit]]
+* [[Basic-Armour]]
+* Walking staff ([[Size-3-Basic]])
 * 10 Silver

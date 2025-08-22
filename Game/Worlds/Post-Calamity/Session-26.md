@@ -6,7 +6,7 @@ nav_order: 1
 grand_parent: Worlds
 ---
 ## Session 26
-[Post-Calamity](Post-Calamity)
+[[Post-Calamity]]
 
 ## Ideas
 * Spirits of the dead in the burial cavern to the south that has been sealed for an eternity.
@@ -19,12 +19,12 @@ grand_parent: Worlds
 ## Calphion 10 Winter -
 * 10 artisan + 5 exotic materials to auto carriage the wagon.
 * Simple made it to the church. Talked to Kant.
-* District 3 garrison is where [Captain Talson (she/her)](Game/Worlds/Post-Calamity/Calphion#Captain%20Talson%20(she/her)) is sending out relief / aid.
+* District 3 garrison is where [[Calphion#Captain Talson (she/her]]) is sending out relief / aid.
 * Arturas was given the inquisitors wax seal mark on a piece of paper.
 * Arturas and Greg going to talk to church
-	* [Anda Ponz (she/her)](Game/Worlds/Post-Calamity/Calphion#Anda%20Ponz%20(she/her)), [Vladimíra Ponz (she/her)](Game/Worlds/Post-Calamity/Calphion#Vladimíra%20Ponz%20(she/her)) go to church on holidays, married, house bordering 6 and 7, or at the [Diatona](Game/Worlds/Post-Calamity/Calphion#Diatona)
+	* [[Calphion#Anda Ponz (she/her]]), [[Calphion#Vladimíra Ponz (she/her]]) go to church on holidays, married, house bordering 6 and 7, or at the [[Calphion#Diatona]]
 	* Went to get their armour repaired.
-	* Learned of District 4 leader [Marrin Tosta (he/him)](Game/Worlds/Post-Calamity/Calphion#Marrin%20Tosta%20(he/him)) approved of by the populace. 
+	* Learned of District 4 leader [[Calphion#Marrin Tosta (he/him]]) approved of by the populace. 
 	* Heading to the Diatona.
 	* A mob burning witches outside (all damned).
 	* The witches are marked with the runes and scars to ascend into Fire Avatars
@@ -35,7 +35,7 @@ grand_parent: Worlds
 	* Got their weapons stripped at the garrison.
 	* Met the Captain.
 	* Interested in helping, curious of the plan.
-	* [Joseph Hensley (he/him)](Game/Worlds/Post-Calamity/Calphion#Joseph%20Hensley%20(he/him)) will vote with Captain in favour.
+	* [[Calphion#Joseph Hensley (he/him]]) will vote with Captain in favour.
 	* Heading to the dock.
 	* The dockmaster is dealing with a ship. Its a ghostly ethereal ship oozing purple haze.
 	* Ship flies a flag of the settlement that predated calphion, it is returning to dock.
@@ -53,9 +53,9 @@ grand_parent: Worlds
 
 ### To Do
 
-* [Roxy (Roxanne) la Croix](Game/Worlds/Post-Calamity/Verdantholm#Roxy%20(Roxanne)%20la%20Croix) will think on who would make a good leader of the merchants.
+* [[Verdantholm#Roxy (Roxanne]]%20la%20Croix) will think on who would make a good leader of the merchants.
 * Arturas looked at the autocarraige specs that Xen had, discuss costs of carraige.
-* Simple Greg, writes a letter to [Mo Joe (he/him)](Game/Worlds/Post-Calamity/Verdantholm#Mo%20Joe%20(he/him)) to ask about the observations about natural escalation.
+* Simple Greg, writes a letter to [[Verdantholm#Mo Joe (he/him]]) to ask about the observations about natural escalation.
 
 
 ### Hooks

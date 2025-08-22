@@ -6,9 +6,9 @@ grand_parent: Equipment
 nav_order: 2
 ---
 # Hide
-One of the [Materials](Materials) used for crafting and trading.
+One of the [[Materials]] used for crafting and trading.
 
-Repurposed skin of creatures, leather makes an excellent material for [Storage](Storage), and [Armour](Core/Armour).
+Repurposed skin of creatures, leather makes an excellent material for [[Storage]], and [[Armour]].
 
 ## Basic Hide
 Simple animal leathers.

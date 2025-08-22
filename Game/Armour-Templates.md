@@ -9,5 +9,5 @@ parent: Armour
 # Armour Templates
 {: .no_toc }
 
-Specialized material treatments providing your [Designed-Armour](Designing-Armour) with modified stats and [Armour-Traits](Core/Armour-Traits).
+Specialized material treatments providing your [[Designing-Armour|Designed-Armour]] with modified stats and [[Armour-Traits]].
 

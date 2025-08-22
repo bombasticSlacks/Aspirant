@@ -21,34 +21,34 @@ Celebrate the leaves shifting in the fall.
 
 
 
-[Mercenary](../../Mercenary), [Brawler](../../Brawler), [Labourer](../../Labourer), [Wanderer](../../Wanderer).
+[[../../Mercenary|Mercenary]], [[../../Brawler|Brawler]], [[../../Labourer|Labourer]], [[../../Wanderer|Wanderer]].
 
 "go the way of the roots"
 
 ### Relics
-A stone resonating with life stolen by [Jock Tennens](#Jock%20Tennens)
+A stone resonating with life stolen by [[#Jock Tennens|Jock Tennens]]
 
 
 
 ### The War
-* there was an initial skirmish that broke out, claim the [Breckles-Pass](Breckles-Pass) started it.
+* there was an initial skirmish that broke out, claim the [[Breckles-Pass]] started it.
 * Happend deep in the dark of the wood.
 
 
 ### Jock Tennens
-Jock Tennens the chief, Thoughtful man, reads the trees [Mystic](../../Mystic).
+Jock Tennens the chief, Thoughtful man, reads the trees [[../../Mystic|Mystic]].
 
 Stoney, distant.
 
 Home is a 2 story boarded facility.
 
 ### Darla "Cross" Tennens
-Annoyed older veteran with a chip on her shoulder about the [Tennens-Settlement](Tennens-Settlement) [Breckles-Pass](Breckles-Pass) war. Wants it resolved without invoking whatever the other plan is.
+Annoyed older veteran with a chip on her shoulder about the [[Tennens-Settlement]] [[Breckles-Pass]] war. Wants it resolved without invoking whatever the other plan is.
 
 has a single locking door in her house which leads to her office.
 
 ### Fort Rigwald
-A place of commune nearby, the [Tennens-Settlement](Tennens-Settlement) use as a place of magic.
+A place of commune nearby, the [[Tennens-Settlement]] use as a place of magic.
 
 Worn down stone fortress, ground down by centuries of time by the trees.
 
@@ -76,11 +76,11 @@ Serving earthy, mossy ale.
 
 | Move                    | Initiative | Resistance | Integrity | Weakness                  | Resistance |
 | ----------------------- | ---------- | ---------- | --------- | ------------------------- | ---------- |
-| [Short](../../Core/Movement#Short) | 3          | 3          | 3         | [Heat](../../Core/Injury#Heat) |            | 
+| [[Movement#Short]] | 3          | 3          | 3         | [[Injury#Heat]] |            | 
 #### Actions
 * Attack (4, Rending, 2).
-* [Attack(2, Rending, 3)](../../Core/Character-Actions#Attack(X,%20TYPE,%20DAMAGE)).
-* Ranged Attack (3) [Severe Injury](../../Core/Injury#Severe%20Injury) [Piercing](../../Core/Injury#Piercing).
+* [[../../Core/Character-Actions#Attack(X, TYPE, DAMAGE]]).
+* Ranged Attack (3) [[Injury#Severe Injury]] [[Injury#Piercing]].
 
 #### Reactions
 * Avoid (1)
@@ -91,10 +91,10 @@ Serving earthy, mossy ale.
 
 | Move                    | Initiative | Resistance | Integrity | Weakness | Resistance |
 | ----------------------- | ---------- | ---------- | --------- | -------- | ---------- |
-| [Close](../../Core/Movement#Close) | 0          | Troop      |           |          |            |
+| [[Movement#Close]] | 0          | Troop      |           |          |            |
 #### Actions
-* Attack (3) [Minimal Injury](../../Core/Injury#Minimal%20Injury) [Rending](../../Core/Injury#Rending).
-* Ranged Attack (3) [Severe Injury](../../Core/Injury#Severe%20Injury) [Piercing](../../Core/Injury#Piercing).
+* Attack (3) [[Injury#Minimal Injury]] [[Injury#Rending]].
+* Ranged Attack (3) [[Injury#Severe Injury]] [[Injury#Piercing]].
 
 #### Reactions
 * Avoid (-2)

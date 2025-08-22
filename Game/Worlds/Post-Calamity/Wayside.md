@@ -7,13 +7,13 @@ grand_parent: Worlds
 ---
 # Wayside
 
-Training for [Application](../../Core/Intelligence#Application), and [Chronicler](../../Chronicler)
+Training for [[Intelligence#Application]], and [[../../Chronicler|Chronicler]]
 
 Small Size 2 city,
 
-* Halfway between [Crosshaven](Crosshaven) and [Snowcrest](Snowcrest)
+* Halfway between [[Crosshaven]] and [[Snowcrest]]
 * They have a small artisan group 
-* Near [Wayside Quarry](#Wayside%20Quarry)
+* Near [[#Wayside Quarry|Wayside Quarry]]
 * Bed and Breakfast, "The Patron", Run by two vets who have settled, mansion of a long dead noble series of unfortunate events style weird house.
 * Clavers, Chetin run the Patron.
 
