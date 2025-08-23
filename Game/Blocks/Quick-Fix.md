@@ -11,4 +11,4 @@
 *You can quickly resolve any injury.*
 * You can use a [[Healer-Kit]] [[Charges|Charge]] to remove any temporary [[Injury]] outcomes.
 * You can use a [[Healer-Kit]] [[Charges|Charge]] to remove any [[Effects#Status]] [[Effects]].
-* You can apply [[Game/Consumable#Ingested and Applied]] within [[Movement#Close]].
+* Any [[Consumable]] you apply has the [[Distant-Application]] [[Consumable-Traits]].

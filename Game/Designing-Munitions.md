@@ -18,15 +18,15 @@ To build a munition:
 Decide what type of [[Munitions]] you are making. A non exhaustive list is the following:
 
 
-| Name   | Min Quality         |
-| ------ | ------------------- |
-| Arrow  | [[#Basic|Basic]]     |
-| Bolt   | [[#Basic|Basic]]     |
-| Bullet | [[#Exotic|Exotic]]   |
-| Shot   | [[#Artisan|Artisan]] |
-| Ball   | [[#Artisan|Artisan]] |
-| Fuel   | [[#Artisan|Artisan]] |
-| Stone  | [[#Basic|Basic]]     |
+| Name   | Min Quality |        
+| ------ | ----------- | 
+| Arrow  | [[#Basic]]  |
+| Bolt   | [[#Basic]]   |
+| Bullet | [[#Exotic]]  |
+| Shot   | [[#Artisan]] |
+| Ball   | [[#Artisan]] |
+| Fuel   | [[#Artisan]] |
+| Stone  | [[#Basic]]   |
 
 ## Quality
 Munitions comes in various qualities based on the skill required to craft. Uniquely, based on [[#Shape|Shape]] there will be a minimum quality required for the shape.

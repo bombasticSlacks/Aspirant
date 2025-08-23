@@ -32,10 +32,3 @@ More complex objects like bolts and simple fuels.
 
 ## Exotic Munitions
 Advanced ammos like explosive charges and advanced chemicals.
-
-## SCRATCH
-Food 3 tiers (basic, artisan, exotic) - basic gain a stress, if you eat artisan no stress, if you eat exotic you get a stress back. Masterwork gives a trait from ingested and applied.
-
-Munitions are costed per type. So arrows are basic, bolts are artisan, lead balls are exotic. You can add modifiers by crafting a higher tier of the thing. So flaming arrows are artisan. piercing bolts are exotic. Modified bullets would need to be masterworked. Exotic munitions require special training like weapons. 
-
-Potions and such are based on their effect. Need to make a list…
