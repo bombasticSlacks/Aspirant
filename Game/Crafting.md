@@ -10,7 +10,7 @@ parent: How To Play
 {: .no_toc }
 
 Things in Aspirant are made. To make an item you need to have:
-* A reference, guide, or training making it.
+* A reference, guide, or training making it. [[Crafter|Crafters]] can make things without any other guide.
 * Materials.
 * A [[Craftsman-Kit]].
 

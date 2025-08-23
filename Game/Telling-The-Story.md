@@ -29,13 +29,16 @@ Dealing with non-linear time can be complicated and everyone should attempt to b
 
 This tends to happen when you are in a safe area. When in a friendly settlement with no impending danger your characters can choose to take 5 days and rest focusing on yourselves, your work, and resting up. While doing downtime each character:
 
-- Remove any [[Effects#Long Term Injury]].
-- Reset [[Power]] to your max.
-- Reset your [[Reaction]] to your max.
-- Reset uses of all Once Per Downtime abilities.
+* Gain the benefits of [[#Recovery]].
 - Performs 1 [[Activities#Downtime Activity]].
 * Pay for [[#Lodgings|Lodgings]].
 - While performing downtime, players should be encouraged to still take part in scenes in [[#Narrative Time|Narrative Time]], maybe they meet local artisans, haggle with a shopkeeper, or find the start of an adventure. Time shouldn't exclusively be occupied with a [[Activities#Downtime Activity]], but it will help explain what you are doing when not otherwise occupied.
+
+### Recovery
+- Reset [[Stress]] to 0.
+- Reset [[Power]] to your max.
+- Reset your [[Reaction]] to your max.
+- Reset uses of all Once Per Downtime abilities.
 
 ### Lodgings
 Each settlement will have a cost for 5 days of lodgings, usually it will be 2 silver which will cover your food and housing for the duration.
@@ -50,7 +53,7 @@ For simplicity, travel is:
 - Simply, the time to get from one location to another
 - Most travel should focus on hitting a milestone of some kind at least within 5 days. Travel should be directed to get somewhere. Unstructured travel isn't travel, it is adventuring.
 - A full day of travel is considered 14 hours of continual travel, this gives the characters ample time to rest.
-- At the end of the segment characters will need to pay for the food they used (rations tend to cost 2 silver per travel segment)
+- At the end of the segment characters will need to pay for the [[Food]] they ate. Generally you need to eat 1 [[Food]] per day travelled.
 - Characters at the start of each travel segment declare a [[Activities#Travelling Activity]] they will focus on during the travel.
 - Some travel segments will have specific modifiers. Maybe its dangerously hot, cold, you can get sick. Otherwise some travel segments will restrict types of [[Asset]], no [[Asset#Vehicles]], no horses, etc.
 

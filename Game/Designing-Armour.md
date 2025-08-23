@@ -12,8 +12,8 @@ To build a piece of armour:
 - Choose the [[#Quality|Quality]]
 - Choose [[#Materials|Materials]]
 - Calculate the [[#Base Armour Value|Base Armour Value]]
+- Select any [[#Tradeoffs]]
 - Select any [[#Features|Features]]
-- Spend your [[#Bonuses|Bonuses]]
 
 ## Quality
 Armour comes in various qualities based on the skill required to craft.

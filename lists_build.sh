@@ -2,6 +2,7 @@
 # Core Game Lists
 python3 ./Game/Core/Scripts/lists.py Game/Core/Weapon-Traits.md Weapon-Traits Game/Core/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Core/Armour-Traits.md Armour-Traits Game/Core/Blocks
+python3 ./Game/Core/Scripts/lists.py Game/Core/Consumable-Traits.md Consumable-Traits Game/Core/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Core/Gear.md Gear#Traits Game/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Core/Gear.md Gear#Traits Game/Core/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Core/Character-Actions.md Character-Actions Game/Core/Blocks
