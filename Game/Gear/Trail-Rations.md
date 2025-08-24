@@ -9,4 +9,4 @@
 #### Trail Rations
 *Food made to be calorie dense and to last.*
 * Cost 3 for 1.
-* [[Food]], [[Concentrated]].
+* [[Food]], [[Small]].

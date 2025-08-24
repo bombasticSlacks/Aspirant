@@ -9,7 +9,7 @@ _A collection of items required to make the road or a traumatic event easier. A 
 
 - Cost 13 Silver.
 - [[Toolkits]]
-- [[3|[Charges]].
+- [[Charges]](3).
 - [[Charges]] cost 1 silver to replace.
 - Anyone you share your comfort kit with, you receive a +1 to social skill tests with.
 - Can remove [[Effects]] caused by stress.

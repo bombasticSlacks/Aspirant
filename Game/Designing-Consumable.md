@@ -47,4 +47,5 @@ Uniquely consumables features become more pronounced and powerful as the quality
 
 * A [[Consumable-Traits]] this consumable qualifies for.
 * This consumable is food. It produces 5 times as much but has the [[Food]] [[Consumable-Traits]]. 
+* This [[Consumable]] has the [[Small]] trait.
 * This [[Consumable]] can be used twice before being consumed.

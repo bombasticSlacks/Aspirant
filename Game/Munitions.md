@@ -10,9 +10,6 @@ Weapons with a [[Weapon-Traits#Capacity(X, Type]]) will require munitions of som
 
 Specialty ammunition exists however and could potentially influence [[Weapons#Damage Type]], add effects, or even increase or reduce [[Terminology#Damage]].
 
-## Munition Size
-Munitions may have a size of "M" which means that 5 can be stored per 1 [[Handling-Equipment#Size]].
-
 ## Munition Shape
 Munitions are not interchangeable, a crossbow doesn't shoot arrows, a bow doesn't fire bolts. Munitions come in many shapes but some commonplace ones are:
 ### Arrow
