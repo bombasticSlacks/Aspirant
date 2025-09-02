@@ -53,7 +53,6 @@ ADVANCED Cold Night - Successful attacks you perform cause the brittle effect.
 ### Hooks
 
 ### Monsters
-* The Hydra - A ball of snakes, amphibious / subtranean, regenerating heads if not burnt or somehow stopped, breath weapon.
 * 
 
 

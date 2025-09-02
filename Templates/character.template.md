@@ -14,4 +14,3 @@ Elite,Boss,fodder
 * 
 #### Rewards
 * 
----
