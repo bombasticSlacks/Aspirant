@@ -18,15 +18,15 @@ To build a munition:
 Decide what type of [[Munitions]] you are making. A non exhaustive list is the following:
 
 
-| Name   | Min Quality         |
-| ------ | ------------------- |
-| Arrow  | [[#Basic|Basic]]     |
-| Bolt   | [[#Basic|Basic]]     |
-| Bullet | [[#Exotic|Exotic]]   |
-| Shot   | [[#Artisan|Artisan]] |
-| Ball   | [[#Artisan|Artisan]] |
-| Fuel   | [[#Artisan|Artisan]] |
-| Stone  | [[#Basic|Basic]]     |
+| Name   | Min Quality |        
+| ------ | ----------- | 
+| Arrow  | [[#Basic]]  |
+| Bolt   | [[#Basic]]   |
+| Bullet | [[#Exotic]]  |
+| Shot   | [[#Artisan]] |
+| Ball   | [[#Artisan]] |
+| Fuel   | [[#Artisan]] |
+| Stone  | [[#Basic]]   |
 
 ## Quality
 Munitions comes in various qualities based on the skill required to craft. Uniquely, based on [[#Shape|Shape]] there will be a minimum quality required for the shape.
@@ -34,7 +34,7 @@ Munitions comes in various qualities based on the skill required to craft. Uniqu
 ### Basic
 *Basic ammo are simple manufactured objects readily creatable.* 
 * Use 1 materials of at least [[Materials#Basic]] quality.
-* Never has bonuses.
+* Has the [[Small]] trait.
 
 
 ### Artisan
@@ -42,6 +42,7 @@ Munitions comes in various qualities based on the skill required to craft. Uniqu
 *Artisan ammo is more advanced, requiring some precision to manufacture and providing some benefits.*
 * Use 1 materials, of at least [[Materials#Artisan]] quality.
 * Provide 1 [[Weapon-Traits]] if [[#Shape|Shape]] minimum quality is [[#Basic|Basic]].
+* Has the [[Small]] trait.
 
 ### Exotic
 *Exotic ammo are unique and strange, with real knowhow required to make them.*
@@ -49,6 +50,7 @@ Munitions comes in various qualities based on the skill required to craft. Uniqu
 * Provides the used weapon the [[Exotic]] [[Weapon-Traits]].
 * Provide 1 [[Weapon-Traits]] if [[#Shape|Shape]] minimum quality is [[#Artisan|Artisan]].
 * Provide 2 [[Weapon-Traits]] if [[#Shape|Shape]] minimum quality is [[#Basic|Basic]].
+* Has the [[Small]] trait.
 
 ### Master Work
 *Master worked ammo shows the real power of a master craftsman and fits even more features into the same package.* 

@@ -10,7 +10,7 @@ grand_parent: Worlds
 
 ## Ideas
 
-## Crosshaven 20th of Spring -
+## Outside Lunastrella 20th of Spring -
 * TODO next time,
 	* Arturas wants to look at the tower
 	* Simple writes a letter

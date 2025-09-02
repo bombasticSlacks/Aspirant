@@ -26,8 +26,8 @@ Getting a craftsman to make you a piece of [[Equipment]].
 
 | Service                                            | Cost                        |
 | -------------------------------------------------- | --------------------------- |
-| Commissioning Creating A [[Weapons|Weapon]]    | $(Size+1)*MaterialCost + 5$ |
-| Commissioning Creating [[Armour]]       | $5*MaterialCost + 5$        |
+| Commissioning Creating A [[Weapons\|Weapon]]       | $(Size+1)*MaterialCost + 5$ |
+| Commissioning Creating [[Armour]]                  | $5*MaterialCost + 5$        |
 | Commissioning Master Worked Service                | $base\ Commission + 10$     |
 | Commissioning Storage                              | $6*MaterialCost + 5$        |
 | Commissioning a standard days work for a tradesman | $5$                         |
@@ -60,7 +60,6 @@ Getting an expert to help you to become better.
 
 | Name             | Max Craft Quality | Cost Per Size (S) |
 | ---------------- | ----------------- | ----------------- |
-| Gold             | Exotic            | $40$              |
 | Basic Material   | Basic             | $3$               |
 | Artisan Material | Artisan           | $5$               |
 | Exotic Material  | Exotic            | $10$              |

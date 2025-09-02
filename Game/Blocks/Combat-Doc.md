@@ -11,4 +11,4 @@
 *You know how to get into the thick of it.*
 * You never die outright from [[Injury]].
 * You automatically succeed on any [[Intelligence#Application]] where you are targeting yourself.
-* After an [[Terminology#Action]] you can become [[Exerted]] to use a [[Toolkits]] or [[Game/Consumable#Ingested and Applied]] as a [[Terminology#Free Action]].
+* After an [[Terminology#Action]] you can become [[Exerted]] to use a [[Toolkits]] or [[Consumable]] as a [[Terminology#Free Action]].

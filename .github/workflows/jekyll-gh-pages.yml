@@ -39,6 +39,8 @@ jobs:
         run: cp -rv /home/runner/work/Aspirant/Aspirant/Jekyl/* ./Game
       - name: remove core files with conflicts
         run: rm ./Game/Core/Home.md ./Game/Core/README.md ./Game/Core/CONTRIBUTING.md ./Game/Core/CODE_OF_CONDUCT.md
+      - name: swap links to MD style
+        run: python3 ./Game/Core/Scripts/wikitomd.py $(find ./Game -type f -name "*.md")
       - name: Create indexes
         run: bash lists_build.sh
       - name: insert core rules blocks
@@ -49,6 +51,8 @@ jobs:
         run: python3 ./Game/Core/Scripts/replace.py Game/Gear
       - name: insert weird blocks
         run: python3 ./Game/Core/Scripts/replace.py Game/Worlds/Oddities
+      - name: swap links to MD style
+        run: python3 ./Game/Core/Scripts/wikitomd.py $(find ./Game -type f -name "*.md")
       - name: manipulate anchors
         run: python3 ./Game/Core/Scripts/convert.py $(find ./Game -type f -name "*.md")
       - name: manipulate anchors strip %20
