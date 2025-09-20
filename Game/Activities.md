@@ -33,16 +33,23 @@ When you do an involved task, you dedicate yourself to resolving something your 
 
 ---
 
-### Supervised Learning
+### Join A Guild
 
-_You use a trainer or reference to gain new skills or training._
+_You gain the fundamentals of a [[Character-Development#Concept]] or [[Character-Development#Discipline]] by joining the respective school._
 
-- You may start [[Character-Development#Learning]] something you have [[Character-Development#Unknown]].
-- You can spend as much XP as you want, up to the total required to have it [[Character-Development#Known]]. If you don't spend the required amount of XP it is considered [[Character-Development#In Progress]].
+- You can add a [[Character-Development#Basic]] training as [[Character-Development#In Progress]]. 
+- You may then spend any amount of XP on finishing learning it.
 - For pricing, see [[Services#Teaching]].
 
 ---
 
+### Train
+*You work on your basic skills with a trainer.*
+As long as a location would have someone willing and capable of helping you get better you may:
+* Spend XP to increase one of your [[Skills]].
+* See [[Services]] for money and XP costs.
+
+---
 ### Work
 
 _You use your abilities to work a job._
@@ -97,14 +104,13 @@ _You tinker and work away in the evenings, maybe even while riding._
 
 ---
 
-### On Watch
+### Setup Camp
 
-_You organize watch for the team, taking extra shifts when necessary._
+_You find a camping spot, lead setup and organize watch for the team, taking extra shifts when necessary._
 
-- When the GM rolls to determine if an [[Telling-The-Story#Ambush Encounter]] occurs, you may have your [[Agility#Coordination]] provide a penalty to the roll.
-- You receive a +3 on any [[Instinct#Awareness]] tests during [[Telling-The-Story#Ambush Encounter]].
-- You are not surprised if ambushed.
-- You regain 1 [[Power]]
+- You may perform [[Intelligence#Application]](-[[Telling-The-Story#Segment Danger]]) to make a dangerous [[Telling-The-Story#Night Encounter]] into a positive or neutral one.
+- You are ready and unsurprised during a [[Telling-The-Story#Night Encounter]].
+- You reduce [[Stress]] by 1.
 
 ---
 
@@ -112,17 +118,18 @@ _You organize watch for the team, taking extra shifts when necessary._
 
 _You hunt, forage, and provide for the group._
 
-- No one needs to spend money on food during this [[Telling-The-Story#Travel Segment]].
+- You may perform an [[Agility#Coordination]](-[[Telling-The-Story#Segment Danger]]) to provide for everyone. Everyone traveling considers their [[Strain-And-Toil#Needs]] met.
+- You regain 1 [[Power]].
 
 ---
 
-### Scout
+### Navigate
 
-_You travel ahead, and plan the journey._
+_You plan the journey and lead the group._
 
-- When your GM rolls to see if you have a [[Telling-The-Story#Travel Encounter]] you may have your [[Agility#Coordination]] provide a penalty to the roll.
-- The [[How-To-Play#GM]] will describe any [[Telling-The-Story#Travel Encounter]] that occurs to you, before the [[Terminology#Scene]] begins.
-- You also gain 1 [[Telling-The-Story#Influencing the Story]]
+- You may perform [[Instinct#Awareness]](-[[Telling-The-Story#Segment Danger]]) to make a dangerous [[Telling-The-Story#Route Encounter]] into a positive or neutral one.
+- You are ready and unsurprised during a [[Telling-The-Story#Route Encounter]].
+- You gain 1 [[Influence]].
 
 ---
 
@@ -131,15 +138,14 @@ _You travel ahead, and plan the journey._
 _You share stories, play games, or train with your friends._
 
 - Any time you [[Skills#Aid and Hindrance]] a character who also Socialized when selecting [[Activities]], you count as having their bonus for the purposes of increasing their bonus. 
-- You may spend up to 2XP [[Character-Development#Learning]], a skill or training another [[Terminology#Character]] also socializing has [[Character-Development#Known]].
 
 ---
 
-### Night Learning
+### Reinforcement Learning
 
 _You work on reinforcing your learning._
 
-- You may spend up to 2XP on [[Character-Development#Learning]] something [[Character-Development#In Progress]], or something [[Character-Development#Unknown]] if you have a [[Game/Example-Gear#Training Manual]].
+- You may spend XP towards learning a training you have [[Character-Development#In Progress]] or that is [[Character-Development#Unknown]] that you qualify to learn.
 
 ---
 

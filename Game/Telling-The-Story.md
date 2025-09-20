@@ -30,6 +30,7 @@ Dealing with non-linear time can be complicated and everyone should attempt to b
 This tends to happen when you are in a safe area. When in a friendly settlement with no impending danger your characters can choose to take 5 days and rest focusing on yourselves, your work, and resting up. While doing downtime each character:
 
 * Gain the benefits of [[#Recovery]].
+* Consider your [[Strain-And-Toil#Needs]] met.
 - Performs 1 [[Activities#Downtime Activity]].
 * Pay for [[#Lodgings|Lodgings]].
 - While performing downtime, players should be encouraged to still take part in scenes in [[#Narrative Time|Narrative Time]], maybe they meet local artisans, haggle with a shopkeeper, or find the start of an adventure. Time shouldn't exclusively be occupied with a [[Activities#Downtime Activity]], but it will help explain what you are doing when not otherwise occupied.
@@ -40,11 +41,12 @@ This tends to happen when you are in a safe area. When in a friendly settlement 
 - Reset your [[Reaction]] to your max.
 - Reset uses of all Once Per Downtime abilities.
 
+
 ### Lodgings
 Each settlement will have a cost for 5 days of lodgings, usually it will be 2 silver which will cover your food and housing for the duration.
 ## Travelling
 
-Travelling in Aspirant can take long amounts of time. Travelling involves knowing the direction or location of something and then travelling towards it. Travel will usually take a number of days. To travel you require at minimum [[Game/Example-Gear#Camping Gear]].
+Travelling in Aspirant can take long amounts of time. Travelling involves knowing the direction or location of something and then travelling towards it. Travel will usually take a number of days. To travel you require at minimum [[Camping-Gear]].
 
 ### Travel Segment
 
@@ -53,22 +55,42 @@ For simplicity, travel is:
 - Simply, the time to get from one location to another
 - Most travel should focus on hitting a milestone of some kind at least within 5 days. Travel should be directed to get somewhere. Unstructured travel isn't travel, it is adventuring.
 - A full day of travel is considered 14 hours of continual travel, this gives the characters ample time to rest.
-- At the end of the segment characters will need to pay for the [[Food]] they ate. Generally you need to eat 1 [[Food]] per day travelled.
+- Characters need to manage their [[Strain-And-Toil#Needs]].
 - Characters at the start of each travel segment declare a [[Activities#Travelling Activity]] they will focus on during the travel.
-- Some travel segments will have specific modifiers. Maybe its dangerously hot, cold, you can get sick. Otherwise some travel segments will restrict types of [[Asset]], no [[Asset#Vehicles]], no horses, etc.
+- A travel segment will have a [[#Segment Danger]].
+- A travel segment will have a [[#Segment Time]].
+- A travel segment may have [[#Segment Modifiers]].
+- Characters will experience a [[#Night Encounter]].
+- Characters will experience a [[#Route Encounter]].
 
-### Travel Movement
+#### Night Encounter
+During their time camping something eventful will happen to the players. It can be as simple as a description of the night sky, fireflies out, or a companion telling a story from their childhood. 
+
+This encounter depending on [[#Segment Danger]] might be dangerous instead.
+
+#### Route Encounter
+During their time traveling something eventful will happen to the players. It can be as simple as a description of the local flowers, a passing caravan saying hello, or a shift in the weather. More involved events such as encountering other travellers, enemies or a point of interest could occur.
+
+This encounter depending on [[#Segment Danger]] might be dangerous instead.
+
+Players should only experience 1 route encounter per travel segment. If your players were attacked by wolves a number of times travelling through a forest, instead, that should be handled as one extended narrative / combat [[Terminology#Scene]] where they realize they’ve entered dangerous territory and need to navigate out of it.
+
+#### Segment Time
 In Aspirant movement between places should be measured in time, not distance. So a place might be a days travel, or 4 days travel, from where you are. 
-#### Travel Speed
+
+#### Segment Danger
+Each route will have a rating between 1-6 for danger. When traveling it the GM should secretly roll for 2 6 sided dice to see what sorts of events the characters will experience. For each dice that comes up with at least the danger rating the players experience a dangerous encounter. This can either be their [[#Night Encounter]] or [[#Route Encounter]], or, if both dice roll dangerous both encounters will be dangerous.
+
+> A route has a danger rating of 3. The GM secretly rolls a 2 and a 4, they decide the players will have a dangerous night encounter and a normal route encounter. 
+
+#### Segment Modifiers
+Some travel segments will have specific modifiers. 
+* Maybe its dangerously hot, cold, you can get sick. 
+* Some travel segments will restrict types of [[Asset]], no [[Asset#Vehicles]], no horses, etc.
+* Maybe no [[Activities#Travel Activity]] can be performed. 
+
+### Travel Speed
 Some [[Asset]] or abilities may increase the travel speed of characters. Humans have a travel speed of 1x, a traveling groups speed is equal to the lowest speed among them.
-
-### Travel Encounter
-
-During travel, characters may encounter other travellers, enemies or a point of interest. These will be handled by the GM and should lend to the danger and intrigue of the surrounding world. Generally, the world is sparse and most characters should only have 1 travel encounter per [[#Travel Segment|Travel Segment]], though in very dense or dangerous areas the GM can roll for more. If your players were attacked by wolves a number of times travelling through a forest instead, that should be handled as one extended narrative / combat [[Terminology#Scene]] where they realize they’ve entered dangerous territory and need to navigate out of it.
-
-### Ambush Encounter
-
-Similarly, during travel, the party may be ambushed while camping. These should be high stakes encounters that put the players in danger. Generally, danger isn't lurking around every corner and the characters should only have 1 ambush encounter per [[#Travel Segment|Travel Segment]].
 
 ## Influencing the Story
 

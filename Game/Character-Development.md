@@ -17,9 +17,9 @@ Aside from inherent progression, the experts of the world have much to teach you
 
 You can learn using:
 
-- [[Activities#Supervised Learning]].
-- [[Activities#Night Learning]].
-- [[Activities#Socialize]].
+- [[Activities#Join A Guild]].
+- [[Activities#Reinforcement Learning]].
+- [[Activities#Train]]
 
 When you learn something, it will either be [[#Unknown|Unknown]], [[#In Progress|In Progress]], [[#Known|Known]].
 
@@ -64,13 +64,19 @@ Basic, advanced, and master training represents powerful new abilities that your
 ### Training Tiers
 Training can be split into 
 #### Basic
-Basic training should fundamentally be known by any practitioners of the training school.
+Basic training should fundamentally be known by any practitioners of the training school. To gain a basic training you will almost always need to join the guild or organization that teaches that [[#Types Of Training|type of training]] and study under a knowledgeable practitioner. 
+
+Basic training requires 2xp.
 
 #### Advanced
 Advanced training should be known only be those with experience, but should still be relatively ubiquitous. Taking an Advanced training requires already having a [[#Basic|Basic]] training in the [[#Training School|Training School]].
 
+Advanced training requires 4xp.
+
 #### Master
-Master level trainers should be rare and not readily available. A master should be a person of notoriety, and gaining training from them should require more than just an exchange of [[Equipment#Currency]]. Taking a master training should require already having a [[#Advanced|Advanced]] training in the [[#Training School|Training School]].
+Taking a master training should require already having a [[#Advanced|Advanced]] training in the [[#Training School|Training School]].
+
+Master training requires 6xp. 
 
 ### Types Of Training
 There are a number of standard character archetypes and group archetypes you will run into in Aspirant. These will make up the bulk of training you can learn and have available. Some characters and groups will notably fit into more than one of these archetypes, in that case they could teach trainings from any school they fit into.
@@ -144,9 +150,3 @@ This is a perhaps non-exhaustive list of
 *A thief by trade.*
 #### Rogue
 *A trickster using any advantage they can to defeat their foes.*
-
-- [[Brawler]]
-- [[Labourer]]
-- [[Shaper]]
-- [[Star]]
-- [[Wanderer]]
