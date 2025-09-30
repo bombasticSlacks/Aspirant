@@ -1,34 +1,17 @@
 ---
 layout: default
-title: Session 40
+title: Session 41
 parent: Post Calamity
 nav_order: 1
 grand_parent: Worlds
 ---
-## Session 40
+## Session 41
 [[Post-Calamity]]
 
 ## Ideas
-
+* For the void, put them on a 7x7 grid, and have them roll to get details about squares. They can move around to find each other. All in Alexanders head, test to see if he can hold onto the people around him.
+* 
 ## Outside Lunastrella 20th of Spring -
-* For next time: heading to the alpha beavers. 
-* Traveling 21st - 23rd
-	* Simple Field Maint, Scavenge
-	* Alexander Resting, Socialize
-	* Arturas Microwaved some artisan metal, converting it into exotic. Socialize
-	* Vespin Scout, Socialize
-	* Greg Socialize, 
-	* Ignis on watch
-* Ran away from some beavers
-* Froze the river, crossed, went to the portal and enabled it.
-	* Maria got the Zinatu in the north (Jay Crab Sign) to re-enable the portal by Lustrum. 
-* Arrived in Argent Hold
-	* Seeing SImples family member: Ho Joe Simples Dad. Lives in brutalist apartment well maintained with greenery.
-	* Parked the car in stables nearby.
-	* Veteran Steeltrap lets you into the building. 
-	* Dad lives in apt 3C.
-	* Mentioned less mages need to be appropriated from elsewhere.
-	* Simple took Alexander into custody staying at the Iron Lady.
 * Iron Lady
 	* Iron Lady has a black market hookup they can discover. 
 	* Arturas is drinking for free.
@@ -36,7 +19,6 @@ grand_parent: Worlds
 	* Getting rooms, 2 silver per person per downtime
 	* Simple wants to go to a library get some legal help
 	* Alexander resting off chill
-	* 
 ### Rewards
 
 

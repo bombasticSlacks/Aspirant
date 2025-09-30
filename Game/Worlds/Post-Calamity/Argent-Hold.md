@@ -6,7 +6,7 @@ nav_order: 2
 grand_parent: Worlds
 ---
 # Argent Hold
-
+*Militaristic reforged and repurposed ruins, large towers and 3 pillars dominate the sky* 
 ## Lore
 The remnants of the ancient empire. Use mages as slaves to power their machines of war and empower their push into the [[Calamity]].
 
@@ -20,7 +20,21 @@ Long Rifles
 Argent Hold mages, go insane near the nothing, need to be controlled heavily.
 
 *Onyx* - Vitomancy and Enchanting
+Ruby - 
+Diamond -
+Emerald - 
 
+Disdain to use old world tech, and those who use it.
+
+3 Commanders lead the Argent Hold
+
+Trial is by commanders or by dual. 
+
+Military Ranks
+- Enlisted
+- Field Officer
+- Home Officer
+- Commander
 ### Rumors
 
 ### Problems
@@ -46,10 +60,29 @@ GI Joe, Simples nephew. A low ranking officer in charge of the zinatu camp.
 
 Mother is Pricidis Joe.
 
+### Howard Johnson
+*Hearty laugh, level headed*
+A field officer and Simples Dad. Ambushed by bandits, retired after taking an arrow to the knee. Older, well built, hard life, looks anxious even in old age, training never left him. 
+
+### Commander Vasco
+* Disdain for magic. 
+### Commander Jeremia Ashmane
+* Curious about the changes in world.
+### Commander Alexis
+* Handles field officers. 
+
 ## Locations
-### The 3 Seals.
+### The 3 Seals
 Large towers where mages are strapped and drained of their power to "force back" the calamity and keep it from spreading.
 
+### The Iron Lady
+An inn for traveling mercenaries and high roller officers. Has a trader who deals in all sorts of curious and black market objects. 
+
+4 people working,
+2 servers
+1 bartender - 
+#### Jeskai 
+the games tables master, has more lore about the inn. Likes wine
 ## Relics
 
 

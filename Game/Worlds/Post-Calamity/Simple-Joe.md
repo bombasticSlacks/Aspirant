@@ -6,6 +6,8 @@ nav_order: 3
 grand_parent: Worlds
 ---
 # Simple Joe
+Is a home officer in the Argent Hold.
+
 Leader of [[Alexander-Aurelius]] families house guard. An expert who doesn't believe in the dream.
 
 [[Dorna#Tally (Talia Defferen]]) is his sister a member of the [[Argent-Hold]]

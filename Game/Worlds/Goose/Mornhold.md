@@ -79,6 +79,13 @@ He works on plants at the [[#Mage Warriors|Mage Warriors]]. Has picked the ancie
 
 The military man who they helped to defeat the Cardinal. 
 
+5 damage longsword any damage type (+5)
+8 revolver in close Pierce (+5)
+
+8 integrity
+
+trait - drills, after failing something, next action auto success.
+Command - make everyone move, or clear exhaustion, reload. 
 ## Dres Snider (She/Her)
 a helpful Prole, who wants to fix problems no matter the cost, and is obsessed with someone famous. They have bald black hair, brown eyes, have dark skin. Has a slight homey accent.
 
@@ -88,6 +95,9 @@ Knows of Darcellus.
 
 Famed monster hunter.
 
+7 pierce +7 to hit. 
+
+8 integrity
 ## Cpt. Firebrand
 Firey red hair short, braided red beard. 
 
