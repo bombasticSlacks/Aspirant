@@ -10,6 +10,9 @@ grand_parent: Worlds
 
 Multiple families of powerful undead.
 
+- The vampire lords cannot create new vampires, the new vampires are thralls.
+- 
+
 ## Lunar
 
 **Generally weak to fire**

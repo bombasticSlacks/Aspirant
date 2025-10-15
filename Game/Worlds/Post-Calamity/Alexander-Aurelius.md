@@ -97,7 +97,7 @@ Located at [[Calphion]], an influential (second in command) at the church there.
 * 
 
 ### Unresting Faith
-Counts as on watch, can't be ambushed at night.
+Counts as [[Activities#Setup Camp]] when travelling, can't be ambushed at night.
 
 ## Demon Bard Wanderer (TBD)
 * Debaucherous, demon that isn't violently evil, more enjoys humans as playthings.

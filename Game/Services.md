@@ -46,14 +46,13 @@ Requesting an expert to do something for you.
 ### Teaching
 Getting an expert to help you to become better.
 
-| Service                                                    | Monetary Cost | XP Cost |     |
-| ---------------------------------------------------------- | ------------- | ------- | --- |
-| Joining A Guild For a [[Character-Development#Concept]]    | $5$           | $0$     |     |
-| Joining A Guild For a [[Character-Development#Discipline]] | $10$          | $0$     |     |
-| Teaching a master training                                 | $20$          | $6$     |     |
-| Teaching a level 1 skill                                   | $5$           | $2$     |     |
-| Teaching a level 2 skill                                   | $10$          | $2$     |     |
-| Teaching a level 3 skill                                   | $20$          | $4$     |     |
+| Service                                                    | Monetary Cost | XP Cost |
+| ---------------------------------------------------------- | ------------- | ------- |
+| Joining A Guild For a [[Character-Development#Concept]]    | $5$           | $0$     |
+| Joining A Guild For a [[Character-Development#Discipline]] | $10$          | $0$     |
+| Teaching a level 1 skill                                   | $5$           | $2$     |
+| Teaching a level 2 skill                                   | $10$          | $2$     |
+| Teaching a level 3 skill                                   | $20$          | $4$     |
 
 
 ## Costs Of Materials

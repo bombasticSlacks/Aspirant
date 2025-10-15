@@ -52,7 +52,7 @@ Tight bun, younger, Black officer uniform
 
 [[Simple-Joe]] younger sister
 
-"Average" nickname
+"Average" original name changed it.
 
 ### Guiseppe Inverness Joe 
 *A young man, greying at the temples (maybe a bit early) wearing a clean and standard argent hold officers uniform, w. breast plate over it.*
@@ -64,12 +64,29 @@ Mother is Pricidis Joe.
 *Hearty laugh, level headed*
 A field officer and Simples Dad. Ambushed by bandits, retired after taking an arrow to the knee. Older, well built, hard life, looks anxious even in old age, training never left him. 
 
-### Commander Vasco
+### Ritus Von Reginald Keeper Of the Books
+*waxed stache, robes in argent colors, bald, old man voice.*
+Manages scheduling for the 3 Commanders. Office 3rd floor of the intelligence building.
+### Commander Vasco (he/him)
 * Disdain for magic. 
-### Commander Jeremia Ashmane
+#### The Ladies Of Iron
+One Of his elite shock troops, they worship the [[#The Iron Lady]] though through ritual and passively. 
+
+Casidy is a talkative one.
+
+Kallia is the "home officer".
+
+
+### Commander Jeremia Ashmane (he/him)
+*Youngest commander, mid 30s, Strong gentleman, carries a six shooter revolver strapped to his breastplate.*
 * Curious about the changes in world.
-### Commander Alexis
+### Commander Alexis (she/her)
+*mid 50's healthy but wrinkled, level voice*
 * Handles field officers. 
+* 
+#### Tolence Scar
+*old greying man in properly kept plate, always carries a book and glasses around his neck*
+Adjudicator of the law. Kind of a badass. Thinks what Vasco is doing is wrong. 
 
 ## Locations
 ### The 3 Seals
@@ -77,6 +94,8 @@ Large towers where mages are strapped and drained of their power to "force back"
 
 ### The Iron Lady
 An inn for traveling mercenaries and high roller officers. Has a trader who deals in all sorts of curious and black market objects. 
+
+Was at one point a church of the "iron lady" a saint of the Earth Celestials. She had a great shield which could block anything. There is a monument of a great battle, 
 
 4 people working,
 2 servers
