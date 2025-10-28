@@ -4,8 +4,8 @@
 [[Character-Development#Concept]]
 {: .label .label-green }
 
-Basic
+Advanced
 {: .label .label-purple }
-### Body Of Stone
+### Rooted
 
-* Whenever someone performs a [[Terminology#Successful Attack]] against you, they suffer 1 [[Terminology#Damage]].
+* While on the ground you cannot be moved against your will.
