@@ -16,7 +16,7 @@ python3 ./Game/Core/Scripts/lists.py Game/Core/Effects.md Effects Game/Core/Bloc
 # Aspirant Lists
 python3 ./Game/Core/Scripts/lists.py Game/Core/Attributes.md Secondary%20Attributes Game/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Trainings-List.md Discipline,Concept Game/Blocks
-python3 ./Game/Core/Scripts/lists.py Game/Trainings-List.md Specialized Game/Worlds/Oddities
+python3 ./Game/Core/Scripts/lists.py Game/Trainings-List.md Specialized,Discipline,Concept Game/Worlds/Oddities
 #python3 ./Game/Core/Scripts/lists.py Game/Trainings-List.md General,Specialized Game/Blocks
 #python3 ./Game/Core/Scripts/lists.py Game/Trainings-List.md General,Specialized Game/Worlds/Oddities
 python3 ./Game/Core/Scripts/lists.py Game/Equipment-List.md Weapon,Armour,Gear,Storage,Vehicles,Asset,Munitions,Consumable,Equipment, Game/Gear
