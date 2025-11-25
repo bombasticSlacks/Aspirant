@@ -14,4 +14,4 @@ Size <span query="get(Size)"></span><span class="lv-live-text">2</span><span typ
 | [[Attacks#Extra Damage]] Modifier | (-1)                                                                                                                                         |
 | [[Weapons#Damage Type]]                 | [[Injury#Rending]], [[Injury#Piercing]]                                                                     |
 | [[Weapons#Range]]                               | [[Movement#Reach]]                                                                                                                 |
-| [[Weapon-Traits|Weapon Traits]]                       | [[One-Handed|One Handed]], [[Striking]], [[Game/Blocks/Multiple-Damage-Types|Multiple-Damage-Types]] |
+| [[Weapon-Traits]]                       | [[One-Handed]], [[Striking]], [[Multiple-Damage-Types]] |

@@ -35,6 +35,8 @@ Military Ranks
 - Field Officer
 - Home Officer
 - Commander
+
+Books are held by officers instead of by libraries
 ### Rumors
 
 ### Problems
@@ -90,7 +92,14 @@ Adjudicator of the law. Kind of a badass. Thinks what Vasco is doing is wrong.
 
 ## Locations
 ### The 3 Seals
-Large towers where mages are strapped and drained of their power to "force back" the calamity and keep it from spreading.
+Large towers where mages are strapped and drained of their power to "force back" the calamity and keep it from spreading. Middle tower is larger.
+
+Managed by Ruby Jayhon, Onyx Callagan, Diamond X 
+
+#### Diamond X
+*Head of the grand seal, years of exposure causes him to peer through time.*
+
+#### 
 
 ### The Iron Lady
 An inn for traveling mercenaries and high roller officers. Has a trader who deals in all sorts of curious and black market objects. 

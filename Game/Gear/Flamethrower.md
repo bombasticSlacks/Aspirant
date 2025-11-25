@@ -12,7 +12,7 @@ Size 4
 
 #### Flamethrower
 
-_Promethium fuelled weapon of mass destruction. Releases torrents of metal melting flame that seem to stick to anyone targeted._
+_Promethium fueled weapon of mass destruction. Releases torrents of metal melting flame that seem to stick to anyone targeted._
 
 | Default [[Weapons#Damage]]                     | 6                                                                                                                                                                                                                                                                                                                                                                                       |
 | :-------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
