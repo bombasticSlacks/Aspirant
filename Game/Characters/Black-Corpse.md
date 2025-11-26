@@ -1,7 +1,7 @@
 Boss
 {: .label .label-yellow }
 ### Black Corpse
-*An old thing, partially devoured and digested.*
+*An old thing, partially devoured and digested. Called the primordial war machine.* 
 
 | Move | Integrity | Action Bonus | Hit Modifier | Avoid Modifier | Weakness  | Resistance |
 | ---- | --------- | ------------ | ------------ | -------------- | --------- | ---------- |

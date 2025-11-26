@@ -16,6 +16,6 @@ Size <span query="get(Size)"></span><span class="lv-live-text">2</span><span typ
 | Default [[Weapons#Damage]]        | 3                                                            |
 | :-------------------------------- | :----------------------------------------------------------- |
 | [[Attacks#Extra Damage]] Modifier | (-2)                                                         |
-| [[Weapons#Damage Type]]           | [[Injury#Rending]], [[Injury#Piercing]]                      |
+| [[Weapons#Damage Type]]           | [[Injury#Piercing]]                                          |
 | [[Weapons#Range]]                 | [[Movement#Reach]]                                           |
 | [[Weapon-Traits]]                 | [[One-Handed]], [[Striking]], [[Precision]], [[Penetrating]] |
