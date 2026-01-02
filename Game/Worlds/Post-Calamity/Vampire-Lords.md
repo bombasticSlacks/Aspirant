@@ -13,7 +13,7 @@ Multiple families of powerful undead.
 - The vampire lords cannot create new vampires, the new vampires are thralls.
 - 
 
-## Lunar
+## Nocturnal
 
 **Generally weak to fire**
 

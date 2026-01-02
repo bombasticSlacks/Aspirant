@@ -82,6 +82,7 @@ Kallia is the "home officer".
 ### Commander Jeremia Ashmane (he/him)
 *Youngest commander, mid 30s, Strong gentleman, carries a six shooter revolver strapped to his breastplate.*
 * Curious about the changes in world.
+* Handles city affairs including mages.
 ### Commander Alexis (she/her)
 *mid 50's healthy but wrinkled, level voice*
 * Handles field officers. 
@@ -98,8 +99,7 @@ Managed by Ruby Jayhon, Onyx Callagan, Diamond X
 
 #### Diamond X
 *Head of the grand seal, years of exposure causes him to peer through time.*
-
-#### 
+ 
 
 ### The Iron Lady
 An inn for traveling mercenaries and high roller officers. Has a trader who deals in all sorts of curious and black market objects. 

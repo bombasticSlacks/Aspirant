@@ -8,16 +8,24 @@ grand_parent: Worlds
 # Hooks and Intrigue
 For [[Post-Calamity]] A list of things the players know of, and quests they wish to complete.
 
+## Maidens Rest
+* the maiden of iron at the Iron Lady is an ancient earthbound saint who had a tower shield said to be impervious. 
+## Grand Beast Of Vampires
+* Tower of Saint Lucian fighting mega beasts of the Umbral Courts in battle. Umbral courts have better weapons and armour than they have in the past.
+## Demon Be Gone
+* Less demon sightings in the North East, people have been vanishing that go into The Glade. 
+## The Great Beasts
+There are ancient evils that stir
+* The Great Beast Of The Arcane, imbued with great magical power it disrupts all who come near it.
+* The beast of the forest, a great creature with an entire ecosystem growing on itself
+* The Beast Of Storms, forever shrouded in sand, its visage is unknown.
+* The Beast Of The Mountain, a grand giant calling and conjuring lighting to its will and moving across the mountains with ease.
 ## Hunters Call
 Some hunters survived the battles against the church
 * Two went north to the wilds
 * One moved to Tussole
-## Chordys
-The town of chordys used to export fancy blast powder refined of resonant materials. It is near the monster hunters guild. Heard from some hunters in [[Causdin]]. There was a great hunt there a few decades ago.
 ## Giants Saddle
 A giant in the north will have a saddle stuck to his back that can be used to ride anything.
-## Revenge Served Cold
-[[Akren]] cousin murdered by the leader of the barrel blasters to the North East.
 
 ## Ruins in the Lake
 [[Arturas-Gabrys]] remembers hearing of ancient ruins rumors in Dorna.
