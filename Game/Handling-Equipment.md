@@ -51,7 +51,6 @@ Aside from gear, your characters may need to call on the services of other exper
 * [[Asset]]
 * [[Game/Consumable|Consumable]]
 * [[Gear]]
-* [[Mounts]]
 * [[Materials]]
 * [[Storage]]
 * [[Weapons]]
