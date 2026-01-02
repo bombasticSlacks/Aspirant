@@ -14,4 +14,4 @@ Size 3
 | [[Attacks#Extra Damage]] Modifier | (-2)                                                                                                                                                                                                                                                      |
 | [[Weapons#Damage Type]]                 | [[Injury#Piercing]]                                                                                                                                                                                                                     |
 | [[Weapons#Range]]                               | [[Movement#Short]]                                                                                                                                                                                                                         |
-| [[1|[Weapon-Traits|Weapon Traits]], [[Capacity]](1, [[Munitions#Bolt]], [[Salvageable-Ammo]], [[Targeted]] |
+| [[Weapon-Traits]] | [[Capacity]](1, [[Bolt]]), [[Loading]](1), [[Salvageable-Ammo]], [[Targeted]] |

@@ -15,6 +15,6 @@ Size 4
 | [[Attacks#Extra Damage]] Modifier | (-1)                                                                                                                                                                                                                       |
 | [[Weapons#Damage Type]]                 | [[Injury#Piercing]]                                                                                                                                                                                      |
 | [[Weapons#Range]]                               | [[Movement#Impossible]]*                                                                                                                                                                               |
-| [[2|[Weapon-Traits|Weapon Traits]], [[Capacity]](5, [[Game/Example-Gear#Ammunition]], [[Targeted]], [[Very-Threatening]] |
+| [[Weapon-Traits]] | [[Capacity]](5, [[Bullet]]), [[Loading]](1), [[Targeted]], [[Very-Threatening]] |
 
 This weapon is accurate enough to be used over [[Movement#Impossible]] distances when appropriate.

@@ -17,4 +17,4 @@ Size 2
 | [[Attacks#Extra Damage]] Modifier | (-2)                                                                                                                   |
 | [[Weapons#Damage Type]]                 | [[Injury#Impact]]                                                                                      |
 | [[Weapons#Range]]                               | [[Movement#Reach]]                                                                                           |
-| [[2|[Weapon-Traits|Weapon Traits]] |
+| [[Weapon-Traits]] | [[Shield]](2) | 

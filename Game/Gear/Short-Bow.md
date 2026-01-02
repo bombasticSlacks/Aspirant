@@ -14,4 +14,4 @@ Size 3
 | [[Attacks#Extra Damage]] Modifier | (-1)                                                                                                                                                                                                                                                        |
 | [[Weapons#Damage Type]]                 | [[Injury#Piercing]]                                                                                                                                                                                                                       |
 | [[Weapons#Range]]                               | [[Movement#Short]]                                                                                                                                                                                                                           |
-| [[0|[Weapon-Traits|Weapon Traits]], [[Capacity]](1, [[Munitions#Arrow]], [[Salvageable-Ammo]], [[Targeted]] |
+| [[Weapon-Traits]] |  [[Capacity]](1, [[Munitions#Arrow]]), [[Loading]](0) [[Salvageable-Ammo]], [[Targeted]] |
