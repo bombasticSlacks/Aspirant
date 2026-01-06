@@ -6,7 +6,7 @@ nav_order: 2
 has_children: true
 ---
 # Munitions
-Weapons with a [[Weapon-Traits#Capacity(X, Type]]) will require munitions of some kind that will be of a tier. The simplest forms of munitions just function as a cost to use these weapons. Every weapon will require a quality of munition, [[#Basic Munitions|Basic Munitions]], [[#Artisan Munitions|Artisan Munitions]], or [[#Exotic Munitions|Exotic Munitions]].
+Weapons with a [[Capacity]] will require munitions of some kind that will be of a tier. The simplest forms of munitions just function as a cost to use these weapons. Every weapon will require a quality of munition, [[#Basic Munitions|Basic Munitions]], [[#Artisan Munitions|Artisan Munitions]], or [[#Exotic Munitions|Exotic Munitions]].
 
 Specialty ammunition exists however and could potentially influence [[Weapons#Damage Type]], add effects, or even increase or reduce [[Terminology#Damage]].
 
@@ -28,4 +28,4 @@ Basic objects like arrows.
 More complex objects like bolts and simple fuels.
 
 ## Exotic Munitions
-Advanced ammos like explosive charges and advanced chemicals.
+Advanced ammo like explosive charges and advanced chemicals.

@@ -6,7 +6,7 @@ grand_parent: Equipment
 nav_order: 2
 ---
 # Designing [[Weapons]]
-Through play and when creating a character, you may be asked to select a weapon. You can use one of the [[Example-Weapons]] or design your own. Perhaps your character hales from a distant land which uses a unique weapon, or a blacksmith has an idea for a specialized weapon for your character's fighting style.
+Through play and when creating a character, you may be asked to select a weapon. You can use one from the [[Equipment-List]] or design your own. Perhaps your character hales from a distant land which uses a unique weapon, or a blacksmith has an idea for a specialized weapon for your character's fighting style.
 
 To build a weapon:
 - Choose the [[#Quality|Quality]].
@@ -100,7 +100,7 @@ This damage bonus can then be converted into a damage:
 | 19           | 10     | (-2)                 |
 
 
-> A [[#Size|Size]] 3 [[#Artisan|Artisan]] weapon, with the [[Game/Blocks/Lethal|Lethal]] [[Weapon-Templates]] would have a damage bonus of 8, 6 from [[Weapon-Traits#Size Matters]], 1 from [[#Artisan|Artisan]], 1 from [[Weapon-Traits#Lethal]]. This means it does 4 damage with an [[Attacks#Extra Damage]] penalty of (-2).
+> A [[#Size|Size]] 3 [[#Artisan|Artisan]] weapon, with the [[Game/Blocks/Lethal|Lethal]] [[Weapon-Templates]] would have a damage bonus of 8, 6 from [[Weapon-Traits#Size Matters]], 1 from [[#Artisan|Artisan]], 1 from [[Lethal]]. This means it does 5 damage with an [[Attacks#Extra Damage]] penalty of (-3).
 
 ## Crafting Costs
 A character looking to craft a specific weapon requires the size + 1 worth of materials.

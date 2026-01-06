@@ -11,22 +11,25 @@ grand_parent: How To Play
 
 To create an embarking Aspirant:
 * Create a character, a name, backstory, inspiration.
-* Assign your [[#Attributes|Attributes]].
 * Mark what [[#Skills|Skills]] you know.
 * Mark what [[#Equipment|Equipment]] you own.
 * Select [[#Interests|Interests]].
 
-### Attributes
-Assign your [[Attributes]] placing one of the two sets of values in each of the 5 attributes.
-
-- 4,3,2,2,2
-- 3,3,3,2,2
-
-> So, 4 [[Strength]], 3 [[Agility]], 2 [[Intelligence]], 2 [[Instinct]], 2 [[Communication]] is a valid stat line
-
-
 ### Skills
-Select 7 [[Skills]] which you have 1 rank in.
+From the [[Skills]] assign 26 ranks to them, with no skill going above 4.
+
+### Aptitude
+Your character has some inherent skill that makes them great.
+
+| Roll 1d6 | Result                                      |
+| -------- | ------------------------------------------- |
+| 1        | Strong: +2 [[Physique]], [[Endurance]]      |
+| 2        | Charming: +2 [[Connection]], [[Confidence]] |
+| 3        | Attuned: +2 [[Awareness]], [[Spirit]]       |
+| 4        | Agile: +2 [[Reflexes]], [[Coordination]]    |
+| 5        | Smart: +2 [[Memory]], [[Application]]       |
+| 6        | Gifted: +2 in two [[Skills]] of your choice |
+
 
 ### Equipment
 An embarking aspirant begins play with:
@@ -38,12 +41,12 @@ An embarking aspirant begins play with:
 - 20 Silver. 
 - One heirloom, either rolled for or selected from the following:
 
-| Roll 1d6 | Result                                                                                                                                                                                 |
-| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Roll 1d6 | Result                                                                                           |
+| -------- | ------------------------------------------------------------------------------------------------ |
 | 1-2      | An Artisan weapon such as: [[Arming-Sword]], [[Ironbow-Crossbow]], [[Heater-Shield]], [[Spear]]. |
-| 3        | Artisan armour such as: [[Scale-Mail]], [[Studded-Leather]], [[Waxed-Gambeson]].                                  |
-| 4-5      | A toolkit such as: [[Craftsman-Kit]], [[Healer-Kit]], [[Dungeoneering-Kit]].                                     |
-| 6        | A [[Magic-Items#Harmonic]] [[Magic-Items]] of artisan quality or worse.                                                                                   |
+| 3        | Artisan armour such as: [[Scale-Mail]], [[Studded-Leather]], [[Waxed-Gambeson]].                 |
+| 4-5      | A toolkit such as: [[Craftsman-Kit]], [[Healer-Kit]], [[Dungeoneering-Kit]].                     |
+| 6        | A [[Magic-Items#Harmonic]] [[Magic-Items]] of artisan quality or worse.                          |
 
 ### Interests
 Embarking Aspirants have some training to help them on the road. Select 2 [[Game/Character-Development#Basic]] training to begin with.

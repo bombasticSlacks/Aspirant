@@ -18,4 +18,4 @@ Armour
 | [[Armour#Reaction Penalty]]          | (-1)                                                                                                                                                                          |
 | [[Armour#Weakness and Resistance]]   | [[Injury#Cold]]                                                                                                                                                 |
 | [[Armour#Weakness and Resistance]] | [[Injury#Heat]]                                                                                                                                                 |
-| [[Armour-Traits]]                   | Spend 1 [[Power]] and make an [[Instinct#Ascendancy]] test to deal 4 heat damage and cause [[Effects#On Fire]]. |
+| [[Armour-Traits]]                   | Spend 1 [[Power]] and make an [[Spirit]] test to deal 4 heat damage and cause [[Effects#On Fire]]. |

@@ -14,6 +14,6 @@ Elite
 #### Traits
 * Amphibious, +1 to all actions in water.
 #### Traps
-* When already in melee and something joins tail flaps at you [[Agility#Coordination]] or 2 [[Injury#Impact]].
+* When already in melee and something joins tail flaps at you [[Coordination]] or 2 [[Injury#Impact]].
 #### Rewards
 * artisan hide (waterproof pelt), artisan bits (massive teeth)

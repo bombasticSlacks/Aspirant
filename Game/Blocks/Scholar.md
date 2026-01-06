@@ -10,5 +10,5 @@
 ### Scholar
 *You know a bit about just about everything.*
 * +1 Max [[Power]].
-* If it doesn't seem possible for you to know about something you can spend a [[Power]] to attempt a [[Intelligence#Memory]] test to know about it anyway.
-* When you succeed at [[Intelligence#Memory]] you may spend a [[Power]] to ask the [[Terminology#Game Master]] another question related to that thing.
+* If it doesn't seem possible for you to know about something you can spend a [[Power]] to attempt a [[Memory]] test to know about it anyway.
+* When you succeed at [[Memory]] you may spend a [[Power]] to ask the [[Terminology#Game Master]] another question related to that thing.

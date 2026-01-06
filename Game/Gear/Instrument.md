@@ -8,6 +8,6 @@ Size 3
 _A musical tool of complex design. Complex instruments are expensive and produce nuanced and complex sounds. 3 size of [[Materials#Artisan]] materials._
 
 - Cost 15.
-- A complex instrument provides a +2 to [[Communication#Confidence]] checks to use it.
+- A complex instrument provides a +2 to [[Confidence]] checks to use it.
 
 > Examples would include: Bagpipes, Dulcimer, Lute, Viol.

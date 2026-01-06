@@ -6,4 +6,4 @@
 
 ### Inscribed
 
-This weapon counts as a Focus for [[Instinct#Ascendancy]] skill tests.
+This weapon counts as a Focus for [[Spirit]] skill tests.

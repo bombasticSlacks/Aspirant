@@ -5,7 +5,7 @@ Size 2
 {: .label .label-yellow }
 
 #### Reagent Bag
-_A well constructed satchel of elixirs, dried powdered items, and other small bits of magic that can be used to perform [[Instinct#Ascendancy]]. 1 size [[Hide#Artisan Hide]] + [[Charges]]._
+_A well constructed satchel of elixirs, dried powdered items, and other small bits of magic that can be used to perform [[Spirit]]. 1 size [[Hide#Artisan Hide]] + [[Charges]]._
 
 - Cost 15.
 - Holds 5 [[Charges]].

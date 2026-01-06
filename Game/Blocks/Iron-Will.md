@@ -9,5 +9,5 @@ Lady Of Iron
 {: .label .label-purple }
 ### Iron Will
 *Your strength of will is unmatched.*
-* You may spend **iron** to automatically succeed on any [[Strength#Endurance]].
+* You may spend **iron** to automatically succeed on any [[Endurance]].
 

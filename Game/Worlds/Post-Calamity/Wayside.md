@@ -7,7 +7,7 @@ grand_parent: Worlds
 ---
 # Wayside
 
-Training for [[Intelligence#Application]], and [[../../Chronicler|Chronicler]]
+Training for [[Application]], and [[../../Chronicler|Chronicler]]
 
 Small Size 2 city,
 

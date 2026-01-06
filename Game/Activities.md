@@ -25,7 +25,7 @@ Perform a [[#Travel Activity|Travel Activity]]
 
 _You've been busy working on something that isn't exactly a job._
 
-When you do an involved task, you dedicate yourself to resolving something your character needs to deal with. At the end of the task you will either get to [[Telling-The-Story#Influencing the Story]] without a cost, gaining some tangible benefit, or asking the GM some direct questions. In all cases, there shouldn't be a skill test involved. Some example tasks would be.
+When you do an involved task, you dedicate yourself to resolving something your character needs to deal with. At the end of the task you will either gain some tangible benefit, or ask the GM some direct questions. In all cases, there shouldn't be a skill test involved. Some example tasks would be.
 
 - Hiring a specific expert to aid on a job.
 - Researching a specific topic in depth.
@@ -69,9 +69,8 @@ _You are interested in what this city has to offer. You busy yourself learning i
 - You may ask the GM a direct question about the place you are.
   Then you may do one of the following:
 - Ask the GM another question about the city.
-- Invent something about the city, with it costing 1 less [[Game/Blocks/Influence|Influence]] to do so.
+- Invent something about the city.
 - Gain an [[Terminology#Ally]] for the duration of your stay. Work with the GM to determine who this is (potentially costing influence).
-- Gain an [[Game/Blocks/Influence|Influence]].
 
 ---
 
@@ -108,7 +107,7 @@ _You tinker and work away in the evenings, maybe even while riding._
 
 _You find a camping spot, lead setup and organize watch for the team, taking extra shifts when necessary._
 
-- You may perform [[Intelligence#Application]](-[[Telling-The-Story#Segment Danger]]) to make a dangerous [[Telling-The-Story#Night Encounter]] into a positive or neutral one.
+- You may perform [[Application]](-[[Telling-The-Story#Segment Danger]]) to make a dangerous [[Telling-The-Story#Night Encounter]] into a positive or neutral one.
 - You are ready and unsurprised during a [[Telling-The-Story#Night Encounter]].
 - You reduce [[Stress]] by 1.
 
@@ -118,7 +117,7 @@ _You find a camping spot, lead setup and organize watch for the team, taking ext
 
 _You hunt, forage, and provide for the group._
 
-- You may perform an [[Agility#Coordination]](-[[Telling-The-Story#Segment Danger]]) to provide for everyone. Everyone traveling considers their [[Strain-And-Toil#Needs]] met.
+- You may perform an [[Coordination]](-[[Telling-The-Story#Segment Danger]]) to provide for everyone. Everyone traveling considers their [[Strain-And-Toil#Needs]] met.
 - You regain 1 [[Power]].
 
 ---
@@ -127,7 +126,7 @@ _You hunt, forage, and provide for the group._
 
 _You plan the journey and lead the group._
 
-- You may perform [[Instinct#Awareness]](-[[Telling-The-Story#Segment Danger]]) to make a dangerous [[Telling-The-Story#Route Encounter]] into a positive or neutral one.
+- You may perform [[Awareness]](-[[Telling-The-Story#Segment Danger]]) to make a dangerous [[Telling-The-Story#Route Encounter]] into a positive or neutral one.
 - You are ready and unsurprised during a [[Telling-The-Story#Route Encounter]].
 - You gain 1 [[Influence]].
 
@@ -142,10 +141,9 @@ _You share stories, play games, or train with your friends._
 ---
 
 ### Reinforcement Learning
-
 _You work on reinforcing your learning._
 
-- You may spend XP towards learning a training you have [[Character-Development#In Progress]] or that is [[Character-Development#Unknown]] that you qualify to learn.
+- You may spend XP to learn a training that is [[Character-Development#Unknown]] that you qualify to learn.
 
 ---
 

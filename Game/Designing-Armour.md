@@ -6,7 +6,7 @@ grand_parent: Equipment
 nav_order: 2
 ---
 # Designing [[Armour]]
-Through play and when creating a character, you may desire to protect yourself with armour. You can use one of the [[Example-Armour]] or design your own. Perhaps your village or character has a unique type of armour, or you encounter a blacksmith who has an idea for a unique piece of armour. 
+Through play and when creating a character, you may desire to protect yourself with armour. You can use one from the [[Equipment-List]] or design your own. Perhaps your village or character has a unique type of armour, or you encounter a blacksmith who has an idea for a unique piece of armour. 
 
 To build a piece of armour:
 - Choose the [[#Quality|Quality]]
@@ -47,7 +47,7 @@ Armours that go beyond what could be possible with enchanting or standard crafts
 
 
 ## Materials
-Armour is made of [[Materials]], which determine its characteristics, see [[Armour#Materials]] for more details. Artisan or Exotic [[Armour#Quality]] armour will require a small amount of secondary material to reinforce, pad, or affix the primary material to. 
+Armour is made of [[Materials]], which determine its characteristics, see [[#Material Table]] for more details. 
 
 ### Material Table
 This is a list of the base values an armour with each material might have.
