@@ -31,6 +31,7 @@ Went to Tussole works as a crafter there, under the name of "The Journeyman"
 ## Kara Katala
 Another hunter who went north
 Went north to a monastery where they glean wisdom from a fallen angel. 
+Sunspeak Monastery.
 
 ## "Fell" Fellerrum
 Another hunter who went north
