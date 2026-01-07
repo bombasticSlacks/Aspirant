@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Designing Consumable
-parent: Consumables
+parent: Consumable
 grand_parent: Equipment
 nav_order: 2
 ---
