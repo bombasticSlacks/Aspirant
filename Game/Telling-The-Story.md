@@ -77,9 +77,9 @@ Players should only experience 1 route encounter per travel segment. If your pla
 In Aspirant movement between places should be measured in time, not distance. So a place might be a days travel, or 4 days travel, from where you are. 
 
 #### Segment Danger
-Each route will have a rating between 1-6 for danger. When traveling it the GM should secretly roll for 2 6 sided dice to see what sorts of events the characters will experience. For each dice that comes up with at least the danger rating the players experience a dangerous encounter. This can either be their [[#Night Encounter]] or [[#Route Encounter]], or, if both dice roll dangerous both encounters will be dangerous.
+Each route will have a rating between 1-6 for danger. When traveling the GM should secretly roll 2 6 sided dice to see what sorts of events the characters will experience. For each dice that comes up with less than or equal to the danger rating the players experience a dangerous encounter. This can either be their [[#Night Encounter]] or [[#Route Encounter]], or, if both dice roll dangerous, both encounters will be dangerous.
 
-> A route has a danger rating of 3. The GM secretly rolls a 2 and a 4, they decide the players will have a dangerous night encounter and a normal route encounter. 
+> A route has a danger rating of 3. The GM secretly rolls a 2 and a 4, this means one dangerous encounter and one normal, they decide the players will have a dangerous night encounter and a normal route encounter. 
 
 #### Segment Modifiers
 Some travel segments will have specific modifiers. 
