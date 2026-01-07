@@ -19,7 +19,7 @@ grand_parent: Worlds
 	* The pilgrims travel to the peak every morning to see the sun.
 	* The sun celestial will have their old equipment still which they may give away. (Armour of the moon which repairs in the dark and a crescent staff which does the dnd spell jon likes lol)
 * The ruins on the island are an ancient place of worship and celebration for seafarers. A number of crashed ships create a collection of ruins and remains. Haunted by ghosts of fallen seafarers. Relics and treasure are somewhere inside. (revolver, silvering cutlass that prints money a proper cannon the guys can stick on the car?)
-## Argent Hold 30th - 10th Summer 
+## Argent Hold 11th -  Summer 
 * For next time:
 	* Planning to go North, 
 	* Gonna ask spear ladies to help find the hunters I think
@@ -38,6 +38,8 @@ grand_parent: Worlds
 * Need stress on character Sheets
 * Reverse segment danger text
 * Look at the healer kit, give it +1 after roll and make it so it can't clear injuries, or only sometimes(?)
+* Cooking Kit for cooking food and stuff.
+* Update headings on the Storage stuff, 
 * 
 
 ### Hooks

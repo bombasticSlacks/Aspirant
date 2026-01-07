@@ -76,7 +76,9 @@ One Of his elite shock troops, they worship the [[#The Iron Lady]] though throug
 
 Casidy is a talkative one.
 
-Kallia is the "home officer".
+Megane.
+
+Kallia is the "home officer". older woman, wry. 
 
 
 ### Commander Jeremia Ashmane (he/him)
