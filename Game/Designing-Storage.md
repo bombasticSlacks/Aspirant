@@ -43,14 +43,14 @@ Strange or enchanted [[Storage]], these can be anything you want but should have
 
 ## Tradeoffs
 Some storage sacrifices in one way to gain power in another. For each tradeoff you do you gain an additional [[#Features|Features]]. Tradeoffs are (can be selected more than once):
-- -4 [[Storage#Camp Storage]]
-- -2 [[Storage#Quick Access]]
-- -2 [[Storage#General Storage]]
+- -8 [[Storage#Camp Storage]]
+- -4 [[Storage#Quick Access]]
+- -4 [[Storage#General Storage]]
 ## Features
  Can be spent to further modify storage. Features are (each selectable more than once):
- * +4 [[Storage#Camp Storage]]
- * +2 [[Storage#Quick Access]]
- * +2 [[Storage#General Storage]]
+ * +8 [[Storage#Camp Storage]]
+ * +4 [[Storage#Quick Access]]
+ * +4 [[Storage#General Storage]]
  * +1 [[Storage#Specialization]], -2 [[Storage#General Storage]]
  * Add an [[Storage-Traits]] that can be justified based on the storage.
 

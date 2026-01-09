@@ -37,6 +37,8 @@ Military Ranks
 - Commander
 
 Books are held by officers instead of by libraries
+
+Farmers and peasants enlists during pilgrimages or crusades into the rest of the nation.
 ### Rumors
 
 ### Problems

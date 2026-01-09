@@ -23,7 +23,23 @@ grand_parent: Worlds
 * For next time:
 	* Planning to go North, 
 	* Gonna ask spear ladies to help find the hunters I think
-* 
+* Travelling in procession with Captain Brellen. 
+* Traveling to Lustrum through the portal 15th of summer
+	* Simple is Training (smite) and Mainting
+	* Arturas is Craftin (Travelers Bag)
+	* Greg is trainer (lady of Iron)
+	* Alexander is experimenting w. the glove
+		* Mostly a weapon of mass destruction, does control anti-magic
+		* If Alexander does want, can lean to harness anti-magic, it would be a mini training tree.
+		* Alexander feels that the glove attaching to him is only because of his heritage, it isn't part of his destiny.
+* Hans and Gretta two young, brother and sister who join the procession to the north with the Argent Hold. Hans and Greta learn from Simpe field dressing and drills.
+* The Captain mentions that pirates cover is the ruins to the north
+* Kant met the party and mentioned Korant and his cultists
+	* Cultists are at least a dozen (if not eaten) + hydra which is REAL big.
+	* Mentions Snow Giants migrating far south. Its at least 6 (2 adults and 4+ children) they are people eaters and greedy. 
+	* Iron Ladies are: Going to wait just south of the monastery, need to travel 5 days and will wait up to 5 days for the party. So have until the 21st. 
+* THEY MADE THE FLYING CAR
+* Next Time: HYDRA
 ### Rewards
 - 
 - 
@@ -40,6 +56,8 @@ grand_parent: Worlds
 * Look at the healer kit, give it +1 after roll and make it so it can't clear injuries, or only sometimes(?)
 * Cooking Kit for cooking food and stuff.
 * Update headings on the Storage stuff, 
+* Subtle trait for bags
+* Flying Car Stats (Can ignore travel encounter, usually can see it and go down tho) narrative ignore 
 * 
 
 ### Hooks
