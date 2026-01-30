@@ -13,4 +13,4 @@
 	* Why its happening.
 	* How it works.
 	* How to resolve the issue.
-* If you are validated as correct you recover 1 [[Power]].
+* If you are validated as correct you regain 1 stress. 
