@@ -100,7 +100,7 @@ This damage bonus can then be converted into a damage:
 | 19           | 10     | (-2)                 |
 
 
-> A [[#Size|Size]] 3 [[#Artisan|Artisan]] weapon, with the [[Game/Blocks/Lethal|Lethal]] [[Weapon-Templates]] would have a damage bonus of 8, 6 from [[Weapon-Traits#Size Matters]], 1 from [[#Artisan|Artisan]], 1 from [[Lethal]]. This means it does 5 damage with an [[Attacks#Extra Damage]] penalty of (-3).
+> A [[#Size|Size]] 3 [[#Artisan|Artisan]] weapon, with the [[Game/Blocks/Lethal|Lethal]] [[Weapon-Templates]] would have a damage bonus of 8, 6 from size, 1 from [[#Artisan|Artisan]], 1 from [[Lethal]]. This means it does 5 damage with an [[Attacks#Extra Damage]] penalty of (-3).
 
 ## Crafting Costs
 A character looking to craft a specific weapon requires the size + 1 worth of materials.

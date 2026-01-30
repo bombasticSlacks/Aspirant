@@ -17,7 +17,7 @@ For simplicity, travel is:
 - Simply, the time to get from one location to another
 - Most travel should focus on hitting a milestone of some kind at least within 5 days. Travel should be directed to get somewhere. Unstructured travel isn't travel, it is adventuring.
 - A full day of travel is considered 14 hours of continual travel, this gives the characters ample time to rest.
-- Characters need to manage their [[Strain-And-Toil#Needs]].
+- Characters need to manage their [[Stress#Needs]].
 - At the beginning of travel [[#Travel Roles]] must be determined.
 - A travel segment will have a [[#Segment Danger]].
 - A travel segment will have a [[#Segment Time]].
@@ -62,7 +62,7 @@ _You plan the journey and lead the group._
 - You are ready and unsurprised during a [[#Route Encounter]].
 ### Cook
 _You hunt, forage, and provide for the group._
-- You may perform an [[Coordination]](-[[#Segment Danger]]) to provide for everyone. Everyone traveling considers their [[Strain-And-Toil#Needs]] met.
+- You may perform an [[Coordination]](-[[#Segment Danger]]) to provide for everyone. Everyone traveling considers their [[Stress#Needs]] met.
 
 ## Travel Speed
 Some [[Asset]] or abilities may increase the travel speed of characters. Humans have a travel speed of 1x, a traveling groups speed is equal to the lowest speed among them.

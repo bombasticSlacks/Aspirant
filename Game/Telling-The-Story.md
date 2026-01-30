@@ -30,7 +30,7 @@ Dealing with non-linear time can be complicated and everyone should attempt to b
 This tends to happen when you are in a safe area. When in a friendly settlement with no impending danger your characters can choose to take 5 days and rest focusing on yourselves, your work, and resting up. While doing downtime each character:
 
 * Gain the benefits of [[#Recovery]].
-* Consider your [[Strain-And-Toil#Needs]] met.
+* Consider your [[Stress#Needs]] met.
 - Performs 1 [[Activities#Downtime Activity]].
 * Pay for [[#Lodgings|Lodgings]].
 - While performing downtime, players should be encouraged to still take part in scenes in [[#Narrative Time|Narrative Time]], maybe they meet local artisans, haggle with a shopkeeper, or find the start of an adventure. Time shouldn't exclusively be occupied with a [[Activities#Downtime Activity]], but it will help explain what you are doing when not otherwise occupied.
