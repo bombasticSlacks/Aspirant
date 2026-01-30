@@ -15,7 +15,7 @@ Combat is the most rigorously kept time in Aspirant; as it is when you are most 
 
 ## Narrative Time
 
-Narrative time in aspirant involves characters in a place of interest doing activities, exploring, and progressing the story directly. The passage of narrative time can be a bit more ambiguous compared with combat. There aren’t rules for narrative time, this is when characters will be directing the focus and the story themselves.
+Narrative time involves characters in a place of interest doing activities, exploring, and progressing the story directly. The passage of narrative time can be a bit more ambiguous compared with [[Combat]]. There aren’t rules for narrative time, this is when characters will be directing the focus and the story themselves, doing [[Terminology#Action]], and roleplaying.
 
 ## Flashback
 
@@ -38,57 +38,11 @@ This tends to happen when you are in a safe area. When in a friendly settlement 
 ### Recovery
 - Reset [[Stress]] to 0.
 - Reset uses of all Once Per Downtime abilities.
+- Remove any [[Injury#Injury]] that is non-permanent.
 
 
 ### Lodgings
 Each settlement will have a cost for 5 days of lodgings, usually it will be 2 silver which will cover your food and housing for the duration.
-## Travelling
-
-Travelling in Aspirant can take long amounts of time. Travelling involves knowing the direction or location of something and then travelling towards it. Travel will usually take a number of days. To travel you require at minimum [[Camping-Gear]].
-
-### Travel Segment
-
-For simplicity, travel is:
-
-- Simply, the time to get from one location to another
-- Most travel should focus on hitting a milestone of some kind at least within 5 days. Travel should be directed to get somewhere. Unstructured travel isn't travel, it is adventuring.
-- A full day of travel is considered 14 hours of continual travel, this gives the characters ample time to rest.
-- Characters need to manage their [[Strain-And-Toil#Needs]].
-- Characters at the start of each travel segment declare a [[Activities#Travel Activity]] they will focus on during the travel.
-- A travel segment will have a [[#Segment Danger]].
-- A travel segment will have a [[#Segment Time]].
-- A travel segment may have [[#Segment Modifiers]].
-- Characters will experience a [[#Night Encounter]].
-- Characters will experience a [[#Route Encounter]].
-
-#### Night Encounter
-During their time camping something eventful will happen to the players. It can be as simple as a description of the night sky, fireflies out, or a companion telling a story from their childhood. 
-
-This encounter depending on [[#Segment Danger]] might be dangerous instead.
-
-#### Route Encounter
-During their time traveling something eventful will happen to the players. It can be as simple as a description of the local flowers, a passing caravan saying hello, or a shift in the weather. More involved events such as encountering other travellers, enemies or a point of interest could occur.
-
-This encounter depending on [[#Segment Danger]] might be dangerous instead.
-
-Players should only experience 1 route encounter per travel segment. If your players were attacked by wolves a number of times travelling through a forest, instead, that should be handled as one extended narrative / combat [[Terminology#Scene]] where they realize they’ve entered dangerous territory and need to navigate out of it.
-
-#### Segment Time
-In Aspirant movement between places should be measured in time, not distance. So a place might be a days travel, or 4 days travel, from where you are. 
-
-#### Segment Danger
-Each route will have a rating between 1-6 for danger. When traveling the GM should secretly roll 2 6 sided dice to see what sorts of events the characters will experience. For each dice that comes up with less than or equal to the danger rating the players experience a dangerous encounter. This can either be their [[#Night Encounter]] or [[#Route Encounter]], or, if both dice roll dangerous, both encounters will be dangerous.
-
-> A route has a danger rating of 3. The GM secretly rolls a 2 and a 4, this means one dangerous encounter and one normal, they decide the players will have a dangerous night encounter and a normal route encounter. 
-
-#### Segment Modifiers
-Some travel segments will have specific modifiers. 
-* Maybe its dangerously hot, cold, you can get sick. 
-* Some travel segments will restrict types of [[Asset]], no [[Asset#Vehicles]], no horses, etc.
-* Maybe no [[Activities#Travel Activity]] can be performed. 
-
-### Travel Speed
-Some [[Asset]] or abilities may increase the travel speed of characters. Humans have a travel speed of 1x, a traveling groups speed is equal to the lowest speed among them.
 
 ## Creating New Content
 

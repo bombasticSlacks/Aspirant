@@ -12,4 +12,4 @@ Size 1
 
 * When [[Magic-Items#Binding]] this item has size 0.
 * Once per [[Telling-The-Story#Downtime]] as an [[Terminology#Action]] you can ask the winds a question about something they were present for.
-* As an [[Terminology#Attack]] you may perform [[Game/Core/Spirit#Ascendancy]] to hold an [[Terminology#Opponent]] in ice.
+* As an [[Terminology#Attack]] you may perform [[Spirit]] to hold an [[Terminology#Opponent]] in ice.

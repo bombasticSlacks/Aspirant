@@ -10,7 +10,7 @@ Armour
 
 | [[Armour#Armour Integrity]]    | 10                                                             |
 | :--------------------------------------------------------- | :------------------------------------------------------------- |
-| [[Armour#Reaction Penalty]]    | (-1)                                                           |
+| [[Armour#Defense Penalty]]    | (-1)                                                           |
 | [[Armour#Weakness and Resistance]]   | [[Injury#Life]]!, [[Injury#Cold]]! |
 | [[Armour#Weakness and Resistance]] |                                                                |
 | [[Armour-Traits]]                   | [[Exotic-Attire]]                |

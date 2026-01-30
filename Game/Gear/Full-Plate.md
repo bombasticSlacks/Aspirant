@@ -12,7 +12,7 @@ Armour
 
 | [[Armour#Armour Integrity]]    | 16                                                                                            |
 | :--------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
-| [[Armour#Reaction Penalty]]    | (-2)                                                                                          |
+| [[Armour#Defense Penalty]]    | (-2)                                                                                          |
 | [[Armour#Weakness and Resistance]]   | [[Injury#Cold]], [[Injury#Life]]!, [[Injury#Heat]]! |
 | [[Armour#Weakness and Resistance]] | [[Injury#Rending]]                                                           |
 | [[Armour-Traits]]                   | [[Exotic-Attire]]                                               |

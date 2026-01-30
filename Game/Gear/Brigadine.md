@@ -12,7 +12,7 @@ Armour
 
 | [[Armour#Armour Integrity]]    | 10                                |
 | :--------------------------------------------------------- | :-------------------------------- |
-| [[Armour#Reaction Penalty]]          | 0                                 |
+| [[Armour#Defense Penalty]]          | 0                                 |
 | [[Armour#Weakness and Resistance]]   | [[Injury#Cold]]     |
 | [[Armour#Weakness and Resistance]] | [[Injury#Impact]] |
 | [[Armour-Traits]]                   | -                                 |

@@ -52,15 +52,15 @@ Armour is made of [[Materials]], which determine its characteristics, see [[#Mat
 ### Material Table
 This is a list of the base values an armour with each material might have.
 
-| Material                  | Skill Penalty | Integrity | Weakness                              |
-| ------------------------- | ------------- | --------- | ------------------------------------- |
-| [[Textiles]] | (+1)          | 2         | [[Injury#Rending]]   |
-| [[Hide]]         | (+1)          | 2         | [[Injury#Impact]]     |
-| [[Bits]]         | (0)           | 4         | [[Injury#Piercing]] |
-| [[Liquid]]     | (-1)          | 6         | [[Injury#Life]]         |
-| [[Metal]]       | (-1)          | 6         | [[Injury#Cold]]         |
-| [[Resonant]] | (0)           | 2         | Your Choice                           |
-| [[Flora]]       | (0)           | 4         | [[Injury#Heat]]         |
+| Material     | Skill Penalty | Integrity | Weakness            |
+| ------------ | ------------- | --------- | ------------------- |
+| [[Textiles]] | (+1)          | 2         | [[Injury#Rending]]  |
+| [[Hide]]     | (+1)          | 2         | [[Injury#Impact]]   |
+| [[Bits]]     | (0)           | 4         | [[Injury#Piercing]] |
+| [[Liquid]]   | (-1)          | 6         | [[Injury#Life]]     |
+| [[Metal]]    | (-1)          | 6         | [[Injury#Cold]]     |
+| [[Resonant]] | (0)           | 2         | Your Choice         |
+| [[Flora]]    | (0)           | 4         | [[Injury#Heat]]     |
 
 > Some armour concepts are obvious, such as metal, textiles and hide. Consider liquid to be things like epoxy, oil quenching, chemical treatments. Bits to be, bone, quills, feathers, living rock. Resonant to be crystals, powders and gemstones. Flora to be vines, woods and roots. 
 
@@ -83,14 +83,14 @@ Some armour sacrifices in one way to gain power in another. For each tradeoff yo
 - Gain 2 [[Armour#Critical Weakness]]
 - Make a [[Armour#Critical Weakness]] into a [[Armour#Weakness and Resistance]]
 - Reduce [[Armour#Armour Integrity]] by 2
-- Increase [[Armour#Reaction Penalty]] by 1.
+- Increase [[Armour#Defense Penalty]] by 1.
 
 
 ## Features
  Can be spent to further modify armour. Features are (each selectable more than once):
  * Add an [[Armour-Traits]] that can be justified based on the armour.
  * Add 2 [[Armour#Armour Integrity]].
- * Reduce [[Armour#Reaction Penalty]] by 1.
+ * Reduce [[Armour#Defense Penalty]] by 1.
  * Remove 2 [[Armour#Critical Weakness]]
  * Make a [[Armour#Weakness and Resistance]] into a [[Armour#Critical Weakness]]
  * Gain a [[Armour#Weakness and Resistance]] and a [[Armour#Critical Weakness]]

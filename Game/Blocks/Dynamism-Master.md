@@ -19,4 +19,4 @@ Your character can perform [[Magic#Channelled Magic]] to:
 - Additional **meta magic**:
 	- (-5) you can give a **magic attack** [[Explosion]]
 
-Requires 3 [[Magic#Magical Energy]] and a [[Game/Example-Gear#Focus]]
+Requires 3 [[Magic#Magical Energy]] and a [[Focus]]

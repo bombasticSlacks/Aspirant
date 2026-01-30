@@ -17,4 +17,4 @@ When creating [[Magic-Items]] you can also use as a vessel:
 | A [[Terminology#Character]] | 5                |
 | A Place                                           | 5                |
 
-A magic body part or character always take an [[Affinity]].
+A magic body part or character always counts as [[Magic-Items#Binding]].

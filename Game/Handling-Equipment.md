@@ -29,11 +29,11 @@ Unless you have a buyer/contract lined up, typically items you sell are just wor
 Generally, looted items can be used by players, however in some cases they may be worn or potentially need adjustment.
 
 ### Looted Armour
-In almost all cases, looted armour will not fit you. Ill-fitting armour reduces [[Armour#Reaction Penalty]] by 2 and requires an armourer to adjust it.
+In almost all cases, looted armour will not fit you. Ill-fitting armour reduces [[Armour#Defense Penalty]] by 2 and requires an armourer to adjust it.
 
 ### Looting Creatures
 In most cases, a dead creature will have 
-* Enough meat to save the party from having to eat other food during the current or next [[Telling-The-Story#Travel Segment]], after that, it is assumed the meat spoils. 
+* Enough meat to save the party from having to eat other food during the current or next [[Travelling#Travel Segment]], after that, it is assumed the meat spoils. 
 * Some [[Bits]] or other [[Materials]]
 
 ### Quest Rewards

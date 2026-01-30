@@ -23,7 +23,7 @@ Vitals Armour:
 | [[Armour#Armour Integrity]]    | 3                                                                                                                                            |
 | :--------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Armour-Traits]]                   | Spend 1 power and make a will test to deal 3 heat damage and cause [[Effects#On Fire]] [[Movement#Close]]. |
-| [[Armour#Reaction Penalty]]          | (-1) [[Reacting]]                                                                                                          |
+| [[Armour#Defense Penalty]]          | (-1) [[Reacting]]                                                                                                          |
 | [[Armour#Weakness and Resistance]]   | Cold                                                                                                                                         |
 | [[Armour#Weakness and Resistance]] | Fire, Impact, Slashing                                                                                                                       |
 #### Remnants of a Rifle

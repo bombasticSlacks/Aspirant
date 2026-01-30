@@ -39,10 +39,17 @@ As your characters gain [[Total-XP|Total XP]] you gain additional benefits beyon
 ## Training
 
 Basic, advanced, and master training represents powerful new abilities that your character can learn to possess. Training can either be:
+### Passive
+Does something all the time for you.
 
-- Passive - just does something all the time for you.
-- Elective - gives you a new ability/option you can use at will.
-- Once Per Downtime - Very powerful abilities that can only be used once before resting in a city.
+### Elective
+Gives you a new ability/option you can use at will.
+
+### Resource Based
+Abilities that require an internal resource they are marked as **such**.
+
+### Once Per Downtime
+Very powerful abilities that can only be used once before resting in a city.
 
 ### Training Tiers
 Training can be split into 

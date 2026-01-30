@@ -15,7 +15,7 @@ Aspirant is a world of tradespeople, experts with something to offer a prospecti
 | Hiring A guide through a known trail                       | $2$                                      |
 | Hiring A guide through a not well-known trail              | $5$                                      |
 | [[Telling-The-Story#Downtime]] of lodgings                 | $1$                                      |
-| [[Telling-The-Story#Travel Segment]] of travel food        | $3$                                      |
+| [[Travelling#Travel Segment]] of travel food               | $3$                                      |
 | Getting expertise or knowledge                             | $4$                                      |
 | Hiring a mercenary for a day                               | $2$                                      |
 | Moving a piece of [[Asset#Camp Equipment]] to another city | $2 \times Days\ Of\ Travel \times Space$ |

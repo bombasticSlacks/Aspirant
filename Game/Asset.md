@@ -20,5 +20,5 @@ Camp equipment cannot be stored in [[Storage#General Storage]], only [[Storage#C
 These are large structures that can be pulled, or carried. 
 
 ## Allies
-Some [[Terminology#Ally]] could be considered assets if they assist with certain things in and around [[Telling-The-Story#Downtime]] and [[Telling-The-Story#Travelling]]. 
+Some [[Terminology#Ally]] could be considered assets if they assist with certain things in and around [[Telling-The-Story#Downtime]] and [[Travelling]]. 
 > Saddled horses, a regiment of guards standing watch while you sleep, a bard who tells stories by the campfire would be examples.

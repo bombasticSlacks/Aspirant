@@ -7,17 +7,18 @@ nav_order: 2
 
 # Activities
 
-During [[Telling-The-Story#Downtime]], or [[Telling-The-Story#Travelling]] you will get a chance to do some activities. These are simple declarations of how you spend a large chunk of time, culminating in some benefit to the player.
+During [[Telling-The-Story#Downtime]], or [[Travelling]] you will get a chance to do some activities. These are simple declarations of how you spend a large chunk of time, culminating in some benefit to the player.
 
 ## Downtime Activity
 
 These are actions a character could spend a day doing. All characters have access to a number of these, others can be gained with [[Character-Development#Training]].
 
-### Perform Travelling Activity
+---
+### Perform A Lengthy Action
 
-_Just because you are in a city doesn't mean you can't do the same things you do on the road!_
+_You dedicate yourself to a task you deem important_
 
-Perform a [[#Travel Activity|Travel Activity]]
+Perform an [[Terminology#Action]] or series of [[Terminology#Action]] to accomplish a goal such as building something.
 
 ---
 
@@ -37,28 +38,26 @@ When you do an involved task, you dedicate yourself to resolving something your 
 
 _You gain the fundamentals of a [[Character-Development#Concept]] or [[Character-Development#Discipline]] by joining the respective school._
 
-- You can add a [[Character-Development#Basic]] training as [[Character-Development#In Progress]]. 
-- You may then spend any amount of XP on finishing learning it.
+- You can now learn training from that [[Character-Development#Discipline]] or [[Character-Development#Concept]].
+- You may then gain the [[Character-Development#Basic]] if you have the experience.
 - For pricing, see [[Services#Teaching]].
-
----
-
-### Train
-*You work on your basic skills with a trainer.*
-As long as a location would have someone willing and capable of helping you get better you may:
-* Spend XP to increase one of your [[Skills]].
-* See [[Services]] for money and XP costs.
 
 ---
 ### Work
 
-_You use your abilities to work a job._
+_You use your abilities to work a job and keep busy._
 
-Perform either:
+Based on your location the locals will need things done and be happy for assistance. The [[Terminology#Game Master]] will provide a list of relevant spots to work, but if you have an idea what you would like to do you may suggest one. 
 
-- [[#Day Work|Day Work]]
-- [[#Skilled Work|Skilled Work]]
-- [[#Production Work|Production Work]]
+This work will require a skill of some kind. You cannot work if you are [[Skills#Untrained]] in the skill. At the end of the week you gain money based on the following:
+
+
+| Skill             | 3-4 | 5-6 | 7   |
+| ----------------- | --- | --- | --- |
+| Base Compensation | 2   | 3   | 4   |
+
+Further you gain +2 silver if you are a member of a relevant guild.
+
 
 ---
 
@@ -87,88 +86,14 @@ _You dedicate your spare time to bettering yourself._
 These are actions that a character can do while travelling somewhere, your spare time in the evenings or additional brain power on the road are dedicated to whatever you do. All characters have access to a number of these, others can be gained with [[Character-Development#Training]].
 
 ### Good Night's Rest
-
 _You focus on sleeping and being prepared for what lies ahead._
-
-- Refresh your [[Reaction]]
-- Refresh your [[Power]] to maximum.
-
----
-
-### Do Production Work
-
-_You tinker and work away in the evenings, maybe even while riding._
-
-- Do everything required for some [[#Production Work|Production Work]].
-
----
-
-### Setup Camp
-
-_You find a camping spot, lead setup and organize watch for the team, taking extra shifts when necessary._
-
-- You may perform [[Application]](-[[Telling-The-Story#Segment Danger]]) to make a dangerous [[Telling-The-Story#Night Encounter]] into a positive or neutral one.
-- You are ready and unsurprised during a [[Telling-The-Story#Night Encounter]].
-- You reduce [[Stress]] by 1.
-
----
-
-### Scavenge
-
-_You hunt, forage, and provide for the group._
-
-- You may perform an [[Coordination]](-[[Telling-The-Story#Segment Danger]]) to provide for everyone. Everyone traveling considers their [[Strain-And-Toil#Needs]] met.
-- You regain 1 [[Power]].
-
----
-
-### Navigate
-
-_You plan the journey and lead the group._
-
-- You may perform [[Awareness]](-[[Telling-The-Story#Segment Danger]]) to make a dangerous [[Telling-The-Story#Route Encounter]] into a positive or neutral one.
-- You are ready and unsurprised during a [[Telling-The-Story#Route Encounter]].
-- You gain 1 [[Influence]].
-
----
+- -1 [[Stress]].
+- Remove all non-permanent [[Injury#Injury]].
 
 ### Socialize
-
 _You share stories, play games, or train with your friends._
-
-- Any time you [[Skills#Aid and Hindrance]] a character who also Socialized when selecting [[Activities]], you count as having their bonus for the purposes of increasing their bonus. 
-
----
+- Any time you [[Skills#Aid]] a character who also Socialized when selecting [[Activities]], you count as having their bonus for the purposes of increasing their bonus. 
 
 ### Reinforcement Learning
 _You work on reinforcing your learning._
-
 - You may spend XP to learn a training that is [[Character-Development#Unknown]] that you qualify to learn.
-
----
-
-## Working a Job
-
-Jobs are ways to spend days and supplement your income. They come in 3 variants.
-
-### Day Work
-
-- Depending on the settlement, any area will have specific types of labour available. These will be associated with each of the 5 [[Attributes]].
-- You earn silver equal to your [[Attributes]] value associated with the work.
-
-> If a character was in a lumber and trapping settlement, they may have physical labour (strength) available as well as tracking labour (agility). A character could choose to do physical labour, making their strength value in silver.
-
-### Skilled Work
-
-_Your character has a specific skill or talent that they are trained to leverage._
-
-- You can make the amount of silver that a [[Services|Service]], normally costs, that your character is capable of performing.
-- This will require succeeding at an appropriate skill test. With failure resulting in 0 silver.
-
-### Production Work
-
-Your character has a specific skill or talent and can create a certain amount of goods ready to be traded based on succeeding on a skill test of some kind. Similar to Skilled work, but your compensation will usually not be in silver, and instead in something that will need to be exchanged.
-
-Any production work you do, assuming you succeed, will pay similarly to what it costs in [[Services#Costs Of Services]]. When you arrive in a town for the first time every week, the town should perform a [[Skills#Variable Difficulty]] [[Running-The-Game#Wealth]] test to determine how many people in town want production work done. If the town succeeds, 1 job + 1 per [[Skills#Step Of Success]] is available.
-
-The GM may put limits on what sorts of work the locals want done, but shouldn't be too conservative. Even a small, poor village might put their money together to get a powerful ritualist to make sure they have rain in the coming weeks.

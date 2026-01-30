@@ -10,4 +10,4 @@ _A well constructed satchel of elixirs, dried powdered items, and other small bi
 - Cost 15.
 - Holds 5 [[Charges]].
 - [[Charges]] cost 2 silver to replace.
-- You can spend a [[Gear#Charges]] to perform [[Magic#Ritual Magic]].
+- You can spend a  [[Charges|charge]] to perform [[Magic#Ritual Magic]].

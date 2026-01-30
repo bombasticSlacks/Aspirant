@@ -9,4 +9,4 @@
 
 * Cost 50.
 * Provides 60 [[Storage#Camp Storage]].
-* With two [[Mount]] hooked to it, it has a [[Telling-The-Story#Travel Speed]] of 2.
+* With two [[Mount]] hooked to it, it has a [[Travelling#Travel Speed]] of 2.

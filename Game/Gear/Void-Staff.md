@@ -20,4 +20,4 @@ Size 4
 | [[Weapon-Traits|Weapon Traits]]                       | [[Two-Handed]], [[Striking]], [[Very-Threatening]] |
 
 - [[Terminology#Successful Attack]] with this weapon cause [[Terminology#Opponent]] to become covered in shadows dealing 1 integrity damage to armour each action.
-- As an [[Terminology#Action]] spend a [[Power]] to destroy a corpse dealing 6 [[Injury#Life]] damage to everything in [[Movement#Reach]].
+- As an [[Terminology#Action]] you can destroy a corpse dealing 6 [[Injury#Life]] damage to everything in [[Movement#Reach]].
