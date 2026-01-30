@@ -5,7 +5,7 @@ Lady Of Iron
 [[Character-Development#Concept]]
 {: .label .label-green }
 
-[[Character-Development#Advanced]]
+[[Character-Development#Idea]]
 {: .label .label-purple }
 ### Iron Will
 *Your strength of will is unmatched.*

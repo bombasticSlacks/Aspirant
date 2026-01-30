@@ -5,7 +5,7 @@
 [[Character-Development#Discipline]]
 {: .label .label-green }
 
-[[Character-Development#Basic]]
+[[Character-Development#Introduction]]
 {: .label .label-purple }
 ### Mystic
 *You can see what others can't, hear what others would not want to.*

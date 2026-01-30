@@ -5,7 +5,7 @@
 [[Character-Development#Discipline]]
 {: .label .label-green }
 
-[[Character-Development#Basic]]
+[[Character-Development#Introduction]]
 {: .label .label-purple }
 ### Knight
 *You are trained to move in the heaviest armour and to protect those that need protection.*

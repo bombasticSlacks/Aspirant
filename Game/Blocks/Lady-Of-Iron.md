@@ -5,7 +5,7 @@ Lady Of Iron
 [[Character-Development#Concept]]
 {: .label .label-green }
 
-[[Character-Development#Basic]]
+[[Character-Development#Introduction]]
 {: .label .label-purple }
 ### Lady Of Iron
 *Shock troopers pushing onto the front lines.*

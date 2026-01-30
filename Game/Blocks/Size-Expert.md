@@ -5,7 +5,7 @@
 [[Character-Development#Discipline]]
 {: .label .label-green }
 
-[[Character-Development#Advanced]]
+[[Character-Development#Idea]]
 {: .label .label-purple }
 ### Size Expert
 *You have mastered techniques to wield weapons with ease flowing through motions others would deem impossible.*

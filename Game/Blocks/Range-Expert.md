@@ -5,7 +5,7 @@
 [[Character-Development#Discipline]]
 {: .label .label-green }
 
-[[Character-Development#Advanced]]
+[[Character-Development#Idea]]
 {: .label .label-purple }
 ### Range Expert
 *You have mastered the mechanical wonders of ranged weaponry, and manipulate them with ease.*

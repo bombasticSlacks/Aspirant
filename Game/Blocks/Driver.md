@@ -5,7 +5,7 @@
 [[Character-Development#Concept]]
 {: .label .label-green }
 
-[[Character-Development#Basic]]
+[[Character-Development#Introduction]]
 {: .label .label-purple }
 ### Driver
 *You specialize in taking people from one place to another.*

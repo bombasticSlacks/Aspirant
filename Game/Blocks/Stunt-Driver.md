@@ -5,7 +5,7 @@
 [[Character-Development#Concept]]
 {: .label .label-green }
 
-[[Character-Development#Advanced]]
+[[Character-Development#Idea]]
 {: .label .label-purple }
 ### Stunt Driver
 *You've never found a situation you couldn't get into or out of while driving.*

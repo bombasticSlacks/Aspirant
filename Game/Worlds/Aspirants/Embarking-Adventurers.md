@@ -49,7 +49,7 @@ An embarking aspirant begins play with:
 | 6        | A [[Magic-Items#Harmonic]] [[Magic-Items]] of artisan quality or worse.                          |
 
 ### Interests
-Embarking Aspirants have some training to help them on the road. Select 2 [[Game/Character-Development#Basic]] training to begin with.
+Embarking Aspirants have some training to help them on the road. Select 2 [[Game/Character-Development#Introduction]] training to begin with.
 
 ### Example Characters
 Here are some example characters:

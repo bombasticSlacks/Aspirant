@@ -5,7 +5,7 @@
 [[Character-Development#Discipline]]
 {: .label .label-green }
 
-[[Character-Development#Master]]
+[[Character-Development#Mastery]]
 {: .label .label-purple }
 ### Flexible Weapon Styles
 *You have a flowing understanding of weapons and their uses, allowing you to use them in creative ways.*

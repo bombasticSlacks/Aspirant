@@ -5,7 +5,7 @@
 [[Character-Development#Discipline]]
 {: .label .label-green }
 
-[[Character-Development#Advanced]]
+[[Character-Development#Idea]]
 {: .label .label-purple }
 ### Lords Step
 *Your footwork is legendary, only the most skilled combatants can keep up with you and when they fail, you punish them.*

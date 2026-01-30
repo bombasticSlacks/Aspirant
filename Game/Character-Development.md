@@ -53,20 +53,18 @@ Very powerful abilities that can only be used once before resting in a city.
 
 ### Training Tiers
 Training can be split into 
-#### Basic
-Basic training should fundamentally be known by any practitioners of the training school. To gain a basic training you will almost always need to join the guild or organization that teaches that [[#Types Of Training|type of training]] and study under a knowledgeable practitioner. 
+#### Introduction
+Introduction training should fundamentally be known by any practitioners of the training school. To gain an introduction training you will almost always need to join the guild or organization that teaches that [[#Types Of Training|type of training]] and study under a knowledgeable practitioner. 
 
-Basic training requires 2xp.
+Introduction training requires 4xp.
 
-#### Advanced
-Advanced training should be known only be those with experience, but should still be relatively ubiquitous. Taking an Advanced training requires already having a [[#Basic|Basic]] training in the [[#Training School|Training School]].
+#### Idea
+Idea training should be known only be those with experience, but should still be relatively ubiquitous. Taking an Idea training requires already having a [[#Introduction]] training in the [[#Training School|Training School]].
 
-Advanced training requires 4xp.
+Idea training requires 4xp.
 
-#### Master
-Taking a master training should require already having a [[#Advanced|Advanced]] training in the [[#Training School|Training School]].
-
-Master training requires 6xp. 
+#### Mastery
+Mastery training are not learned but instead provided freely once a character has obtained each [[#Idea]] in a [[#Discipline]].
 
 ### Types Of Training
 There are a number of standard character archetypes and group archetypes you will run into in Aspirant. These will make up the bulk of training you can learn and have available. Some characters and groups will notably fit into more than one of these archetypes, in that case they could teach trainings from any school they fit into.
@@ -140,6 +138,5 @@ This is a perhaps non-exhaustive list of
 *A thief by trade.*
 #### Rogue
 *A trickster using any advantage they can to defeat their foes.*
-
 #### Hero
 *Legends who shape the world around them.*

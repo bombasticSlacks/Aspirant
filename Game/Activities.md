@@ -39,7 +39,7 @@ When you do an involved task, you dedicate yourself to resolving something your 
 _You gain the fundamentals of a [[Character-Development#Concept]] or [[Character-Development#Discipline]] by joining the respective school._
 
 - You can now learn training from that [[Character-Development#Discipline]] or [[Character-Development#Concept]].
-- You may then gain the [[Character-Development#Basic]] if you have the experience.
+- You may then gain the [[Character-Development#Introduction]] if you have the experience.
 - For pricing, see [[Services#Teaching]].
 
 ---
