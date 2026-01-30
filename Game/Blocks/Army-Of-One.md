@@ -10,4 +10,4 @@
 ### Army Of One
 *You stand alone, maneuvering around even the greatest threats.*
 * You **overwhelm** when you are outnumbered [[In-Melee]].
-* As a [[Terminology#Free Action]] you can become [[Exerted]] to count as **overwhelm** until your next action. 
+* Once per downtime as a [[Terminology#Free Action]] you can become [[Exerted]] to count as **overwhelm** for the remainder of the [[Terminology#Scene]]. 

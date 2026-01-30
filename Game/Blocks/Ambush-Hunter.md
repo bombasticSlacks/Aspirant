@@ -10,4 +10,4 @@
 ### Ambush Hunter
 *You have mastered always out acting your prey.*
 * You always act first in [[Combat]] if your **prey** is an enemy.
-* After your first [[Terminology#Action]] in a [[Combat]] you may declare a new **prey** amongst the enemies.
+* After your first [[Terminology#Action]] in a [[Combat]] you may declare a new **prey** among the enemies.

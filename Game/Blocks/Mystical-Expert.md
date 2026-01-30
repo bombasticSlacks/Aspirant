@@ -16,4 +16,4 @@ Your character can perform [[Magic#Ritual Magic]] to:
 - Create undead, and transplant souls between vessels.
 - Heal permanent [[Injury]].
 
-[[Terminology#Crafting Cost]]: 1 size of [[Materials#Exotic]] [[Materials]] + a [[Game/Example-Gear#Reagent Bag]] charge.
+[[Terminology#Crafting Cost]]: 1 size of [[Materials#Exotic]] [[Materials]] + a [[Reagent-Bag]] charge.

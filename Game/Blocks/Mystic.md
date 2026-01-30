@@ -15,6 +15,6 @@ Your character can perform [[Magic#Ritual Magic]] to:
 - Gather information about things you could not otherwise know.
 - Command and manipulate unintelligent spirits and undead.
 - Hex something that you have a piece of.
-- Remove [[Effects#Wounded]] and other non-permanent [[Injury]].
+- Remove [[Wounded]] and other non-permanent [[Injury]].
 
-[[Terminology#Crafting Cost]]: 1 size of [[Materials#Artisan]] [[Materials]] + a [[Game/Example-Gear#Reagent Bag]] charge.
+[[Terminology#Crafting Cost]]: 1 size of [[Materials#Artisan]] [[Materials]] + a [[Reagent-Bag]] charge.
