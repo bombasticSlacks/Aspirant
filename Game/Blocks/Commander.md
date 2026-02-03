@@ -9,7 +9,7 @@
 {: .label .label-purple }
 ### Commander
 *You can coordinate large groups, causing them all to act.*
-* During [[Telling-The-Story#Downtime]] you gain 3 **authority**. You may spend **authority** to **command**.
+* At the beginning of [[Combat]] you gain **authority**. You may spend **authority** to **command**. **Authority** is set to 0 during [[Telling-The-Story#Downtime]].
 * You can **command** all [[Terminology#Ally]] to perform the following as you do:
 	* As an [[Terminology#Action]] all reload their weapons (this may not fully prepare slow loading weapons).
 	* As a [[Terminology#Free Action]] all move in a direction.

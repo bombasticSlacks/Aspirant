@@ -10,4 +10,4 @@
 ### Peoples Army
 *You inspire control and direction in everyone, and even your subordinates lead with confidence.*
 * You can consider any neutral [[Terminology#Character]] that can understand you as an [[Terminology#Ally]] and direct them as such during [[Combat]].
-* +2 **authority**.
+* When you gain **authority** you gain 1 additional.
