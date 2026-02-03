@@ -57,11 +57,11 @@ Some storage sacrifices in one way to gain power in another. For each tradeoff y
 ## Calculate Storage
 After you have selected [[#Tradeoffs|Tradeoffs]] and [[#Features|Features]] apply them to the base values of:
 
-| [[Storage#General Storage]] | 8 + [[Strength]] |
-| ------------------------------------------------- | ---------------------------------- |
-| [[Storage#Quick Access]]       | 4                                  |
-| [[Storage#Camp Storage]]       | 8                                  |
-| [[Storage#Specialization]]     | -                                  |
+| [[Storage#General Storage]] | 12  |
+| --------------------------- | --- |
+| [[Storage#Quick Access]]    | 4   |
+| [[Storage#Camp Storage]]    | 8   |
+| [[Storage#Specialization]]  | -   |
 
 ## Crafting Costs
 Generally creating storage requires 6 size of a material of at least the specified quality. 

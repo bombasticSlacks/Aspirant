@@ -6,7 +6,7 @@ parent: How To Play
 nav_order: 0
 ---
 # Character Creation
-To play Aspirant as a [[How-To-Play#The Players]] , you will need to create a character, this will be your way of connecting to the game world and interacting with it. When referring to the player, the player's character will be used interchangeably with the player themselves. 
+To play Aspirant as a player, you will need to create a character, this will be your way of connecting to the game world and interacting with it. When referring to the player, the player's character will be used interchangeably with the player themselves. 
 
 ## Looks
 Before anything else, try to imagine what your character should be. Are they a specific race? Tall? What colour is their hair? Do they have any unique traits? These are the kinds of questions that will help fill out your character. None of this will have any bearing on your character's abilities, but it could influence them.

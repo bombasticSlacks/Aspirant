@@ -20,5 +20,5 @@ Size 4
 * Performing a [[Terminology#Non-mitigated Attack]] with this weapon, or spell while it is in hand, you gain a charge. 
 * You may spend a charge to:
 	* Have this weapon count as a focus with no need to charge it for an action.
-	* As an [[Terminology#Action]] perform [[Game/Core/Spirit#Ascendancy]] (-2), if successful you may deal 1 damage to any target within [[Movement#Close]], if this is [[Injury#Injury Damage]] the target dies instantly as their blood is removed from their body. If the [[Terminology#Skill Test]] results in [[Skills#Doubles]], then you may repeat this [[Terminology#Action]] as a [[Terminology#Free Action]].
-	* As an [[Terminology#Action]] remove the [[Effects#Unconscious]] effect from any target
+	* As an [[Terminology#Action]] perform [[Spirit]] (-2), if successful you may deal 1 damage to any target within [[Movement#Close]], if this is [[Injury#Injury Damage]] the target dies instantly as their blood is removed from their body. If the [[Terminology#Skill Test]] results in [[Skills#Doubles]], then you may repeat this [[Terminology#Action]] as a [[Terminology#Free Action]].
+	* As an [[Terminology#Action]] remove the [[Unconscious]] effect from any target

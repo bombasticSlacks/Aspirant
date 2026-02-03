@@ -5,8 +5,8 @@
 [[Character-Development#Discipline]]
 {: .label .label-green }
 
-[[Character-Development#Master]]
+[[Character-Development#Mastery]]
 {: .label .label-purple }
 ### Professor
 *You seem to always be espousing your ideas, at some point it rubs off.*
-* You can make [[Intelligence#Memory]] [[Terminology#Skill Test]] even when you aren't in a [[Terminology#Scene]]. [[Telling-The-Story#Flashback]] to the [[Terminology#Scene]] where you talked about the information to the people in the current [[Terminology#Scene]].
+* You can make [[Memory]] [[Terminology#Skill Test]] even when you aren't in a [[Terminology#Scene]]. [[Telling-The-Story#Flashback]] to the [[Terminology#Scene]] where you talked about the information to the people in the current [[Terminology#Scene]].

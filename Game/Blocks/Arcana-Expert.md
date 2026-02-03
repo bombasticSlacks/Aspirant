@@ -5,7 +5,7 @@
 [[Character-Development#Discipline]]
 {: .label .label-green }
 
-[[Character-Development#Advanced]]
+[[Character-Development#Idea]]
 {: .label .label-purple }
 ### Arcana Expert
 *You have a better understanding of how to weave magic.*
@@ -15,4 +15,4 @@ Your character can perform [[Magic#Ritual Magic]] to:
 - Conjure more complex items that will be missed.
 - Teleport an exact item to yourself.
 
-[[Terminology#Crafting Cost]]: Size of target item in [[Materials#Exotic]] [[Materials]] + Size of target item in [[Materials#Artisan]] [[Materials]] + a [[Game/Example-Gear#Reagent Bag]] charge.
+[[Terminology#Crafting Cost]]: Size of target item in [[Materials#Exotic]] [[Materials]] + Size of target item in [[Materials#Artisan]] [[Materials]] + a [[Reagent-Bag]] charge.

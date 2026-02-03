@@ -5,7 +5,7 @@
 [[Character-Development#Discipline]]
 {: .label .label-green }
 
-[[Character-Development#Advanced]]
+[[Character-Development#Idea]]
 {: .label .label-purple }
 ### Lost In The Crowd
 *It's easy to lose you amongst a group of people.*

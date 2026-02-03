@@ -5,7 +5,7 @@
 [[Character-Development#Discipline]]
 {: .label .label-green }
 
-[[Character-Development#Master]]
+[[Character-Development#Mastery]]
 {: .label .label-purple }
 ### Assassinate
 *You are an expert at taking life and perform the skill with ease.*

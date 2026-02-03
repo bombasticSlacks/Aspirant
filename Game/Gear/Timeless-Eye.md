@@ -10,7 +10,7 @@ Size 2
 #### Timeless Eye
 *The eye of a creature long since dead. It has seen all.*
 
-* When pointing the eye at someone spend a [[Power]] to have it open, roll 1d6
+* When pointing the eye at someone become [[Exerted]] to have it open, roll 1d6
 	
 	* 1 The character is halted for a moment, -1 to next action.
 	* 2-3 The character is stunned.

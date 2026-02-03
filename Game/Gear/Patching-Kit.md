@@ -10,4 +10,4 @@ _A collection of pins, patches, bolts and metal bits used to repair armour in th
 - Cost 15.
 - [[Charges]](10)
 - [[Charges]] cost 1 silver to replace.
-- Given 5 minutes, you can repair 1 integrity on a suit of armour for a [[Gear#Charges]].
+- Given 5 minutes, you can repair 1 integrity on a suit of armour for a [[Charges|charge]].

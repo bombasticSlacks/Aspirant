@@ -10,10 +10,10 @@
 #### Basic Storage
 *Expanded bags made of shadow silk, looks like the wearer is carrying nothing important.* 
 
-| [[Storage#General Storage]] | 12 + [[Strength]] |
-| --------------------------- | ----------------- |
-| [[Storage#Quick Access]]    | 8                 |
-| [[Storage#Camp Storage]]    | 8                 |
-| [[Storage#Specialization]]  | -                 |
-| [[Storage-Traits]]          | Subtle            |
+| [[Storage#General Storage]] | 16     |
+| --------------------------- | ------ |
+| [[Storage#Quick Access]]    | 8      |
+| [[Storage#Camp Storage]]    | 8      |
+| [[Storage#Specialization]]  | -      |
+| [[Storage-Traits]]          | Subtle |
 

@@ -4,8 +4,8 @@
 
 ### Black Powder
 *Your weapon fires balls of lead propelled by incendiary powder.*
-* +6 [[Weapons#Damage Bonus]]. 
-* [[Loading]](2).
+* +6 [[Designing-Weapons#Damage Bonus]]. 
+* [[Slow-Loading]]
 * Range of [[Movement#Far]].
 * [[Capacity]](1, [[Munitions#Ball]]).
 * Loses [[Striking]] and gains [[Targeted]].

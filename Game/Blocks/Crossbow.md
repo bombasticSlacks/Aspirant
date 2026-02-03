@@ -8,7 +8,6 @@
 ### Crossbow
 *Your weapon fires bolts of metal.*
 * Adds 3 times size to damage bonus instead of 2 times.
-* [[Loading]](1).
 * Range of [[Movement#Short]].
 * [[Capacity]] 1([[Munitions#Bolt]]).
 * Gains [[Salvageable-Ammo]].

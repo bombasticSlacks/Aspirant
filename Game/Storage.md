@@ -28,6 +28,7 @@ Specializations are:
 * [[Weapons]]
 * [[Materials]]
 * [[Armour]]
+* [[Consumable]]
 
 ## Traits
 Some storage will have specialized [[Storage-Traits]]. These should be appropriate to the construction of the equipment. 

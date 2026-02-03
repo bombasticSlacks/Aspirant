@@ -16,5 +16,5 @@ Size 2
 | [[Weapons#Range]]                 | [[Movement#Reach]]                                             |
 | [[Weapon-Traits]]                 | [[One-Handed]], [[Striking]], [[Hand-And-A-Half]], [[Perfect]] |
 
-* On [[Terminology#Non-mitigated Attack]] your [[Terminology#Opponent]] suffers [[Effects#Brittle]]
-* You may spend a [[Power]] and become [[Effects#Exerted]] to gain the [[Area]] trait for a [[Terminology#Melee Attack]] with this weapon.
+* On [[Terminology#Non-mitigated Attack]] your [[Terminology#Opponent]] suffers [[Brittle]]
+* Become [[Exerted]] to gain the [[Area]] trait for a [[Terminology#Melee Attack]] with this weapon.

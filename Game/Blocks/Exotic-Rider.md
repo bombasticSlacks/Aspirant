@@ -5,7 +5,7 @@
 [[Character-Development#Discipline]]
 {: .label .label-green }
 
-[[Character-Development#Advanced]]
+[[Character-Development#Idea]]
 {: .label .label-purple }
 ### Exotic Rider
 *You can ride anything.*

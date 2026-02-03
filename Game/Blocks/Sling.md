@@ -7,7 +7,7 @@
 
 ### Sling
 *This weapon aids with throwing things long distances.*
-* [[Loading]](0).
+* [[Quick-Loading]].
 * [[Capacity]] 1([[Munitions#Stone]]).
 * [[Launcher]].
 * [[Precision]].

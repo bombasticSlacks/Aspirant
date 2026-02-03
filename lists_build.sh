@@ -22,6 +22,7 @@ python3 ./Game/Core/Scripts/lists.py Game/Trainings-List.md Specialized,Discipli
 python3 ./Game/Core/Scripts/lists.py Game/Equipment-List.md Weapon,Armour,Gear,Storage,Vehicles,Asset,Munitions,Consumable,Equipment, Game/Gear
 python3 ./Game/Core/Scripts/lists.py Game/Weapon-Templates.md Weapon-Templates Game/Blocks
 python3 ./Game/Core/Scripts/lists.py Game/Armour-Templates.md Armour-Templates Game/Blocks
+python3 ./Game/Core/Scripts/lists.py Game/Core/Storage-Traits.md Storage-Traits Game/Blocks
 
 
 # Creatures

@@ -35,7 +35,7 @@ To build a consumable:
 
 ### Masterwork
 *A master has managed to take this object and what it is made of to its limits.*
-* A masterwork [[Consumable]] gains 1 additional [[#Featurer|feature]].
+* A masterwork [[Consumable]] gains 1 additional [[#Features]].
 * May take an additional [[#Tradeoffs|tradeoff]].
 ## Tradeoffs
 You've sacrificed to gain power elsewhere. For each tradeoff taken you gain an additional [[#Features|feature]] that your mixture qualifies for.

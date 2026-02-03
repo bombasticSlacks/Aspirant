@@ -19,10 +19,10 @@ In Aspirant magic items should be unique, interesting and full of lore. There ar
 
 Enchanted and magical items that are worn or otherwise functionally take no space on your person need to be grounded to a [[Terminology#Character]] to work. This process requires either:
 
-- A successful [[0|[Instinct#Ascendancy]].
+- A successful [[Spirit]].
 - An [[Services#Expert Commissions]].
 
-A [[Terminology#Character]] can bind to a number of items up to their [[Game/Blocks/Affinity|Affinity]]. You can bind to an item once per [[Telling-The-Story#Downtime]].
+A [[Terminology#Character]] can bind to 3 magical items.
 
 > A amulet or suit of magic armour needs binding, a magic sword does not.
 
@@ -69,4 +69,4 @@ The drawback to [[#Ephemeral|Ephemeral]] items is usually that they can be exhau
 
 ### Player Crafted Magic Items
 
-Should follow the same rules as above, but [[How-To-Play#The Players]] and [[How-To-Play#GM]] should collaborate to come up with a power and drawback.
+Should follow the same rules as above, but you and  [[Terminology#Game Master]] should collaborate to come up with a power and drawback.

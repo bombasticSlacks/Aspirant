@@ -14,7 +14,7 @@ Magic in aspirant is free flowing and should be created during the [[Terminology
 
 Which is performed on the spot and manipulates the world using [[#Magical Energy|Magical Energy]] to cause temporary changes. Its effects should be instant and related to the moment in which it happens. Channeled magic cannot cause permanent changes (unless its indirect). 
 
-Channelling magic is a [[Instinct#Ascendancy]] [[Skills#Fixed Difficulty]] skill test with a difficulty based on circumstances.
+Channelling magic is a [[Spirit]] [[Skills#Fixed Difficulty]] skill test with a difficulty based on circumstances.
 
 Channelled Magic requires:
 
@@ -29,7 +29,7 @@ Channelled magic requires magical energy. Focused magic that can be expended to 
 
 You can only maintain one instance of channelled magic at a time. You can still perform instantaneous magic while concentrating.
 
-Whenever a [[Terminology#Scene]] ends, or narratively appropriate as you are put under stress you will need to make an additional [[Instinct#Ascendancy]] [[Skills#Fixed Difficulty]] to maintain concentration. [[Terminology#Damage]] shouldn't cause this to occur, but [[Injury]] might.
+Whenever a [[Terminology#Scene]] ends, or narratively appropriate as you are put under stress you will need to make an additional [[Spirit]] [[Skills#Fixed Difficulty]] to maintain concentration. [[Terminology#Damage]] shouldn't cause this to occur, but [[Injury]] might.
 
 ### Examples
 
@@ -41,7 +41,7 @@ Whenever a [[Terminology#Scene]] ends, or narratively appropriate as you are put
 
 Which is performed using advanced rituals, rites, and performances along with specific materials to permanently change the world or perceive the flow of magic itself.
 
-Ritual magic is an [[Instinct#Ascendancy]] [[Skills#Fixed Difficulty]] skill test with a difficulty based on circumstances.
+Ritual magic is an [[Spirit]] [[Skills#Fixed Difficulty]] skill test with a difficulty based on circumstances.
 
 Ritual Magic requires:
 

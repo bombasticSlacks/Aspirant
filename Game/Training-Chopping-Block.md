@@ -18,7 +18,7 @@ If you have [[#Cleave|Cleave]] training, when making a charge you may target any
 
 ### Tumbling
 
-As skilled work, you can do acrobatic routines / dance. Make a [[Skills#Variable Difficulty]] [[Agility#Reflexes]] skill test, you receive 2 silver per [[Skills#Step Of Success]].
+As skilled work, you can do acrobatic routines / dance. Make a [[Skills#Variable Difficulty]] [[Reflexes]] skill test, you receive 2 silver per [[Skills#Step Of Success]].
 
 ### Heavy Hitter
 
@@ -62,7 +62,7 @@ As a free action once per round, you can exchange places with another character 
 
 ### Thievery
 
-As [[Activities#Skilled Work]], you can pickpocket. Make a [[Skills#Variable Difficulty]] [[Agility#Coordination]] skill test, you receive settlement wealth - 1 silver per [[Skills#Step Of Success]]. If you fail this skill test you may be in trouble with the law.
+As [[Activities#Skilled Work]], you can pickpocket. Make a [[Skills#Variable Difficulty]] [[Coordination]] skill test, you receive settlement wealth - 1 silver per [[Skills#Step Of Success]]. If you fail this skill test you may be in trouble with the law.
 
 ### Improvised Munitions
 
@@ -98,7 +98,7 @@ You can visualize what nearby characters are doing even if you can’t directly 
 
 ### Alchemical Traps
 
-If your character has a [[Game/Example-Gear#Trap Kit]], your payloads can be much more exotic, but the skill test becomes [[Intelligence#Application]], and they take longer to prepare. They can include things like:
+If your character has a [[Game/Example-Gear#Trap Kit]], your payloads can be much more exotic, but the skill test becomes [[Application]], and they take longer to prepare. They can include things like:
 Gravity destabilize: Everything in the trap area loses gravity for 1d3 rounds. Or gravity shifts in a direction for the same duration.
 Stasis discharge: Everything in the area is stunned for a turn.
 Magnesium Bomb: Everything in the area suffers an [[Injury#Hot]] attack that causes a critical injury to a location and is on fire.
@@ -119,7 +119,7 @@ As [[Activities#Production Work]], you can repair a damaged item or up to 5 roun
 
 ### The Muscle
 
-You may perform [[Communication#Connection]] skill tests to interact with people using [[Strength]].
+You may perform [[Connection]] skill tests to interact with people using [[Strength]].
 
 ### Explorer
 
@@ -131,7 +131,7 @@ You may keep someone's attention and interest, even in a topic you know nothing 
 
 ### Resilient
 
-Your character may add their [[Strength#Physique]] skill to rolls for immediate effects of injuries, resist death from critical injuries to the chest, and to not collapse from being wounded.
+Your character may add their [[Physique]] skill to rolls for immediate effects of injuries, resist death from critical injuries to the chest, and to not collapse from being wounded.
 
 ---
 
@@ -190,7 +190,7 @@ You are an expert in a specific ritual of your choice, which you can perform at 
 
 ### Find A Buyer
 
-As a [[Activities#Downtime Activity]], you can spend a day finding someone interested in purchasing an item for full price (materials + labour). This is a skill test based on the settlement's Wealth + your [[Communication#Connection]], and a difficulty based on the rarity of the item.
+As a [[Activities#Downtime Activity]], you can spend a day finding someone interested in purchasing an item for full price (materials + labour). This is a skill test based on the settlement's Wealth + your [[Connection]], and a difficulty based on the rarity of the item.
 
 ### Protect the Head
 

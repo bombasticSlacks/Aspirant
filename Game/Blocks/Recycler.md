@@ -5,7 +5,7 @@
 [[Character-Development#Discipline]]
 {: .label .label-green }
 
-[[Character-Development#Advanced]]
+[[Character-Development#Idea]]
 {: .label .label-purple }
 ### Recycler
 *You can repurpose and recycle old items into new.*

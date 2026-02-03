@@ -5,7 +5,7 @@
 [[Character-Development#Discipline]]
 {: .label .label-green }
 
-[[Character-Development#Advanced]]
+[[Character-Development#Idea]]
 {: .label .label-purple }
 ### Imprecise Killer
 *Your tools have become less important than your methods.*

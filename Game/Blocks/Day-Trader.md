@@ -5,7 +5,7 @@
 [[Character-Development#Discipline]]
 {: .label .label-green }
 
-[[Character-Development#Master]]
+[[Character-Development#Mastery]]
 {: .label .label-purple }
 ### Day Trader
 *Money is always moving and exchanging hands. You move it around with ease.*

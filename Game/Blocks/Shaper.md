@@ -5,7 +5,7 @@
 [[Character-Development#Discipline]]
 {: .label .label-green }
 
-[[Character-Development#Basic]]
+[[Character-Development#Introduction]]
 {: .label .label-purple }
 ### Shaper
 *You move and meld the world around you willing things to be true.*
@@ -27,4 +27,4 @@ Your character can perform [[Magic#Channelled Magic]] to:
 	- (-1) you can give a **magic attack** [[Battering]].
 	- (-1) you can give a **magic attack** [[Disorienting]].
 
-Requires 1 [[Magic#Magical Energy]] and a [[Game/Example-Gear#Focus]]
+Requires 1 [[Magic#Magical Energy]] and a [[Focus]]

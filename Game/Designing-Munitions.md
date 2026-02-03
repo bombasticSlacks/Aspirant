@@ -12,7 +12,7 @@ To build a munition:
 - Choose the [[#Shape|Shape]]
 - Choose the [[#Quality|Quality]]
 - Choose [[#Materials|Materials]]
-- Select any [[#Features|Features]]
+
 
 ## Shape
 Decide what type of [[Munitions]] you are making. A non exhaustive list is the following:
@@ -54,7 +54,7 @@ Munitions comes in various qualities based on the skill required to craft. Uniqu
 
 ### Master Work
 *Master worked ammo shows the real power of a master craftsman and fits even more features into the same package.* 
-* Provide and additional [[Weapon-Traits]].
+* Provide any additional [[Weapon-Traits]].
 
 ## Materials
 Munitions are made of [[Materials]], you will need to use appropriate [[Materials]] based on the [[#Shape|Shape]]. 

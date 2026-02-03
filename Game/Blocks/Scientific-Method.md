@@ -5,7 +5,7 @@
 [[Character-Development#Discipline]]
 {: .label .label-green }
 
-[[Character-Development#Advanced]]
+[[Character-Development#Idea]]
 {: .label .label-purple }
 ### Scientific Method
 *You always have some theory on the go.*
@@ -13,4 +13,4 @@
 	* Why its happening.
 	* How it works.
 	* How to resolve the issue.
-* If you are validated as correct you recover 1 [[Power]].
+* If you are validated as correct you regain 1 stress. 

@@ -7,7 +7,7 @@
 
 ### Bow
 *This weapon fires arrows.* 
-* [[Loading]](0).
+* [[Quick-Loading]].
 * Range of [[Movement#Short]].
 * [[Capacity]] 1([[Munitions#Arrow]]).
 * Gains [[Salvageable-Ammo]].

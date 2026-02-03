@@ -10,7 +10,7 @@ Armour
 
 | [[Armour#Armour Integrity]]    | 6                                                                                      |
 | :--------------------------------------------------------- | :------------------------------------------------------------------------------------- |
-| [[Armour#Reaction Penalty]]    | (0)                                                                                    |
+| [[Armour#Defense Penalty]]    | (0)                                                                                    |
 | [[Armour#Weakness and Resistance]]   | [[Injury#Heat]]                                                          |
 | [[Armour#Weakness and Resistance]] | [[Injury#Impact]]                                                      |
 | [[Armour-Traits]]                   | [[Ablative]], [[Exotic-Attire]] |

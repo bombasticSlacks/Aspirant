@@ -8,9 +8,9 @@
 #### Basic Storage
 *A simple bag and belt designed to carry what a person needs.* 
 
-| [[Storage#General Storage]] | 8 + [[Strength]] |
-| ------------------------------------------------- | ---------------------------------- |
-| [[Storage#Quick Access]]       | 4                                  |
-| [[Storage#Camp Storage]]       | 8                                  |
-| [[Storage#Specialization]]     | -                                  |
+| [[Storage#General Storage]] | 12  |
+| --------------------------- | --- |
+| [[Storage#Quick Access]]       | 4   |
+| [[Storage#Camp Storage]]       | 8   |
+| [[Storage#Specialization]]     | -   |
 

@@ -5,7 +5,7 @@
 [[Character-Development#Discipline]]
 {: .label .label-green }
 
-[[Character-Development#Advanced]]
+[[Character-Development#Idea]]
 {: .label .label-purple }
 ### Dynamism Expert
 *You have increased experience shaping energy to your will.*
@@ -21,4 +21,4 @@ Your character can perform [[Magic#Channelled Magic]] to:
 	- (-3) you can give a **magic attack** [[Area]]. 
 	- (-2) you can give a **magic attack** [[EMP]]
 
-Requires 2 [[Magic#Magical Energy]] and a [[Game/Example-Gear#Focus]]
+Requires 2 [[Magic#Magical Energy]] and a [[Focus]]

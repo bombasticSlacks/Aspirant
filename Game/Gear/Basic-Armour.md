@@ -10,7 +10,7 @@ Armour
 
 | [[Armour#Armour Integrity]]    | 4    |
 | :--------------------------------------------------------- | :--- |
-| [[Armour#Reaction Penalty]]          | 0    |
+| [[Armour#Defense Penalty]]          | 0    |
 | [[Armour#Weakness and Resistance]]   | !All |
 | [[Armour#Weakness and Resistance]] | -    |
 | [[Armour-Traits]]                   | -    |

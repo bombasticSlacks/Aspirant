@@ -5,7 +5,7 @@
 [[Character-Development#Discipline]]
 {: .label .label-green }
 
-[[Character-Development#Basic]]
+[[Character-Development#Introduction]]
 {: .label .label-purple }
 ### Paladin
 *Faith leads everything you do. Failure is just a test from your deity.*

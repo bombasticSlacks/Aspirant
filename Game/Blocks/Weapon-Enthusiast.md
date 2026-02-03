@@ -5,7 +5,7 @@
 [[Character-Development#Discipline]]
 {: .label .label-green }
 
-[[Character-Development#Basic]]
+[[Character-Development#Introduction]]
 {: .label .label-purple }
 ### Weapon Enthusiast
 *You love weapons, and everything about them. So much there is one you take extra care with.*

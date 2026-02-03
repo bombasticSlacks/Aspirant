@@ -13,5 +13,5 @@ Size 3
 * Cost 20.
 * If on a [[Mount]]
 	* reduces the penalty to [[Terminology#Action]] while on a [[Mount]] by 1.
-	* Increases a [[Characters]] [[Telling-The-Story#Travel Speed]] to 2.
+	* Increases a [[Characters]] [[Travelling#Travel Speed]] to 2.
 * If not on a [[Mount]] is 3 size.

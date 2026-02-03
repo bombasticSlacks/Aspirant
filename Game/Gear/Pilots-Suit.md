@@ -12,7 +12,7 @@ Armour
 
 | [[Armour#Armour Integrity]]    | 8                                                                                        |
 | :--------------------------------------------------------- | :--------------------------------------------------------------------------------------- |
-| [[Armour#Reaction Penalty]]    | 0                                                                                        |
+| [[Armour#Defense Penalty]]    | 0                                                                                        |
 | [[Armour#Weakness and Resistance]]   | [[Injury#Rending]]                                                      |
 | [[Armour#Weakness and Resistance]] | [[Injury#Life]]                                                            |
 | [[Armour-Traits]]                   | [[Recycling]], [[Exotic-Attire]] |
