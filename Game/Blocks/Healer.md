@@ -5,7 +5,7 @@
 [[Character-Development#Discipline]]
 {: .label .label-green }
 
-[[Character-Development#Introduction]]Z
+[[Character-Development#Introduction]]
 {: .label .label-purple }
 ### Healer
 *You have learned how to perform more invasive medical procedures.*

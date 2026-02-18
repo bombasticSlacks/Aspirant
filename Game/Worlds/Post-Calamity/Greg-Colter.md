@@ -22,15 +22,15 @@ Elite
 ### Jashmuda
 *The cub of a great Manticore*
 
-| Move                              | Integrity | Weakness (! is vitals only) | Resistance (! is ancillary only) |
-| --------------------------------- | --------- | --------------------------- | -------------------------------- |
-| [[Movement#Short]] | 14        |                             | [[Injury#Life]]    |
+| Move               | Integrity | Weakness (! is vitals only) | Resistance (! is ancillary only) |
+| ------------------ | --------- | --------------------------- | -------------------------------- |
+| [[Movement#Short]] | 14        |                             | [[Injury#Life]]                  |
 
 #### Actions
 * [[Game/Core/Blocks/Attack|Attack]](+4, [[Injury#Rending]].
 * Attack(+4, Impact, 5) when moving.
 * [[Game/Core/Blocks/Ranged-Attack|Ranged-Attack]](+4, [[Injury#Rending]] Attack with the power of the wind.
-* [[Game/Core/Blocks/Attack|Attack]](+3, [[Injury#Life]] characters suffering [[Injury#Injury Damage]] by this attack are [[Effects#Stunned]].
+* [[Game/Core/Blocks/Attack|Attack]](+3, [[Injury#Life]], 4) characters suffering [[Injury#Injury Damage]] by this attack are [[Effects#Stunned]].
 #### Traits
 * [[Flying]].
 * [[Game/Core/Blocks/Weather-Control|Weather-Control]].

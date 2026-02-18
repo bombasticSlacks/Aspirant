@@ -9,6 +9,7 @@
 {: .label .label-purple }
 ### Hero
 *You matter and shape the world.*
+
 Heroes should help make the game a shared experience. So, when you play, the  [[Terminology#Game Master]]may ask you for suggestions or to volunteer ideas such as: “what is this town known for?”, “someone give me a cool female name.”. When these are accepted by the [[Terminology#Game Master]], you receive 1 **influence** which you can spend to **influence** the game world in any way the GM allows. When you want to influence the world:
 
 - You will ask the [[Terminology#Game Master]], “Can this thing be the case?”
