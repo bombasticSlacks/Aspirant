@@ -12,4 +12,4 @@ _A collection of simple medicines, bandages, synthetic skin, coagulating powder,
 - [[Charges]] cost 2 silver to replace.
 - A healer kit [[Charges|Charge]] can be used to provide (+1) to any medical [[Application]] [[Terminology#Action]].
 - A healer kit [[Charges|Charge]] can be used to perform first aid to remove the [[Defeated]] effect. 
-- A healer kit [[Charges|Charge]] can be used to perform an [[Application]] [[Terminology#Skill Test]] to then remove a non-permanent [[Injured]] [[Effects]].
+- A healer kit [[Charges|Charge]] can be used to perform an [[Application]] [[Terminology#Skill Test]] to then remove a non-permanent [[Injury#Injury Damage]] [[Effects]].

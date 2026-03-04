@@ -1,7 +1,7 @@
 minion
 {: .label .label-yellow }
 ### Thraal
-**
+
 
 | Move               | Integrity | Action Bonus | Hit Modifier | Avoid Modifier | Weakness | Resistance |
 | ------------------ | --------- | ------------ | ------------ | -------------- | -------- | ---------- |
