@@ -19,19 +19,19 @@ In The Sun:
 
 In The Moon:
 
-| [[Armour#Armour Integrity]]        | 10              |
-| :--------------------------------- | :-------------- |
-| [[Armour#Defense Penalty]]         | 0               |
-| [[Armour#Weakness and Resistance]] | [[Injury#Life]] |
-| [[Armour#Weakness and Resistance]] | [[Injury#Cold]] |
-| [[Armour-Traits]]                  | [[Subtle]]      |
+| [[Armour#Armour Integrity]] | 10              |
+| :-------------------------- | :-------------- |
+| [[Armour#Defense Penalty]]  | 0               |
+| Weakness                    | [[Injury#Life]] |
+| Resistance                  | [[Injury#Cold]] |
+| [[Armour-Traits]]           | [[Subtle]]      |
 
 In The Dark:
 
-| [[Armour#Armour Integrity]]        | 10         |
-| :--------------------------------- | :--------- |
-| [[Armour#Defense Penalty]]         | 0          |
-| [[Armour#Weakness and Resistance]] |            |
-| [[Armour#Weakness and Resistance]] |            |
-| [[Armour-Traits]]                  | [[Subtle]] |
+| [[Armour#Armour Integrity]] | 10         |
+| :-------------------------- | :--------- |
+| [[Armour#Defense Penalty]]  | 0          |
+| Weakness                    |            |
+| Resistance                  |            |
+| [[Armour-Traits]]           | [[Subtle]] |
 
