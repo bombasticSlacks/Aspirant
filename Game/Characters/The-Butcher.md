@@ -3,6 +3,10 @@ Boss
 ### The Butcher
 *Butcher a creature with a hand for a knightly grate mask, two large cleavers dripping with iquor, dressed in corpses and skeletal armour, it carries a lantern on its belt.*
 
+| Integrity | Hit Modifier | Defend Modifier | Weakness                                 | Resistance                                                                            |
+| --------- | ------------ | --------------- | ---------------------------------------- | ------------------------------------------------------------------------------------- |
+| 16        | (12)M/(12)R  | (13)M/(13)R     | [[Injury#Piercing]] (through the scales) | [[Injury#Cold]], [[Injury#Heat]], [[Injury#Life]], [[Injury#Rending]], [[Injury#imp]] |
+
 | Move  | Integrity | Action | Weakness (! is vitals only) | Resistance (! is ancillary only) |
 | ----- | --------- | ------ | --------------------------- | -------------------------------- |
 | Reach | 16        | (+6)   | Pierce                      | Magic, Rending, Impact           |

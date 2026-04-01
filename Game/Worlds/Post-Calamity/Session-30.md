@@ -29,7 +29,7 @@ grand_parent: Worlds
 	* Nothing exciting in the west side of the map
 	* [[Gladepool#Keddy (She/Her]]) said that "when the time comes the glade will be ready"
 	* [[Verdantholm]] there is news of underworld unrest. 
-	* Caught up with [[Verdantholm#Roxy (Roxanne]]%20la%20Croix) about her underworld fighting, making contact with [[Calphion#Talon Greggor The Third (he/him]])
+	* Caught up with [[Verdantholm#Roxy (Roxanne) la Croix]] about her underworld fighting, making contact with [[Calphion#Talon Greggor The Third (he/him]])
 * Traveling 4 days (2 days) 24-26th of Winter
 	* Ignis is on guard
 	* Vespin Scavenge, Made a shield
