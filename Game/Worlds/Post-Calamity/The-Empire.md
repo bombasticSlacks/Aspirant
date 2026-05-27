@@ -13,7 +13,9 @@ grand_parent: Worlds
 * Powered machines using their internal power, usually starting from an amplifier device (which the group has 1 of).
 * Used the "God Killing Poison" as part of their war (found in the glade).
 ### Rumors
-
+* Umbral courts used slaves post calamity, and were mostly insulated from the calamity.
+* Argent Hold was told they would inherit the earth if they hunted down the others.
+* The world beasts were part of the terraforming process. 
 ### Problems
 
 ## Services

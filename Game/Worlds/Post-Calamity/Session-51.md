@@ -1,44 +1,57 @@
 ---
 layout: default
-title: Session 50
+title: Session 51
 parent: Monsters
 nav_order: 2
 grand_parent: Running The Game
 has_children: false
 ---
-## Session 50
+## Session 51
 [[Post-Calamity]]
 
 ## Ideas
 * The monastery to the north is Sunspeak Monastery
-	* A location in the north where pilgrims who have forsaken their past lives worship a living lunar celestial.
+	* A location in the north where pilgrims who have forsaken their past lives worship a living sun celestial. Varsen Of House Croix who provides insight into the world and preaches peace. 
+		* Will say that, "the sun returns every day". 
 	* Will be afraid of Alexander will be afraid of his presence.
 	* Will have real history for the party.
 	* The pilgrims travel to the peak every morning to see the sun.
+		* Treacherous pathways, damages bridges, lack of air.
+		* Sun itself will be inorganic when they get close to it, will be able to see the pieces and structures of it all. 
+	* Kara Katala will be a pious monk like the rest. 
+		* Will be able to discuss with Arturas what happened with the religious,
+		* will have no problem with Ignis, will forgive him.
 	* The sun celestial will have their old equipment still which they may give away. a crescent staff which does the dnd spell jon likes lol). 
-* The ruins on the island are an ancient place of worship and celebration for seafarers. A number of crashed ships create a collection of ruins and remains. Haunted by ghosts of fallen seafarers. Relics and treasure are somewhere inside. (silvering cutlass that prints money, a proper cannon the guys can stick on the car?)
-	* Crewmans scarves will be required to pass through different ships.
-	* Have two undead seafarers ask them to tell a story
-	* have some submerged runes they need to swim to find a scarf within.
-	* Gambling game (russian roulette) they need to win to get a key.
-	* A plague ridden crew that needs treatment and help with sickness (can get sick themselves).
-	* A siren will have enthralled the spirits of the ghosts and ask for some tribute to let them have a scarf and pass. (use butcher stats if they fail to appease).
 ## Lustrum 17th -  Summer 
-*  Defeated the pirates,
-* Got the sword, revolver, cannon,
-* Simple imbued the soul of skarvy into his revolver.
-* Traveling to the monastery 17th - 19th
-	* Ignis QMing
-	* Alexander Navigator
-	* Arturas Cook
-	* Simple Routine Maintenance
-	* Arturas Routine Maintenance
-	* Greg Socializing,
-	* Simple Crafting- Made the gun tied to his sentient BELT,
-	* Ur-people, Canibal mutants from pre-calamity that are feral seen in the forests below.
-	* The ladies of iron were camping, they all camped togheter, the guys are going to tell them some stories.
+* At The Monastery
+	* Heading up the mountain,
+		* Greg driving w. Alexander
+		* Arturas Hiked
+		* Simple HIked
+	* Brent greeting monk
+	* Gertrude took rest of group to rest
+		* Cleaning clothes giving food, 
+		* Gonna check in with Varsen about meeting Alexander
+		*  Everyone relaxing in the room.
+	* Arturas is shown the hydroponics bays and Kara who is speechless to see him.
+		* Kara had no idea
+		* Kara doesn't know if she wants to leave, is attached to the sun.
+	* Meeting Varsen
+		* Has synthetic skin grafts that appear youthful compared to their ancient skin. Celestial scientists have left him ageless.
+		* The monsters are proto-denizens of the world. Part of the terraforming process. 
+		* Bastions of mechanized soldiers were deployed after calamity
+	* Going to sumit
+		* Ignis
+		* Alexander
+		* Arturas
+		* Greg
+		* Simple
+		* made it to the top fixing the bridge. 
+		* Found that the sun is "artificial" was created by something that came before according to Varsen.
+	* Next session thinking about going to the Sun.
+	* 
 ### Rewards
-- 2XP, cutlass, ghost gun, Cannon,
+- 
 - 
 
 ### Characters
@@ -71,32 +84,13 @@ has_children: false
 * Meeting Iron Ladies on the 21st South Of the Monastery.
 
 ### Monsters
-![[The-Captain]]
-![[First-Mate]]
-![[Undead-Pirate]]
-![[The-Butcher]]
+
+
+
+
 
 ---
-
-Overall - is -1 to hit generally.
 ### Scratch Space
-* Captain
-* Alexander
-* PG X
-* Simple
-* Greg
-* PR X
-* Arturas
-* PP X
-* Ignis
-* Pirate X
-
-
-* Captain: 14 (21), 5 (16), 1 (15), 7(8), 2(6), 1(5), 0(5), 4(1), 2(0), Shadowed, Off-Balanced, Injured, No hand, -2 to avoid, 
-* FM: 7, Shadows Covered
-* PG: 8(0)
-* PP: 8(0), 5(1)
-* Pir: 5(3)
 * 
 
 

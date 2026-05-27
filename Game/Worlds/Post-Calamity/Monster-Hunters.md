@@ -35,7 +35,7 @@ Sunspeak Monastery.
 
 ## "Fell" Fellerrum
 Another hunter who went north
-In Snowcrest pledged to a house. 
+In Snowcrest pledged to the wolfhouse house. 
 Had mastery of mutation and had transfigured features like the beasts you hunted. 
 
 # Relics

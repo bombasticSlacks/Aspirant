@@ -1,44 +1,53 @@
 ---
 layout: default
-title: Session 50
+title: Session 52
 parent: Monsters
 nav_order: 2
 grand_parent: Running The Game
 has_children: false
 ---
-## Session 50
+## Session 52
 [[Post-Calamity]]
 
 ## Ideas
 * The monastery to the north is Sunspeak Monastery
-	* A location in the north where pilgrims who have forsaken their past lives worship a living lunar celestial.
-	* Will be afraid of Alexander will be afraid of his presence.
+	* A location in the north where pilgrims who have forsaken their past lives worship a living sun celestial. Varsen Of House Croix who provides insight into the world and preaches peace. 
+		* Will say that, "the sun returns every day". 
 	* Will have real history for the party.
 	* The pilgrims travel to the peak every morning to see the sun.
+		* Treacherous pathways, damages bridges, lack of air.
+		* Sun itself will be inorganic when they get close to it, will be able to see the pieces and structures of it all. 
+	* Kara Katala will be a pious monk like the rest. 
+		* Will be able to discuss with Arturas what happened with the religious,
+		* will have no problem with Ignis, will forgive him.
 	* The sun celestial will have their old equipment still which they may give away. a crescent staff which does the dnd spell jon likes lol). 
-* The ruins on the island are an ancient place of worship and celebration for seafarers. A number of crashed ships create a collection of ruins and remains. Haunted by ghosts of fallen seafarers. Relics and treasure are somewhere inside. (silvering cutlass that prints money, a proper cannon the guys can stick on the car?)
-	* Crewmans scarves will be required to pass through different ships.
-	* Have two undead seafarers ask them to tell a story
-	* have some submerged runes they need to swim to find a scarf within.
-	* Gambling game (russian roulette) they need to win to get a key.
-	* A plague ridden crew that needs treatment and help with sickness (can get sick themselves).
-	* A siren will have enthralled the spirits of the ghosts and ask for some tribute to let them have a scarf and pass. (use butcher stats if they fail to appease).
-## Lustrum 17th -  Summer 
-*  Defeated the pirates,
-* Got the sword, revolver, cannon,
-* Simple imbued the soul of skarvy into his revolver.
-* Traveling to the monastery 17th - 19th
-	* Ignis QMing
-	* Alexander Navigator
-	* Arturas Cook
-	* Simple Routine Maintenance
-	* Arturas Routine Maintenance
-	* Greg Socializing,
-	* Simple Crafting- Made the gun tied to his sentient BELT,
-	* Ur-people, Canibal mutants from pre-calamity that are feral seen in the forests below.
-	* The ladies of iron were camping, they all camped togheter, the guys are going to tell them some stories.
+* Stanton sleepwalking, will bump into Simple. 
+* Snowcrest will have some issues with winters getting stronger and the beast getting stronger. Can't do anything until resolved.
+* Vampires in Glumtober trying to get support. 
+* Alexander needs a crown should be a crown with jewels based on the monsters. Already have the eye from the monster in the void.
+* 
+## Lustrum 18th - 24 Summer 
+* Going to the sun maybe?
+* Had the sleepwalking interaction.
+* Revealed that Vespin was of the Umbral Courts
+* Talked about blood lines and the fact everyone originates from the Celestials. 
+* Arrived in Snow Crest
+	* Talking to Akren who is dealing with the beast of the mountain
+	* Trying to make a harpoon to pin it to the ground from Dragonator artillery
+	* Need to deal with the beast for Snow Crest to help with the combat with the courts. 
+* Captain Brellen talking to them:
+	* Dragons think the mountain god is fine
+	* Owls, Eagles, and wolves all concerned by the Mountain Beast nearby
+	* Bears worried of Umbral Courts gaining support in Glumtober currently
+* Downtime 19th - 24th of Summer
+	* Routine Maintenance Simple
+	* Call On The City Alexander
+	* Crafting Arturas
+	* Socializing Greg
+* Deal with Giant. 
 ### Rewards
-- 2XP, cutlass, ghost gun, Cannon,
+- 1 XP for exploring the monastery
+- [[Varsens-Spear]]
 - 
 
 ### Characters
@@ -71,32 +80,13 @@ has_children: false
 * Meeting Iron Ladies on the 21st South Of the Monastery.
 
 ### Monsters
-![[The-Captain]]
-![[First-Mate]]
-![[Undead-Pirate]]
-![[The-Butcher]]
+
+
+
+
 
 ---
-
-Overall - is -1 to hit generally.
 ### Scratch Space
-* Captain
-* Alexander
-* PG X
-* Simple
-* Greg
-* PR X
-* Arturas
-* PP X
-* Ignis
-* Pirate X
-
-
-* Captain: 14 (21), 5 (16), 1 (15), 7(8), 2(6), 1(5), 0(5), 4(1), 2(0), Shadowed, Off-Balanced, Injured, No hand, -2 to avoid, 
-* FM: 7, Shadows Covered
-* PG: 8(0)
-* PP: 8(0), 5(1)
-* Pir: 5(3)
 * 
 
 
